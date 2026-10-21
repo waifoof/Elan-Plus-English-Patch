@@ -1,0 +1,91 @@
+{
+ "entry": 494,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0494:0001C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿００１Oh... good morning.￥Sorry to drop in like this.＝＠１８８＿００２Your scores the other day￥were amazing.＝＠１８８＿００３Did you do some kind of￥special training?"
+  },
+  {
+   "id": "0494:000EC.0",
+   "choice": true,
+   "en": "I just really focused."
+  },
+  {
+   "id": "0494:000EC.1",
+   "choice": true,
+   "en": "Nothing special, really."
+  },
+  {
+   "id": "0494:00122.0",
+   "choice": true,
+   "en": "I guess I focused a lot."
+  },
+  {
+   "id": "0494:00122.1",
+   "choice": true,
+   "en": "Nothing special, really."
+  },
+  {
+   "id": "0494:00160",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿００４Focused...＝＠１８８＿００５I see..."
+  },
+  {
+   "id": "0494:001B4",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿００６You didn't do anything...￥special at all?"
+  },
+  {
+   "id": "0494:001F7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿００７And yet...￥you still passed me..."
+  },
+  {
+   "id": "0494:0024C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿００８I don't think I've been slacking￥off in training, but...＝＠１８８＿００９maybe it just isn't sinking￥in properly..."
+  },
+  {
+   "id": "0494:002F5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０１０I guess I'm still not￥working hard enough."
+  },
+  {
+   "id": "0494:00341.0",
+   "choice": true,
+   "en": "That's not true."
+  },
+  {
+   "id": "0494:00341.1",
+   "choice": true,
+   "en": "Maybe you're right."
+  },
+  {
+   "id": "0494:00369.0",
+   "choice": true,
+   "en": "That's not true."
+  },
+  {
+   "id": "0494:00369.1",
+   "choice": true,
+   "en": "Maybe you're right."
+  },
+  {
+   "id": "0494:00397",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０１１But scoring like this in my best￥subject... as a candidate, it's￥embarrassing."
+  },
+  {
+   "id": "0494:003FB",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０１２Yes...￥I have to try harder..."
+  },
+  {
+   "id": "0494:00442",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０１３I'll study better ways to train.＝＠１８８＿０１４I'm sorry for disturbing￥you on your day off."
+  }
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "entry": 391,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0391:00016",
+   "end": "818400",
+   "en": "－　Outside the Comm Center　－"
+  },
+  {
+   "id": "0391:00035",
+   "end": "818400",
+   "en": "－　Voices from the Comm Room　－"
+  },
+  {
+   "id": "0391:0005E",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿００１You've got no sense of￥responsibility as a member of￥the project staff!"
+  },
+  {
+   "id": "0391:000B7",
+   "end": "818400",
+   "en": "＊Mechanic＊＠１４１＿００２Yeah, yeah, sure.＝＠１４１＿００３Oh, look, the comm unit still￥isn't fixed! Well then, I'll￥leave the rest to you!"
+  },
+  {
+   "id": "0391:00140",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿００４Hey! Hold on a minute!￥Hey!!"
+  },
+  {
+   "id": "0391:00183",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0391:0018C",
+   "end": "818400",
+   "en": "－　Someone left the Comm Center　－"
+  },
+  {
+   "id": "0391:001CC",
+   "end": "818400",
+   "en": "－　Comm Center　－＝－　Narusawa is quietly at work　－"
+  },
+  {
+   "id": "0391:00215",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿００５That guy calls himself a￥mechanic, and he walks off￥halfway through a job?!＝＠１４１＿００６Now I'm stuck finishing the￥most annoying part myself..."
+  },
+  {
+   "id": "0391:002D2",
+   "end": "818400",
+   "en": "＊Narusawa＊...｝?!￥＠１４１＿００７Hm? You...?"
+  },
+  {
+   "id": "0391:00319",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿００８What brings you here this late?"
+  },
+  {
+   "id": "0391:00357.0",
+   "choice": true,
+   "en": "I just heard voices..."
+  },
+  {
+   "id": "0391:00357.1",
+   "choice": true,
+   "en": "I'll help with repairs."
+  },
+  {
+   "id": "0391:0038F.0",
+   "choice": true,
+   "en": "I just heard voices..."
+  },
+  {
+   "id": "0391:0038F.1",
+   "choice": true,
+   "en": "I'll help you repair it."
+  },
+  {
+   "id": "0391:003CF",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿００９I see. You're done training￥for the day, I take it.＝＠１４１＿０１０Head back for today and get￥ready for tomorrow."
+  },
+  {
+   "id": "0391:00460",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０１１I appreciate the thought, but￥candidates have more important￥things to..."
+  },
+  {
+   "id": "0391:004C0",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０１２Oh, crap!￥The comm unit...!"
+  },
+  {
+   "id": "0391:00503",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０１３Hit that switch over there!"
+  },
+  {
+   "id": "0391:0053E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0391:0054C",
+   "end": "818400",
+   "en": "＊＊－　； switches it off!　－"
+  },
+  {
+   "id": "0391:00579",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０１４Sorry, hand me that bundle of￥wires by your feet. And a￥screwdriver!"
+  },
+  {
+   "id": "0391:005D6",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0391:005E8",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０１５Could you swap out that wiring￥for the new stuff?"
+  },
+  {
+   "id": "0391:00637",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0391:00648",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０１６All right, that does it..."
+  },
+  {
+   "id": "0391:00684",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０１７Sorry about that...￥I ended up making you help."
+  },
+  {
+   "id": "0391:006D4.0",
+   "choice": true,
+   "en": "It's no trouble at all."
+  },
+  {
+   "id": "0391:006D4.1",
+   "choice": true,
+   "en": "If we're done, I'll go."
+  },
+  {
+   "id": "0391:00702.0",
+   "choice": true,
+   "en": "It's no trouble at all."
+  },
+  {
+   "id": "0391:00702.1",
+   "choice": true,
+   "en": "If we're done, I'll go."
+  },
+  {
+   "id": "0391:00736",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０１８You were a big help.＝＠１４１＿０１９Keeping equipment like this in￥working order is supposed to be￥our job as staff..."
+  },
+  {
+   "id": "0391:007EA",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０２０Yes, of course."
+  },
+  {
+   "id": "0391:0081D",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０２１Good work.￥Get some rest."
+  },
+  {
+   "id": "0391:0086A",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０２２I really shouldn't be making￥candidates help out..."
+  },
+  {
+   "id": "0391:008B7",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０２３Really, I'm sorry."
+  },
+  {
+   "id": "0391:008F5.0",
+   "choice": true,
+   "en": "Please don't worry."
+  },
+  {
+   "id": "0391:008F5.1",
+   "choice": true,
+   "en": "Is work that hard?"
+  },
+  {
+   "id": "0391:00925.0",
+   "choice": true,
+   "en": "Please don't worry."
+  },
+  {
+   "id": "0391:00925.1",
+   "choice": true,
+   "en": "Is your work that hard?"
+  },
+  {
+   "id": "0391:00959",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０２４That takes a load off my mind."
+  },
+  {
+   "id": "0391:009A3",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４１＿０２５Well... I suppose it is.＝＠１４１＿０２６I've got plenty of other work￥left to do. Glad this got￥sorted out fast."
+  },
+  {
+   "id": "0391:00A3C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿００１Without you, it wouldn't have￥gotten done this quickly.＝＠１４２＿００２And now I know your maintenance￥skills are really coming along."
+  },
+  {
+   "id": "0391:00AEF",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿００３Doing well in training doesn't￥always mean things go well in￥practice, but..."
+  },
+  {
+   "id": "0391:00B6A",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿００４In your case, your skills are￥strong enough to use for real.＝＠１４２＿００５How about it? Is the rest of￥your training going well?"
+  },
+  {
+   "id": "0391:00C06.0",
+   "choice": true,
+   "en": "Yes, it's going well."
+  },
+  {
+   "id": "0391:00C06.1",
+   "choice": true,
+   "en": "Actually, not really..."
+  },
+  {
+   "id": "0391:00C30.0",
+   "choice": true,
+   "en": "Yes, it's going well."
+  },
+  {
+   "id": "0391:00C30.1",
+   "choice": true,
+   "en": "Actually, not really..."
+  },
+  {
+   "id": "0391:00C5C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿００６Good!"
+  },
+  {
+   "id": "0391:00C87",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿００７Just what I'd expect."
+  },
+  {
+   "id": "0391:00CB9",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿００８Is that so...?"
+  },
+  {
+   "id": "0391:00CEE",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿００９Then why not try planning your￥training a bit differently?"
+  },
+  {
+   "id": "0391:00D56.0",
+   "choice": true,
+   "en": "Right, I'll try that."
+  },
+  {
+   "id": "0391:00D56.1",
+   "choice": true,
+   "en": "My plan is fine as is."
+  },
+  {
+   "id": "0391:00D96.0",
+   "choice": true,
+   "en": "Right, I'll try that."
+  },
+  {
+   "id": "0391:00D96.1",
+   "choice": true,
+   "en": "My plan is fine as is."
+  },
+  {
+   "id": "0391:00DD8",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１０Yeah, good idea. Plan it well,￥and you should be fine."
+  },
+  {
+   "id": "0391:00E48",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１１I see. If you're happy with it,￥it's not my place to butt in."
+  },
+  {
+   "id": "0391:00EB1",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１２It's late.￥You'd better head back soon."
+  },
+  {
+   "id": "0391:00F06",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１３According to your selection￥data, your ability balance was￥rated \"Special A.\"＝＠１４２＿０１４That means you've got a lot￥of potential."
+  },
+  {
+   "id": "0391:00FAB",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１５But whether you make use of￥that potential is all up to you."
+  },
+  {
+   "id": "0391:0100A",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１６Keep at it, and make it count!"
+  },
+  {
+   "id": "0391:01050.0",
+   "choice": true,
+   "en": "Yes, I'll do my best!"
+  },
+  {
+   "id": "0391:01050.1",
+   "choice": true,
+   "en": "That sounds hard..."
+  },
+  {
+   "id": "0391:0107E.0",
+   "choice": true,
+   "en": "Yes, I'll do my best!"
+  },
+  {
+   "id": "0391:0107E.1",
+   "choice": true,
+   "en": "That sounds hard..."
+  },
+  {
+   "id": "0391:010AE",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１７Fired up?"
+  },
+  {
+   "id": "0391:010E6",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１８No need to overthink it!￥The point is, attitude matters."
+  },
+  {
+   "id": "0391:0113F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０１９Stay sharp from here on out!"
+  },
+  {
+   "id": "0391:0118A",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０２０It's late. Get some rest and￥be ready for tomorrow."
+  }
+ ]
+}

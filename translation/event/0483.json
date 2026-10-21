@@ -1,0 +1,121 @@
+{
+ "entry": 483,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0483:00028",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０１６How are you feeling?"
+  },
+  {
+   "id": "0483:00057",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０１７Honestly... you shouldn't have.￥When you overdo it, you're the￥one who suffers most, you know?"
+  },
+  {
+   "id": "0483:000BA",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０１８You need to take better￥care of yourself, okay?"
+  },
+  {
+   "id": "0483:00101",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０１９If you need anything at all,￥don't be shy about asking, okay?"
+  },
+  {
+   "id": "0483:0015B.0",
+   "choice": true,
+   "en": "Thanks, Natsuno."
+  },
+  {
+   "id": "0483:0015B.1",
+   "choice": true,
+   "en": "Don't worry about me."
+  },
+  {
+   "id": "0483:00193.0",
+   "choice": true,
+   "en": "Thanks, Natsuno."
+  },
+  {
+   "id": "0483:00193.1",
+   "choice": true,
+   "en": "Don't worry about me."
+  },
+  {
+   "id": "0483:001C7",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０２０Oh, no, you don't need to worry￥about that when you're sick."
+  },
+  {
+   "id": "0483:0021A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０２１Being sick away from home is￥really rough, after all."
+  },
+  {
+   "id": "0483:0026E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０２２If you're all right, I'll go...￥But if you're only saying that￥for my sake, please don't, okay?"
+  },
+  {
+   "id": "0483:002DB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０２３Actually, after I came here,￥I caught a cold and was stuck￥in bed once...＝＠０８５＿０２４Sakaki came and looked after me."
+  },
+  {
+   "id": "0483:0037E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０２５When you're sick, you get￥strangely lonely...＝＠０８５＿０２６So I was really glad when￥Sakaki came by."
+  },
+  {
+   "id": "0483:00410.0",
+   "choice": true,
+   "en": "I know that feeling."
+  },
+  {
+   "id": "0483:00410.1",
+   "choice": true,
+   "en": "So that happened to you."
+  },
+  {
+   "id": "0483:00440.0",
+   "choice": true,
+   "en": "I know that feeling."
+  },
+  {
+   "id": "0483:00440.1",
+   "choice": true,
+   "en": "So that happened to you."
+  },
+  {
+   "id": "0483:00472",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０２７For some reason, you feel that￥way when you're not well."
+  },
+  {
+   "id": "0483:004C9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０２８So this time... if I can,￥I'd like to be the one￥helping you."
+  },
+  {
+   "id": "0483:00529",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０２９So I thought, if you're ever in￥trouble, this time I'd like to￥be the one to help you..."
+  },
+  {
+   "id": "0483:00598",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０３０Collapsing like this means your￥body is sending out an SOS."
+  },
+  {
+   "id": "0483:005E9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０３１Okay? Today, you do nothing￥but rest!"
+  },
+  {
+   "id": "0483:00639",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０３２Well then, really,￥take care of yourself..."
+  }
+ ]
+}

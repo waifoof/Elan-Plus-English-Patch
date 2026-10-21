@@ -1,0 +1,346 @@
+{
+ "entry": 448,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0448:00014",
+   "end": "818400",
+   "en": "－　Flight Training Room　－"
+  },
+  {
+   "id": "0448:0003C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿００１Huh?＝＠０９１＿００２What are you staring at me for?￥We've never even met.￥How rude!＝＠０９１＿００３Hm...? Oh, you're one of the￥candidates. Sorry, I didn't￥really remember you!"
+  },
+  {
+   "id": "0448:00121",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿００４For an expert, you sure don't￥make much of an impression!"
+  },
+  {
+   "id": "0448:00166",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0448:0017A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿００５You're a candidate, so of course￥you know what my specialty is,￥right?"
+  },
+  {
+   "id": "0448:001EE.0",
+   "choice": true,
+   "en": "Yeah, I know."
+  },
+  {
+   "id": "0448:001EE.1",
+   "choice": true,
+   "en": "Sorry, I don't remember."
+  },
+  {
+   "id": "0448:0021C.0",
+   "choice": true,
+   "en": "Yes, I know."
+  },
+  {
+   "id": "0448:0021C.1",
+   "choice": true,
+   "en": "Sorry, I'm not sure."
+  },
+  {
+   "id": "0448:00252",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿００６Hmph, well, that's only natural!"
+  },
+  {
+   "id": "0448:0029B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿００９I'm the youngest person ever to￥get a first-class pilot license!"
+  },
+  {
+   "id": "0448:002F9",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿００７What!! I can't believe this!!"
+  },
+  {
+   "id": "0448:00334",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿００８Do you even realize you're￥a candidate?!"
+  },
+  {
+   "id": "0448:00381",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿００９I'm the youngest person ever to￥get a first-class pilot license!"
+  },
+  {
+   "id": "0448:003DC",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１０Not knowing that is just￥plain ignorant!"
+  },
+  {
+   "id": "0448:0042A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１１Well, it seems the others have￥all mastered some kind of￥advanced skill too."
+  },
+  {
+   "id": "0448:00491",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１２But to qualify, what you need￥first is \"Judgment\"!"
+  },
+  {
+   "id": "0448:004D8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１３You may not know this, but it's￥the most important skill for￥piloting the Elan Ship, okay?"
+  },
+  {
+   "id": "0448:00553",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１４No matter what else you can do,￥if you can't do this, you don't￥get on the ship!!"
+  },
+  {
+   "id": "0448:005B6",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１５But why can't I remember￥much about you?＝＠０９１＿０１６I thought I'd checked out￥everyone at the top."
+  },
+  {
+   "id": "0448:0066B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１７So what exactly are you good at?"
+  },
+  {
+   "id": "0448:006AD.0",
+   "choice": true,
+   "en": "Nothing in particular."
+  },
+  {
+   "id": "0448:006AD.1",
+   "choice": true,
+   "en": "I'm good at everything."
+  },
+  {
+   "id": "0448:006DD.0",
+   "choice": true,
+   "en": "Nothing in particular."
+  },
+  {
+   "id": "0448:006DD.1",
+   "choice": true,
+   "en": "I'm good at everything."
+  },
+  {
+   "id": "0448:00713",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１８Huhhh?"
+  },
+  {
+   "id": "0448:0073C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０１９Then there's no way you'd have￥been chosen as a candidate!"
+  },
+  {
+   "id": "0448:00789",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０２０Are you making fun of me?"
+  },
+  {
+   "id": "0448:007C9",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０２１Are you some kind of narcissist?＝＠０９１＿０２２Sorry, but I hate stupid jokes."
+  },
+  {
+   "id": "0448:0083E",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０２３Besides, being full of yourself￥without the skills to back it up￥will ruin you someday, you know?"
+  },
+  {
+   "id": "0448:0089B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０２４Honestly...＝＠０９１＿０２５You're a weird one. There's￥something about you that's￥beyond my common sense."
+  },
+  {
+   "id": "0448:00924",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０２７Listen. If you ever see me￥around the facility from now on,￥don't you dare talk to me!"
+  },
+  {
+   "id": "0448:0098B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０２８I don't know about you, but I￥don't consider you a teammate.￥Not one bit!!"
+  },
+  {
+   "id": "0448:00A05.0",
+   "choice": true,
+   "en": "Same goes for me."
+  },
+  {
+   "id": "0448:00A05.1",
+   "choice": true,
+   "en": "That's harsh."
+  },
+  {
+   "id": "0448:00A39.0",
+   "choice": true,
+   "en": "Same goes for me."
+  },
+  {
+   "id": "0448:00A39.1",
+   "choice": true,
+   "en": "That's so mean..."
+  },
+  {
+   "id": "0448:00A6D",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０２９Oh my, well, isn't that nice!"
+  },
+  {
+   "id": "0448:00AA6",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０３０I don't want to waste time on￥useless people either!"
+  },
+  {
+   "id": "0448:00AFA",
+   "end": "818400",
+   "en": "＊Riko＊＠０９１＿０３１It's not harsh! I'm just telling￥the truth, okay?"
+  },
+  {
+   "id": "0448:00B4D",
+   "end": "818400",
+   "en": "＊Riko＊..."
+  },
+  {
+   "id": "0448:00B6C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿００１Aaah! Hey!￥Did you just look away from me?!＝＠０９２＿００２How rude!＝＠０９２＿００３Unbelievable! You're a disgrace￥to candidates everywhere!＝＠０９２＿００４Hear me out to the end!"
+  },
+  {
+   "id": "0448:00C57",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿００５I only want to spend time with￥people I've acknowledged."
+  },
+  {
+   "id": "0448:00CB0",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿００６Even if you ask me to team up,￥there's absolutely NO way￥I'll go along with it!!"
+  },
+  {
+   "id": "0448:00D24.0",
+   "choice": true,
+   "en": "Relax, I won't ask."
+  },
+  {
+   "id": "0448:00D24.1",
+   "choice": true,
+   "en": "What would it take?"
+  },
+  {
+   "id": "0448:00D62.0",
+   "choice": true,
+   "en": "Relax, I won't ask."
+  },
+  {
+   "id": "0448:00D62.1",
+   "choice": true,
+   "en": "What would it take?"
+  },
+  {
+   "id": "0448:00DA4",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿００７Oh? Should you really be￥talking like that?"
+  },
+  {
+   "id": "0448:00DE7",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿００８When you get stuck in Judgment￥training, you'll regret saying￥that. But by then it's too late!"
+  },
+  {
+   "id": "0448:00E59",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿００９There's no way I'd acknowledge￥you that easily!＝＠０９２＿０１０And figure that out yourself!!"
+  },
+  {
+   "id": "0448:00EF2",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０１３How exactly do they pick￥the candidates, anyway?"
+  },
+  {
+   "id": "0448:00F47",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０１４I'm not saying they should check￥looks or character too."
+  },
+  {
+   "id": "0448:00F98",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０１５But they could at least pick￥people whose abilities￥aren't in doubt."
+  },
+  {
+   "id": "0448:00FF5",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０１６They tell us to compete and push￥each other, but with rivals like￥these, what's the point!"
+  },
+  {
+   "id": "0448:01073.0",
+   "choice": true,
+   "en": "Yeah, it's hopeless."
+  },
+  {
+   "id": "0448:01073.1",
+   "choice": true,
+   "en": "Then quit and go home?"
+  },
+  {
+   "id": "0448:010AB.0",
+   "choice": true,
+   "en": "Yeah, it's hopeless."
+  },
+  {
+   "id": "0448:010AB.1",
+   "choice": true,
+   "en": "Then quit and go home?"
+  },
+  {
+   "id": "0448:010E7",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０１７I'm talking about you!￥YOU!!＝＠０９２＿０１８Ugh, you're unbelievably dense!!"
+  },
+  {
+   "id": "0448:01169",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０１９Why should I go home?!￥If anyone goes home, it's you!"
+  },
+  {
+   "id": "0448:011BD",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0448:011CA",
+   "end": "818400",
+   "en": "＊Kaname＊＠０９２＿０１１Rikooo!￥Let's go get something to eat!"
+  },
+  {
+   "id": "0448:01213",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０１２Coming, coming!￥Hang on a sec!"
+  },
+  {
+   "id": "0448:01258",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０２０You don't seem to quite get it,￥but...＝＠０９２＿０２１without any standout abilities,￥your chances of qualifying￥are pretty slim!"
+  },
+  {
+   "id": "0448:01309",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０２２In other words!!＝＠０９２＿０２３Unless you beat the top person￥in some field, your chances of￥going to Elan are zero!"
+  },
+  {
+   "id": "0448:013A2",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０２４Not that you could pull that off￥right now even if you stood on￥your head!!"
+  },
+  {
+   "id": "0448:013FD",
+   "end": "818400",
+   "en": "＊Riko＊＠０９２＿０２５Well, good luck with that.￥Bye!"
+  }
+ ]
+}

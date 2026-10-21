@@ -1,0 +1,111 @@
+{
+ "entry": 499,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0499:0001C",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿００４Just came to check on you.￥How's it going?＝＠２０４＿００５Aren't your scores kind of￥terrible?"
+  },
+  {
+   "id": "0499:000A1",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿００６Are you gonna be okay? Won't￥they end up kicking you out of￥here?＝＠２０４＿００７Well, I'm sure keeping up with￥all these experts is tough."
+  },
+  {
+   "id": "0499:00156",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿００８Especially for someone like you,￥who doesn't have any specialty.￥Must be rough."
+  },
+  {
+   "id": "0499:001B4.0",
+   "choice": true,
+   "en": "Yeah, it is."
+  },
+  {
+   "id": "0499:001B4.1",
+   "choice": true,
+   "en": "That's harsh!"
+  },
+  {
+   "id": "0499:001DE.0",
+   "choice": true,
+   "en": "Yeah, it is."
+  },
+  {
+   "id": "0499:001DE.1",
+   "choice": true,
+   "en": "That's harsh!"
+  },
+  {
+   "id": "0499:0020C",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿００９I feel for you, but it doesn't￥mean much unless your scores￥go up."
+  },
+  {
+   "id": "0499:0026A",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０１０Oh, did that sting?￥Sorry, sorry.＝＠２０４＿０１１But it's the truth, right?"
+  },
+  {
+   "id": "0499:002D5",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０１２You're not an expert, so what￥did they see in you when they￥picked you as a candidate?＝＠２０４＿０１３Does having even abilities mean￥you can do anything?"
+  },
+  {
+   "id": "0499:0038E",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０１４Isn't that a little￥too convenient?＝＠２０４＿０１５I mean, look at the scores￥you're actually getting."
+  },
+  {
+   "id": "0499:00415",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０１６If you don't try harder, you'll￥let down whoever picked you."
+  },
+  {
+   "id": "0499:0046B.0",
+   "choice": true,
+   "en": "Right. I'll try harder."
+  },
+  {
+   "id": "0499:0046B.1",
+   "choice": true,
+   "en": "Not your business, Yoh!"
+  },
+  {
+   "id": "0499:004A3.0",
+   "choice": true,
+   "en": "Right. I'll try harder."
+  },
+  {
+   "id": "0499:004A3.1",
+   "choice": true,
+   "en": "Not your business, Yoh!"
+  },
+  {
+   "id": "0499:004DB",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０１７Yeah, I think that's best.＝"
+  },
+  {
+   "id": "0499:00518",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０１８Whatever your rank, if they see￥you made the effort, they won't￥think badly of you."
+  },
+  {
+   "id": "0499:00586",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０１９Well, sure.￥It's not my business.＝＠２０４＿０２０I just thought I'd give you￥a little advice.＝＠２０４＿０２１Sorry for butting in."
+  },
+  {
+   "id": "0499:00633",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０２２Anyway, things don't look so￥great as they are, do they?＝＠２０４＿０２３You don't have to beat the￥experts, but training a bit more￥would be for your own good."
+  },
+  {
+   "id": "0499:006DE",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿０２４Why not give it all you've got?￥See ya."
+  }
+ ]
+}

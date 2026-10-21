@@ -1,0 +1,106 @@
+{
+ "entry": 496,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0496:0001F",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１９Hey there.￥Mind if I come in for a sec?"
+  },
+  {
+   "id": "0496:00064",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０２０You've been really into your￥training lately. Going well?＝＠２０７＿０２１You seem to be working super￥hard, so I wondered how you￥were doing."
+  },
+  {
+   "id": "0496:0011D",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０２２Man, you really love￥training, huh?"
+  },
+  {
+   "id": "0496:00167.0",
+   "choice": true,
+   "en": "Not really."
+  },
+  {
+   "id": "0496:00167.1",
+   "choice": true,
+   "en": "Is there a problem?"
+  },
+  {
+   "id": "0496:00193.0",
+   "choice": true,
+   "en": "Not really."
+  },
+  {
+   "id": "0496:00193.1",
+   "choice": true,
+   "en": "Is there a problem?"
+  },
+  {
+   "id": "0496:001C1",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０２３Huh? If you didn't love it,￥I doubt you could beat an￥expert's scores."
+  },
+  {
+   "id": "0496:0022D",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０２４I never said there was￥anything wrong with it."
+  },
+  {
+   "id": "0496:0027A",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０２５I'm just impressed, that's all."
+  },
+  {
+   "id": "0496:002B9",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０２６I figured you were doing some￥secret training on your days￥off or something.＝＠２０７＿０２７But from the look of you, you￥only train during regular hours.＝＠２０７＿０２８And you still beat me..."
+  },
+  {
+   "id": "0496:003A8",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０２９At this rate, won't you end￥up an expert in everything?"
+  },
+  {
+   "id": "0496:00404.0",
+   "choice": true,
+   "en": "Yep, that's the plan."
+  },
+  {
+   "id": "0496:00404.1",
+   "choice": true,
+   "en": "No way. Impossible."
+  },
+  {
+   "id": "0496:0042E.0",
+   "choice": true,
+   "en": "Yes, that's the plan."
+  },
+  {
+   "id": "0496:0042E.1",
+   "choice": true,
+   "en": "No way. Impossible."
+  },
+  {
+   "id": "0496:00458",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０３０Pretty confident, huh...￥Well, not my problem. Knock￥yourself out.＝＠２０７＿０３１Just don't let me pass you￥again while you're busy with￥everything else."
+  },
+  {
+   "id": "0496:0050E",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０３２For someone who loves training,￥that should be easy, right?"
+  },
+  {
+   "id": "0496:00563",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿００１It's not just me--experts are￥all touchy about their own￥specialties, you know."
+  },
+  {
+   "id": "0496:005D8",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０４＿００２Losing to someone who doesn't￥even specialize in it? They'd be￥pretty ticked off.＝＠２０４＿００３You're the one being chased now,￥so hang in there.￥See ya."
+  }
+ ]
+}

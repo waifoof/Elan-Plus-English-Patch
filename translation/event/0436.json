@@ -1,0 +1,311 @@
+{
+ "entry": 436,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0436:0001C",
+   "end": "818400",
+   "en": "＊Mechanic＊＠１１０＿００１Hm? What, you need something?＝＠１１０＿００２The lights in here keep￥flickering, so I'm checking￥the wiring."
+  },
+  {
+   "id": "0436:000AD",
+   "end": "818400",
+   "en": "＊Mechanic＊＠１１０＿００３Talking to me breaks my focus,￥so could you keep quiet?"
+  },
+  {
+   "id": "0436:00105.0",
+   "choice": true,
+   "en": "Um, who are you?"
+  },
+  {
+   "id": "0436:00105.1",
+   "choice": true,
+   "en": "You're a shady one."
+  },
+  {
+   "id": "0436:0012F.0",
+   "choice": true,
+   "en": "Um, who are you?"
+  },
+  {
+   "id": "0436:0012F.1",
+   "choice": true,
+   "en": "What a shady person!"
+  },
+  {
+   "id": "0436:00159",
+   "end": "818400",
+   "en": "＊Mechanic＊＠１１０＿００４Huh? Me? Can't you tell?￥I'm the great Rei, the mechanic￥around here!"
+  },
+  {
+   "id": "0436:001B8",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿００５There. If that's all, get going."
+  },
+  {
+   "id": "0436:001FE",
+   "end": "818400",
+   "en": "＊Mechanic＊＠１１０＿００６What'd you say?"
+  },
+  {
+   "id": "0436:00227",
+   "end": "818400",
+   "en": "＊Mechanic＊＠１１０＿００７Shady?! I've been working here￥as a mechanic for five years!!＝＠１１０＿００８You don't know the great Rei?￥You must be new around here!"
+  },
+  {
+   "id": "0436:002C8",
+   "end": "818400",
+   "en": "＊Mechanic＊＠１１０＿００９Geez, you're getting in my way!!"
+  },
+  {
+   "id": "0436:00304",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０１０Hm...?＝＠１１０＿０１１Come to think of it, I don't see￥clothes like yours much."
+  },
+  {
+   "id": "0436:0036F",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０１２You look like some kind of￥student or somethin'."
+  },
+  {
+   "id": "0436:003B6",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０１３Hmm, wait a sec...￥Are you one of those candidates?"
+  },
+  {
+   "id": "0436:00406.0",
+   "choice": true,
+   "en": "Yes, more or less."
+  },
+  {
+   "id": "0436:00406.1",
+   "choice": true,
+   "en": "You only just noticed?"
+  },
+  {
+   "id": "0436:0042E.0",
+   "choice": true,
+   "en": "Yes, more or less."
+  },
+  {
+   "id": "0436:0042E.1",
+   "choice": true,
+   "en": "You only just noticed?"
+  },
+  {
+   "id": "0436:00458",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０１４Ah, figured.＝＠１１０＿０１５Thing is, you candidates are all￥wound up tight, every last one￥of you, right?"
+  },
+  {
+   "id": "0436:004DB",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０１６I can't stand that kinda thing.＝＠１１０＿０１７We work our butts off￥maintaining this place, and you￥guys don't even notice!"
+  },
+  {
+   "id": "0436:0058D",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０１８A candidate, huh? No wonder I￥got a bad vibe.＝＠１１０＿０１９Shouldn't you be too busy to￥stand around chatting with me?＝＠１１０＿０２０You people are always in such￥a hurry."
+  },
+  {
+   "id": "0436:0066C",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０２１Just watching it wears me out.＝＠１１０＿０２２You're a candidate too, right?￥Doesn't it tire you out?"
+  },
+  {
+   "id": "0436:006F0.0",
+   "choice": true,
+   "en": "Sure, it's tiring."
+  },
+  {
+   "id": "0436:006F0.1",
+   "choice": true,
+   "en": "But it can't be helped."
+  },
+  {
+   "id": "0436:00720.0",
+   "choice": true,
+   "en": "Yes, it's tiring."
+  },
+  {
+   "id": "0436:00720.1",
+   "choice": true,
+   "en": "But it can't be helped."
+  },
+  {
+   "id": "0436:0074E",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０２３Yeah, figures. Training every￥single day, right?＝＠１１０＿０２４Candidate or not,￥tired is tired."
+  },
+  {
+   "id": "0436:007DD",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０２５That's why you're too tired to￥notice the stuff we fixed up!"
+  },
+  {
+   "id": "0436:00847",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０２６Whoa, how noble of you. No way￥I could ever pull that off.＝＠１１０＿０２７Not that I'd want to."
+  },
+  {
+   "id": "0436:008CA",
+   "end": "818400",
+   "en": "＊Rei＊＠１１０＿０２８Go on, get to your training.￥I'm still on the clock here!"
+  },
+  {
+   "id": "0436:0092F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0436:00940",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿００１Ah! Crap...￥I was in the middle of a job.＝＠１１１＿００２Only meant to take a breather..."
+  },
+  {
+   "id": "0436:009BD",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿００３You showin' up made me totally￥forget about my work."
+  },
+  {
+   "id": "0436:00A23.0",
+   "choice": true,
+   "en": "So you were slacking."
+  },
+  {
+   "id": "0436:00A23.1",
+   "choice": true,
+   "en": "Hey, it's not my fault."
+  },
+  {
+   "id": "0436:00A5B.0",
+   "choice": true,
+   "en": "So you were slacking."
+  },
+  {
+   "id": "0436:00A5B.1",
+   "choice": true,
+   "en": "Hey, it's not my fault."
+  },
+  {
+   "id": "0436:00A95",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿００４Sh-shut up! You're distracting￥me! What if I mess up the￥wiring?"
+  },
+  {
+   "id": "0436:00AF8",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0436:00B09",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿００５Yeah, yeah, I know!￥It's not your fault!!＝＠１１１＿００６Anyway, you'll make me screw up,￥so quit butting in!"
+  },
+  {
+   "id": "0436:00B8E",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿００７Today's just not my day.＝＠１１１＿００８Nothin' but pointless jobs...￥Then I run into a candidate,￥of all people... What a mess..."
+  },
+  {
+   "id": "0436:00C32.0",
+   "choice": true,
+   "en": "Did I do anything wrong?"
+  },
+  {
+   "id": "0436:00C32.1",
+   "choice": true,
+   "en": "Isn't that a bit harsh?"
+  },
+  {
+   "id": "0436:00C76.0",
+   "choice": true,
+   "en": "Did I do anything wrong?"
+  },
+  {
+   "id": "0436:00C76.1",
+   "choice": true,
+   "en": "Isn't that a bit harsh?"
+  },
+  {
+   "id": "0436:00CBC",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿００９It ain't like that.＝＠１１１＿０１０It's just, candidates come off￥as a bunch of stiffs, so they've￥got a bad rep."
+  },
+  {
+   "id": "0436:00D57",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０１１Whoa, close one. Almost cut the￥wrong wire."
+  },
+  {
+   "id": "0436:00DAA",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0436:00DBB",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０１２Yeah? Sorry. Those stiff-necked￥candidates just tick me off."
+  },
+  {
+   "id": "0436:00E1A",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０１３Whoa! Close one...￥Almost screwed that up!＝＠１１１＿０１４I always mess up when I talk￥and work at the same time.＝＠１１１＿０１５Don't you have stuff to do too?￥Get going already!"
+  },
+  {
+   "id": "0436:00EEB",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０１６There we go.￥Perfect.＝＠１１１＿０１７Boring job, though..."
+  },
+  {
+   "id": "0436:00F58",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０１８Well, nobody can complain￥after all that."
+  },
+  {
+   "id": "0436:00F9E.0",
+   "choice": true,
+   "en": "Thanks for your work."
+  },
+  {
+   "id": "0436:00F9E.1",
+   "choice": true,
+   "en": "Sounds like tough work."
+  },
+  {
+   "id": "0436:00FC4.0",
+   "choice": true,
+   "en": "Thanks for your work."
+  },
+  {
+   "id": "0436:00FC4.1",
+   "choice": true,
+   "en": "Sounds like tough work."
+  },
+  {
+   "id": "0436:00FEC",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０１９You bet!＝＠１１１＿０２０Man, I'm beat!￥Time for a break."
+  },
+  {
+   "id": "0436:01042",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２１Whoa! You get it!!￥A job like this, even you could￥pull off, no problem."
+  },
+  {
+   "id": "0436:010AB",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２２Say, didn't you come here￥to train?＝＠１１１＿０２３Did you forget? Eh, whatever."
+  },
+  {
+   "id": "0436:01142",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２４Hey, if you find anything busted￥in the facilities from now on,￥don't call me over little stuff!"
+  },
+  {
+   "id": "0436:011B5",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２５Unless it's a \"real emergency,\"￥I ain't takin' the job! See ya!"
+  }
+ ]
+}

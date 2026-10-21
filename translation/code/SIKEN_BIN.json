@@ -1,0 +1,894 @@
+{
+ "module": "GAME/SIKEN.BIN",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "SIKEN_BIN:00A00",
+   "max": 20,
+   "en": "      Rescue"
+  },
+  {
+   "id": "SIKEN_BIN:00A1F",
+   "max": 18,
+   "en": "        EVA"
+  },
+  {
+   "id": "SIKEN_BIN:00A3E",
+   "max": 20,
+   "en": "  Sample Analysis"
+  },
+  {
+   "id": "SIKEN_BIN:00A5D",
+   "max": 20,
+   "en": "  Worker Assembly"
+  },
+  {
+   "id": "SIKEN_BIN:00A7C",
+   "max": 18,
+   "en": "Geological Survey"
+  },
+  {
+   "id": "SIKEN_BIN:00A9B",
+   "max": 20,
+   "en": " Wildlife Capture"
+  },
+  {
+   "id": "SIKEN_BIN:00ABA",
+   "max": 22,
+   "en": "SL Gate Navigation"
+  },
+  {
+   "id": "SIKEN_BIN:00AD9",
+   "max": 22,
+   "en": "SL Atmospheric Entry"
+  },
+  {
+   "id": "SIKEN_BIN:00AF8",
+   "max": 18,
+   "en": "           Finals"
+  },
+  {
+   "id": "SIKEN_BIN:00B24",
+   "max": 30,
+   "en": "          －　Monthly Exam　－"
+  },
+  {
+   "id": "SIKEN_BIN:00B44",
+   "max": 38,
+   "en": "  Stop the 3 rotating screens with"
+  },
+  {
+   "id": "SIKEN_BIN:00B6C",
+   "max": 44,
+   "en": "  the Circle button. The stats tied to each"
+  },
+  {
+   "id": "SIKEN_BIN:00B9C",
+   "max": 38,
+   "en": "  action decide everyone's movement."
+  },
+  {
+   "id": "SIKEN_BIN:00BC4",
+   "max": 34,
+   "en": "    * Points are awarded by"
+  },
+  {
+   "id": "SIKEN_BIN:00BE8",
+   "max": 32,
+   "en": "     finish order (top 5 only)."
+  },
+  {
+   "id": "SIKEN_BIN:00ED4",
+   "max": 34,
+   "en": "          －　Weekend Meeting　－"
+  },
+  {
+   "id": "SIKEN_BIN:00EF8",
+   "max": 40,
+   "en": "   Talk to one candidate to grow"
+  },
+  {
+   "id": "SIKEN_BIN:00F24",
+   "max": 22,
+   "en": "   closer to them."
+  },
+  {
+   "id": "SIKEN_BIN:00F3C",
+   "max": 44,
+   "en": " - Even people you rarely see will always"
+  },
+  {
+   "id": "SIKEN_BIN:00F6C",
+   "max": 44,
+   "en": "   show up here. Use it wisely."
+  },
+  {
+   "id": "SIKEN_BIN:019BC",
+   "max": 32,
+   "en": "      －　Partner Selection　－"
+  },
+  {
+   "id": "SIKEN_BIN:019E0",
+   "max": 32,
+   "en": "        Now, the fateful choice."
+  },
+  {
+   "id": "SIKEN_BIN:01A04",
+   "max": 44,
+   "en": "       Choose your partner with the D-pad..."
+  },
+  {
+   "id": "SIKEN_BIN:01A34",
+   "max": 40,
+   "en": "  - What matters is how they feel"
+  },
+  {
+   "id": "SIKEN_BIN:01A60",
+   "max": 42,
+   "en": "    about you. Are you sure they like you?"
+  },
+  {
+   "id": "SIKEN_BIN:01B68",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SIKEN_BIN:01B6D",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SIKEN_BIN:01B72",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SIKEN_BIN:01B77",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SIKEN_BIN:01B7C",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SIKEN_BIN:01B81",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SIKEN_BIN:01B86",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SIKEN_BIN:01B8B",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SIKEN_BIN:01B9C",
+   "max": 2,
+   "en": "yo"
+  },
+  {
+   "id": "SIKEN_BIN:01D5C",
+   "max": 14,
+   "en": "Elan Plus"
+  },
+  {
+   "id": "SIKEN_BIN:01D84",
+   "max": 34,
+   "en": "＜Save clear data?＞"
+  },
+  {
+   "id": "SIKEN_BIN:01DA8",
+   "max": 4,
+   "en": "Yes"
+  },
+  {
+   "id": "SIKEN_BIN:01DB0",
+   "max": 6,
+   "en": "No"
+  },
+  {
+   "id": "SIKEN_BIN:01DB8",
+   "max": 38,
+   "en": "＜Accessing Memory Card...＞"
+  },
+  {
+   "id": "SIKEN_BIN:01DE0",
+   "max": 42,
+   "en": "Do not remove the Memory Card."
+  },
+  {
+   "id": "SIKEN_BIN:01E0C",
+   "max": 32,
+   "en": "  ＜Saving data...＞"
+  },
+  {
+   "id": "SIKEN_BIN:01E30",
+   "max": 32,
+   "en": "＜Clear data is saved.＞"
+  },
+  {
+   "id": "SIKEN_BIN:01E54",
+   "max": 38,
+   "en": "Not enough free space to save."
+  },
+  {
+   "id": "SIKEN_BIN:01E7C",
+   "max": 20,
+   "en": "Save failed."
+  },
+  {
+   "id": "SIKEN_BIN:01E94",
+   "max": 34,
+   "en": "The data may be corrupted."
+  },
+  {
+   "id": "SIKEN_BIN:01EB8",
+   "max": 28,
+   "en": "An error occurred."
+  },
+  {
+   "id": "SIKEN_BIN:01ED8",
+   "max": 24,
+   "en": "There is no Memory Card"
+  },
+  {
+   "id": "SIKEN_BIN:01EF4",
+   "max": 32,
+   "en": "inserted in slot 1."
+  },
+  {
+   "id": "SIKEN_BIN:01F18",
+   "max": 36,
+   "en": "The Memory Card is not formatted."
+  },
+  {
+   "id": "SIKEN_BIN:01F40",
+   "max": 16,
+   "en": "Format it?"
+  },
+  {
+   "id": "SIKEN_BIN:01F54",
+   "max": 38,
+   "en": "Format failed."
+  },
+  {
+   "id": "SIKEN_BIN:2BE08",
+   "max": 78,
+   "en": "＊Eiji＊＠０４６＿２６All right!!＝Man, this kinda thing￥feels so great!!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2BE58",
+   "max": 78,
+   "en": "＊Eiji＊＠０４６＿２７See that?! That's my skill!￥I can do it when I try!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2BEA8",
+   "max": 72,
+   "en": "＊Eiji＊＠０４６＿２８I did pretty good.￥Next time I'm aiming higher!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2BEF4",
+   "max": 88,
+   "en": "＊Eiji＊＠０４６＿２９Wish I'd done a bit better.￥Too late to say that￥now, though.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2BF50",
+   "max": 78,
+   "en": "＊Eiji＊＠０４６＿３０Guess it couldn't be helped.￥Stuff like this happens.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2BFA0",
+   "max": 46,
+   "en": "＊Eiji＊＠０４６＿３１This sucks! Dammit!!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2BFE8",
+   "max": 98,
+   "en": "＊Yoh＊＠２０３＿０２５Didn't think it'd go so well!￥Maybe someone was￥rooting for me!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C04C",
+   "max": 92,
+   "en": "＊Yoh＊＠２０３＿０２６Better than I expected.￥Getting good grades￥sure feels nice.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C0AC",
+   "max": 108,
+   "en": "＊Yoh＊＠２０３＿０２７Not bad, I guess?￥I'll try a bit harder next time.￥I'd love it if you helped~＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C11C",
+   "max": 80,
+   "en": "＊Yoh＊＠２０３＿０２８That's about it.￥If I stay at this level,￥I'm fine.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C170",
+   "max": 110,
+   "en": "＊Yoh＊＠２０３＿０２９That was awful...￥If I trained with you,￥I bet I'd do much better.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C1E0",
+   "max": 104,
+   "en": "＊Yoh＊＠２０３＿０３０Terrible... Sorry, but￥I'm feeling down.￥Could you leave me be...?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C264",
+   "max": 88,
+   "en": "＊Kairi＊＠０６３＿０２３Not that it matters, but￥a good ranking feels nice.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C2C0",
+   "max": 86,
+   "en": "＊Kairi＊＠０６３＿０２４No problem at this rank.￥I'll work to maintain it.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C318",
+   "max": 104,
+   "en": "＊Kairi＊＠０６３＿０２５Not very good...￥Next time, I'll need to￥raise my rank a bit.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C384",
+   "max": 96,
+   "en": "＊Kairi＊＠０６３＿０２６This won't do.￥If you're worried about me,￥that's bad...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C3E8",
+   "max": 104,
+   "en": "＊Kairi＊＠０６３＿０２７Results reflect￥the effort put in...￥This time it wasn't enough.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C454",
+   "max": 62,
+   "en": "＊Kairi＊＠０６３＿０２８Don't meddle￥in my affairs.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C4AC",
+   "max": 108,
+   "en": "＊Amane＊＠０２５＿０２５Yay! That went great!￥...I wonder what Mom would￥say if she saw this?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C51C",
+   "max": 116,
+   "en": "＊Amane＊＠０２５＿０２６Did lots of people do badly?￥My grades were really good...￥What do you think?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C594",
+   "max": 96,
+   "en": "＊Amane＊＠０２５＿０２７Same grades as always!￥Not good, not bad,￥I guess?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C5F8",
+   "max": 102,
+   "en": "＊Amane＊＠０２５＿０２８It was okay, but...￥I can't let my guard down!￥You work hard too, 'kay?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C660",
+   "max": 120,
+   "en": "＊Amane＊＠０２５＿０２９Uh-oh... this rank is bad...￥What do I do? I gotta get￥serious or I'm in trouble!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C6DC",
+   "max": 86,
+   "en": "＊Amane＊＠０２５＿０３０What do I do...￥I might not get to￥stay on Alpha...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C74C",
+   "max": 94,
+   "en": "＊Natsuno＊＠０８３＿０２５Happy with that result!￥I should pat myself￥on the back!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C7AC",
+   "max": 100,
+   "en": "＊Natsuno＊＠０８３＿０２６Great results! Now I've seen￥firsthand that effort￥really pays off!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C814",
+   "max": 110,
+   "en": "＊Natsuno＊＠０８３＿０２７Well, that'll do, I guess.￥But to qualify, I need￥to work even harder!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C884",
+   "max": 94,
+   "en": "＊Natsuno＊＠０８３＿０２８I didn't try hard enough.￥I'll make up for it next time.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C8E4",
+   "max": 112,
+   "en": "＊Natsuno＊＠０８３＿０２９This is really bad.￥I didn't come here￥to get grades like this!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C958",
+   "max": 92,
+   "en": "＊Natsuno＊＠０８３＿０３０I can't believe this!￥Maybe I should￥just give up...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2C9D0",
+   "max": 78,
+   "en": "＊Tomoe＊＠１８５＿０２５Things seem to be￥going well... I'm glad.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CA20",
+   "max": 76,
+   "en": "＊Tomoe＊＠１８５＿０２６Better grades than I thought.￥I'm relieved...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CA70",
+   "max": 112,
+   "en": "＊Tomoe＊＠１８５＿０２７I'm relieved my grades weren't￥too bad. I still need to work￥a bit harder.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CAE4",
+   "max": 106,
+   "en": "＊Tomoe＊＠１８５＿０２８Not very good results.￥Next month I'll work hard￥to move up a bit.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CB50",
+   "max": 88,
+   "en": "＊Tomoe＊＠１８５＿０２９Oh no... grades like these...￥I'll try harder...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CBAC",
+   "max": 104,
+   "en": "＊Tomoe＊＠１８５＿０３０Oh... I'm sorry.￥I want to reflect on this,￥so please leave me be.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CC30",
+   "max": 112,
+   "en": "＊Riko＊＠１０４＿０２７Not bad! Now you all know￥what I can do, right?￥But I'm not settling yet!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CCA4",
+   "max": 100,
+   "en": "＊Riko＊＠１０４＿０２８Hmph, about what I expected!￥This is the gap￥in talent, I'd say.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CD0C",
+   "max": 100,
+   "en": "＊Riko＊＠１０４＿０２９Grades like these defeat￥the point of coming here!￥Seems I got too lax.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CD74",
+   "max": 108,
+   "en": "＊Riko＊＠１０４＿０３０I can't be satisfied￥at this level!￥Gotta get way more fired up!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CDE4",
+   "max": 98,
+   "en": "＊Riko＊＠１０４＿０３１With these grades,￥I don't deserve Elan...￥I can't forgive myself!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CE48",
+   "max": 106,
+   "en": "＊Riko＊＠１０４＿０３２Stop sticking your nose￥in my business!￥You're laughing at me, huh?!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CECC",
+   "max": 102,
+   "en": "＊Kaname＊＠１３５＿０２７Yay! I'm amazing!￥Maybe it's all thanks￥to you, Cousin!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CF34",
+   "max": 110,
+   "en": "＊Kaname＊＠１３５＿０２８These grades... wow.￥The harder you work,￥the more you get back!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CFA4",
+   "max": 80,
+   "en": "＊Kaname＊＠１３５＿０２９About as expected?￥I'll try harder next time!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2CFF8",
+   "max": 94,
+   "en": "＊Kaname＊＠１３５＿０３０So-so, I guess?￥I thought I'd been￥trying hard, though...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D058",
+   "max": 92,
+   "en": "＊Kaname＊＠１３５＿０３１Haah...￥Should I really￥be staying here...?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D0B8",
+   "max": 98,
+   "en": "＊Kaname＊＠１３５＿０３２The worst... Sorry, Cousin.￥Could you leave me￥alone for now...?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D11C",
+   "max": 102,
+   "en": "＊Kaname＊＠１３５＿０２７Yay! I'm amazing!￥Maybe it's all thanks￥to you, Cousin!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D184",
+   "max": 98,
+   "en": "＊Kaname＊＠１３５＿０３２The worst... Sorry, Cousin.￥Could you leave me￥alone for now...?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D2F4",
+   "max": 84,
+   "en": "＊Eiji＊＠０４６＿２０I'm in killer shape!￥Feels like anything￥would work out.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D34C",
+   "max": 58,
+   "en": "＊Eiji＊＠０４６＿２１I'm on fire!￥Well, of course.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D388",
+   "max": 102,
+   "en": "＊Eiji＊＠０４６＿２２I've been doing pretty good.￥If I keep this up,￥I'll go a long way.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D3F0",
+   "max": 68,
+   "en": "＊Eiji＊＠０４６＿２３Eh, guess that's it.￥Not too bad.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D438",
+   "max": 98,
+   "en": "＊Eiji＊＠０４６＿２４I figured I'd do better.￥Oh well, can't help it.￥I'll try next week.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D49C",
+   "max": 72,
+   "en": "＊Eiji＊＠０４６＿２５What? Shut up.￥Mind your own business!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D500",
+   "max": 104,
+   "en": "＊Yoh＊＠２０３＿０１９I've been on a roll lately!￥Not that I'm doing much.￥Guess I'm just lucky?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D56C",
+   "max": 92,
+   "en": "＊Yoh＊＠２０３＿０２０I'm in great shape!￥I'd love to share￥this feeling with you.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D5CC",
+   "max": 94,
+   "en": "＊Yoh＊＠２０３＿０２１This much is okay, I guess.￥For now, I'll￥keep it about here.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D62C",
+   "max": 62,
+   "en": "＊Yoh＊＠２０３＿０２２Well,￥this should be fine.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D66C",
+   "max": 84,
+   "en": "＊Yoh＊＠２０３＿０２３Well, no use￥complaining now.￥I'll try next week.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D6C4",
+   "max": 76,
+   "en": "＊Yoh＊＠２０３＿０２４It's none of your concern,￥so don't worry, okay?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D72C",
+   "max": 50,
+   "en": "＊Kairi＊＠０６３＿０１７About what I expected.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D760",
+   "max": 60,
+   "en": "＊Kairi＊＠０６３＿０１８Mind yourself, not others.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D7A0",
+   "max": 74,
+   "en": "＊Kairi＊＠０６３＿０１９Not so good.￥I need to think harder...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D7EC",
+   "max": 46,
+   "en": "＊Kairi＊＠０６３＿０２０Not your concern.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D81C",
+   "max": 90,
+   "en": "＊Kairi＊＠０６３＿０２１This won't do.￥Is something wrong￥with how I train?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D878",
+   "max": 48,
+   "en": "＊Kairi＊＠０６３＿０２２No need to talk.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D8C4",
+   "max": 114,
+   "en": "＊Amane＊＠０２５＿０１９Woohoo! Everything's going￥great for me right now!!￥It's all thanks to you!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D938",
+   "max": 84,
+   "en": "＊Amane＊＠０２５＿０２０Prob'ly better than you,￥so it's good, I guess?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D990",
+   "max": 100,
+   "en": "＊Amane＊＠０２５＿０２１Hmm, I was so-so!￥But I gotta try￥even harder, right?!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2D9F8",
+   "max": 104,
+   "en": "＊Amane＊＠０２５＿０２２I dunno if I can be￥your rival, so just￥leave me alone, 'kay!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DA64",
+   "max": 98,
+   "en": "＊Amane＊＠０２５＿０２３What do I do?!￥I'm in really bad shape!!￥I might be done for...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DAC8",
+   "max": 106,
+   "en": "＊Amane＊＠０２５＿０２４Ugh, this is the worst!!￥Sorry, but could you￥just leave me alone?!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DB4C",
+   "max": 92,
+   "en": "＊Natsuno＊＠０８３＿０１９I think it went well!￥Hehe, all that work￥paid off!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DBAC",
+   "max": 98,
+   "en": "＊Natsuno＊＠０８３＿０２０Hmm, so-so.￥But I shouldn't settle￥for where I am.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DC10",
+   "max": 112,
+   "en": "＊Natsuno＊＠０８３＿０２１I can't go on like this.￥I've got to work harder￥until I'm satisfied!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DC84",
+   "max": 88,
+   "en": "＊Natsuno＊＠０８３＿０２２It didn't go so well...￥I was a bit naive, I guess.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DCE0",
+   "max": 84,
+   "en": "＊Natsuno＊＠０８３＿０２３At this rate, I...￥might get disqualified.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DD38",
+   "max": 98,
+   "en": "＊Natsuno＊＠０８３＿０２４What...?￥Instead of worrying about me,￥worry about yourself!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DDB4",
+   "max": 114,
+   "en": "＊Tomoe＊＠１８５＿０１９It's going very well. But￥that's exactly when I￥mustn't let my guard down.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DE28",
+   "max": 120,
+   "en": "＊Tomoe＊＠１８５＿０２０I seem to be in very good shape.￥I hope I can keep up￥this good streak...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DEA4",
+   "max": 88,
+   "en": "＊Tomoe＊＠１８５＿０２１Neither good nor bad, I think.￥I'll try harder next week.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DF00",
+   "max": 80,
+   "en": "＊Tomoe＊＠１８５＿０２２Not very good...￥I need to try harder...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DF54",
+   "max": 102,
+   "en": "＊Tomoe＊＠１８５＿０２３Not good...￥Maybe I lack focus...￥I'll try harder.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2DFBC",
+   "max": 82,
+   "en": "＊Tomoe＊＠１８５＿０２４Um... I'm sorry.￥I don't want to talk right now.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E028",
+   "max": 96,
+   "en": "＊Riko＊＠１０４＿０２１I'm in top form!￥If anyone can beat me now,￥let them try!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E08C",
+   "max": 102,
+   "en": "＊Riko＊＠１０４＿０２２I'd say so-so.￥But talking to you might￥throw me off my game!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E0F4",
+   "max": 106,
+   "en": "＊Riko＊＠１０４＿０２３I need to try harder.￥I must've been slacking off.￥Next time I'm serious!!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E160",
+   "max": 114,
+   "en": "＊Riko＊＠１０４＿０２４You people might be happy￥with this, but...￥I'm not satisfied at all!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E1D4",
+   "max": 104,
+   "en": "＊Riko＊＠１０４＿０２５This is humiliating...￥But I'm not the type to￥let it end like this!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E240",
+   "max": 96,
+   "en": "＊Riko＊＠１０４＿０２６Why do I have to￥talk to someone like you?!￥Gimme a break!!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E2BC",
+   "max": 108,
+   "en": "＊Kaname＊＠１３５＿０２１I'm doing really well￥right now! Is it all my￥hard work paying off?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E32C",
+   "max": 100,
+   "en": "＊Kaname＊＠１３５＿０２２I'm in top form right now!￥I'd love to share it￥with you, Cousin!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E394",
+   "max": 108,
+   "en": "＊Kaname＊＠１３５＿０２３Hmm, so-so this time, I guess?￥Gotta work hard so I￥don't drop any lower!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E404",
+   "max": 104,
+   "en": "＊Kaname＊＠１３５＿０２４I was just average.￥Not great or anything, but￥it's about right for me?＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E470",
+   "max": 78,
+   "en": "＊Kaname＊＠１３５＿０２５What do I do...￥I've gotta work way harder!!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E4C0",
+   "max": 106,
+   "en": "＊Kaname＊＠１３５＿０２６I'm only human. I have bad￥days too! Leave me be today!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E52C",
+   "max": 100,
+   "en": "＊Kaname＊＠１３５＿０２２I'm in top form right now!￥I'd love to share it￥with you, Cousin!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E5E4",
+   "max": 414,
+   "en": "＊Eiji＊＠０４６＿００１”４Yo! You're a candidate too?￥I'm Eiji! Nice to meet ya!＝”３＠０４６＿００２Glad there's a normal￥person like you around.＝”２＠０４６＿００３Everyone else here is￥kind of a weirdo, right?＝＠０４６＿００４Guess that's what experts￥are like...＝”４＠０４６＿００５Eh, whatever.￥I think we'll get along.＝＠０４６＿００６See ya around!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E784",
+   "max": 404,
+   "en": "＊Yoh＊＠２０３＿００１”３Hey! You're a candidate, right?￥”２I'm Yoh.￥Nice to meet you!＝＠２０３＿００２Since I first saw you,￥”４I've had my eye on you, cutie~＝”２＠２０３＿００３But until now, I never￥had a chance to talk to you.＝”４＠２０３＿００４I'm so happy you came￥and talked to me~＝”３＠２０３＿００５From now on, let's be friends￥as fellow candidates!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2E91C",
+   "max": 296,
+   "en": "＊Kairi＊＠０６３＿００１”１What? Who are you...￥Since you wear that uniform,￥you must be a candidate too.＝”２＠０６３＿００２There are more of us￥than I thought...＝＠０６３＿００３As a candidate, you're a￥rival, but I'll introduce￥myself anyway.＝”３＠０６３＿００４I'm Kairi...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2EA48",
+   "max": 418,
+   "en": "＊Amane＊”３＠０２５＿００１Oh, thank goodness!＝＠０２５＿００２I haven't talked to most people￥yet, so I was nervous. I hoped￥someone would say hi!＝”４＠０２５＿００３You're a candidate too, right?￥Nice to meet you!￥I'm Amane!＝”５＠０２５＿００４Lots of the others seem hard￥to approach, so I'm glad￥you're here!＝”４＠０２５＿００５If you want, let's be￥friends from now on!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2EBEC",
+   "max": 466,
+   "en": "＊Natsuno＊＠０８３＿００１”０You... I saw you at the￥briefing, didn't I?￥”４So we're in this together!＝”２＠０８３＿００２Nice to meet you!￥I'm Natsuno.￥Let's get along!＝”１＠０８３＿００３Some kids here are way￥younger than me, so I was￥surprised when we all met.＝”２＠０８３＿００４But someone around your age is￥easy to talk to. I'm so glad!＝”３＠０８３＿００５So feel free to talk to me￥anytime, just like now,￥”４okay?!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2EDC0",
+   "max": 366,
+   "en": "＊Tomoe＊＠１８５＿００１Oh... um...￥Are you a candidate too?＝”４＠１８５＿００２Nice to meet you.￥My name is Tomoe.＝”３＠１８５＿００３Um... I've...￥never lived with￥other people before...＝＠１８５＿００４So I might cause￥you some trouble￥now and then...＝”５＠１８５＿００５But I'll do my best,￥so I hope we get along.＞"
+  },
+  {
+   "id": "SIKEN_BIN:2EF30",
+   "max": 534,
+   "en": "＊Riko＊＠１０４＿００１”０Huh?￥You're one of the candidates?￥Hmph, you sure don't look it.＝”１＠１０４＿００２I'm Riko.￥You'd better remember that.＝”２＠１０４＿００３As a candidate, from now on...￥it's full speed ahead!＝”１＠１０４＿００４Since we're here, let me make￥one thing clear...＝＠１０４＿００５I have no intention of￥getting chummy with you people!￥Don't get the wrong idea!＝”０＠１０４＿００６Sorry, but if you talk to me￥that casually again, I won't￥bother answering!＝＠１０４＿００７Bye!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F148",
+   "max": 526,
+   "en": "＊Kaname＊＠１３５＿００１”１Nice to meet you...＝”３＠１３５＿００２Just kidding! Hehe.￥Long time no see, Cousin.￥You do remember me, right?＝＠２１１＿０１２It's your cute cousin, Kaname!￥”１The last time we saw each other￥was eight whole years ago!＝＠１３５＿００４When I saw your name on the￥list, I was sooo happy!＝”４＠１３５＿００５Now I can see you anytime,￥just like old times...＝”２＠１３５＿００６And from now on, not just as￥cousins, but as fellow￥candidates! Let's get along!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F358",
+   "max": 526,
+   "en": "＊Kaname＊＠１３５＿００１”１Nice to meet you...＝”３＠１３５＿００２Just kidding! Hehe.￥Long time no see, Cousin.￥You do remember me, right?＝＠２１１＿０１２It's your cute cousin, Kaname!￥”１The last time we saw each other￥was eight whole years ago!＝＠１３５＿００４When I saw your name on the￥list, I was sooo happy!＝”４＠１３５＿００５Now I can see you anytime,￥just like old times...＝”２＠１３５＿００６And from now on, not just as￥cousins, but as fellow￥candidates! Let's get along!＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F6A0",
+   "max": 28,
+   "en": "Eiji was chosen...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F6C0",
+   "max": 26,
+   "en": "Yoh was chosen...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F6DC",
+   "max": 28,
+   "en": "Kairi was chosen...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F6FC",
+   "max": 28,
+   "en": "Amane was chosen...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F71C",
+   "max": 28,
+   "en": "Natsuno was chosen...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F73C",
+   "max": 28,
+   "en": "Tomoe was chosen...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F75C",
+   "max": 26,
+   "en": "Riko was chosen...＞"
+  },
+  {
+   "id": "SIKEN_BIN:2F778",
+   "max": 28,
+   "en": "Kaname was chosen...＞"
+  },
+  {
+   "id": "SIKEN_BIN:3008C",
+   "max": 134,
+   "en": "＊Narusawa＊＠０００＿０２１The top overall score goes to...￥you. ...Well done.＝＠０００＿０３０Now, who will be your partner?＞"
+  },
+  {
+   "id": "SIKEN_BIN:30114",
+   "max": 164,
+   "en": "＊Narusawa＊＠０００＿０２２The top overall score goes to...￥Eiji.＝＠０００＿０３０Now, who will be your partner?＝＠００１＿００１Hm... I see. Very well.＞"
+  },
+  {
+   "id": "SIKEN_BIN:301BC",
+   "max": 162,
+   "en": "＊Narusawa＊＠０００＿０２３The top overall score goes to...￥Yoh.＝＠０００＿０３０Now, who will be your partner?＝＠００１＿００１Hm... I see. Very well.＞"
+  },
+  {
+   "id": "SIKEN_BIN:30260",
+   "max": 164,
+   "en": "＊Narusawa＊＠０００＿０２４The top overall score goes to...￥Kairi.＝＠０００＿０３０Now, who will be your partner?＝＠００１＿００１Hm... I see. Very well.＞"
+  },
+  {
+   "id": "SIKEN_BIN:30308",
+   "max": 164,
+   "en": "＊Narusawa＊＠０００＿０２５The top overall score goes to...￥Amane.＝＠０００＿０３０Now, who will be your partner?＝＠００１＿００１Hm... I see. Very well.＞"
+  },
+  {
+   "id": "SIKEN_BIN:303B0",
+   "max": 164,
+   "en": "＊Narusawa＊＠０００＿０２６The top overall score goes to...￥Natsuno.＝＠０００＿０３０Now, who will be your partner?＝＠００１＿００１Hm... I see. Very well.＞"
+  },
+  {
+   "id": "SIKEN_BIN:30458",
+   "max": 164,
+   "en": "＊Narusawa＊＠０００＿０２７The top overall score goes to...￥Tomoe.＝＠０００＿０３０Now, who will be your partner?＝＠００１＿００１Hm... I see. Very well.＞"
+  },
+  {
+   "id": "SIKEN_BIN:30500",
+   "max": 162,
+   "en": "＊Narusawa＊＠０００＿０２８The top overall score goes to...￥Riko.＝＠０００＿０３０Now, who will be your partner?＝＠００１＿００１Hm... I see. Very well.＞"
+  },
+  {
+   "id": "SIKEN_BIN:305A4",
+   "max": 164,
+   "en": "＊Narusawa＊＠０００＿０２９The top overall score goes to...￥Kaname.＝＠０００＿０３０Now, who will be your partner?＝＠００１＿００１Hm... I see. Very well.＞"
+  }
+ ]
+}

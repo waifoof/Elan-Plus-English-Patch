@@ -1,0 +1,316 @@
+{
+ "entry": 453,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0453:00011",
+   "end": "818400",
+   "en": "－　Outside the Comm Center　－＝－　Someone is shouting　－"
+  },
+  {
+   "id": "0453:00052",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿００１Calling me NOW, after all this?!￥You think that makes me happy?!￥Never show your faces again!!"
+  },
+  {
+   "id": "0453:000B9",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0453:000E5.0",
+   "choice": true,
+   "en": "Yoh? What's wrong?"
+  },
+  {
+   "id": "0453:000E5.1",
+   "choice": true,
+   "en": "Yoh... You scared me."
+  },
+  {
+   "id": "0453:00119.0",
+   "choice": true,
+   "en": "Yoh? What's wrong?"
+  },
+  {
+   "id": "0453:00119.1",
+   "choice": true,
+   "en": "Yoh? You startled me!"
+  },
+  {
+   "id": "0453:00155",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿００２Shut up! Leave me alone!!"
+  },
+  {
+   "id": "0453:00193",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿００３Shut up! Just leave me be!!"
+  },
+  {
+   "id": "0453:001CA",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0453:001DB.0",
+   "choice": true,
+   "en": "Hey, wait a second!"
+  },
+  {
+   "id": "0453:001DB.1",
+   "choice": true,
+   "en": "What are you mad about?"
+  },
+  {
+   "id": "0453:00205.0",
+   "choice": true,
+   "en": "Hey, wait a second!"
+  },
+  {
+   "id": "0453:00205.1",
+   "choice": true,
+   "en": "What are you mad about?"
+  },
+  {
+   "id": "0453:0022D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0453:00241",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿００４Those two! Those two! THOSE TWO!￥Calling me now, of all times!"
+  },
+  {
+   "id": "0453:0029F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0453:002B3",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿００５Those two! Those two! THOSE TWO!￥After all this time, what could￥they possibly have to say?!"
+  },
+  {
+   "id": "0453:00322",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿００６They leaked us candidates to the￥press, and they have the gall to￥call themselves my parents!＝＠２００＿００７I'll never accept it! Even if￥everyone else does, I won't!"
+  },
+  {
+   "id": "0453:003C4.0",
+   "choice": true,
+   "en": "Calm down!"
+  },
+  {
+   "id": "0453:003C4.1",
+   "choice": true,
+   "en": "What are you saying?"
+  },
+  {
+   "id": "0453:003EA.0",
+   "choice": true,
+   "en": "Please, calm down!"
+  },
+  {
+   "id": "0453:003EA.1",
+   "choice": true,
+   "en": "What are you saying?"
+  },
+  {
+   "id": "0453:00418",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿００８How can I possibly calm down..."
+  },
+  {
+   "id": "0453:0045A",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿００９It's about those two..."
+  },
+  {
+   "id": "0453:0048D",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０１０Those are the last faces I ever￥wanted to see again!"
+  },
+  {
+   "id": "0453:004DC",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０１１They're the two who gave that￥interview as my parents!＝＠２００＿０１２I knew it was them. They're the￥ones who told the press about￥the candidates."
+  },
+  {
+   "id": "0453:0058B",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０１３Sure, there was a time when they￥really were my parents!＝＠２００＿０１４But..."
+  },
+  {
+   "id": "0453:005F2",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0453:0060B",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０１５After just two years they dumped￥me for \"not turning out the way￥they wanted\"!＝＠２００＿０１６And NOW they're my parents?!￥Give me a break!!＝＠２００＿０１７So if I'm elite, suddenly I'm￥their kid again?!＝＠２００＿０１８Is that what being a candidate￥is? A badge for the elite?!＝＠２００＿０１９I didn't become a candidate￥just to be one of the elite!＝＠２００＿０２０Then I'll just quit!!￥I don't care about Elan anyway!!"
+  },
+  {
+   "id": "0453:007C5.0",
+   "choice": true,
+   "en": "Won't you regret that?"
+  },
+  {
+   "id": "0453:007C5.1",
+   "choice": true,
+   "en": "You really mean that?!"
+  },
+  {
+   "id": "0453:00805.0",
+   "choice": true,
+   "en": "Won't you regret that?"
+  },
+  {
+   "id": "0453:00805.1",
+   "choice": true,
+   "en": "You really mean that?!"
+  },
+  {
+   "id": "0453:00844",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０２１!!￥That's..."
+  },
+  {
+   "id": "0453:00875",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0453:00894",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０２２Huh?!￥Oh, no..."
+  },
+  {
+   "id": "0453:008CB",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0453:008E6",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０２３Oh... What am I even saying...￥Yelling stuff that makes no￥sense..."
+  },
+  {
+   "id": "0453:0094B",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０２４Sorry for taking it out on￥you..."
+  },
+  {
+   "id": "0453:00987.0",
+   "choice": true,
+   "en": "It's fine, really."
+  },
+  {
+   "id": "0453:00987.1",
+   "choice": true,
+   "en": "Don't worry about it."
+  },
+  {
+   "id": "0453:009AB.0",
+   "choice": true,
+   "en": "It's okay, really..."
+  },
+  {
+   "id": "0453:009AB.1",
+   "choice": true,
+   "en": "Don't worry about it."
+  },
+  {
+   "id": "0453:009D7",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０２５Still, I'm really sorry...￥I mean, I...￥I yelled right at you..."
+  },
+  {
+   "id": "0453:00A3B",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０２６Thanks.￥Hearing you say that...￥makes me feel better.＝＠２００＿０２７But still,￥I'm really sorry..."
+  },
+  {
+   "id": "0453:00ABA",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０２８This is weird...￥I've never told anyone about￥this before...＝＠２００＿０２９I was sure I'd never tell￥a soul..."
+  },
+  {
+   "id": "0453:00B5D",
+   "end": "818400",
+   "en": "＊Yoh＊＠２００＿０３０I never let anyone get close￥enough to talk about this stuff.＝＠２００＿０３１If I'd had a friend like you￥before, I might not have just￥drifted in as a candidate..."
+  },
+  {
+   "id": "0453:00C27.0",
+   "choice": true,
+   "en": "A friend like me...?"
+  },
+  {
+   "id": "0453:00C27.1",
+   "choice": true,
+   "en": "You didn't just drift."
+  },
+  {
+   "id": "0453:00C67.0",
+   "choice": true,
+   "en": "A friend like me...?"
+  },
+  {
+   "id": "0453:00C67.1",
+   "choice": true,
+   "en": "You didn't just drift."
+  },
+  {
+   "id": "0453:00CA9",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿００１Yeah. You're... at least,￥you're different from the people￥I knew before..."
+  },
+  {
+   "id": "0453:00D09",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿００２Yeah, maybe...￥Maybe the people around me￥aren't the issue."
+  },
+  {
+   "id": "0453:00D54",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿００３Maybe it's just my attitude..."
+  },
+  {
+   "id": "0453:00D89",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿００４Sorry.￥I kind of lost it...＝＠２０１＿００５I don't actually hate the idea￥of Elan, or being a candidate."
+  },
+  {
+   "id": "0453:00E20",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿００６It's just... I went with the￥flow and came here without￥really thinking it through."
+  },
+  {
+   "id": "0453:00E7D",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0453:00E9C",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿００７Maybe I was just... lashing￥out at everyone around me￥for no reason."
+  },
+  {
+   "id": "0453:00EF5",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿００８Maybe I should think about Elan￥for myself, and forget what￥everyone else thinks..."
+  },
+  {
+   "id": "0453:00F62",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿００９Thanks."
+  },
+  {
+   "id": "0453:00F8B",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "entry": 123,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0123:00018",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３１＿０２１Aaah... sorry.￥I can't go with you."
+  },
+  {
+   "id": "0123:00063",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３１＿０２２I wanna go to Elan, but￥you and me just don't￥seem to click."
+  },
+  {
+   "id": "0123:000CC",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３１＿０２３Wasn't there someone better￥to be your partner?"
+  },
+  {
+   "id": "0123:0011B",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0123:0012D",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００１Your grades are superb, but...￥you failed at the one thing that￥mattered: finding a partner.＝＠００２＿００２Getting along with others is￥also a vital part of qualifying."
+  },
+  {
+   "id": "0123:001F4",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００２＿００３Right now, that's what you lack.＝＠００２＿００４I'm sorry, but we can't consider￥you qualified."
+  },
+  {
+   "id": "0123:00287",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００５We'll send the people we judge￥best qualified to Elan instead."
+  },
+  {
+   "id": "0123:002F0",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００６Starting tomorrow, we'll be busy￥getting those who qualified￥ready to leave."
+  },
+  {
+   "id": "0123:0034B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００２＿００７We'll need all of you to￥help out. We're counting on you."
+  },
+  {
+   "id": "0123:003A2",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0123:003B6",
+   "end": "818400",
+   "en": "－　One Month Later　－＝－　The day the newly qualified￥　　　　leave for Elan　－"
+  },
+  {
+   "id": "0123:00425",
+   "end": "818400",
+   "en": "－　The Qualified Depart　－"
+  }
+ ]
+}

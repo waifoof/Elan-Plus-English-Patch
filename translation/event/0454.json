@@ -1,0 +1,536 @@
+{
+ "entry": 454,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0454:0001A",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0454:00031",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０１９Oh! Perfect timing!!￥I was just looking for you."
+  },
+  {
+   "id": "0454:0008A",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０２０Hey, tell me...￥Do you like ghost stories?"
+  },
+  {
+   "id": "0454:000CE.0",
+   "choice": true,
+   "en": "Yeah, I do. Why?"
+  },
+  {
+   "id": "0454:000CE.1",
+   "choice": true,
+   "en": "Not really..."
+  },
+  {
+   "id": "0454:000FC.0",
+   "choice": true,
+   "en": "Yes, I love them."
+  },
+  {
+   "id": "0454:000FC.1",
+   "choice": true,
+   "en": "They kind of scare me..."
+  },
+  {
+   "id": "0454:00128",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０２１Really? That makes this easy.￥Have you heard the rumor that￥the Cafeteria is haunted?"
+  },
+  {
+   "id": "0454:0018F",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０２２We're planning a test of courage￥tonight to see if it's true."
+  },
+  {
+   "id": "0454:001ED",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０２３Oh yeah? Don't tell me you're￥a scaredy-cat!"
+  },
+  {
+   "id": "0454:00232",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０２４So there's a rumor the Cafeteria￥is haunted, and we're planning￥a test of courage there.＝＠２０５＿０２５I'd love to see you scared~"
+  },
+  {
+   "id": "0454:002CD",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０２６I figure it's just some sick￥joke somebody started, though.＝＠２０５＿０２７Still, don't you want to know￥what's really going on?"
+  },
+  {
+   "id": "0454:00372",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０２８Come on, let's go.＝＠２０５＿０２９Everyone's already gathered on￥the Common Floor."
+  },
+  {
+   "id": "0454:003E5",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０３０Stuff like this is always more￥fun with a bigger crowd.＝＠２０５＿０３１I really want you to come."
+  },
+  {
+   "id": "0454:00469.0",
+   "choice": true,
+   "en": "Sounds fun. I'm in."
+  },
+  {
+   "id": "0454:00469.1",
+   "choice": true,
+   "en": "I don't know..."
+  },
+  {
+   "id": "0454:00493.0",
+   "choice": true,
+   "en": "Sounds fun. I'm in."
+  },
+  {
+   "id": "0454:00493.1",
+   "choice": true,
+   "en": "I don't know..."
+  },
+  {
+   "id": "0454:004BF",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿００１Great!＝＠１９１＿００２A test of courage is way more￥fun with someone cute by your￥side, don't you think?"
+  },
+  {
+   "id": "0454:0054D",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿００３Guy or not, with someone as cute￥as you, it'll be a blast."
+  },
+  {
+   "id": "0454:005A6",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿００５Okay, everyone's already￥waiting, so let's get going."
+  },
+  {
+   "id": "0454:005F5",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:00603",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿００４But if I show up with someone as￥cute as you, they'll be jealous~"
+  },
+  {
+   "id": "0454:00660",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿００５Okay, everyone's already￥waiting, so let's get going."
+  },
+  {
+   "id": "0454:006AF",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:006BF",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿００６Aww, what?￥Come with me."
+  },
+  {
+   "id": "0454:006F6",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿００７If a ghost really shows up,￥I'll chase it off for you."
+  },
+  {
+   "id": "0454:0074B",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿００８Besides, without you we've got￥an odd number.＝＠１９１＿００９Then someone has to go alone."
+  },
+  {
+   "id": "0454:007E6",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿０１０Please! Do me a favor and come!￥Everyone's waiting."
+  },
+  {
+   "id": "0454:00841",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:00855",
+   "end": "818400",
+   "en": "－　Common Floor　－＝－　Some candidates are gathered　－"
+  },
+  {
+   "id": "0454:0089D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９１＿０１１Ah!! Cousin came too!!＝＠１９１＿０１２Yoh, you're late. Everyone's￥already paired up and waiting.＝＠１９１＿０１３Let's hurry up and start!"
+  },
+  {
+   "id": "0454:00953",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９１＿０１１Ah!! Cousin came too!!＝＠１９１＿０１２Yoh, you're late. Everyone's￥already paired up and waiting.＝＠１９１＿０１３Let's hurry up and start!"
+  },
+  {
+   "id": "0454:00A06",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿０１４Sorry, sorry!￥Okay, let me explain the rules."
+  },
+  {
+   "id": "0454:00A48",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:00A5B",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿０１５I gathered you all here tonight￥for a test of courage.＝＠１９１＿０１６Once, in Alpha's service bay, a￥mechanic got locked in storage￥with a broken lock and starved.＝＠１９１＿０１７He must have died hungry,￥begging for something to eat.＝＠１９１＿０１８Ever since, they say a￥mummy-like ghost roams the￥Cafeteria, searching for food..."
+  },
+  {
+   "id": "0454:00BD6",
+   "end": "818400",
+   "en": "＊Eiji＊＠１９１＿０１９Ooooh!"
+  },
+  {
+   "id": "0454:00BFD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９１＿０２０Eek! That's so scary!"
+  },
+  {
+   "id": "0454:00C30",
+   "end": "818400",
+   "en": "＊Riko＊＠１９１＿０２１I-I-I'm not scared of that!"
+  },
+  {
+   "id": "0454:00C6B",
+   "end": "818400",
+   "en": "＊Amane＊＠１９１＿０２２Wow! I wanna see it!"
+  },
+  {
+   "id": "0454:00CA4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿０２３Now, you'll split into pairs￥and walk to the Cafeteria!＝＠１９１＿０２４For the pairs, let's see..."
+  },
+  {
+   "id": "0454:00D2D",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿０２５Oh, wait. Looks like you've all￥already paired up."
+  },
+  {
+   "id": "0454:00D7C",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿０２６Then... hey,￥you'll pair up with me, right?"
+  },
+  {
+   "id": "0454:00DC8.0",
+   "choice": true,
+   "en": "Yeah, of course."
+  },
+  {
+   "id": "0454:00DC8.1",
+   "choice": true,
+   "en": "No choice, is there?"
+  },
+  {
+   "id": "0454:00DEA.0",
+   "choice": true,
+   "en": "Sure, why not."
+  },
+  {
+   "id": "0454:00DEA.1",
+   "choice": true,
+   "en": "I guess I have to."
+  },
+  {
+   "id": "0454:00E12",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿０２７Thanks. I planned this whole￥thing just so I could pair up￥with you~"
+  },
+  {
+   "id": "0454:00E6F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:00E7E",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９１＿０２８Sure, but I set this whole thing￥up because I wanted to go with￥you from the start, you know?＝＠１９１＿０２９We're partners now, so let's￥have fun instead of complaining."
+  },
+  {
+   "id": "0454:00F2F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:00F39",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿００１Okay, let's decide the order.＝＠１９２＿００２Everyone draw a lot...＝＠１９２＿００３And we're... Ugh?!￥Sorry, we're dead last."
+  },
+  {
+   "id": "0454:00FE0",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:00FEA",
+   "end": "818400",
+   "en": "＊＊－　The pairs set off in turn...　－"
+  },
+  {
+   "id": "0454:0101D",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿００４Finally, it's our turn.￥Shall we?"
+  },
+  {
+   "id": "0454:01064",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:01078",
+   "end": "818400",
+   "en": "＊＊－　Cafeteria　－"
+  },
+  {
+   "id": "0454:0108D",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿００５I kind of forced you into this,￥didn't I? Sorry."
+  },
+  {
+   "id": "0454:010E0",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿００６But just like I thought, with￥someone as cute as you...＝＠１９２＿００７it's fun, ghost or no ghost~"
+  },
+  {
+   "id": "0454:01173",
+   "end": "818400",
+   "en": "＊Yoh＊...＝＠１９２＿００８Come to think of it, this place￥has other scary stories besides￥the Cafeteria mummy."
+  },
+  {
+   "id": "0454:011F2",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿００９They call them the Seven￥Mysteries of Alpha..."
+  },
+  {
+   "id": "0454:0123E.0",
+   "choice": true,
+   "en": "Tell me about them."
+  },
+  {
+   "id": "0454:0123E.1",
+   "choice": true,
+   "en": "Classic ghost stuff."
+  },
+  {
+   "id": "0454:01268.0",
+   "choice": true,
+   "en": "What are the others?"
+  },
+  {
+   "id": "0454:01268.1",
+   "choice": true,
+   "en": "Classic ghost stuff."
+  },
+  {
+   "id": "0454:01298",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０１０Huh?＝＠１９２＿０１１Aw, you're not scared at all."
+  },
+  {
+   "id": "0454:012EF",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０１２Truth is, I don't even know￥all of them myself."
+  },
+  {
+   "id": "0454:0133E",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０１３Stories like these are mostly￥just rumors... I wonder if the￥mummy one is made up too."
+  },
+  {
+   "id": "0454:013BA",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０１４Right?! Ghost stories like these￥are almost all made up.＝＠１９２＿０１５I wonder if any of them￥are true."
+  },
+  {
+   "id": "0454:0143F",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０１６Maybe the mummy story here￥actually happened..."
+  },
+  {
+   "id": "0454:01490",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０１７Still, nothing's shown up.￥Guess it was just a rumor..."
+  },
+  {
+   "id": "0454:014E9",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:014FD",
+   "end": "818400",
+   "en": "＊Yoh＊...?!"
+  },
+  {
+   "id": "0454:01516",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０１８Hey, did you hear something?￥From that corridor over there..."
+  },
+  {
+   "id": "0454:0156B",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:01580",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０１９There, again!￥I definitely heard something!"
+  },
+  {
+   "id": "0454:015CA.0",
+   "choice": true,
+   "en": "Yoh, go check it out!"
+  },
+  {
+   "id": "0454:015CA.1",
+   "choice": true,
+   "en": "Okay, I'll go look!"
+  },
+  {
+   "id": "0454:015FC.0",
+   "choice": true,
+   "en": "Yoh, will you go look?"
+  },
+  {
+   "id": "0454:015FC.1",
+   "choice": true,
+   "en": "Should I go look...?"
+  },
+  {
+   "id": "0454:0163E",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０２０Yeah, of course.￥You stay right here."
+  },
+  {
+   "id": "0454:0168D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:0169C",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０２１No, you wait here.￥If anything happens, yell."
+  },
+  {
+   "id": "0454:016F7",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:01706",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０２２Who's there?!"
+  },
+  {
+   "id": "0454:01732",
+   "end": "818400",
+   "en": "＊????＊＠１９２＿０２３Hey!!￥Don't you \"Who's there\" me!"
+  },
+  {
+   "id": "0454:01781",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９２＿０２４The Cafeteria closed hours ago!＝＠１９２＿０２５What are you doing here￥at this hour?!"
+  },
+  {
+   "id": "0454:01800",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０２６Oh, it was you, Narusawa.￥You scared me..."
+  },
+  {
+   "id": "0454:0184F",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０２７Um... We heard the rumor about a￥ghost here, and we got curious￥and came to check it out.＝＠１９２＿０２８Then we heard a noise, so we￥figured it was the ghost..."
+  },
+  {
+   "id": "0454:018FA",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９２＿０２９Do you two even understand￥why you're here?"
+  },
+  {
+   "id": "0454:01957",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９２＿０３０It's late.￥Get back to your rooms, now!"
+  },
+  {
+   "id": "0454:019A6",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９２＿０３１We're very sorry."
+  },
+  {
+   "id": "0454:019DD",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0454:019EF",
+   "end": "818400",
+   "en": "－　On the way back　－＝－　A figure on the Common Floor　－"
+  },
+  {
+   "id": "0454:01A30",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿００１Oh! There you are!! Where have￥you been? I've been looking all￥over for you!"
+  },
+  {
+   "id": "0454:01A91",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿００２Come on, let's hurry and go do￥the test of courage!"
+  },
+  {
+   "id": "0454:01ACF.0",
+   "choice": true,
+   "en": "What do you mean?"
+  },
+  {
+   "id": "0454:01ACF.1",
+   "choice": true,
+   "en": "We just went together!"
+  },
+  {
+   "id": "0454:01AFF.0",
+   "choice": true,
+   "en": "What do you mean?"
+  },
+  {
+   "id": "0454:01AFF.1",
+   "choice": true,
+   "en": "We just went together!"
+  },
+  {
+   "id": "0454:01B38",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿００３What? Are you messing with me?＝＠１９３＿００４Don't tell me you're gonna say￥you already went...?￥..."
+  },
+  {
+   "id": "0454:01BC7",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿００５No way... Could it be..."
+  },
+  {
+   "id": "0454:01C03",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿００６Huh?￥What are you talking about?"
+  },
+  {
+   "id": "0454:01C3A",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿００７Could it be..."
+  },
+  {
+   "id": "0454:01C6D",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿００８Who did you go with...?"
+  },
+  {
+   "id": "0454:01CA4",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

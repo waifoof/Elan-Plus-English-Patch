@@ -1,0 +1,386 @@
+{
+ "entry": 433,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0433:00016",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿００１｛１Whoa!!｛０"
+  },
+  {
+   "id": "0433:0004B",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿００２Oh, it's just you...￥Don't scare me like that!"
+  },
+  {
+   "id": "0433:00099.0",
+   "choice": true,
+   "en": "I only said hello!"
+  },
+  {
+   "id": "0433:00099.1",
+   "choice": true,
+   "en": "Up to something again?"
+  },
+  {
+   "id": "0433:000D3.0",
+   "choice": true,
+   "en": "I only said hello!"
+  },
+  {
+   "id": "0433:000D3.1",
+   "choice": true,
+   "en": "Up to something again?"
+  },
+  {
+   "id": "0433:0010F",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿００３Shhhh!￥Keep it down,￥you'll get me caught!"
+  },
+  {
+   "id": "0433:0015F",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿００４Shhhh!￥Keep it down. It was just￥a little thing."
+  },
+  {
+   "id": "0433:001B6",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿００５See, the other day Narusawa￥asked me to tune up the computer￥in his room.＝＠１１７＿００６Course, the computer itself I￥fixed up good and proper!"
+  },
+  {
+   "id": "0433:00265",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿００７But while I was at it, I pulled￥a little prank, to pay him back￥for all the grief he gives me."
+  },
+  {
+   "id": "0433:002CC",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿００８And man, he got￥SUPER mad about it."
+  },
+  {
+   "id": "0433:0031A.0",
+   "choice": true,
+   "en": "What kind of prank?"
+  },
+  {
+   "id": "0433:0031A.1",
+   "choice": true,
+   "en": "Isn't it your fault?"
+  },
+  {
+   "id": "0433:0035C.0",
+   "choice": true,
+   "en": "What kind of prank?"
+  },
+  {
+   "id": "0433:0035C.1",
+   "choice": true,
+   "en": "Isn't it your fault?"
+  },
+  {
+   "id": "0433:003A0",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿００９It's no big deal.＝＠１１７＿０１０I just set it up so a caricature￥of Narusawa pops up whenever￥it starts up."
+  },
+  {
+   "id": "0433:00429",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０１１Okay, maybe it was￥the kind of drawing that'd￥tick a guy off a little..."
+  },
+  {
+   "id": "0433:00484",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０１２But it's just a gag, y'know?￥Geez... guy can't take a joke!"
+  },
+  {
+   "id": "0433:004E2",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０１３What? You're takin'￥Narusawa's side?＝＠１１７＿０１４All I did was make a picture pop￥up when the computer starts, and￥he's mad about it!"
+  },
+  {
+   "id": "0433:00589",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０１５Geez... guys who can't take a￥joke are hopeless!"
+  },
+  {
+   "id": "0433:005E1.0",
+   "choice": true,
+   "en": "Of course he got mad."
+  },
+  {
+   "id": "0433:005E1.1",
+   "choice": true,
+   "en": "He can't take a joke..."
+  },
+  {
+   "id": "0433:00621.0",
+   "choice": true,
+   "en": "No wonder he got mad."
+  },
+  {
+   "id": "0433:00621.1",
+   "choice": true,
+   "en": "He can't take a joke..."
+  },
+  {
+   "id": "0433:00667",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０１６You think? I figure it's￥the kind of thing you just￥laugh off."
+  },
+  {
+   "id": "0433:006BC",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０１７Whoops, time for me to bolt to￥my hideout. If Narusawa shows,￥cover for me, will ya?＝＠１１７＿０１８Countin' on you!!"
+  },
+  {
+   "id": "0433:0075F",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０１９Riiight?!￥The guy's stiff as a board.＝＠１１７＿０２０He gets mad over every little￥thing anybody else would laugh￥off!"
+  },
+  {
+   "id": "0433:00802",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１７＿０２１Rei!! There you are!"
+  },
+  {
+   "id": "0433:0083D",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０２２Whoa! He's here!!￥C'mon, run for it!!"
+  },
+  {
+   "id": "0433:00885.0",
+   "choice": true,
+   "en": "Huh? W-wait a sec!!"
+  },
+  {
+   "id": "0433:00885.1",
+   "choice": true,
+   "en": "Why should I run?"
+  },
+  {
+   "id": "0433:008C5.0",
+   "choice": true,
+   "en": "Huh? W-wait a sec!!"
+  },
+  {
+   "id": "0433:008C5.1",
+   "choice": true,
+   "en": "Why should I run?"
+  },
+  {
+   "id": "0433:00905",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0433:00917",
+   "end": "818400",
+   "en": "＊＊－　； and Rei run for it　－"
+  },
+  {
+   "id": "0433:0093C",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０２３Oh, yeah, guess you're right.＝＠１１７＿０２４Well, I'm outta here.￥Handle the rest, 'kay?"
+  },
+  {
+   "id": "0433:009AF",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0433:009C7",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0433:009DE",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１７＿０２５Hey!￥Rei! Get back here!!＝＠１１７＿０２６Leave the candidates out of￥this!! Your slacking is￥contagious!!"
+  },
+  {
+   "id": "0433:00A6B",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０２７Like that's contagious!!￥...Man, he doesn't quit.＝＠１１７＿０２８Right, I know just the place...＝＠１１７＿０２９Hey! This way, this way!!"
+  },
+  {
+   "id": "0433:00B14",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0433:00B20",
+   "end": "818400",
+   "en": "＊Rei＊＠１１７＿０３０Hurry it up!￥We're toast if he catches us!!"
+  },
+  {
+   "id": "0433:00B67",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0433:00B7B",
+   "end": "818400",
+   "en": "＊＊－　Environmental Section　－"
+  },
+  {
+   "id": "0433:00B98",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿００１No way he finds us here..."
+  },
+  {
+   "id": "0433:00BDD",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿００２C'mere a sec. I'll show you my￥all-time best napping spot!＝＠１１８＿００３I've got 'em all over the place.￥But this one's the comfiest."
+  },
+  {
+   "id": "0433:00C92",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0433:00CA7",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿００４See! Nice place, huh!!＝＠１１８＿００５Got other hiding spots, like on￥the Maintenance Room containers,￥behind Workers in the Hangar...＝＠１１８＿００６But this one's got the best air,￥and you sleep great here.＝＠１１８＿００７See? You could sleep like a log."
+  },
+  {
+   "id": "0433:00DC5.0",
+   "choice": true,
+   "en": "It does look comfy."
+  },
+  {
+   "id": "0433:00DC5.1",
+   "choice": true,
+   "en": "Is napping here okay?"
+  },
+  {
+   "id": "0433:00E01.0",
+   "choice": true,
+   "en": "It does look comfy."
+  },
+  {
+   "id": "0433:00E01.1",
+   "choice": true,
+   "en": "Can we really nap here?"
+  },
+  {
+   "id": "0433:00E3F",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿００８Right? The other spots are nice￥and dark, but too dusty.＝＠１１８＿００９It's a little bright here, but￥it's real hard to find, and￥there's hardly any dust!"
+  },
+  {
+   "id": "0433:00F09",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０１０It's fine.＝＠１１８＿０１１Just be careful not to￥damage any of the￥plants around here.＝＠１１８＿０１２Break a branch or somethin',￥and there'll be trouble."
+  },
+  {
+   "id": "0433:00FBF",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０１３Lots of plants around really￥calms you down, huh."
+  },
+  {
+   "id": "0433:01006",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０１４If you like it too, you can￥use this place for naps from￥now on."
+  },
+  {
+   "id": "0433:01067",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０１５But no matter how nice it is,￥don't slack off too much."
+  },
+  {
+   "id": "0433:010C8",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０１６Slack off before you've got the￥skills, and you'll never make￥a first-class mechanic!"
+  },
+  {
+   "id": "0433:0112E.0",
+   "choice": true,
+   "en": "What's that mean?"
+  },
+  {
+   "id": "0433:0112E.1",
+   "choice": true,
+   "en": "I won't be a mechanic."
+  },
+  {
+   "id": "0433:0116E.0",
+   "choice": true,
+   "en": "What's that mean?"
+  },
+  {
+   "id": "0433:0116E.1",
+   "choice": true,
+   "en": "I won't be a mechanic."
+  },
+  {
+   "id": "0433:011B0",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０１７What do I mean...?￥Just what I said!￥Obviously!"
+  },
+  {
+   "id": "0433:0120A",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０１８Wait, are you seriously￥still planning on going to Elan?"
+  },
+  {
+   "id": "0433:01255",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０１９No way, no way!!￥Do you even know yourself?＝＠１１８＿０２０From where I'm standing,￥apprentice mechanic is about￥the best you'll get."
+  },
+  {
+   "id": "0433:012F0",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０２１You think you'll qualify?￥Nah, no chance!!"
+  },
+  {
+   "id": "0433:0133E.0",
+   "choice": true,
+   "en": "No, I'm going to Elan!"
+  },
+  {
+   "id": "0433:0133E.1",
+   "choice": true,
+   "en": "You might be right..."
+  },
+  {
+   "id": "0433:0137A.0",
+   "choice": true,
+   "en": "No, I'm going to Elan!"
+  },
+  {
+   "id": "0433:0137A.1",
+   "choice": true,
+   "en": "You might be right..."
+  },
+  {
+   "id": "0433:013B8",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０２２Huh. Well, if you're that set on￥it, go for it! I'll cheer you￥on!＝＠１１８＿０２３If a miracle happens, maybe even￥you could make it!"
+  },
+  {
+   "id": "0433:01465",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０２４I figured if you studied right,￥you'd make a pretty decent￥mechanic.＝＠１１８＿０２５Well, I ain't gonna force you.￥Doing stuff you don't wanna do￥is just a drag."
+  },
+  {
+   "id": "0433:0152A",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０２６If you wanna go to Elan, then￥stick to your guns!"
+  },
+  {
+   "id": "0433:01581",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０２７Right? Man, if you went to Elan,￥it'd be a total disaster!!"
+  },
+  {
+   "id": "0433:015E4",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０２８Anyway, if you joined us, I'd￥have less grunt work to do!＝＠１１８＿０２９Right?!"
+  },
+  {
+   "id": "0433:0164D",
+   "end": "818400",
+   "en": "＊Rei＊＠１１８＿０３０C'mon, ditch those clothes you￥can hardly move in, and go￥change into some coveralls!"
+  }
+ ]
+}

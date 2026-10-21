@@ -1,0 +1,306 @@
+{
+ "entry": 449,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0449:0001A",
+   "end": "818400",
+   "en": "－　Archives　－"
+  },
+  {
+   "id": "0449:00031",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０１０Hey!￥Perfect timing!＝＠２０１＿０１１There's something I could use￥a hand with.＝＠２０１＿０１２I'm looking up stuff on Elan.￥Pretty rare for me, huh?"
+  },
+  {
+   "id": "0449:00102",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０１３But see...￥I can't figure out where the￥latest info is."
+  },
+  {
+   "id": "0449:00167",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０１４I never really looked into it￥seriously before, y'know."
+  },
+  {
+   "id": "0449:001B3.0",
+   "choice": true,
+   "en": "Oh, all right."
+  },
+  {
+   "id": "0449:001B3.1",
+   "choice": true,
+   "en": "You never knew before?"
+  },
+  {
+   "id": "0449:001E1.0",
+   "choice": true,
+   "en": "Oh, all right."
+  },
+  {
+   "id": "0449:001E1.1",
+   "choice": true,
+   "en": "You weren't serious?"
+  },
+  {
+   "id": "0449:00217",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０１５Guess that was kinda bad, huh?＝＠２０１＿０１６But if I get serious now, I bet￥I'll still make it in time."
+  },
+  {
+   "id": "0449:0029F",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０１７Yeah, guess that was kinda￥bad, huh?＝＠２０１＿０１８But even starting now, I bet￥I'll make it in time."
+  },
+  {
+   "id": "0449:0031C",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０１９Lately I've been really￥thinking about Elan."
+  },
+  {
+   "id": "0449:00363",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２０These days I've been trying to￥sort out my feelings my own way.＝＠２０１＿０２１Like, what made me want to￥go to Elan in the first place."
+  },
+  {
+   "id": "0449:00400",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２２Did I want to go of my own free￥will, or did I just drift along￥with everyone else..."
+  },
+  {
+   "id": "0449:0046C.0",
+   "choice": true,
+   "en": "So which was it?"
+  },
+  {
+   "id": "0449:0046C.1",
+   "choice": true,
+   "en": "Motives don't matter."
+  },
+  {
+   "id": "0449:004B0.0",
+   "choice": true,
+   "en": "So which was it?"
+  },
+  {
+   "id": "0449:004B0.1",
+   "choice": true,
+   "en": "Motives don't matter."
+  },
+  {
+   "id": "0449:004F6",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２３Nope, not at all!￥I still can't tell which it was."
+  },
+  {
+   "id": "0449:00545",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２４But I know what I want now."
+  },
+  {
+   "id": "0449:0058A",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２５Right now, of my own free will,￥I \"want to go.\""
+  },
+  {
+   "id": "0449:005DC",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２６Yeah, you've got a point."
+  },
+  {
+   "id": "0449:0060B",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２７Truth is, I thought about it,￥but I never figured it out."
+  },
+  {
+   "id": "0449:00654",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２８But now, of my own free will,￥I want to go."
+  },
+  {
+   "id": "0449:006A5",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０１＿０２９It's thanks to you that I could￥think about Elan without just￥lashing out at everyone.＝＠２０１＿０３０It's because you took my￥whining seriously."
+  },
+  {
+   "id": "0449:00751.0",
+   "choice": true,
+   "en": "I just listened."
+  },
+  {
+   "id": "0449:00751.1",
+   "choice": true,
+   "en": "That's only natural."
+  },
+  {
+   "id": "0449:0077F.0",
+   "choice": true,
+   "en": "I only listened."
+  },
+  {
+   "id": "0449:0077F.1",
+   "choice": true,
+   "en": "That's only natural."
+  },
+  {
+   "id": "0449:007A9",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿００１That made me happy.￥Listening to someone whine is￥tiring and a pain, right?＝＠２０２＿００２But you didn't run away.￥You listened for real."
+  },
+  {
+   "id": "0449:00846",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿００３And... even after I took it out￥on you like that, you treated￥me the same as always."
+  },
+  {
+   "id": "0449:008B6",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿００４See? You really are great."
+  },
+  {
+   "id": "0449:008F3",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿００５With the people I used to be￥around, I never even felt like￥complaining..."
+  },
+  {
+   "id": "0449:0095F",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿００６I tried not to talk about myself￥to anyone, if I could help it.＝＠２０２＿００７And I figured I'd keep it that￥way from now on, too."
+  },
+  {
+   "id": "0449:009FE",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿００８Keeping things casual is easy.￥I was sick of letting people in￥and then getting rejected."
+  },
+  {
+   "id": "0449:00A6D",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿００９I had plenty of that with those￥rotten foster parents..."
+  },
+  {
+   "id": "0449:00AC9.0",
+   "choice": true,
+   "en": "What happened?"
+  },
+  {
+   "id": "0449:00AC9.1",
+   "choice": true,
+   "en": "Foster parents...?"
+  },
+  {
+   "id": "0449:00AF7.0",
+   "choice": true,
+   "en": "What happened?"
+  },
+  {
+   "id": "0449:00AF7.1",
+   "choice": true,
+   "en": "Foster parents...?"
+  },
+  {
+   "id": "0449:00B25",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０１０Hmm, a lot of stuff happened..."
+  },
+  {
+   "id": "0449:00B64",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０１１A couple who wanted a genius kid￥adopted a test-tube baby with a￥high IQ.＝＠２０２＿０１２But the child wasn't as smart￥as they had hoped."
+  },
+  {
+   "id": "0449:00C2B",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０１３So after two years, the boy was￥sent back to the orphanage.￥Something like that..."
+  },
+  {
+   "id": "0449:00C88",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0449:00CA5",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０１４I was sick of trusting people￥and getting rejected like that."
+  },
+  {
+   "id": "0449:00D01",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０１５Just a dumb couple who wanted￥to be parents of a genius."
+  },
+  {
+   "id": "0449:00D54",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０１６Sure, they took in a test-tube￥kid like me, but...＝＠２０２＿０１７I wasn't as smart as they'd￥hoped.＝＠２０２＿０１８So they sent me back, not as a￥kid, but as a defective product￥that didn't do as they wanted..."
+  },
+  {
+   "id": "0449:00E53",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0449:00E70",
+   "end": "818400",
+   "en": "＊Yoh＊...＝＠２０２＿０１４I was sick of trusting people￥and getting rejected like that."
+  },
+  {
+   "id": "0449:00ED7",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０２０So... I only ever kept people￥at a distance, where nobody￥could get too close..."
+  },
+  {
+   "id": "0449:00F43",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０２１But you took me seriously even￥when I was half-assing it."
+  },
+  {
+   "id": "0449:00FA2",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０２２That's why I decided to try￥trusting you."
+  },
+  {
+   "id": "0449:00FF2.0",
+   "choice": true,
+   "en": "You're flattering me."
+  },
+  {
+   "id": "0449:00FF2.1",
+   "choice": true,
+   "en": "You're making me blush."
+  },
+  {
+   "id": "0449:01014.0",
+   "choice": true,
+   "en": "You're flattering me."
+  },
+  {
+   "id": "0449:01014.1",
+   "choice": true,
+   "en": "You're making me blush."
+  },
+  {
+   "id": "0449:01036",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０２３Well, sure, I'm praising you￥as hard as I can!"
+  },
+  {
+   "id": "0449:01086",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０２４But it's the truth."
+  },
+  {
+   "id": "0449:010B9",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０２５Seriously, if I hadn't met you,￥I never would've gotten this￥interested in Elan."
+  },
+  {
+   "id": "0449:01131",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０２＿０２６You saw me for who I am, and￥you're drawn to Elan, so I could￥finally look at it openly too.＝＠２０２＿０２７Okay!￥Time to get to work!＝＠２０２＿０２８So I can go there with you..."
+  },
+  {
+   "id": "0449:01206",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

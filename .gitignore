@@ -1,0 +1,18 @@
+# build output (made from your own disc; never commit)
+work/
+out/
+tools/deps/
+
+# Python
+__pycache__/
+*.pyc
+
+# game data and emulator files
+*.bin
+*.cue
+*.iso
+*.STR
+*.state
+
+# release assets are uploaded to GitHub Releases, not committed
+*.xdelta

@@ -1,0 +1,366 @@
+{
+ "entry": 423,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0423:00019",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0423:00037",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿００１Oh, Cousin!＝＠１５７＿００２Yuri said she wants you to come￥to the Monitor Room."
+  },
+  {
+   "id": "0423:000B0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿００３Cousin, did you do something?￥Yuri seemed really serious..."
+  },
+  {
+   "id": "0423:00113.0",
+   "choice": true,
+   "en": "I'll go see anyway."
+  },
+  {
+   "id": "0423:00113.1",
+   "choice": true,
+   "en": "I did nothing. Why go?"
+  },
+  {
+   "id": "0423:0014D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿００４Oh, Cousin!＝＠１５７＿００５Yuri said she wants you to come￥to the Monitor Room."
+  },
+  {
+   "id": "0423:001C6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿００６Cousin, did you do something?￥Yuri seemed really serious..."
+  },
+  {
+   "id": "0423:00229.0",
+   "choice": true,
+   "en": "I'll go see anyway."
+  },
+  {
+   "id": "0423:00229.1",
+   "choice": true,
+   "en": "I did nothing. Why go?"
+  },
+  {
+   "id": "0423:00265",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿００７Yeah, I think that's best.￥See you, Cousin!"
+  },
+  {
+   "id": "0423:002B7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿００８Yeah, I think that's best.￥See you, Cousin!"
+  },
+  {
+   "id": "0423:00309",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿００９Really? If you say so...￥But don't blame me if you get￥in trouble later!"
+  },
+  {
+   "id": "0423:00364",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿０１０Anyway, I passed the message on!￥See you, Cousin!"
+  },
+  {
+   "id": "0423:003B3",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0423:003C7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１５７＿００９Really? If you say so...￥But don't blame me if you get￥in trouble later!"
+  },
+  {
+   "id": "0423:00422",
+   "end": "818400",
+   "en": "＠１５７＿０１１Anyway, I passed the message on!￥See you, Cousin!"
+  },
+  {
+   "id": "0423:00467",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0423:0047A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0423:0048D",
+   "end": "818400",
+   "en": "－　Monitor Room　－"
+  },
+  {
+   "id": "0423:004AE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５７＿０１２Oh...￥Good. I've been waiting for you."
+  },
+  {
+   "id": "0423:004F8.0",
+   "choice": true,
+   "en": "Did you need something?"
+  },
+  {
+   "id": "0423:004F8.1",
+   "choice": true,
+   "en": "Am I in trouble?"
+  },
+  {
+   "id": "0423:00532.0",
+   "choice": true,
+   "en": "Did you need something?"
+  },
+  {
+   "id": "0423:00532.1",
+   "choice": true,
+   "en": "Am I in trouble?"
+  },
+  {
+   "id": "0423:0056E",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５７＿０１３Sorry for calling you￥over like this.＝＠１５７＿０１４It's nothing all that￥important, really..."
+  },
+  {
+   "id": "0423:005ED",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５７＿０１５There's just something￥I wanted to show you."
+  },
+  {
+   "id": "0423:0063B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５７＿０１６Huh?￥No...?＝＠１５７＿０１７Did you maybe￥get the wrong idea?"
+  },
+  {
+   "id": "0423:006AA",
+   "end": "818400",
+   "en": "＠１５７＿０１８I didn't call you here￥to scold you."
+  },
+  {
+   "id": "0423:006F8.0",
+   "choice": true,
+   "en": "Then what is it?"
+  },
+  {
+   "id": "0423:006F8.1",
+   "choice": true,
+   "en": "Thought I'd get scolded."
+  },
+  {
+   "id": "0423:00734.0",
+   "choice": true,
+   "en": "Then what is it?"
+  },
+  {
+   "id": "0423:00734.1",
+   "choice": true,
+   "en": "Thought I'd get scolded."
+  },
+  {
+   "id": "0423:00772",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５７＿０１９Well, there's just something￥I wanted to show you..."
+  },
+  {
+   "id": "0423:007C6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５７＿０２０Like I said...￥I'm not going to scold you.＝＠１５７＿０２１We just got the latest data￥on Elan, and I thought I'd￥let you know."
+  },
+  {
+   "id": "0423:0086F",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５７＿０２２I'm sorry for calling you here￥over something so minor.＝＠１５７＿０２３If you're not interested, fine.￥Go back to your room."
+  },
+  {
+   "id": "0423:0090A",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿００１The latest data on Elan￥came in today.＝＠１５８＿００２I'm about to load it into￥the Archives computer."
+  },
+  {
+   "id": "0423:009A1",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿００３The images are so beautiful...￥I wanted you to see them first."
+  },
+  {
+   "id": "0423:009FF.0",
+   "choice": true,
+   "en": "That makes me happy."
+  },
+  {
+   "id": "0423:009FF.1",
+   "choice": true,
+   "en": "Okay if I see it first?"
+  },
+  {
+   "id": "0423:00A2D.0",
+   "choice": true,
+   "en": "That makes me happy."
+  },
+  {
+   "id": "0423:00A2D.1",
+   "choice": true,
+   "en": "Okay if I see it first?"
+  },
+  {
+   "id": "0423:00A5D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿００４Really? I'm glad!"
+  },
+  {
+   "id": "0423:00A93",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿００５Everyone will get to￥see it eventually...＝＠１５８＿００６Just this once, as a special￥treat. Come on, let's look."
+  },
+  {
+   "id": "0423:00B19.0",
+   "choice": true,
+   "en": "Not fair to the others."
+  },
+  {
+   "id": "0423:00B19.1",
+   "choice": true,
+   "en": "Our little secret, then?"
+  },
+  {
+   "id": "0423:00B53.0",
+   "choice": true,
+   "en": "Unfair to the others..."
+  },
+  {
+   "id": "0423:00B53.1",
+   "choice": true,
+   "en": "Our little secret, then?"
+  },
+  {
+   "id": "0423:00B93",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿００７You're right...＝＠１５８＿００８Then you can watch it later￥in the Monitor Room with￥everyone else."
+  },
+  {
+   "id": "0423:00C1A",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿００９Sorry for calling you here￥at this hour."
+  },
+  {
+   "id": "0423:00C6F",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０１０Right!￥Don't tell the other candidates."
+  },
+  {
+   "id": "0423:00CBD",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０１１See? Isn't it gorgeous...＝＠１５８＿０１２I wonder how many more times￥new data like this will be￥sent to us...＝＠１５８＿０１３And the selection exams are￥in their final stretch now.＝＠１５８＿０１４Thinking about that makes me￥feel so sentimental...＝＠１５８＿０１５Elan... I'm sure you￥can make it there.＝＠１５８＿０１６There's not much time left,￥but... do your best."
+  },
+  {
+   "id": "0423:00E57",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０１７Everyone feels differently￥about Elan...＝＠１５８＿０１８People around you will tell￥you all sorts of things and￥expect a lot from you..."
+  },
+  {
+   "id": "0423:00EFA",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０１９But I want you to put your own￥feelings ahead of what others￥want.＝＠１５８＿０２０You're the one going, after all."
+  },
+  {
+   "id": "0423:00F8E.0",
+   "choice": true,
+   "en": "Yes, I understand."
+  },
+  {
+   "id": "0423:00F8E.1",
+   "choice": true,
+   "en": "I'll be fine."
+  },
+  {
+   "id": "0423:00FBA.0",
+   "choice": true,
+   "en": "Yes, I understand."
+  },
+  {
+   "id": "0423:00FBA.1",
+   "choice": true,
+   "en": "I'll be fine."
+  },
+  {
+   "id": "0423:00FE9",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０２１Of course!￥I don't need to worry about￥you, do I?"
+  },
+  {
+   "id": "0423:01044",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０２２Of course.￥You've always got a mind of￥your own, don't you?"
+  },
+  {
+   "id": "0423:010A9",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０２３I hope you qualify and do￥great things on Elan, but...＝＠１５８＿０２４It's a little lonely, too.＝＠１５８＿０２５Once the exam period is over,￥you'll all leave this place..."
+  },
+  {
+   "id": "0423:01180",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０２６I feel like I'm￥being left behind..."
+  },
+  {
+   "id": "0423:011CA.0",
+   "choice": true,
+   "en": "You'll go someday too."
+  },
+  {
+   "id": "0423:011CA.1",
+   "choice": true,
+   "en": "Not sure what to say..."
+  },
+  {
+   "id": "0423:01206.0",
+   "choice": true,
+   "en": "We'll all go someday."
+  },
+  {
+   "id": "0423:01206.1",
+   "choice": true,
+   "en": "Not sure what to say..."
+  },
+  {
+   "id": "0423:01248",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０２７That's true, but...￥this whole project is so￥everyone can move there someday."
+  },
+  {
+   "id": "0423:012BB",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０２８It's just, when I thought again￥about not seeing you anymore,￥it made me feel lonely."
+  },
+  {
+   "id": "0423:01327",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０２９I know. I'm sorry.＝＠１５８＿０３０It's just, I've been watching￥all of you for months, you know?"
+  },
+  {
+   "id": "0423:013A0",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０３１And now it feels strange,￥like watching my kids￥leave the nest."
+  },
+  {
+   "id": "0423:01403",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５８＿０３２Silly of me, since I'm not your￥mother. Never mind!"
+  },
+  {
+   "id": "0423:01454",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５０＿００１Well, I'd better get this data￥filed for the records."
+  },
+  {
+   "id": "0423:014AB",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５０＿００２I really hope you qualify.＝＠１５０＿００３I'm rooting for you. Good luck!"
+  }
+ ]
+}

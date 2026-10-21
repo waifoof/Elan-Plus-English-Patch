@@ -1,0 +1,376 @@
+{
+ "entry": 459,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0459:0001A",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0459:00031",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿００１Um, hey...＝＠０７８＿００２I wanted to ask you a favor...￥I've been looking for you."
+  },
+  {
+   "id": "0459:000A0",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿００３The thing is...￥the hospital contacted me again."
+  },
+  {
+   "id": "0459:000F1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿００４But... when I think it might be￥bad news, I get too scared￥to go by myself..."
+  },
+  {
+   "id": "0459:0015F.0",
+   "choice": true,
+   "en": "Then I'll go with you."
+  },
+  {
+   "id": "0459:0015F.1",
+   "choice": true,
+   "en": "Want me to ask for you?"
+  },
+  {
+   "id": "0459:00197.0",
+   "choice": true,
+   "en": "Then I'll go with you."
+  },
+  {
+   "id": "0459:00197.1",
+   "choice": true,
+   "en": "Shall I go ask for you?"
+  },
+  {
+   "id": "0459:001D5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿００５Thank you.＝＠０７８＿００６What a relief...￥There was no one else￥I could ask..."
+  },
+  {
+   "id": "0459:0024D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿００７No...￥I need to hear it for myself."
+  },
+  {
+   "id": "0459:0029A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿００８I'm coming too."
+  },
+  {
+   "id": "0459:002C7",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0459:002D8",
+   "end": "818400",
+   "en": "－　Comm Center　－"
+  },
+  {
+   "id": "0459:002F5",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０７８＿００９Natsuno. I've been waiting."
+  },
+  {
+   "id": "0459:0032E",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０７８＿０１０All right, let's begin."
+  },
+  {
+   "id": "0459:00361",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0459:00372",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０１１Please, God...!"
+  },
+  {
+   "id": "0459:0039F",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７８＿０１２This is an urgent message from￥Sophia Central General Hospital.＝＠０７８＿０１３Haruka's condition stabilized￥early this morning, and she is￥now recovering.＝＠０７８＿０１４If all goes well, she should be￥out of the ICU by tomorrow."
+  },
+  {
+   "id": "0459:00482",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０１５Recovering..."
+  },
+  {
+   "id": "0459:004AD",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７８＿０１６Your sister fought hard."
+  },
+  {
+   "id": "0459:004E4",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０１７Yes...!￥Thank you so much!"
+  },
+  {
+   "id": "0459:00525",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７８＿０１８Also...￥your sister asked me to pass￥along a message."
+  },
+  {
+   "id": "0459:00580",
+   "end": "818400",
+   "en": "＊Haruka＊＠０７８＿０１９Sis...? Haruka's okay,￥so don't worry about me.￥Do your best!"
+  },
+  {
+   "id": "0459:005E9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０２０Haruka..."
+  },
+  {
+   "id": "0459:00614",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７８＿０２１That is all.￥Goodbye for now."
+  },
+  {
+   "id": "0459:00651",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０２２Th-thank you very much!"
+  },
+  {
+   "id": "0459:00692",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０２３Thank goodness..."
+  },
+  {
+   "id": "0459:006C4.0",
+   "choice": true,
+   "en": "I'm so glad for you."
+  },
+  {
+   "id": "0459:006C4.1",
+   "choice": true,
+   "en": "Your sister did great."
+  },
+  {
+   "id": "0459:006EE.0",
+   "choice": true,
+   "en": "I'm so glad for you."
+  },
+  {
+   "id": "0459:006EE.1",
+   "choice": true,
+   "en": "Your sister did so well."
+  },
+  {
+   "id": "0459:0071C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０２４Yes, really...￥Thank you!"
+  },
+  {
+   "id": "0459:00760",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０２５Honestly... when her condition￥got worse, I felt like I was￥dying inside..."
+  },
+  {
+   "id": "0459:007C3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０２６So... I'm just￥so, so glad!!"
+  },
+  {
+   "id": "0459:00809",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０７８＿０２７I'm so happy for you, Natsuno."
+  },
+  {
+   "id": "0459:00844",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７８＿０２８Yes! Thank you.＝＠０７８＿０２９Well... we'll be going."
+  },
+  {
+   "id": "0459:008A9",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0459:008C0",
+   "end": "818400",
+   "en": "－　； leaves with Natsuno　－"
+  },
+  {
+   "id": "0459:008E4",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿００１There's something...￥I've been meaning to tell you...＝＠０７９＿００２If you don't mind, could we talk￥in my room?"
+  },
+  {
+   "id": "0459:00978.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0459:00978.1",
+   "choice": true,
+   "en": "You can't say it here?"
+  },
+  {
+   "id": "0459:009B0.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0459:009B0.1",
+   "choice": true,
+   "en": "You can't say it here?"
+  },
+  {
+   "id": "0459:009EE",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿００３I just wanted somewhere quiet￥where we could talk."
+  },
+  {
+   "id": "0459:00A39",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿００４It's a little messy,￥so please excuse that."
+  },
+  {
+   "id": "0459:00A80",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0459:00A90",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿００５Well...￥it's not exactly a secret."
+  },
+  {
+   "id": "0459:00ADB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿００６I'd just like to talk calmly.￥So, will you come?"
+  },
+  {
+   "id": "0459:00B24",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0459:00B35",
+   "end": "818400",
+   "en": "－　Natsuno's Room　－"
+  },
+  {
+   "id": "0459:00B65",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿００７Will you listen...￥to a story about me...￥and my sister?＝＠０７９＿００８Five years ago, on that day...￥my parents and I were all out...＝＠０７９＿００９My sister was home alone when￥the drug research lab next door￥had an explosion.＝＠０７９＿０１０By the time I got there...￥she was still trapped inside￥our burning house...＝＠０７９＿０１１I broke free of the people￥holding me back and ran into￥the fire, but...＝＠０７９＿０１２as I was carrying her out,￥there was another explosion.＝＠０７９＿０１３I don't really remember￥what happened after that.＝＠０７９＿０１４When I came to...￥I was lying in a hospital bed...＝＠０７９＿０１５and by then...￥my right hand was already gone."
+  },
+  {
+   "id": "0459:00E11.0",
+   "choice": true,
+   "en": "So that's how it was..."
+  },
+  {
+   "id": "0459:00E11.1",
+   "choice": true,
+   "en": "And your sister...?"
+  },
+  {
+   "id": "0459:00E3D.0",
+   "choice": true,
+   "en": "So that's how it was..."
+  },
+  {
+   "id": "0459:00E3D.1",
+   "choice": true,
+   "en": "And your sister...?"
+  },
+  {
+   "id": "0459:00E6C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０１６But prosthetic hands are￥really advanced these days."
+  },
+  {
+   "id": "0459:00EBB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０１７It's no big deal. Not compared￥to my sister's life..."
+  },
+  {
+   "id": "0459:00F08",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０１８The accident left her with￥lasting damage... She's been￥bedridden ever since."
+  },
+  {
+   "id": "0459:00F6D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０１９After that, my sister...￥was in a coma for a while..."
+  },
+  {
+   "id": "0459:00FC2",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２０and now she's bedridden."
+  },
+  {
+   "id": "0459:01003",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２１Her doctor told me that if she￥could rest somewhere close to￥nature, she'd get much better."
+  },
+  {
+   "id": "0459:0107E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２２If people can live on Elan,￥wouldn't that be the best￥place in the world for her?"
+  },
+  {
+   "id": "0459:010EB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２３That's why I absolutely￥have to qualify..."
+  },
+  {
+   "id": "0459:01138",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２４I want to make Elan livable￥as soon as I possibly can.＝＠０７９＿０２５That's why I worked so hard￥to learn to pilot Workers..."
+  },
+  {
+   "id": "0459:011D3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２６So I couldn't just quit this￥exam halfway and go home..."
+  },
+  {
+   "id": "0459:01236",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２７You're the first person￥I've ever told this to."
+  },
+  {
+   "id": "0459:01280.0",
+   "choice": true,
+   "en": "It must've been hard..."
+  },
+  {
+   "id": "0459:01280.1",
+   "choice": true,
+   "en": "Thanks for telling me."
+  },
+  {
+   "id": "0459:012B2.0",
+   "choice": true,
+   "en": "It must've been hard..."
+  },
+  {
+   "id": "0459:012B2.1",
+   "choice": true,
+   "en": "Thanks for telling me."
+  },
+  {
+   "id": "0459:012EB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２８No... because￥I wasn't alone."
+  },
+  {
+   "id": "0459:01344",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０２９Oh, don't thank me...￥I wanted to tell you."
+  },
+  {
+   "id": "0459:01395",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０３０Thank you so much...￥for listening.＝＠０７９＿０３１Now I can give it my all for￥the final exam!!"
+  },
+  {
+   "id": "0459:0141E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７９＿０３２We both need to get fired up!"
+  }
+ ]
+}

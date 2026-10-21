@@ -1,0 +1,221 @@
+{
+ "entry": 386,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0386:00019",
+   "end": "818400",
+   "en": "－　Archives　－"
+  },
+  {
+   "id": "0386:00032",
+   "end": "818400",
+   "en": "－　Kairi is at￥　　　　the computer　－"
+  },
+  {
+   "id": "0386:0006F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿００８This isn't right... Is the data￥corrupted? No, maybe it's a￥problem on the host side..."
+  },
+  {
+   "id": "0386:000E7.0",
+   "choice": true,
+   "en": "Something wrong?"
+  },
+  {
+   "id": "0386:000E7.1",
+   "choice": true,
+   "en": "Is there a problem...?"
+  },
+  {
+   "id": "0386:00119.0",
+   "choice": true,
+   "en": "What are you doing?"
+  },
+  {
+   "id": "0386:00119.1",
+   "choice": true,
+   "en": "Is something wrong...?"
+  },
+  {
+   "id": "0386:00149",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿００９Hm? Oh...＝＠０５４＿０１０I was trying to play back some￥video data, but... it isn't￥processing smoothly.＝＠０５４＿０１１I don't think I made any￥mistakes..."
+  },
+  {
+   "id": "0386:0020D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿０１２Hm? ...No.＝＠０５４＿０１３The video just won't play￥properly on the screen.＝＠０５４＿０１４There's no way the data￥should be damaged, but..."
+  },
+  {
+   "id": "0386:002BC",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿０１５I brought this data myself. The￥data type is the same, so I￥thought it would be fine, but..."
+  },
+  {
+   "id": "0386:00331",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿０１６Hm? This might work.＝..."
+  },
+  {
+   "id": "0386:0037A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿０１７That should do it."
+  },
+  {
+   "id": "0386:003AB",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0386:003C3",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿０１８Finally, it's displaying..."
+  },
+  {
+   "id": "0386:003FF.0",
+   "choice": true,
+   "en": "What is this data?"
+  },
+  {
+   "id": "0386:003FF.1",
+   "choice": true,
+   "en": "Looked like a struggle."
+  },
+  {
+   "id": "0386:00433.0",
+   "choice": true,
+   "en": "What kind of data is it?"
+  },
+  {
+   "id": "0386:00433.1",
+   "choice": true,
+   "en": "Looked like a struggle."
+  },
+  {
+   "id": "0386:00465",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿０１９It's hologram data of Earth.＝＠０５４＿０２０I brought it myself as reference￥material, to compare Elan￥with Earth."
+  },
+  {
+   "id": "0386:004F9",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿０２１It looks like the same data￥type, but it seems the equipment￥here uses a different format.＝＠０５４＿０２２That's because this is Earth￥hologram data I brought in￥from outside.＝＠０５４＿０２３I'm using it as a reference for￥my research on Elan."
+  },
+  {
+   "id": "0386:005FE",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿００１Based on our surveys so far...＝＠０５５＿００２we've learned that Elan's￥atmosphere and life forms are￥remarkably similar to Earth's.＝＠０５５＿００３There's a theory that \"the￥whole universe is one organism.\"￥If that's true...＝＠０５５＿００４then it's not strange at all￥that similar life forms exist on￥both Earth and Elan.＝＠０５５＿００５But if so, why is there no trace￥at all of intelligent life on￥Elan...?"
+  },
+  {
+   "id": "0386:007A9",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿００６By \"bacterial evolution theory,\"￥life should evolve intelligence￥if the conditions are right..."
+  },
+  {
+   "id": "0386:00821",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿００７So which of Elan's conditions￥doesn't fit...?"
+  },
+  {
+   "id": "0386:0087A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿００８Elan truly is a fascinating￥planet. No amount of research is￥enough..."
+  },
+  {
+   "id": "0386:008DC.0",
+   "choice": true,
+   "en": "You really love Elan."
+  },
+  {
+   "id": "0386:008DC.1",
+   "choice": true,
+   "en": "You seem to enjoy this."
+  },
+  {
+   "id": "0386:00914.0",
+   "choice": true,
+   "en": "You love Elan, huh?"
+  },
+  {
+   "id": "0386:00914.1",
+   "choice": true,
+   "en": "You seem to enjoy this."
+  },
+  {
+   "id": "0386:00942",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿００９Love...?＝＠０５５＿０１０You mean it's more than just a￥research subject, that I'm drawn￥to it beyond that...?"
+  },
+  {
+   "id": "0386:009CD",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿０１１I've never thought of Elan...￥in that way.＝＠０５５＿０１２I thought I saw it as just￥another research subject,￥but..."
+  },
+  {
+   "id": "0386:00A72",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿０１３Maybe... you're right.＝＠０５５＿０１４You think about things from a￥slightly different angle. It's￥interesting."
+  },
+  {
+   "id": "0386:00B02",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿０１５Enjoying myself?＝..."
+  },
+  {
+   "id": "0386:00B3B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿０１６You see things from a slightly￥different angle. It's￥interesting."
+  },
+  {
+   "id": "0386:00B88",
+   "end": "818400",
+   "en": "＊Kairi＊..."
+  },
+  {
+   "id": "0386:00BA7",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿０１７By the way, what's your name?"
+  },
+  {
+   "id": "0386:00BE5.0",
+   "choice": true,
+   "en": "It's ；. Didn't you know?"
+  },
+  {
+   "id": "0386:00BE5.1",
+   "choice": true,
+   "en": "You forgot?! It's ；!"
+  },
+  {
+   "id": "0386:00C1B.0",
+   "choice": true,
+   "en": "It's ；. Didn't you know?"
+  },
+  {
+   "id": "0386:00C1B.1",
+   "choice": true,
+   "en": "You forgot? It's ；."
+  },
+  {
+   "id": "0386:00C4B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿０１８Ah..."
+  },
+  {
+   "id": "0386:00C79",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿０１９I see."
+  },
+  {
+   "id": "0386:00CA2",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５５＿０２０I never remember people's￥names... Sorry."
+  },
+  {
+   "id": "0386:00CE9",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

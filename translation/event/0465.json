@@ -1,0 +1,121 @@
+{
+ "entry": 465,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0465:0001C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１９Sorry to drop in on your day￥off. Got a minute?"
+  },
+  {
+   "id": "0465:0006F",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０２０Your scores have dropped a lot.￥Are you okay?＝＠０２９＿０２１This is a really important time,￥so you probably shouldn't think￥about anything but the exams."
+  },
+  {
+   "id": "0465:00122",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０２２One bad slump can end up￥affecting your overall results,￥you know!"
+  },
+  {
+   "id": "0465:00196.0",
+   "choice": true,
+   "en": "Is that so?"
+  },
+  {
+   "id": "0465:00196.1",
+   "choice": true,
+   "en": "Mind your own business."
+  },
+  {
+   "id": "0465:001B8.0",
+   "choice": true,
+   "en": "Is that so?"
+  },
+  {
+   "id": "0465:001B8.1",
+   "choice": true,
+   "en": "Mind your own business."
+  },
+  {
+   "id": "0465:001DA",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０２３Yes, it is!＝＠０２９＿０２４You don't seem all that￥interested in the exams, but...＝＠０２９＿０２５with that attitude, I don't￥think you deserve to be a￥candidate."
+  },
+  {
+   "id": "0465:00299",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０２６Oh...￥Sorry, I don't mean it badly...￥But it's the truth."
+  },
+  {
+   "id": "0465:00305",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０２７What are you talking about?!＝＠０２９＿０２８I'm only telling you this￥because you don't realize the￥position you're in!!"
+  },
+  {
+   "id": "0465:00396",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０２９Do you even realize you're a￥candidate?"
+  },
+  {
+   "id": "0465:003E3",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿００１Listen, everyone here came￥because they seriously want to￥go to Elan!"
+  },
+  {
+   "id": "0465:0045C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿００２I never thought someone as￥halfhearted as you would￥be here!"
+  },
+  {
+   "id": "0465:004B9",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿００３Honestly, not even trying is an￥insult to everyone else!!"
+  },
+  {
+   "id": "0465:00521.0",
+   "choice": true,
+   "en": "No need to go that far."
+  },
+  {
+   "id": "0465:00521.1",
+   "choice": true,
+   "en": "You're right. My bad."
+  },
+  {
+   "id": "0465:0055B.0",
+   "choice": true,
+   "en": "No need to go that far."
+  },
+  {
+   "id": "0465:0055B.1",
+   "choice": true,
+   "en": "You're right. My bad."
+  },
+  {
+   "id": "0465:00599",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿００４Sorry, but you're the one￥making me say it!＝＠０２７＿００５I don't want to say this￥stuff either, but..."
+  },
+  {
+   "id": "0465:0061F",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿００６If you really think so, then￥get your act together!"
+  },
+  {
+   "id": "0465:00676",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿００７If you really want to go to￥Elan, you need to buckle down￥and try harder."
+  },
+  {
+   "id": "0465:006E9",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿００８Otherwise, how can you face the￥people who chose you as a￥candidate?"
+  },
+  {
+   "id": "0465:00756",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿００９Okay, I'm expecting good results￥on the next exam, got it?!"
+  }
+ ]
+}

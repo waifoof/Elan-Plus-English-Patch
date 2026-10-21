@@ -1,0 +1,106 @@
+{
+ "entry": 470,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0470:0001F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿０８Yo!￥Wondered what you were doing on￥your day off, so I dropped by."
+  },
+  {
+   "id": "0470:0007A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿０９Hmm...￥So you're not training on￥your days off.＝＠０４７＿１０But your scores are good..."
+  },
+  {
+   "id": "0470:0010B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿１１Dammit!￥I was pretty confident this￥time, too!＝＠０４７＿１２How'd you pull off scores￥like that?"
+  },
+  {
+   "id": "0470:0019F.0",
+   "choice": true,
+   "en": "Just a fluke."
+  },
+  {
+   "id": "0470:0019F.1",
+   "choice": true,
+   "en": "I worked hard."
+  },
+  {
+   "id": "0470:001BF.0",
+   "choice": true,
+   "en": "Must've been a fluke."
+  },
+  {
+   "id": "0470:001BF.1",
+   "choice": true,
+   "en": "I guess I worked hard."
+  },
+  {
+   "id": "0470:001ED",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿１３You're saying you beat me￥by a fluke?"
+  },
+  {
+   "id": "0470:00232",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿１４Is that supposed to be modest?￥Sounds like a dig to me."
+  },
+  {
+   "id": "0470:0027B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿１５Well, still..."
+  },
+  {
+   "id": "0470:002AD",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿１６Yeah... I guess so.￥You've been working hard too.￥It bugs me, but I'll admit it."
+  },
+  {
+   "id": "0470:00323",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿１７You must have a knack for this.￥Your scores shot right up.￥That's awesome."
+  },
+  {
+   "id": "0470:0038E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿１８Hey, got some kind of efficient￥way to train or something?"
+  },
+  {
+   "id": "0470:003EA.0",
+   "choice": true,
+   "en": "Nothing special, really."
+  },
+  {
+   "id": "0470:003EA.1",
+   "choice": true,
+   "en": "Just focus hard, maybe?"
+  },
+  {
+   "id": "0470:0042C.0",
+   "choice": true,
+   "en": "Nothing special, really."
+  },
+  {
+   "id": "0470:0042C.1",
+   "choice": true,
+   "en": "Just focus hard, maybe?"
+  },
+  {
+   "id": "0470:00470",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿１９I see...￥So regular training's enough to￥aim for good scores, huh..."
+  },
+  {
+   "id": "0470:004DE",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿２０I know that, but...＝＠０４７＿２１I can focus like crazy on the￥stuff I'm good at.＝＠０４７＿２２It's the stuff I'm bad at where￥I just can't keep it up."
+  },
+  {
+   "id": "0470:005A2",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿２３Well, I'll give it a shot.￥Staying beaten by you would￥bug me too much.＝＠０４７＿２４Anyway, I'm gonna get going.￥Later!"
+  }
+ ]
+}

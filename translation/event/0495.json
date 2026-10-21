@@ -1,0 +1,96 @@
+{
+ "entry": 495,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0495:0001C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０１３Good morning."
+  },
+  {
+   "id": "0495:00051",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠１８７＿０１５You really are amazing."
+  },
+  {
+   "id": "0495:000A5.0",
+   "choice": true,
+   "en": "Amazing how?"
+  },
+  {
+   "id": "0495:000A5.1",
+   "choice": true,
+   "en": "Naturally."
+  },
+  {
+   "id": "0495:000C5.0",
+   "choice": true,
+   "en": "Amazing how?"
+  },
+  {
+   "id": "0495:000C5.1",
+   "choice": true,
+   "en": "Naturally."
+  },
+  {
+   "id": "0495:000E7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０１６I mean this last exam.￥Your scores were excellent."
+  },
+  {
+   "id": "0495:00141",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０１７Yes. Of course."
+  },
+  {
+   "id": "0495:00176",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０１８You even passed me in Sense,￥my best subject..."
+  },
+  {
+   "id": "0495:001D1",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０１９But if it's you,￥I can accept it.＝＠１８７＿０２０Because I know how hard￥you've been working..."
+  },
+  {
+   "id": "0495:00263.0",
+   "choice": true,
+   "en": "That makes me happy."
+  },
+  {
+   "id": "0495:00263.1",
+   "choice": true,
+   "en": "Doesn't it bug you?"
+  },
+  {
+   "id": "0495:00291.0",
+   "choice": true,
+   "en": "That makes me happy."
+  },
+  {
+   "id": "0495:00291.1",
+   "choice": true,
+   "en": "Doesn't it bug you?"
+  },
+  {
+   "id": "0495:002C1",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０２１I mean it."
+  },
+  {
+   "id": "0495:002F7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０２２Of course... it frustrates me.￥But this time, I think it￥couldn't be helped.＝＠１８７＿０２３It's because I just wasn't￥good enough."
+  },
+  {
+   "id": "0495:00394",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０２４I'll learn from losing to you￥and work harder too."
+  },
+  {
+   "id": "0495:003ED",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿０２５Sorry to bother you on your￥day off. I'd better head back￥to my room now."
+  }
+ ]
+}

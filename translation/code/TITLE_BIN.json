@@ -1,0 +1,977 @@
+{
+ "module": "GAME/TITLE.BIN",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "TITLE_BIN:00198",
+   "max": 26,
+   "en": "        Loading data..."
+  },
+  {
+   "id": "TITLE_BIN:001B4",
+   "max": 42,
+   "en": "Do not remove the Memory Card."
+  },
+  {
+   "id": "TITLE_BIN:001E0",
+   "max": 34,
+   "en": "Checking Memory Card..."
+  },
+  {
+   "id": "TITLE_BIN:002C4",
+   "max": 2,
+   "en": "Mo"
+  },
+  {
+   "id": "TITLE_BIN:002C7",
+   "max": 2,
+   "en": "Tu"
+  },
+  {
+   "id": "TITLE_BIN:002CA",
+   "max": 2,
+   "en": "We"
+  },
+  {
+   "id": "TITLE_BIN:002CD",
+   "max": 2,
+   "en": "Th"
+  },
+  {
+   "id": "TITLE_BIN:002D0",
+   "max": 2,
+   "en": "Fr"
+  },
+  {
+   "id": "TITLE_BIN:002D3",
+   "max": 2,
+   "en": "Sa"
+  },
+  {
+   "id": "TITLE_BIN:002D6",
+   "max": 2,
+   "en": "Su"
+  },
+  {
+   "id": "TITLE_BIN:0033C",
+   "max": 4,
+   "en": "　Wk"
+  },
+  {
+   "id": "TITLE_BIN:00344",
+   "max": 4,
+   "en": " ("
+  },
+  {
+   "id": "TITLE_BIN:00350",
+   "max": 4,
+   "en": " Day"
+  },
+  {
+   "id": "TITLE_BIN:00358",
+   "max": 8,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:00364",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:00370",
+   "max": 6,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:00378",
+   "max": 40,
+   "en": "Select a file to load."
+  },
+  {
+   "id": "TITLE_BIN:003A4",
+   "max": 34,
+   "en": "Are you sure?       Yes     No"
+  },
+  {
+   "id": "TITLE_BIN:003C8",
+   "max": 30,
+   "en": "             Data loaded."
+  },
+  {
+   "id": "TITLE_BIN:003E8",
+   "max": 28,
+   "en": "               No data."
+  },
+  {
+   "id": "TITLE_BIN:00408",
+   "max": 24,
+   "en": "There is no Memory Card"
+  },
+  {
+   "id": "TITLE_BIN:00424",
+   "max": 32,
+   "en": "inserted in slot 1."
+  },
+  {
+   "id": "TITLE_BIN:00448",
+   "max": 44,
+   "en": "No data. Start a new game?"
+  },
+  {
+   "id": "TITLE_BIN:00478",
+   "max": 14,
+   "en": "Yes     No"
+  },
+  {
+   "id": "TITLE_BIN:00488",
+   "max": 44,
+   "en": "Insert a Memory Card with save data"
+  },
+  {
+   "id": "TITLE_BIN:004B8",
+   "max": 22,
+   "en": "and press a button."
+  },
+  {
+   "id": "TITLE_BIN:004D0",
+   "max": 30,
+   "en": "Load failed."
+  },
+  {
+   "id": "TITLE_BIN:004F0",
+   "max": 34,
+   "en": "The data may be corrupted."
+  },
+  {
+   "id": "TITLE_BIN:00708",
+   "max": 38,
+   "en": "　　  Checking Memory Card..."
+  },
+  {
+   "id": "TITLE_BIN:00730",
+   "max": 44,
+   "en": "(Do not remove the Memory Card.)"
+  },
+  {
+   "id": "TITLE_BIN:00760",
+   "max": 22,
+   "en": " \"Loading clear data"
+  },
+  {
+   "id": "TITLE_BIN:00778",
+   "max": 42,
+   "en": "   from the Memory Card.\""
+  },
+  {
+   "id": "TITLE_BIN:007A4",
+   "max": 40,
+   "en": " \"Clear data loaded."
+  },
+  {
+   "id": "TITLE_BIN:007D0",
+   "max": 40,
+   "en": " Starting with clear data settings.\""
+  },
+  {
+   "id": "TITLE_BIN:007FC",
+   "max": 40,
+   "en": "No Memory Card in slot 1, so"
+  },
+  {
+   "id": "TITLE_BIN:00828",
+   "max": 36,
+   "en": " starting with default settings."
+  },
+  {
+   "id": "TITLE_BIN:00850",
+   "max": 40,
+   "en": "No data found, so starting with"
+  },
+  {
+   "id": "TITLE_BIN:0087C",
+   "max": 28,
+   "en": "       default settings."
+  },
+  {
+   "id": "TITLE_BIN:010CC",
+   "max": 100,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:01134",
+   "max": 80,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:01188",
+   "max": 100,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:011F0",
+   "max": 80,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:01244",
+   "max": 60,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:01284",
+   "max": 80,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:012F8",
+   "max": 4,
+   "en": "Nao",
+   "note": "default player name: kept Japanese (slot too small for full-width English)"
+  },
+  {
+   "id": "TITLE_BIN:042BC",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "TITLE_BIN:18F54",
+   "max": 8,
+   "en": "Friends"
+  },
+  {
+   "id": "TITLE_BIN:18F84",
+   "max": 14,
+   "en": "Showdown (M)"
+  },
+  {
+   "id": "TITLE_BIN:18FB4",
+   "max": 14,
+   "en": "Showdown (F)"
+  },
+  {
+   "id": "TITLE_BIN:18FE4",
+   "max": 12,
+   "en": "Bad Dream"
+  },
+  {
+   "id": "TITLE_BIN:19014",
+   "max": 22,
+   "en": "Computer Error"
+  },
+  {
+   "id": "TITLE_BIN:19044",
+   "max": 12,
+   "en": "Worries"
+  },
+  {
+   "id": "TITLE_BIN:19074",
+   "max": 10,
+   "en": "Meteor"
+  },
+  {
+   "id": "TITLE_BIN:190A4",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:190D4",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:19104",
+   "max": 38,
+   "en": "Special Graphic (M)"
+  },
+  {
+   "id": "TITLE_BIN:19134",
+   "max": 38,
+   "en": "Special Graphic (F)"
+  },
+  {
+   "id": "TITLE_BIN:19164",
+   "max": 20,
+   "en": "Exam: Rescue"
+  },
+  {
+   "id": "TITLE_BIN:19194",
+   "max": 28,
+   "en": "Exam: Worker Assembly"
+  },
+  {
+   "id": "TITLE_BIN:191C4",
+   "max": 24,
+   "en": "Exam: SL Atmo Entry"
+  },
+  {
+   "id": "TITLE_BIN:191F4",
+   "max": 14,
+   "en": "Final: Stam"
+  },
+  {
+   "id": "TITLE_BIN:19224",
+   "max": 12,
+   "en": "The Flirt"
+  },
+  {
+   "id": "TITLE_BIN:19254",
+   "max": 20,
+   "en": "Pudding Affair (M)"
+  },
+  {
+   "id": "TITLE_BIN:19284",
+   "max": 20,
+   "en": "Pudding Affair (F)"
+  },
+  {
+   "id": "TITLE_BIN:192B4",
+   "max": 26,
+   "en": "A Good Person? (M)"
+  },
+  {
+   "id": "TITLE_BIN:192E4",
+   "max": 26,
+   "en": "A Good Person? (F)"
+  },
+  {
+   "id": "TITLE_BIN:19314",
+   "max": 10,
+   "en": "The Scoop!"
+  },
+  {
+   "id": "TITLE_BIN:19344",
+   "max": 8,
+   "en": "Anger"
+  },
+  {
+   "id": "TITLE_BIN:19374",
+   "max": 8,
+   "en": "Trust"
+  },
+  {
+   "id": "TITLE_BIN:193A4",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:193D4",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:19404",
+   "max": 38,
+   "en": "Special Graphic (M)"
+  },
+  {
+   "id": "TITLE_BIN:19434",
+   "max": 38,
+   "en": "Special Graphic (F)"
+  },
+  {
+   "id": "TITLE_BIN:19464",
+   "max": 20,
+   "en": "Exam: Rescue"
+  },
+  {
+   "id": "TITLE_BIN:19494",
+   "max": 18,
+   "en": "Exam: EVA"
+  },
+  {
+   "id": "TITLE_BIN:194C4",
+   "max": 24,
+   "en": "Exam: SL Atmo Entry"
+  },
+  {
+   "id": "TITLE_BIN:194F4",
+   "max": 14,
+   "en": "Final: Str"
+  },
+  {
+   "id": "TITLE_BIN:19524",
+   "max": 12,
+   "en": "Celebrity?"
+  },
+  {
+   "id": "TITLE_BIN:19554",
+   "max": 12,
+   "en": "Studious"
+  },
+  {
+   "id": "TITLE_BIN:19584",
+   "max": 20,
+   "en": "Mold Outbreak! (M)"
+  },
+  {
+   "id": "TITLE_BIN:195B4",
+   "max": 20,
+   "en": "Mold Outbreak! (F)"
+  },
+  {
+   "id": "TITLE_BIN:195E4",
+   "max": 10,
+   "en": "Lost Item"
+  },
+  {
+   "id": "TITLE_BIN:19614",
+   "max": 18,
+   "en": "Kairi Chats!"
+  },
+  {
+   "id": "TITLE_BIN:19644",
+   "max": 22,
+   "en": "Glad I Met You"
+  },
+  {
+   "id": "TITLE_BIN:19674",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:196A4",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:196D4",
+   "max": 38,
+   "en": "Special Graphic (M)"
+  },
+  {
+   "id": "TITLE_BIN:19704",
+   "max": 38,
+   "en": "Special Graphic (F)"
+  },
+  {
+   "id": "TITLE_BIN:19734",
+   "max": 22,
+   "en": "Exam: Sample Study"
+  },
+  {
+   "id": "TITLE_BIN:19764",
+   "max": 20,
+   "en": "Exam: Bio Catch"
+  },
+  {
+   "id": "TITLE_BIN:19794",
+   "max": 24,
+   "en": "Exam: SL Gate Flight"
+  },
+  {
+   "id": "TITLE_BIN:197C4",
+   "max": 14,
+   "en": "Final: Int"
+  },
+  {
+   "id": "TITLE_BIN:197F4",
+   "max": 10,
+   "en": "Seed&Dream"
+  },
+  {
+   "id": "TITLE_BIN:19824",
+   "max": 18,
+   "en": "Don't Underrate Me"
+  },
+  {
+   "id": "TITLE_BIN:19854",
+   "max": 18,
+   "en": "Noticing Matters"
+  },
+  {
+   "id": "TITLE_BIN:19884",
+   "max": 12,
+   "en": "What Matters"
+  },
+  {
+   "id": "TITLE_BIN:198B4",
+   "max": 12,
+   "en": "Seed of Joy"
+  },
+  {
+   "id": "TITLE_BIN:198E4",
+   "max": 16,
+   "en": "Facing the Sun"
+  },
+  {
+   "id": "TITLE_BIN:19914",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:19944",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:19974",
+   "max": 38,
+   "en": "Special Graphic (M)"
+  },
+  {
+   "id": "TITLE_BIN:199A4",
+   "max": 38,
+   "en": "Special Graphic (F)"
+  },
+  {
+   "id": "TITLE_BIN:199D4",
+   "max": 20,
+   "en": "Exam: Rescue"
+  },
+  {
+   "id": "TITLE_BIN:19A04",
+   "max": 18,
+   "en": "Exam: EVA"
+  },
+  {
+   "id": "TITLE_BIN:19A34",
+   "max": 28,
+   "en": "Exam: Worker Assembly"
+  },
+  {
+   "id": "TITLE_BIN:19A64",
+   "max": 16,
+   "en": "Final: Tech"
+  },
+  {
+   "id": "TITLE_BIN:19A94",
+   "max": 24,
+   "en": "Spunky Big Sister"
+  },
+  {
+   "id": "TITLE_BIN:19AC4",
+   "max": 14,
+   "en": "Hidden Side"
+  },
+  {
+   "id": "TITLE_BIN:19AF4",
+   "max": 12,
+   "en": "Her Hands"
+  },
+  {
+   "id": "TITLE_BIN:19B24",
+   "max": 6,
+   "en": "Sister"
+  },
+  {
+   "id": "TITLE_BIN:19B54",
+   "max": 20,
+   "en": "Thank You (M)"
+  },
+  {
+   "id": "TITLE_BIN:19B84",
+   "max": 20,
+   "en": "Thank You (F)"
+  },
+  {
+   "id": "TITLE_BIN:19BB4",
+   "max": 16,
+   "en": "A Place of Peace"
+  },
+  {
+   "id": "TITLE_BIN:19BE4",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:19C14",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:19C44",
+   "max": 38,
+   "en": "Special Graphic (M)"
+  },
+  {
+   "id": "TITLE_BIN:19C74",
+   "max": 38,
+   "en": "Special Graphic (F)"
+  },
+  {
+   "id": "TITLE_BIN:19CA4",
+   "max": 28,
+   "en": "Exam: Worker Assembly"
+  },
+  {
+   "id": "TITLE_BIN:19CD4",
+   "max": 18,
+   "en": "Exam: Geology"
+  },
+  {
+   "id": "TITLE_BIN:19D04",
+   "max": 24,
+   "en": "Exam: SL Gate Flight"
+  },
+  {
+   "id": "TITLE_BIN:19D34",
+   "max": 16,
+   "en": "Final: Pilot"
+  },
+  {
+   "id": "TITLE_BIN:19D64",
+   "max": 16,
+   "en": "Seeing a Fight"
+  },
+  {
+   "id": "TITLE_BIN:19D94",
+   "max": 10,
+   "en": "Collapse"
+  },
+  {
+   "id": "TITLE_BIN:19DC4",
+   "max": 14,
+   "en": "The Pendant"
+  },
+  {
+   "id": "TITLE_BIN:19DF4",
+   "max": 8,
+   "en": "Outburst"
+  },
+  {
+   "id": "TITLE_BIN:19E24",
+   "max": 18,
+   "en": "Power of Intuition"
+  },
+  {
+   "id": "TITLE_BIN:19E54",
+   "max": 14,
+   "en": "Courage (M)"
+  },
+  {
+   "id": "TITLE_BIN:19E84",
+   "max": 14,
+   "en": "Courage (F)"
+  },
+  {
+   "id": "TITLE_BIN:19EB4",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:19EE4",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:19F14",
+   "max": 38,
+   "en": "Special Graphic (M)"
+  },
+  {
+   "id": "TITLE_BIN:19F44",
+   "max": 38,
+   "en": "Special Graphic (F)"
+  },
+  {
+   "id": "TITLE_BIN:19F74",
+   "max": 22,
+   "en": "Exam: Sample Study"
+  },
+  {
+   "id": "TITLE_BIN:19FA4",
+   "max": 18,
+   "en": "Exam: Geology"
+  },
+  {
+   "id": "TITLE_BIN:19FD4",
+   "max": 20,
+   "en": "Exam: Bio Catch"
+  },
+  {
+   "id": "TITLE_BIN:1A004",
+   "max": 16,
+   "en": "Final: Sense"
+  },
+  {
+   "id": "TITLE_BIN:1A034",
+   "max": 18,
+   "en": "Stay Away from Me!"
+  },
+  {
+   "id": "TITLE_BIN:1A064",
+   "max": 16,
+   "en": "What Scares You?"
+  },
+  {
+   "id": "TITLE_BIN:1A094",
+   "max": 20,
+   "en": "Riko's Feelings (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A0C4",
+   "max": 20,
+   "en": "Riko's Feelings (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A0F4",
+   "max": 22,
+   "en": "Daddy's Pull?! (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A124",
+   "max": 22,
+   "en": "Daddy's Pull?! (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A154",
+   "max": 28,
+   "en": "As an Elan Candidate (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A184",
+   "max": 28,
+   "en": "As an Elan Candidate (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A1B4",
+   "max": 14,
+   "en": "Value of Trust"
+  },
+  {
+   "id": "TITLE_BIN:1A1E4",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A214",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A244",
+   "max": 38,
+   "en": "Special Graphic (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A274",
+   "max": 38,
+   "en": "Special Graphic (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A2A4",
+   "max": 18,
+   "en": "Exam: Geology"
+  },
+  {
+   "id": "TITLE_BIN:1A2D4",
+   "max": 20,
+   "en": "Exam: Bio Catch"
+  },
+  {
+   "id": "TITLE_BIN:1A304",
+   "max": 24,
+   "en": "Exam: SL Gate Flight"
+  },
+  {
+   "id": "TITLE_BIN:1A334",
+   "max": 16,
+   "en": "Final: Judge"
+  },
+  {
+   "id": "TITLE_BIN:1A364",
+   "max": 18,
+   "en": "Long Time No See"
+  },
+  {
+   "id": "TITLE_BIN:1A394",
+   "max": 24,
+   "en": "Jealousy 1: Blackout (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A3C4",
+   "max": 24,
+   "en": "Jealousy 1: Blackout (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A3F4",
+   "max": 16,
+   "en": "Don't Be Mad"
+  },
+  {
+   "id": "TITLE_BIN:1A424",
+   "max": 18,
+   "en": "My Power"
+  },
+  {
+   "id": "TITLE_BIN:1A454",
+   "max": 18,
+   "en": "Jealousy 2: Aware"
+  },
+  {
+   "id": "TITLE_BIN:1A484",
+   "max": 16,
+   "en": "Forever Together"
+  },
+  {
+   "id": "TITLE_BIN:1A4B4",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A4E4",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A514",
+   "max": 38,
+   "en": "Special Graphic (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A544",
+   "max": 38,
+   "en": "Special Graphic (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A574",
+   "max": 18,
+   "en": "Exam: EVA"
+  },
+  {
+   "id": "TITLE_BIN:1A5A4",
+   "max": 22,
+   "en": "Exam: Sample Study"
+  },
+  {
+   "id": "TITLE_BIN:1A5D4",
+   "max": 24,
+   "en": "Exam: SL Atmo Entry"
+  },
+  {
+   "id": "TITLE_BIN:1A604",
+   "max": 14,
+   "en": "Final: Grit"
+  },
+  {
+   "id": "TITLE_BIN:1A634",
+   "max": 24,
+   "en": "For a Future Unseen"
+  },
+  {
+   "id": "TITLE_BIN:1A664",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A694",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A6C4",
+   "max": 24,
+   "en": "What We Entrust to Them"
+  },
+  {
+   "id": "TITLE_BIN:1A6F4",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A724",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A754",
+   "max": 26,
+   "en": "Aiming for Ace Mechanic?!"
+  },
+  {
+   "id": "TITLE_BIN:1A784",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A7B4",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A7E4",
+   "max": 24,
+   "en": "Hope's Light Beyond Time"
+  },
+  {
+   "id": "TITLE_BIN:1A814",
+   "max": 30,
+   "en": "Best Ending (M)"
+  },
+  {
+   "id": "TITLE_BIN:1A844",
+   "max": 30,
+   "en": "Best Ending (F)"
+  },
+  {
+   "id": "TITLE_BIN:1A8A4",
+   "max": 6,
+   "en": "Eiji"
+  },
+  {
+   "id": "TITLE_BIN:1A8AE",
+   "max": 6,
+   "en": " Yoh"
+  },
+  {
+   "id": "TITLE_BIN:1A8B8",
+   "max": 6,
+   "en": "Kairi"
+  },
+  {
+   "id": "TITLE_BIN:1A8C2",
+   "max": 6,
+   "en": "Amane"
+  },
+  {
+   "id": "TITLE_BIN:1A8CC",
+   "max": 6,
+   "en": "Natsu"
+  },
+  {
+   "id": "TITLE_BIN:1A8D6",
+   "max": 6,
+   "en": "Tomoe"
+  },
+  {
+   "id": "TITLE_BIN:1A8E0",
+   "max": 6,
+   "en": " Riko"
+  },
+  {
+   "id": "TITLE_BIN:1A8EA",
+   "max": 6,
+   "en": "Kaname"
+  },
+  {
+   "id": "TITLE_BIN:1A8F4",
+   "max": 8,
+   "en": "Narusawa"
+  },
+  {
+   "id": "TITLE_BIN:1A8FE",
+   "max": 6,
+   "en": "Sakaki"
+  },
+  {
+   "id": "TITLE_BIN:1A908",
+   "max": 6,
+   "en": " Rei"
+  },
+  {
+   "id": "TITLE_BIN:1A912",
+   "max": 6,
+   "en": "Sarai"
+  }
+ ]
+}

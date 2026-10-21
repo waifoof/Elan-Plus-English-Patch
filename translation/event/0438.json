@@ -1,0 +1,496 @@
+{
+ "entry": 438,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0438:0001F",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0438:00034",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１２３＿０１８Good work. Looks like you were￥working hard again today.＝＠１２３＿０１９You've gotten used to this place￥and you're finally showing what￥you can really do."
+  },
+  {
+   "id": "0438:000CD",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１２３＿０２０It's only natural to feel the￥pressure, but...｝￥＠１２３＿０２１Try not to let it get to you."
+  },
+  {
+   "id": "0438:00150",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１２３＿０２２Give it everything you've got,￥and I hope your results live up￥to our expectations."
+  },
+  {
+   "id": "0438:001B5",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１２３＿０２３Well then, keep at it."
+  },
+  {
+   "id": "0438:001E8",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0438:001F8",
+   "end": "818400",
+   "en": "＊???＊＠１２３＿０２４Hey!! Quit swooning!￥You're practically drooling!"
+  },
+  {
+   "id": "0438:0024B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０２５Just kidding!!￥Did I scare you?!"
+  },
+  {
+   "id": "0438:0028C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０２６Cousiiin! You and Yuri sure￥looked awfully cozy, huh?!"
+  },
+  {
+   "id": "0438:002EF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０２７So you really do go for older,￥sexy women?"
+  },
+  {
+   "id": "0438:0033A.0",
+   "choice": true,
+   "en": "Quit teasing me."
+  },
+  {
+   "id": "0438:0033A.1",
+   "choice": true,
+   "en": "I do like older women."
+  },
+  {
+   "id": "0438:0036A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００１Reeeally? 'Cause you were￥staring at Yuri the whole time!"
+  },
+  {
+   "id": "0438:003D9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００２Aww... I guess I just can't￥compete with an older woman..."
+  },
+  {
+   "id": "0438:0043D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００３Geez!!￥Why are guys always￥like this?!"
+  },
+  {
+   "id": "0438:0048E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００４You're all such suckers￥for grown-up charm!"
+  },
+  {
+   "id": "0438:004CB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００５But hey! Maybe someday I'll be￥even sexier than Yuri.￥You never know!"
+  },
+  {
+   "id": "0438:0053E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００６Ah! You're giving me that￥doubtful look!!"
+  },
+  {
+   "id": "0438:00586",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００７You've always been like this,￥Cousin.＝＠１２４＿００８You never really notice me."
+  },
+  {
+   "id": "0438:0060B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００９Same when we were little.＝＠１２４＿０１０I was always chasing after￥you, Cousin.＝＠１２４＿０１１And yet..."
+  },
+  {
+   "id": "0438:006B2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０１２Ugh!! And yet you...!!"
+  },
+  {
+   "id": "0438:006F4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０１３?! ..."
+  },
+  {
+   "id": "0438:0071D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0438:00729",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０１４Eek!!＝＠１２４＿０１５No!! It's pitch black!＝＠１２４＿０１６Wh-where are you, Cousin?!"
+  },
+  {
+   "id": "0438:007AC.0",
+   "choice": true,
+   "en": "I'm right here."
+  },
+  {
+   "id": "0438:007AC.1",
+   "choice": true,
+   "en": "It'll be back on soon."
+  },
+  {
+   "id": "0438:007DE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０１７Eek!!＝＠１２４＿０１８Owww!!￥I tripped!!＝＠１２４＿０１９Cousiiin!￥Come over here!!"
+  },
+  {
+   "id": "0438:00874",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２０But, but, Cousiiin!!＝＠１２４＿０２１#*?!%&!~$^!!*#?!￥!^!*~!#*!%?*!~$^!￥?~$^!*~?#!#*!%&!"
+  },
+  {
+   "id": "0438:0093D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２２Hey!! What do we do?!"
+  },
+  {
+   "id": "0438:00980",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２３Eek!!"
+  },
+  {
+   "id": "0438:009AB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２４What now?!"
+  },
+  {
+   "id": "0438:009DC.0",
+   "choice": true,
+   "en": "I'm sure it's fine."
+  },
+  {
+   "id": "0438:009DC.1",
+   "choice": true,
+   "en": "Kaname, calm down!"
+  },
+  {
+   "id": "0438:00A0A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２５R-right.＝＠１２４＿０２６It's probably just a little￥glitch that switched the lights￥to night mode..."
+  },
+  {
+   "id": "0438:00A9E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２７Y-yeah. Cousin... it's￥probably... nothing serious,￥right?"
+  },
+  {
+   "id": "0438:00B05",
+   "end": "818400",
+   "en": "＊Kaname＊..."
+  },
+  {
+   "id": "0438:00B26",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿００１I wonder when it'll be fixed...＝...＝...＝..."
+  },
+  {
+   "id": "0438:00B91",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿００２It's strange...＝＠１２５＿００３Being like this, I just￥naturally calm down...＝＠１２５＿００４Come to think of it...￥something like this happened￥to us before, right?"
+  },
+  {
+   "id": "0438:00C3E.0",
+   "choice": true,
+   "en": "Yeah..."
+  },
+  {
+   "id": "0438:00C3E.1",
+   "choice": true,
+   "en": "Did it?"
+  },
+  {
+   "id": "0438:00C60",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿００５You don't really remember,￥do you?"
+  },
+  {
+   "id": "0438:00CA0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿００６Yeah... It was a long time￥ago, so I guess it's no wonder￥you forgot."
+  },
+  {
+   "id": "0438:00CF5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿００７Back then... we were both￥still little...＝＠１２５＿００８We went off on an \"adventure,\"￥walking to the next residential￥area, where we'd never been.＝＠１２５＿００９We found a sealed-off supply￥warehouse there...＝＠１２５＿０１０We called it our \"secret base\"￥and went inside, but then we got￥locked in...＝＠１２５＿０１１It was pitch dark back then too,￥just like this...＝＠１２５＿０１２And I remember calming down,￥listening to your heartbeat￥against my back...＝＠１２５＿０１３It's been over eight years...￥and I haven't changed at all."
+  },
+  {
+   "id": "0438:00F2A",
+   "end": "818400",
+   "en": "＊Kaname＊..."
+  },
+  {
+   "id": "0438:00F47",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０１４If I'm the only one who hasn't￥changed... and I end up holding￥you back..."
+  },
+  {
+   "id": "0438:00FB4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０１５I'd hate that..."
+  },
+  {
+   "id": "0438:00FF4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０１６Oh! They're back on!!"
+  },
+  {
+   "id": "0438:01023",
+   "end": "818400",
+   "en": "＊PA＊＠１２５＿０１７Uh, attention, everyone in￥this block."
+  },
+  {
+   "id": "0438:01060",
+   "end": "818400",
+   "en": "＊PA＊＠１２５＿０１８Due to a minor error, power to￥the lighting was temporarily￥cut off, but...＝＠１２５＿０１９There's no other effect on the￥facility whatsoever, so please￥don't be alarmed.＝＠１２５＿０２０Some shutters may drop and the￥lights may dim for a bit, but￥it will all be restored soon.＝＠１２５＿０２１...Eh, not like anybody's￥listening. That's all..."
+  },
+  {
+   "id": "0438:011D3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０２２Geez!!￥They sure took their time!"
+  },
+  {
+   "id": "0438:01210",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０２３I guess I talked too much."
+  },
+  {
+   "id": "0438:0124B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０２４I'm going to try even harder￥from now on.＝＠１２５＿０２５So I don't hold you back like I￥did when we were little!"
+  },
+  {
+   "id": "0438:012F5",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0438:0130C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２５＿０２６Good work again today.＝＠１２５＿０２７Looks like you've gotten used to￥this place and you're finally￥showing what you can do."
+  },
+  {
+   "id": "0438:013A3",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２５＿０２８You carry the hopes of us￥supervisors... no, of all￥humanity."
+  },
+  {
+   "id": "0438:01410",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２５＿０２９I'm counting on you to deliver￥good results."
+  },
+  {
+   "id": "0438:01463",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２５＿０３０Keep it up."
+  },
+  {
+   "id": "0438:0148E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0438:014A3",
+   "end": "818400",
+   "en": "＊???＊＠１２６＿００１Guess whooo!!"
+  },
+  {
+   "id": "0438:014CE.0",
+   "choice": true,
+   "en": "Kaname?"
+  },
+  {
+   "id": "0438:014CE.1",
+   "choice": true,
+   "en": "Hey, quit goofing off."
+  },
+  {
+   "id": "0438:014F6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２６＿００２Bingo!"
+  },
+  {
+   "id": "0438:01521",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２６＿００３Geez, Cousin! You were having￥such a fun chat with Narusawa.＝＠１２６＿００４I couldn't come out of hiding!＝＠１２６＿００５You know I'm not good with￥Narusawa, right?"
+  },
+  {
+   "id": "0438:01603",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２６＿００６Whoa!! So cold!!￥You sure looked like you were￥having fun, Cousin!"
+  },
+  {
+   "id": "0438:01671",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００７You've always been like this,￥Cousin.＝＠１２４＿００８You never really notice me."
+  },
+  {
+   "id": "0438:016F6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿００９Same when we were little.＝＠１２４＿０１０I was always chasing after￥you, Cousin.＝＠１２４＿０１１And yet..."
+  },
+  {
+   "id": "0438:0179D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０１２Ugh!! And yet you...!!"
+  },
+  {
+   "id": "0438:017DF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０１３?! ..."
+  },
+  {
+   "id": "0438:01808",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0438:01814",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０１４Eek!!＝＠１２４＿０１５No!! It's pitch black!＝＠１２４＿０１６Wh-where are you, Cousin?!"
+  },
+  {
+   "id": "0438:01897.0",
+   "choice": true,
+   "en": "I'm right here."
+  },
+  {
+   "id": "0438:01897.1",
+   "choice": true,
+   "en": "It'll be back on soon."
+  },
+  {
+   "id": "0438:018C9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０１７Eek!!＝＠１２４＿０１８Owww!!￥I tripped!!＝＠１２４＿０１９Cousiiin!￥Come over here!!"
+  },
+  {
+   "id": "0438:0195F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２０But, but, Cousiiin!!＝＠１２４＿０２１#*?!%&!~$^!!*#?!￥!^!*~!#*!%?*!~$^!￥?~$^!*~?#!#*!%&!"
+  },
+  {
+   "id": "0438:01A28",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２２Hey!! What do we do?!"
+  },
+  {
+   "id": "0438:01A6B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２３Eek!!"
+  },
+  {
+   "id": "0438:01A96",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２４What now?!"
+  },
+  {
+   "id": "0438:01AC7.0",
+   "choice": true,
+   "en": "I'm sure it's fine."
+  },
+  {
+   "id": "0438:01AC7.1",
+   "choice": true,
+   "en": "Kaname, calm down!"
+  },
+  {
+   "id": "0438:01AF3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２５R-right.＝＠１２４＿０２６It's probably just a little￥glitch that switched the lights￥to night mode..."
+  },
+  {
+   "id": "0438:01B87",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２４＿０２７Y-yeah. Cousin... it's￥probably... nothing serious,￥right?"
+  },
+  {
+   "id": "0438:01BEE",
+   "end": "818400",
+   "en": "＊Kaname＊..."
+  },
+  {
+   "id": "0438:01C0F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２６＿００７I wonder when it'll be fixed...＝...＝＠１２６＿００８Your hand, Cousin...＝＠１２６＿００９It's so warm...＝..."
+  },
+  {
+   "id": "0438:01CB2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２６＿０１０It's strange...＝＠１２６＿０１１Being like this, I just￥naturally calm down...＝＠１２６＿０１２Come to think of it...￥something like this happened￥to us before, right?"
+  },
+  {
+   "id": "0438:01D5F.0",
+   "choice": true,
+   "en": "Yes..."
+  },
+  {
+   "id": "0438:01D5F.1",
+   "choice": true,
+   "en": "Hmm... did it?"
+  },
+  {
+   "id": "0438:01D87",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２６＿０１３You don't really remember,￥do you?"
+  },
+  {
+   "id": "0438:01DC7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２６＿０１４Yeah... It was a long time￥ago, so I guess it's no wonder￥you forgot."
+  },
+  {
+   "id": "0438:01E1C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２６＿０１５Back then...＝＠１２６＿０１６We walked over to the next￥residential area, where we'd￥never been before.＝＠１２６＿０１７We found a sealed-off supply￥warehouse there...＝＠１２６＿０１８We called it our \"secret house\"￥and went inside, but then we got￥locked in...＝＠１２６＿０１９It was pitch dark back then too,￥just like this...＝＠１２６＿０２０And I remember you held my hand,￥and that calmed me down."
+  },
+  {
+   "id": "0438:01FC9",
+   "end": "818400",
+   "en": "＊Kaname＊..."
+  },
+  {
+   "id": "0438:01FE6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０１４If I'm the only one who hasn't￥changed... and I end up holding￥you back..."
+  },
+  {
+   "id": "0438:02053",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０１５I'd hate that..."
+  },
+  {
+   "id": "0438:02093",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０１６Oh! They're back on!!"
+  },
+  {
+   "id": "0438:020C2",
+   "end": "818400",
+   "en": "＊PA＊＠１２５＿０１７Uh, attention, everyone in￥this block."
+  },
+  {
+   "id": "0438:020FF",
+   "end": "818400",
+   "en": "＊PA＊＠１２５＿０１８Due to a minor error, power to￥the lighting was temporarily￥cut off, but...＝＠１２５＿０１９There's no other effect on the￥facility whatsoever, so please￥don't be alarmed.＝＠１２５＿０２０Some shutters may drop and the￥lights may dim for a bit, but￥it will all be restored soon.＝＠１２５＿０２１...Eh, not like anybody's￥listening. That's all..."
+  },
+  {
+   "id": "0438:02272",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０２２Geez!!￥They sure took their time!"
+  },
+  {
+   "id": "0438:022AF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０２３I guess I talked too much."
+  },
+  {
+   "id": "0438:022EA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２５＿０２４I'm going to try even harder￥from now on.＝＠１２５＿０２５So I don't hold you back like I￥did when we were little!"
+  }
+ ]
+}

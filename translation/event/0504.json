@@ -1,0 +1,26 @@
+{
+ "entry": 504,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0504:0001F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４０＿０１３Got a minute...?￥I need to talk to you."
+  },
+  {
+   "id": "0504:0006C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４０＿０１４You've been slacking on your￥Stamina training lately.＝＠１４０＿０１５Keep that up, and you'll fall￥further and further behind the￥other candidates."
+  },
+  {
+   "id": "0504:00115",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４０＿０１６At this rate, you won't have a￥prayer of qualifying!"
+  },
+  {
+   "id": "0504:00176",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４０＿０１７Today's meant to be a day off,￥but I'll open the Indoor Gym￥for you, just this once.＝＠１４０＿０１８You're doing extra training￥with me, starting now!"
+  }
+ ]
+}

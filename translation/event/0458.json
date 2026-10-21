@@ -1,0 +1,426 @@
+{
+ "entry": 458,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0458:0001A",
+   "end": "818400",
+   "en": "－　Outside the Comm Center　－"
+  },
+  {
+   "id": "0458:0003B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿００１Oh?￥Do you need the Comm Center too?"
+  },
+  {
+   "id": "0458:00082",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿００２I've got a call from Sophia too.＝＠０７５＿００３Probably from my little sister."
+  },
+  {
+   "id": "0458:00109",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿００４It's been so long since I saw￥her face, I'm just thrilled!"
+  },
+  {
+   "id": "0458:0015C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿００５Not to brag, but my little￥sister is super cute!"
+  },
+  {
+   "id": "0458:001B4.0",
+   "choice": true,
+   "en": "I'd love to meet her."
+  },
+  {
+   "id": "0458:001B4.1",
+   "choice": true,
+   "en": "Aren't you biased?"
+  },
+  {
+   "id": "0458:001E4.0",
+   "choice": true,
+   "en": "I'd love to meet her."
+  },
+  {
+   "id": "0458:001E4.1",
+   "choice": true,
+   "en": "Aren't you biased?"
+  },
+  {
+   "id": "0458:0021A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿００６Oh, all right. Just this once,￥I'll let you meet her!"
+  },
+  {
+   "id": "0458:00277",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0458:00286",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿００７Well, I can't blame you for￥thinking that... But!￥She really is that cute!!"
+  },
+  {
+   "id": "0458:002F3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿００８You'll see when you meet her.￥Come on, come with me!!"
+  },
+  {
+   "id": "0458:00344",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0458:00355",
+   "end": "818400",
+   "en": "－　Comm Center　－"
+  },
+  {
+   "id": "0458:00370",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０７５＿００９Natsuno, I've been waiting...￥Oh, you brought a friend today."
+  },
+  {
+   "id": "0458:003CC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０７５＿０１０It's from the usual hospital,￥but it seems they're calling on￥the emergency-only line."
+  },
+  {
+   "id": "0458:0043B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿０１１Emergency?!￥Wh-what does that..."
+  },
+  {
+   "id": "0458:00476",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０７５＿０１２Anyway, I'll put it through."
+  },
+  {
+   "id": "0458:004AB",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0458:004BB",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７５＿０１３This is an emergency call from￥Sophia Central General Hospital."
+  },
+  {
+   "id": "0458:00502",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７５＿０１４Your sister Haruka's condition￥worsened last night. She is now￥in intensive care in the ICU."
+  },
+  {
+   "id": "0458:00573",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７５＿０１５To be frank, she is in very￥serious danger."
+  },
+  {
+   "id": "0458:005C0",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７５＿０１６Our medical staff are doing￥everything we can... but the￥situation remains critical.＝＠０７５＿０１７Should her condition change, we￥will contact you on this￥emergency line again."
+  },
+  {
+   "id": "0458:0067F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿０１８Y-yes...＝＠０７５＿０１９Please...￥Please take care of my sister!!"
+  },
+  {
+   "id": "0458:006E6",
+   "end": "818400",
+   "en": "＊Doctor＊＠０７５＿０２０Understood.￥Goodbye for now."
+  },
+  {
+   "id": "0458:00731",
+   "end": "818400",
+   "en": "＊Natsuno＊..."
+  },
+  {
+   "id": "0458:00751.0",
+   "choice": true,
+   "en": "Natsuno, are you okay?"
+  },
+  {
+   "id": "0458:00751.1",
+   "choice": true,
+   "en": "Your poor sister..."
+  },
+  {
+   "id": "0458:00781.0",
+   "choice": true,
+   "en": "Natsuno, are you okay?"
+  },
+  {
+   "id": "0458:00781.1",
+   "choice": true,
+   "en": "Your poor sister..."
+  },
+  {
+   "id": "0458:007B1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿０２１My sister...!!"
+  },
+  {
+   "id": "0458:007E9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７５＿０２２What do I do...?!"
+  },
+  {
+   "id": "0458:0081C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0458:00832",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０７５＿０２３Ah! Natsuno?!￥Where are you..."
+  },
+  {
+   "id": "0458:00875",
+   "end": "818400",
+   "en": "＊Sakaki＊...＝＠０７５＿０２４I hear her sister has always￥been frail...＝＠０７５＿０２５That must have been a real￥shock..."
+  },
+  {
+   "id": "0458:008FE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０７５＿０２６Would you... go find her?"
+  },
+  {
+   "id": "0458:00937",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0458:00948",
+   "end": "818400",
+   "en": "－　Common Floor　－＝－　Natsuno stands there, dazed　－"
+  },
+  {
+   "id": "0458:0098B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００１I had no idea...￥that she'd gotten￥so much worse..."
+  },
+  {
+   "id": "0458:009FA",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００２Haruka..."
+  },
+  {
+   "id": "0458:00A2A.0",
+   "choice": true,
+   "en": "I'm sure she'll be okay."
+  },
+  {
+   "id": "0458:00A2A.1",
+   "choice": true,
+   "en": "Let's pray she's okay."
+  },
+  {
+   "id": "0458:00A58.0",
+   "choice": true,
+   "en": "I'm sure she'll be okay."
+  },
+  {
+   "id": "0458:00A58.1",
+   "choice": true,
+   "en": "Let's pray she's okay."
+  },
+  {
+   "id": "0458:00A8C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００３Huh... you...?!"
+  },
+  {
+   "id": "0458:00AC1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００４Yeah...￥I really hope you're right..."
+  },
+  {
+   "id": "0458:00B0E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００５I can't even be by her side at a￥time like this...￥Some big sister I am."
+  },
+  {
+   "id": "0458:00B6B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００６But if I go back to Sophia,￥I'll lose my place as￥a candidate..."
+  },
+  {
+   "id": "0458:00BE1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００７Huh... you...?!"
+  },
+  {
+   "id": "0458:00C16",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００８Yeah...￥That's all I can do right now."
+  },
+  {
+   "id": "0458:00C61",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿００９Even if I went home, there's￥nothing I could do for her...￥I'm not a doctor..."
+  },
+  {
+   "id": "0458:00CD8",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０１０And I can't just throw away my￥place as a candidate."
+  },
+  {
+   "id": "0458:00D2D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０１１My sister is fighting all on her￥own. So I have to keep fighting￥here, too..."
+  },
+  {
+   "id": "0458:00D92",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０１２I'm not going back."
+  },
+  {
+   "id": "0458:00DC6.0",
+   "choice": true,
+   "en": "You're strong."
+  },
+  {
+   "id": "0458:00DC6.1",
+   "choice": true,
+   "en": "Bet you want to go home."
+  },
+  {
+   "id": "0458:00DF2.0",
+   "choice": true,
+   "en": "You're strong."
+  },
+  {
+   "id": "0458:00DF2.1",
+   "choice": true,
+   "en": "Bet you want to go home."
+  },
+  {
+   "id": "0458:00E28",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０１３No...￥I'm not strong at all..."
+  },
+  {
+   "id": "0458:00E73",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０１４Honestly...￥I want to rush home right now."
+  },
+  {
+   "id": "0458:00EC1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０１５Oh... yeah...￥If I weren't a candidate..."
+  },
+  {
+   "id": "0458:00F16",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０１６I'd go this very second."
+  },
+  {
+   "id": "0458:00F45",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0458:00F56",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０１７But going back now wouldn't help￥my sister, or me...＝＠０７６＿０１８If I really care about her... if￥I think about what comes after￥she pulls through...＝＠０７６＿０１９I absolutely shouldn't go back￥to Sophia!＝＠０７６＿０２０And still...＝＠０７６＿０２１I can't stop wanting to go￥home... I'm so pathetic..."
+  },
+  {
+   "id": "0458:010BC.0",
+   "choice": true,
+   "en": "Don't blame yourself."
+  },
+  {
+   "id": "0458:010BC.1",
+   "choice": true,
+   "en": "She'll understand."
+  },
+  {
+   "id": "0458:010FE.0",
+   "choice": true,
+   "en": "Don't blame yourself."
+  },
+  {
+   "id": "0458:010FE.1",
+   "choice": true,
+   "en": "She'll understand."
+  },
+  {
+   "id": "0458:0114D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０２２!!"
+  },
+  {
+   "id": "0458:01172",
+   "end": "818400",
+   "en": "＊Natsuno＊...＝＠０７６＿０２３It's not that I'm blaming￥myself. It's just..."
+  },
+  {
+   "id": "0458:011CD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０２４But thanks to you,￥I feel like I've woken up..."
+  },
+  {
+   "id": "0458:01218",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０２５Thank you.＝＠０７６＿０２６You're right. Panicking won't￥get me anywhere."
+  },
+  {
+   "id": "0458:01283",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７６＿０２７Look at me, having someone￥younger talk sense into me..."
+  },
+  {
+   "id": "0458:012CC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿００１!!＝＠０７７＿００２You think so...?"
+  },
+  {
+   "id": "0458:01311",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿００３You're right. I'm sorry.￥I lost it there..."
+  },
+  {
+   "id": "0458:01362",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿００４Yeah...￥Whether I'm there or not,￥I'm sure she'll be all right."
+  },
+  {
+   "id": "0458:013C9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿００５Look at me, having someone￥younger talk sense into me..."
+  },
+  {
+   "id": "0458:01409",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿００６I, more than anyone, should￥believe she'll pull through."
+  },
+  {
+   "id": "0458:01462",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿００７I can't do anything for her by￥going back... so I have to do￥what I can, right here!"
+  },
+  {
+   "id": "0458:014D1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿００８Thank you for coming after me."
+  },
+  {
+   "id": "0458:01516",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿００９My parents must be worried too,￥so I'll give them a call.＝＠０７７＿０１０At a time like this, I'm the one￥who has to cheer my family up!"
+  },
+  {
+   "id": "0458:015A7",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７７＿０１１Okay, here I go!"
+  },
+  {
+   "id": "0458:015DA",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

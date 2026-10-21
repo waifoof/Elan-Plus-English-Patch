@@ -1,0 +1,46 @@
+{
+ "entry": 409,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0409:00011",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿００３Morning! Hey, have you￥decided what you're training￥today?"
+  },
+  {
+   "id": "0409:00070",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿００４I plan to work on my piloting!￥If you haven't decided yet, want￥to come to the Hangar with me?"
+  },
+  {
+   "id": "0409:000F0.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0409:000F0.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0409:00128.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0409:00128.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0409:00164",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿００５Great! With the two of us,￥I just know everything will￥go smoothly!"
+  },
+  {
+   "id": "0409:001D1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿００６Oh, too bad. Well, let's go￥together some other time,￥when it works for you!"
+  }
+ ]
+}

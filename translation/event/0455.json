@@ -1,0 +1,481 @@
+{
+ "entry": 455,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0455:0001A",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0455:00031",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００１Ah!! There you are.￥Hey, over here!"
+  },
+  {
+   "id": "0455:0006E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００２Do you have a minute?"
+  },
+  {
+   "id": "0455:000A9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００３See, I heard the Elan Ship￥is almost finished."
+  },
+  {
+   "id": "0455:000FC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００４Want to go see it together?"
+  },
+  {
+   "id": "0455:00134.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0455:00134.1",
+   "choice": true,
+   "en": "Nah, I'll pass."
+  },
+  {
+   "id": "0455:0015E.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0455:0015E.1",
+   "choice": true,
+   "en": "No, I'll pass."
+  },
+  {
+   "id": "0455:00190",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００５Oh, really?￥Great!"
+  },
+  {
+   "id": "0455:001C9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００６Then let's go!"
+  },
+  {
+   "id": "0455:001FD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００７If we qualify, that's the ship￥that'll carry us all the way￥to Elan."
+  },
+  {
+   "id": "0455:0025A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００８I think you could stand to be a￥little more curious about it.￥Come on, let's go!"
+  },
+  {
+   "id": "0455:002B3",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0455:002C4",
+   "end": "818400",
+   "en": "＊＊－　Corridor　－"
+  },
+  {
+   "id": "0455:002DF",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿００９If the ship's almost done, that￥means this whole trial is almost￥over too, right?"
+  },
+  {
+   "id": "0455:00352",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０１０It felt like it was taking￥forever, but looking back now,￥it really flew by."
+  },
+  {
+   "id": "0455:003BD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０１１Oh? It's Tomoe."
+  },
+  {
+   "id": "0455:003F4",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０１２Hey! Tomoe!!￥Thanks for earlier!"
+  },
+  {
+   "id": "0455:00443",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０８０＿０１３Oh... Natsuno.￥No, it...￥it was nothing, really..."
+  },
+  {
+   "id": "0455:004A0",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０１４Oh, but it was!￥You were a huge help to me!"
+  },
+  {
+   "id": "0455:00502.0",
+   "choice": true,
+   "en": "Did something happen?"
+  },
+  {
+   "id": "0455:00502.1",
+   "choice": true,
+   "en": "Helped you with what?"
+  },
+  {
+   "id": "0455:0052E.0",
+   "choice": true,
+   "en": "Did something happen?"
+  },
+  {
+   "id": "0455:0052E.1",
+   "choice": true,
+   "en": "Helped you with what?"
+  },
+  {
+   "id": "0455:0055A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０１５Tomoe was just giving me some￥tips on Sense training."
+  },
+  {
+   "id": "0455:005CA",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０１６Oh, right."
+  },
+  {
+   "id": "0455:005F9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０１７Tomoe was just giving me some￥tips on Sense training!"
+  },
+  {
+   "id": "0455:00662",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０１８She explained it so clearly.￥It really helped."
+  },
+  {
+   "id": "0455:006A7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０８０＿０１９No one has ever asked me about￥training methods as eagerly as￥you did, Natsuno..."
+  },
+  {
+   "id": "0455:00724",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０８０＿０２０You always seem to get through￥your training so efficiently..."
+  },
+  {
+   "id": "0455:0079B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０２１Oh, you give me too much credit."
+  },
+  {
+   "id": "0455:007D6",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０８０＿０２２No, not at all..."
+  },
+  {
+   "id": "0455:0080D",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０８０＿０２３And besides...￥I was very happy that you￥came to me for help."
+  },
+  {
+   "id": "0455:0086E",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０８０＿０２４Natsuno, you seem...￥so much livelier than before.＝＠０８０＿０２５Well, I should be going..."
+  },
+  {
+   "id": "0455:008FE",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０２６Oh, okay.￥Thank you.￥If I need help again, I'll ask!"
+  },
+  {
+   "id": "0455:00957",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０２７Somehow...￥hearing her say that makes me￥a little embarrassed."
+  },
+  {
+   "id": "0455:009B9.0",
+   "choice": true,
+   "en": "You're working hard."
+  },
+  {
+   "id": "0455:009B9.1",
+   "choice": true,
+   "en": "No need to be shy."
+  },
+  {
+   "id": "0455:009E3.0",
+   "choice": true,
+   "en": "You're working hard."
+  },
+  {
+   "id": "0455:009E3.1",
+   "choice": true,
+   "en": "No need to be shy."
+  },
+  {
+   "id": "0455:00A0B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０２８Well, of course.￥I really want to go to Elan."
+  },
+  {
+   "id": "0455:00A5A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０２９Come on, let's hurry and go￥see the Elan Ship."
+  },
+  {
+   "id": "0455:00AA6",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０３０Hey! Don't tease me!"
+  },
+  {
+   "id": "0455:00ADF",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８０＿０３１Come on, let's hurry and go￥see the Elan Ship."
+  },
+  {
+   "id": "0455:00B2A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0455:00B3B",
+   "end": "818400",
+   "en": "－　From the window, you see the￥　　nearly finished Elan Ship　－"
+  },
+  {
+   "id": "0455:00B78",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿００１It's kind of moving, isn't it?＝＠０８１＿００２When we got here, this ship was￥still just a skeleton..."
+  },
+  {
+   "id": "0455:00BF7",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿００３And soon it'll be finished and￥carry the qualified ones to￥Elan... It feels so strange."
+  },
+  {
+   "id": "0455:00C68",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿００４When I first came here..."
+  },
+  {
+   "id": "0455:00CA5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿００５I was convinced I absolutely had￥to qualify, for my little￥sister's sake...＝＠０８１＿００６Working hard for that never felt￥like a burden, but..."
+  },
+  {
+   "id": "0455:00D4E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿００７I never once truly felt like I￥was having fun."
+  },
+  {
+   "id": "0455:00DA5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿００８Then I met you..."
+  },
+  {
+   "id": "0455:00DDC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿００９And for the first time, I￥realized how much pressure I'd￥been putting on myself..."
+  },
+  {
+   "id": "0455:00E3F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿０１０But now, I'm having so much fun!"
+  },
+  {
+   "id": "0455:00E7C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿０１１Training, and seeing it turn￥into real strength of my own."
+  },
+  {
+   "id": "0455:00EDF",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿０１２If I can see things this way￥now, it must be thanks to you."
+  },
+  {
+   "id": "0455:00F45.0",
+   "choice": true,
+   "en": "I didn't do much."
+  },
+  {
+   "id": "0455:00F45.1",
+   "choice": true,
+   "en": "That was all you."
+  },
+  {
+   "id": "0455:00F7B.0",
+   "choice": true,
+   "en": "I didn't do much."
+  },
+  {
+   "id": "0455:00F7B.1",
+   "choice": true,
+   "en": "That was all you."
+  },
+  {
+   "id": "0455:00FB5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿０１３No, I really mean it.￥You were by my side when things￥were really hard."
+  },
+  {
+   "id": "0455:0101C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿０１４That's how I stayed positive."
+  },
+  {
+   "id": "0455:01064",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８１＿０１５You think so? But I think it's￥because you were there that I￥could stay strong."
+  },
+  {
+   "id": "0455:010CD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿００１Thank you. I've wanted to say￥that for ages.＝＠０８２＿００２Now I can honestly say I want to￥go to Elan not just for my￥sister, but for myself, too."
+  },
+  {
+   "id": "0455:0117E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿００３If we do get to go to Elan...￥then..."
+  },
+  {
+   "id": "0455:011D5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿００４Would I do... as your partner?"
+  },
+  {
+   "id": "0455:01215.0",
+   "choice": true,
+   "en": "Of course! I'd love it."
+  },
+  {
+   "id": "0455:01215.1",
+   "choice": true,
+   "en": "I'll think about it."
+  },
+  {
+   "id": "0455:01249.0",
+   "choice": true,
+   "en": "Of course! I'd love it."
+  },
+  {
+   "id": "0455:01249.1",
+   "choice": true,
+   "en": "I'll think about it."
+  },
+  {
+   "id": "0455:0127F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿００５Really?! ...I'm so happy."
+  },
+  {
+   "id": "0455:012BD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿００６That's if we get to go,￥of course."
+  },
+  {
+   "id": "0455:01304",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿００７When I'm with you, somehow...￥I can relax, just a little."
+  },
+  {
+   "id": "0455:01369",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿００８And I'm two years older than￥you, too. Silly of me, huh?"
+  },
+  {
+   "id": "0455:013BB.0",
+   "choice": true,
+   "en": "Age doesn't matter."
+  },
+  {
+   "id": "0455:013BB.1",
+   "choice": true,
+   "en": "You're that much older?"
+  },
+  {
+   "id": "0455:013F3.0",
+   "choice": true,
+   "en": "Age doesn't matter."
+  },
+  {
+   "id": "0455:013F3.1",
+   "choice": true,
+   "en": "You're that much older?"
+  },
+  {
+   "id": "0455:01429",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿００９Y-you think so?＝＠０８２＿０１０I have a little sister, so I￥tend to act extra grown-up."
+  },
+  {
+   "id": "0455:014A8",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０１１But hearing you say that￥takes a load off my mind."
+  },
+  {
+   "id": "0455:014FA",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０１２Does that mean I looked your￥age? Or... Hmm, I'm not sure how￥I feel about that."
+  },
+  {
+   "id": "0455:01565",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０１３But when I look at you, you￥don't feel like a junior or a￥brother...＝＠０８２＿０１４More like a comrade, really."
+  },
+  {
+   "id": "0455:015F2",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０１７Funny...￥Maybe it's because you're more￥mature than your age."
+  },
+  {
+   "id": "0455:01658",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０１２Does that mean I looked your￥age? Or... Hmm, I'm not sure how￥I feel about that."
+  },
+  {
+   "id": "0455:016C3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０１５But when I look at you, you￥don't feel like a junior or a￥sister...＝＠０８２＿０１６More like a comrade, really."
+  },
+  {
+   "id": "0455:01750",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０１７Funny...￥Maybe it's because you're more￥mature than your age."
+  },
+  {
+   "id": "0455:017B1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0455:017C2",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０１８If I could go to Elan with you,￥I feel like I'd keep changing￥for the better.＝＠０８２＿０１９It'd be nice if we could grow￥together like that."
+  },
+  {
+   "id": "0455:0187F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０２０Let's both do our best on the￥final exam!"
+  },
+  {
+   "id": "0455:018B6",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０２１I hope... I hope we both￥qualify!"
+  },
+  {
+   "id": "0455:01921",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０２２And if I get picked first, I'm￥choosing you, no arguments!"
+  },
+  {
+   "id": "0455:0198A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０２３All right, back to work!"
+  },
+  {
+   "id": "0455:019C9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８２＿０２４See you later!!"
+  },
+  {
+   "id": "0455:019FA",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

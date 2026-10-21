@@ -1,0 +1,386 @@
+{
+ "entry": 392,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0392:00019",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0392:0002C",
+   "end": "818400",
+   "en": "－　The two supervisors seem to￥　　be discussing something　－"
+  },
+  {
+   "id": "0392:00067",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０２１Sakaki! Enough already.￥Go back and rest."
+  },
+  {
+   "id": "0392:000B6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４２＿０２２I can't do that.￥This is part of my job."
+  },
+  {
+   "id": "0392:0010B",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０２３You're still saying that..."
+  },
+  {
+   "id": "0392:00142",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４２＿０２４Oh, it's you.￥Good timing.＝＠１４２＿０２５Sakaki doesn't seem to be￥feeling well.＝＠１４２＿０２６Sorry, but could you take her￥to the Medical Room?"
+  },
+  {
+   "id": "0392:00210.0",
+   "choice": true,
+   "en": "Yes, of course."
+  },
+  {
+   "id": "0392:00210.1",
+   "choice": true,
+   "en": "You're not going, sir?"
+  },
+  {
+   "id": "0392:00248.0",
+   "choice": true,
+   "en": "Yes, of course."
+  },
+  {
+   "id": "0392:00248.1",
+   "choice": true,
+   "en": "You're not going, sir?"
+  },
+  {
+   "id": "0392:00282",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４３＿００１Thanks.＝＠１４３＿００２I still have to finish my￥patrol of the station."
+  },
+  {
+   "id": "0392:00304",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４３＿００３I'm still in the middle of work.￥I have to finish my patrol of￥the station.＝＠１４３＿００４Can I count on you...?"
+  },
+  {
+   "id": "0392:00394.0",
+   "choice": true,
+   "en": "Yes, I'll take her."
+  },
+  {
+   "id": "0392:00394.1",
+   "choice": true,
+   "en": "Why don't you take her?"
+  },
+  {
+   "id": "0392:003D0.0",
+   "choice": true,
+   "en": "Yes, I'll go with her."
+  },
+  {
+   "id": "0392:003D0.1",
+   "choice": true,
+   "en": "Why don't you take her?"
+  },
+  {
+   "id": "0392:0040E",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４３＿００５Thanks.￥I'm counting on you."
+  },
+  {
+   "id": "0392:00450",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４３＿００６I see... You're right.＝＠１４３＿００７That's not something I should be￥asking a candidate, is it?｝￥＠１４３＿００８Sorry."
+  },
+  {
+   "id": "0392:004EF",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿００９Narusawa!￥Don't decide things for me!＝＠１４３＿０１０I'm fine! I can keep doing￥the patrol, too."
+  },
+  {
+   "id": "0392:00568",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４３＿０１１What are you talking about? You￥can barely stand!"
+  },
+  {
+   "id": "0392:005B1",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿０１２But I still have work left..."
+  },
+  {
+   "id": "0392:005EE",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４３＿０１３Someone who can't even move￥properly just gets in the way.＝＠１４３＿０１４Get to the Medical Room,￥now!"
+  },
+  {
+   "id": "0392:0067B",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0392:00690",
+   "end": "818400",
+   "en": "＊＊－　； walks Sakaki back　－"
+  },
+  {
+   "id": "0392:006C2",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿０１５I'm sorry... for causing you all￥this trouble..."
+  },
+  {
+   "id": "0392:00719",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿０１６It's true, it's my own fault for￥getting sick. But...＝＠１４３＿０１７saying I'd \"get in the way\"..."
+  },
+  {
+   "id": "0392:007A9.0",
+   "choice": true,
+   "en": "That was so mean of him."
+  },
+  {
+   "id": "0392:007A9.1",
+   "choice": true,
+   "en": "Narusawa is..."
+  },
+  {
+   "id": "0392:007DF.0",
+   "choice": true,
+   "en": "That was so mean of him."
+  },
+  {
+   "id": "0392:007DF.1",
+   "choice": true,
+   "en": "Narusawa is..."
+  },
+  {
+   "id": "0392:00817",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿０１８Honestly, it hurt. All I wanted￥was to finish my work properly."
+  },
+  {
+   "id": "0392:00894",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿０１９In the end, all I managed was to￥reset the simulator...＝...＝＠１４３＿０２０Oh, I'm sorry. I didn't mean to￥unload all my complaints on you."
+  },
+  {
+   "id": "0392:00950",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿０２１He's just too by-the-book￥when it comes to work!"
+  },
+  {
+   "id": "0392:009A3",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿０２２All I wanted was to finish￥my work properly."
+  },
+  {
+   "id": "0392:00A02",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４３＿０２３In the end... all I managed was￥to reset the simulator...＝...＝＠１４３＿０２４Oh, I'm sorry. I didn't mean to￥unload all my complaints on you."
+  },
+  {
+   "id": "0392:00ABD",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１４４＿００１This is far enough. The Medical￥Room is just up ahead.＝＠１４４＿００２Thank you.￥Take care."
+  },
+  {
+   "id": "0392:00B3E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0392:00B57",
+   "end": "818400",
+   "en": "－　Flight Training Room　－"
+  },
+  {
+   "id": "0392:00B72",
+   "end": "818400",
+   "en": "－Narusawa is checking the state￥　　of the simulator　－"
+  },
+  {
+   "id": "0392:00BBD",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿００３So it's this parameter...￥This takes a lot of focus.＝＠１４４＿００４Yeah, in her condition, she￥was never going to manage this."
+  },
+  {
+   "id": "0392:00C52",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿００５Oh, it's you.￥Thanks for your trouble."
+  },
+  {
+   "id": "0392:00C98.0",
+   "choice": true,
+   "en": "What are you doing?"
+  },
+  {
+   "id": "0392:00C98.1",
+   "choice": true,
+   "en": "Not worried for Sakaki?"
+  },
+  {
+   "id": "0392:00CD2.0",
+   "choice": true,
+   "en": "What are you doing?"
+  },
+  {
+   "id": "0392:00CD2.1",
+   "choice": true,
+   "en": "Not worried for Sakaki?"
+  },
+  {
+   "id": "0392:00D10",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿００６Ah. I'm checking the simulator's￥settings.＝＠１４４＿００７We found out this simulator was￥having image jitter, so it got￥reset, but..."
+  },
+  {
+   "id": "0392:00DE2",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿００８What's this, all of a sudden?＝＠１４４＿００９Ah... You mean when I said she'd￥\"get in the way.\""
+  },
+  {
+   "id": "0392:00E4D",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０１０Because... that's the truth."
+  },
+  {
+   "id": "0392:00E8D.0",
+   "choice": true,
+   "en": "That's awful!"
+  },
+  {
+   "id": "0392:00E8D.1",
+   "choice": true,
+   "en": "Is it...?"
+  },
+  {
+   "id": "0392:00EBF.0",
+   "choice": true,
+   "en": "That's awful!"
+  },
+  {
+   "id": "0392:00EBF.1",
+   "choice": true,
+   "en": "Is it...?"
+  },
+  {
+   "id": "0392:00EF5",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０１１If you can't take care of your￥health and it hurts your work,￥you're unfit to be a supervisor.＝＠１４４＿０１２Right now her most important job￥is to get healthy again as fast￥as she can."
+  },
+  {
+   "id": "0392:00FB4",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０１３If she pushes herself, it just￥makes more busywork for the￥rest of the staff.＝＠１４４＿０１４That defeats the whole point."
+  },
+  {
+   "id": "0392:0103F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０１５Now, you're done training for￥today, right? Go back and rest."
+  },
+  {
+   "id": "0392:010B2",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０１６I mean right now, anyway.￥Working while you're sick just￥leads to more mistakes.＝＠１４４＿０１７In fact... this simulator was￥reset, but..."
+  },
+  {
+   "id": "0392:01173",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０１８there was a mistake in the￥parameter settings."
+  },
+  {
+   "id": "0392:011C5.0",
+   "choice": true,
+   "en": "Sakaki did that..."
+  },
+  {
+   "id": "0392:011C5.1",
+   "choice": true,
+   "en": "What's wrong with it?"
+  },
+  {
+   "id": "0392:0120F.0",
+   "choice": true,
+   "en": "Sakaki did that..."
+  },
+  {
+   "id": "0392:0120F.1",
+   "choice": true,
+   "en": "What's wrong with it?"
+  },
+  {
+   "id": "0392:0125B",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０１９What? You heard about that?＝＠１４４＿０２０Yes, she's the one who set it￥up, but...＝＠１４４＿０２１As it is now, whoever operates￥it will get \"motion sick\" right￥after starting."
+  },
+  {
+   "id": "0392:01330",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０２２Honestly... That's what she￥gets for doing setup work in￥that condition."
+  },
+  {
+   "id": "0392:01394",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４４＿０２３Yeah. With the settings like￥this...＝＠１４４＿０２４whoever operates it from inside￥gets \"motion sick\" right away.＝＠１４４＿０２５How did she even set this up...￥That's what she gets for doing￥setup work in that condition."
+  },
+  {
+   "id": "0392:01481",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿００１I know very well she works￥harder than anyone.＝＠１４５＿００２And how determined she is to￥work even when she feels sick."
+  },
+  {
+   "id": "0392:01524",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿００３But... if she collapses, it￥causes trouble for everyone...＝＠１４５＿００４She's more stubborn than she￥looks. Tell her to rest, and she￥won't listen.＝＠１４５＿００５The best thing is for her to get￥better soon."
+  },
+  {
+   "id": "0392:0161A.0",
+   "choice": true,
+   "en": "Hence the harsh words..."
+  },
+  {
+   "id": "0392:0161A.1",
+   "choice": true,
+   "en": "Hope she gets well soon."
+  },
+  {
+   "id": "0392:0165C.0",
+   "choice": true,
+   "en": "So that's how you felt."
+  },
+  {
+   "id": "0392:0165C.1",
+   "choice": true,
+   "en": "Hope she gets well soon."
+  },
+  {
+   "id": "0392:016A6",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿００６Unless I say it like that,￥she never listens."
+  },
+  {
+   "id": "0392:01700",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿００７Yeah, me too."
+  },
+  {
+   "id": "0392:01733",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿００８It makes me kind of happy that￥you're worried about Sakaki.＝＠１４５＿００９Being looked up to by a￥candidate is about the best a￥supervisor could ask for."
+  },
+  {
+   "id": "0392:017DA",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０１０Sorry for putting you through￥all this trouble."
+  },
+  {
+   "id": "0392:0182F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０１１And... don't tell Sakaki about￥the mistake in the simulator￥settings, okay?"
+  },
+  {
+   "id": "0392:0189E",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０１２Well then, head back for today￥and get some good rest."
+  }
+ ]
+}

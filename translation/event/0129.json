@@ -1,0 +1,61 @@
+{
+ "entry": 129,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0129:00017",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５２＿０１６Me, huh...￥Elan is appealing, but I have￥no intention of going with you."
+  },
+  {
+   "id": "0129:00076",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５２＿０１７Going with you would only￥get in the way of the mission.＝＠０５２＿０１８Shouldn't you pick someone else?"
+  },
+  {
+   "id": "0129:000FD",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0129:0010F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００１Your grades are superb, but...￥you failed at the one thing that￥mattered: finding a partner.＝＠００２＿００２Getting along with others is￥also a vital part of qualifying."
+  },
+  {
+   "id": "0129:001D6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００２＿００３Right now, that's what you lack.＝＠００２＿００４I'm sorry, but we can't consider￥you qualified."
+  },
+  {
+   "id": "0129:00269",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００５We'll send the people we judge￥best qualified to Elan instead."
+  },
+  {
+   "id": "0129:002D2",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００６Starting tomorrow, we'll be busy￥getting those who qualified￥ready to leave."
+  },
+  {
+   "id": "0129:0032D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００２＿００７We'll need all of you to￥help out. We're counting on you."
+  },
+  {
+   "id": "0129:00384",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0129:00398",
+   "end": "818400",
+   "en": "－　One Month Later　－＝－　The day the newly qualified￥　　　　leave for Elan　－"
+  },
+  {
+   "id": "0129:00407",
+   "end": "818400",
+   "en": "－　The Qualified Depart　－"
+  }
+ ]
+}

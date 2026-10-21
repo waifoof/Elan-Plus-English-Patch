@@ -1,0 +1,381 @@
+{
+ "entry": 383,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0383:00017",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0383:0002A",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿００１Sorry, excuse me...￥coming through...＝＠０１３＿００２Whoaaa!!"
+  },
+  {
+   "id": "0383:000A3",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿００３Ow, ow...￥Oh, n-no, the seed bag's￥torn open..."
+  },
+  {
+   "id": "0383:00101.0",
+   "choice": true,
+   "en": "Are you okay?"
+  },
+  {
+   "id": "0383:00101.1",
+   "choice": true,
+   "en": "I'll help pick them up."
+  },
+  {
+   "id": "0383:00125.0",
+   "choice": true,
+   "en": "Are you okay?"
+  },
+  {
+   "id": "0383:00125.1",
+   "choice": true,
+   "en": "I'll help pick them up."
+  },
+  {
+   "id": "0383:0014B",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿００４Aww, man,￥I dropped everything!"
+  },
+  {
+   "id": "0383:00190",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿００５Um, sorry, but... could you￥pick up the seeds that rolled￥over your way?"
+  },
+  {
+   "id": "0383:001EB",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0383:001FC",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿００６Oh, thanks!"
+  },
+  {
+   "id": "0383:0022B",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿００７Sorry for the trouble."
+  },
+  {
+   "id": "0383:00266",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0383:00274",
+   "end": "818400",
+   "en": "－　； helps pick up seeds　－"
+  },
+  {
+   "id": "0383:002A3",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿００８Phew, that should do it...￥Thanks for helping when you're￥tired from training!"
+  },
+  {
+   "id": "0383:00308",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿００９Good, the pot didn't break!￥And the seeds look okay too."
+  },
+  {
+   "id": "0383:0036A.0",
+   "choice": true,
+   "en": "What kind of seeds?"
+  },
+  {
+   "id": "0383:0036A.1",
+   "choice": true,
+   "en": "You're planting these?"
+  },
+  {
+   "id": "0383:0039A.0",
+   "choice": true,
+   "en": "What kind of seeds?"
+  },
+  {
+   "id": "0383:0039A.1",
+   "choice": true,
+   "en": "You're planting these?"
+  },
+  {
+   "id": "0383:003CC",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１０These?"
+  },
+  {
+   "id": "0383:003F3",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１１These are sunflower seeds!￥I brought them all the way￥from Sophia!"
+  },
+  {
+   "id": "0383:0045A",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１２I want to grow lots and lots￥more of them."
+  },
+  {
+   "id": "0383:004AD",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１３And for that, see,￥I've got all kinds of￥stuff ready!"
+  },
+  {
+   "id": "0383:0050F",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１４Yep! So I brought a flowerpot￥and special fertilizer!"
+  },
+  {
+   "id": "0383:0056C",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１５These are sunflower seeds￥I brought all the way￥from Sophia!"
+  },
+  {
+   "id": "0383:005D1",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１６I'm gonna grow tons and￥tons more of them!"
+  },
+  {
+   "id": "0383:0061E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１７Well, I'm off to plant￥these now!"
+  },
+  {
+   "id": "0383:00672.0",
+   "choice": true,
+   "en": "I'll help you carry it."
+  },
+  {
+   "id": "0383:00672.1",
+   "choice": true,
+   "en": "Can you carry all that?"
+  },
+  {
+   "id": "0383:006A8.0",
+   "choice": true,
+   "en": "I'll help you carry it."
+  },
+  {
+   "id": "0383:006A8.1",
+   "choice": true,
+   "en": "Can you carry all that?"
+  },
+  {
+   "id": "0383:006E0",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０１８Really? Yay, thank you! This￥stuff is pretty heavy on my own!"
+  },
+  {
+   "id": "0383:0074A",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿１９Of course! I'll be fi...ne,￥I think...? Hmm."
+  },
+  {
+   "id": "0383:007A3",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２０Geez,￥if you're gonna say that,￥then help me!"
+  },
+  {
+   "id": "0383:007EC",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0383:007FE",
+   "end": "818400",
+   "en": "－　； walks with Amane　－"
+  },
+  {
+   "id": "0383:00823",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２１Aww, if I'd known, I would've￥borrowed a cart."
+  },
+  {
+   "id": "0383:00880",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２２Then I wouldn't have had to￥bother you... But don't worry,￥it's really close!"
+  },
+  {
+   "id": "0383:008F8.0",
+   "choice": true,
+   "en": "Where are we headed?"
+  },
+  {
+   "id": "0383:008F8.1",
+   "choice": true,
+   "en": "Then carry it yourself."
+  },
+  {
+   "id": "0383:0092E.0",
+   "choice": true,
+   "en": "Where are we headed?"
+  },
+  {
+   "id": "0383:0092E.1",
+   "choice": true,
+   "en": "Then carry it yourself."
+  },
+  {
+   "id": "0383:00968",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２３Where? There's only one place on￥Alpha that has soil!"
+  },
+  {
+   "id": "0383:009CF",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２４Ahh--! I get it, you haven't￥really looked around Alpha￥yet, have you?"
+  },
+  {
+   "id": "0383:00A34",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２５I explored every nook and cranny￥the day I got here!"
+  },
+  {
+   "id": "0383:00A8D",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２６See, there's a place called￥the Environmental Section."
+  },
+  {
+   "id": "0383:00ADE",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２７I'm gonna ask if I can plant￥the seeds there!"
+  },
+  {
+   "id": "0383:00B31",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２８But, but... you never said￥you didn't want to!"
+  },
+  {
+   "id": "0383:00B86",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０２９And besides...￥I wanted to talk with you￥a little!!"
+  },
+  {
+   "id": "0383:00BE3",
+   "end": "818400",
+   "en": "＊Amane＊＠０１３＿０３０Come on! The Environmental￥Section is less than five￥minutes away!＝＠０１３＿０３１Let's chat for a bit, okay?"
+  },
+  {
+   "id": "0383:00C7C",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００１You know... once I've grown tons￥of these seeds, I'm gonna plant￥them on Elan!"
+  },
+  {
+   "id": "0383:00CE1",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００２Then, by the time everyone￥comes to Elan..."
+  },
+  {
+   "id": "0383:00D2E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００３they'll see nothing but yellow￥sunflowers everywhere!"
+  },
+  {
+   "id": "0383:00D79",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００４I think the people who come￥for the first time will feel￥a little uneasy deep down."
+  },
+  {
+   "id": "0383:00DE2",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００５But if there were lots of￥familiar flowers blooming￥there..."
+  },
+  {
+   "id": "0383:00E3B",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００６I thought that alone might￥make them happy."
+  },
+  {
+   "id": "0383:00EA1.0",
+   "choice": true,
+   "en": "That's a great idea."
+  },
+  {
+   "id": "0383:00EA1.1",
+   "choice": true,
+   "en": "You think so?"
+  },
+  {
+   "id": "0383:00EC7.0",
+   "choice": true,
+   "en": "That's a lovely idea."
+  },
+  {
+   "id": "0383:00EC7.1",
+   "choice": true,
+   "en": "Do you think so?"
+  },
+  {
+   "id": "0383:00EF0",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００７Really?!￥I'm so glad you think so."
+  },
+  {
+   "id": "0383:00F41",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００８You must be a really strong￥person."
+  },
+  {
+   "id": "0383:00F80",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿００９But when I think about going￥to Elan myself...＝＠０１４＿０１０it's fun and exciting, but I'm￥still kind of nervous too."
+  },
+  {
+   "id": "0383:0101D",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１１So if even one person feels￥happy when they see the￥sunflowers, then..."
+  },
+  {
+   "id": "0383:01096",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１２I want to plant them!"
+  },
+  {
+   "id": "0383:010CB",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１３Actually...￥my mom always used to tell me..."
+  },
+  {
+   "id": "0383:01118",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１４to put myself in other people's￥shoes and do what they most￥want me to do for them."
+  },
+  {
+   "id": "0383:0118F",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１５That's really hard, though,￥isn't it? So... from now on,￥I'm gonna try my best!"
+  },
+  {
+   "id": "0383:011F7",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１６Oh... we're almost there!"
+  },
+  {
+   "id": "0383:0122E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0383:01241",
+   "end": "818400",
+   "en": "＊＊－　Environmental Section　－"
+  },
+  {
+   "id": "0383:01260",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１７Thanks so much for helping￥me carry everything!"
+  },
+  {
+   "id": "0383:012A9",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１８I'll work hard to grow the￥sunflowers, so come see them￥sometime, okay?!"
+  },
+  {
+   "id": "0383:0130E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１４＿０１９Thanks for everything today!￥See you later!!"
+  }
+ ]
+}

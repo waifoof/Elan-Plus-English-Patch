@@ -1,0 +1,111 @@
+{
+ "entry": 473,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0473:0001C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１５There you are. I went to the￥Medical Room, but you weren't￥there, so I came here..."
+  },
+  {
+   "id": "0473:0008D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１６Are you all right?"
+  },
+  {
+   "id": "0473:000BB.0",
+   "choice": true,
+   "en": "You were looking for me?"
+  },
+  {
+   "id": "0473:000BB.1",
+   "choice": true,
+   "en": "You were worried?"
+  },
+  {
+   "id": "0473:000E9.0",
+   "choice": true,
+   "en": "You were looking for me?"
+  },
+  {
+   "id": "0473:000E9.1",
+   "choice": true,
+   "en": "Were you worried?"
+  },
+  {
+   "id": "0473:0011B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１７Yes. I heard you collapsed.＝＠０６６＿０１８Training isn't just a matter of￥doing as much as you can."
+  },
+  {
+   "id": "0473:0019E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１９Don't push yourself too hard..."
+  },
+  {
+   "id": "0473:001DA",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２０Yes. I heard you collapsed.＝＠０６６＿０２１There's no point throwing￥yourself into training if it￥ruins your health."
+  },
+  {
+   "id": "0473:0025F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２２Don't push yourself too hard..."
+  },
+  {
+   "id": "0473:00298",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２３Perhaps you focus￥too intensely."
+  },
+  {
+   "id": "0473:002E1",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２４Why not give a little more￥thought to how you pace things?"
+  },
+  {
+   "id": "0473:0032B.0",
+   "choice": true,
+   "en": "You've got a point."
+  },
+  {
+   "id": "0473:0032B.1",
+   "choice": true,
+   "en": "Mind your own business."
+  },
+  {
+   "id": "0473:0034F.0",
+   "choice": true,
+   "en": "You've got a point."
+  },
+  {
+   "id": "0473:0034F.1",
+   "choice": true,
+   "en": "Mind your own business."
+  },
+  {
+   "id": "0473:00373",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２５Yes. Once fatigue builds up,￥training efficiency is sure￥to drop."
+  },
+  {
+   "id": "0473:003DA",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２６You should take regular breaks."
+  },
+  {
+   "id": "0473:00414",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２７I see... You're right.￥I suppose it isn't my place￥to interfere..."
+  },
+  {
+   "id": "0473:00477",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２８In any case, take the whole day￥off and rest up properly."
+  },
+  {
+   "id": "0473:004CC",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０２９Sorry to disturb you..."
+  }
+ ]
+}

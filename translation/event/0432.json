@@ -1,0 +1,271 @@
+{
+ "entry": 432,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0432:0001C",
+   "end": "818400",
+   "en": "＊＊－　Corridor　－＝－　You hear voices arguing￥　　from the Cafeteria　－"
+  },
+  {
+   "id": "0432:00078",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿００１...￥No..."
+  },
+  {
+   "id": "0432:000BA.0",
+   "choice": true,
+   "en": "What's wrong...?"
+  },
+  {
+   "id": "0432:000BA.1",
+   "choice": true,
+   "en": "What are you looking at?"
+  },
+  {
+   "id": "0432:000E8.0",
+   "choice": true,
+   "en": "What's the matter...?"
+  },
+  {
+   "id": "0432:000E8.1",
+   "choice": true,
+   "en": "What are you looking at?"
+  },
+  {
+   "id": "0432:00110",
+   "end": "818400",
+   "en": "＊Amane＊＠１７３＿００２I said, why do you have to￥say stuff like that?!"
+  },
+  {
+   "id": "0432:00157",
+   "end": "818400",
+   "en": "＊Riko＊＠１７３＿００３'Cause you're a kid, that's why!"
+  },
+  {
+   "id": "0432:00190",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿００４No!"
+  },
+  {
+   "id": "0432:001B5",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0432:001CA",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿００５Why... do they fight...￥Why...!!"
+  },
+  {
+   "id": "0432:0021B",
+   "end": "818400",
+   "en": "＊Amane＊＠１７３＿００６I said, why do you have to￥say stuff like that?!"
+  },
+  {
+   "id": "0432:00264",
+   "end": "818400",
+   "en": "＊Riko＊＠１７３＿００３'Cause you're a kid, that's why!"
+  },
+  {
+   "id": "0432:0029D",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿００８I... I hate this!!"
+  },
+  {
+   "id": "0432:002D0",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0432:002ED",
+   "end": "818400",
+   "en": "＊Amane＊＠１７３＿００９Don't look down on me just￥because you're a little older!"
+  },
+  {
+   "id": "0432:0033C",
+   "end": "818400",
+   "en": "＊Riko＊＠１７３＿０１０That's exactly why you're a kid!"
+  },
+  {
+   "id": "0432:0037B",
+   "end": "818400",
+   "en": "＊Amane＊＠１７３＿０１１Wh-what do you mean?!"
+  },
+  {
+   "id": "0432:003AE",
+   "end": "818400",
+   "en": "＊Riko＊＠１７３＿０１２Maybe you should let your brain￥grow a little, along with￥your height?"
+  },
+  {
+   "id": "0432:00417",
+   "end": "818400",
+   "en": "＊Amane＊＠１７３＿０１３Aaah! You're mocking me again!!"
+  },
+  {
+   "id": "0432:00456",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７３＿０１４Come on, you two,￥that's enough."
+  },
+  {
+   "id": "0432:0049B",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0432:004AC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７３＿０１５They've been at it for a while."
+  },
+  {
+   "id": "0432:004ED",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７３＿０１６Poor Tomoe... She must have￥been shocked.＝＠１７３＿０１７She's so quiet. I doubt she's￥used to fights like this..."
+  },
+  {
+   "id": "0432:0059B.0",
+   "choice": true,
+   "en": "Yeah, I guess so."
+  },
+  {
+   "id": "0432:0059B.1",
+   "choice": true,
+   "en": "Just a typical squabble?"
+  },
+  {
+   "id": "0432:005C7.0",
+   "choice": true,
+   "en": "Yes, I suppose so."
+  },
+  {
+   "id": "0432:005C7.1",
+   "choice": true,
+   "en": "Just a typical squabble?"
+  },
+  {
+   "id": "0432:005F7",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７３＿０１８I think someone should go after￥her, don't you?＝＠１７３＿０１９I'll handle things here, so￥would you go to her? She looked￥like she was about to cry."
+  },
+  {
+   "id": "0432:0069D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７３＿０２０Yeah... but a fight's still a￥fight. I think it really￥startled her.＝＠１７３＿０２１Hey, could I ask you to￥look after Tomoe?"
+  },
+  {
+   "id": "0432:00744",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７３＿０２２I'm worried she might be￥crying...＝＠１７３＿０２３And I need to get Riko and￥Amane to calm down, too."
+  },
+  {
+   "id": "0432:007DD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７３＿０２４So please.￥Go after her."
+  },
+  {
+   "id": "0432:00820",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0432:00832",
+   "end": "818400",
+   "en": "＊＊－　You peek into the lab...￥　　Tomoe is standing there　－"
+  },
+  {
+   "id": "0432:0087B",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠１７３＿０２５Why do people fight...＝...￥＠１７３＿０２６Dad... and Mom, too..."
+  },
+  {
+   "id": "0432:00903",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿０２７Oh..."
+  },
+  {
+   "id": "0432:0092E",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0432:0094E.0",
+   "choice": true,
+   "en": "Are you okay?"
+  },
+  {
+   "id": "0432:0094E.1",
+   "choice": true,
+   "en": "What's wrong?"
+  },
+  {
+   "id": "0432:0096C.0",
+   "choice": true,
+   "en": "Hey... are you okay?"
+  },
+  {
+   "id": "0432:0096C.1",
+   "choice": true,
+   "en": "What's the matter?"
+  },
+  {
+   "id": "0432:00998",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿０２８Y-yes.￥I'm all right now..."
+  },
+  {
+   "id": "0432:009D7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿０２９I was just...￥a little startled..."
+  },
+  {
+   "id": "0432:00A25",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿０３０U-um...￥I'm sorry..."
+  },
+  {
+   "id": "0432:00A66",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７３＿０３１It's been a while since I've￥seen a fight up close..."
+  },
+  {
+   "id": "0432:00ABD",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠１７４＿００１So even candidates...￥argue like that, huh.＝＠１７４＿００２We're only human, so maybe￥it happens all the time, but..."
+  },
+  {
+   "id": "0432:00B68",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿００３But... I don't like fighting."
+  },
+  {
+   "id": "0432:00BB3",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿００４People fighting, hurting￥each other... I don't want￥to see it.＝＠１７４＿００５It always leaves such￥a bad feeling behind..."
+  },
+  {
+   "id": "0432:00C4C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿００６Oh, I'm sorry. I didn't mean to￥bring up something so strange..."
+  },
+  {
+   "id": "0432:00CA5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿００７Um, I think I'll go back to my￥room. Goodbye..."
+  },
+  {
+   "id": "0432:00CF4",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0432:00D0F",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿００８I'm sorry for￥worrying you..."
+  },
+  {
+   "id": "0432:00D57",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

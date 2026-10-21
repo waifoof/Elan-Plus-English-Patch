@@ -1,0 +1,21 @@
+{
+ "entry": 401,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0401:00013",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿００１Oh! How're you doing?￥I'm heading to the￥Maintenance Room!"
+  },
+  {
+   "id": "0401:0006E",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿００２Have you decided what you're￥training in yet? Let's give it￥our all again today!"
+  },
+  {
+   "id": "0401:000DB",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿００３See ya laaater!"
+  }
+ ]
+}

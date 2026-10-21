@@ -1,0 +1,151 @@
+{
+ "entry": 463,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0463:00022",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１０Oh... are you okay?"
+  },
+  {
+   "id": "0463:00055",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１１Is it okay for you to be up?￥I heard you collapsed, and I￥got so scared I rushed over."
+  },
+  {
+   "id": "0463:000C4",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１２You shouldn't train so hard you￥collapse!"
+  },
+  {
+   "id": "0463:00111",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１３If you're not healthy, you￥can't do anything, even if you￥make it to Elan!"
+  },
+  {
+   "id": "0463:0017D.0",
+   "choice": true,
+   "en": "You're totally right."
+  },
+  {
+   "id": "0463:0017D.1",
+   "choice": true,
+   "en": "I know that already!"
+  },
+  {
+   "id": "0463:001B3.0",
+   "choice": true,
+   "en": "You're totally right."
+  },
+  {
+   "id": "0463:001B3.1",
+   "choice": true,
+   "en": "I know that already!"
+  },
+  {
+   "id": "0463:001EB",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１４Don't act like it's not about￥you! I'm talking about YOU!"
+  },
+  {
+   "id": "0463:00242",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１５Do you really get it?￥Geez!!"
+  },
+  {
+   "id": "0463:00288",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１６Don't talk like that!￥I'm saying this 'cause I'm￥worried about you!"
+  },
+  {
+   "id": "0463:002E1",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１７I think you should listen when￥people tell you stuff."
+  },
+  {
+   "id": "0463:00335",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１８Being a candidate means a lot￥of pressure and plenty of tough￥stuff, but..."
+  },
+  {
+   "id": "0463:0039C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０１９Still, we're a team, right?￥At least, that's how I see it!"
+  },
+  {
+   "id": "0463:00402.0",
+   "choice": true,
+   "en": "I feel the same way."
+  },
+  {
+   "id": "0463:00402.1",
+   "choice": true,
+   "en": "Aren't we rivals?"
+  },
+  {
+   "id": "0463:00438.0",
+   "choice": true,
+   "en": "I feel the same way."
+  },
+  {
+   "id": "0463:00438.1",
+   "choice": true,
+   "en": "Aren't we rivals?"
+  },
+  {
+   "id": "0463:00472",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２０Thanks!"
+  },
+  {
+   "id": "0463:0049D",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２１I'm worried about you.￥Take better care of yourself!"
+  },
+  {
+   "id": "0463:004FD",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２２I guess you could say that,￥but I'd rather think of us as￥teammates... no, as friends!"
+  },
+  {
+   "id": "0463:0056A",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２３Maybe everybody else secretly￥feels the same way, you know?"
+  },
+  {
+   "id": "0463:005CD",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２４Getting to Elan is important,￥but doing your best with what￥you can do right here, now..."
+  },
+  {
+   "id": "0463:0063A",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２５I think that's just as￥important as getting to Elan."
+  },
+  {
+   "id": "0463:0069D",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２６I get that you're anxious. But￥let's take it slow, one thing￥at a time!"
+  },
+  {
+   "id": "0463:0070E",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２７If there's anything I can do,￥I'll do it, no matter what!"
+  },
+  {
+   "id": "0463:00767",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２８Okay, I'm heading back,￥but really, take care!"
+  },
+  {
+   "id": "0463:007BA",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０２９When you're feeling better,￥let's train together!!"
+  },
+  {
+   "id": "0463:0080D",
+   "end": "818400",
+   "en": "＊Amane＊＠０２７＿０３０See ya!!"
+  }
+ ]
+}

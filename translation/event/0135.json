@@ -1,0 +1,71 @@
+{
+ "entry": 135,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0135:0001C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２０＿０１４Sorry, I can't go with you...￥There was someone else you￥should've asked, wasn't there?"
+  },
+  {
+   "id": "0135:0009F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２０＿０１５And still you asked me...￥Cousin, didn't you maybe pick￥the wrong person?"
+  },
+  {
+   "id": "0135:0010F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２０＿０１６Sorry, I can't go with you...￥There was someone else you￥should've asked, wasn't there?"
+  },
+  {
+   "id": "0135:00192",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２０＿０１７And still you asked me...￥Cousin, didn't you maybe pick￥the wrong person?"
+  },
+  {
+   "id": "0135:001FB",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0135:0020D",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００１Your grades are superb, but...￥you failed at the one thing that￥mattered: finding a partner.＝＠００２＿００２Getting along with others is￥also a vital part of qualifying."
+  },
+  {
+   "id": "0135:002D4",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００２＿００３Right now, that's what you lack.＝＠００２＿００４I'm sorry, but we can't consider￥you qualified."
+  },
+  {
+   "id": "0135:00367",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００５We'll send the people we judge￥best qualified to Elan instead."
+  },
+  {
+   "id": "0135:003D0",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００６Starting tomorrow, we'll be busy￥getting those who qualified￥ready to leave."
+  },
+  {
+   "id": "0135:0042B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００２＿００７We'll need all of you to￥help out. We're counting on you."
+  },
+  {
+   "id": "0135:00482",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0135:00496",
+   "end": "818400",
+   "en": "－　One Month Later　－＝－　The day the newly qualified￥　　　　leave for Elan　－"
+  },
+  {
+   "id": "0135:00505",
+   "end": "818400",
+   "en": "－　The Qualified Depart　－"
+  }
+ ]
+}

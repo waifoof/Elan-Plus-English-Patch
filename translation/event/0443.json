@@ -1,0 +1,366 @@
+{
+ "entry": 443,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0443:0001A",
+   "end": "818400",
+   "en": "－　Corridor　－＝－　Riko is waiting for someone　－"
+  },
+  {
+   "id": "0443:00053",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１０What's taking so long..."
+  },
+  {
+   "id": "0443:00083.0",
+   "choice": true,
+   "en": "What are you doing here?"
+  },
+  {
+   "id": "0443:00083.1",
+   "choice": true,
+   "en": "Waiting for someone?"
+  },
+  {
+   "id": "0443:000B1.0",
+   "choice": true,
+   "en": "What are you doing here?"
+  },
+  {
+   "id": "0443:000B1.1",
+   "choice": true,
+   "en": "Waiting for someone?"
+  },
+  {
+   "id": "0443:000DD",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１１Eeeeeek!!"
+  },
+  {
+   "id": "0443:00110",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１２Geez, don't scare me like that!"
+  },
+  {
+   "id": "0443:0014C",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１３Yikes!!"
+  },
+  {
+   "id": "0443:00179",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１４Ugh, geez,￥don't sneak up on me like that!￥You startled me!"
+  },
+  {
+   "id": "0443:001DA",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１５I've been waiting all this time,￥and that's how you show up?!＝..."
+  },
+  {
+   "id": "0443:0023B",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１６What's with that weird face...＝＠１０１＿０１７You! I mean YOU!￥I was waiting for YOU!!"
+  },
+  {
+   "id": "0443:002B6",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１８I've got something to tell you.￥But not here..."
+  },
+  {
+   "id": "0443:0030B",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０１９Let's see... we'll go to￥your room!"
+  },
+  {
+   "id": "0443:00359.0",
+   "choice": true,
+   "en": "Don't decide for me."
+  },
+  {
+   "id": "0443:00359.1",
+   "choice": true,
+   "en": "Then let's go to yours."
+  },
+  {
+   "id": "0443:0038B.0",
+   "choice": true,
+   "en": "Don't decide for me."
+  },
+  {
+   "id": "0443:0038B.1",
+   "choice": true,
+   "en": "Then let's go to yours."
+  },
+  {
+   "id": "0443:003C7",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０２０What are you talking about?!＝＠１０１＿０２１I'm going out of my way￥to come to YOUR room,￥you know?!"
+  },
+  {
+   "id": "0443:0044C",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０２２Come on,￥look a little happier about it!"
+  },
+  {
+   "id": "0443:00496",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０２３Wh-what are you saying?!＝＠１０１＿０２４If you think I'd let you into￥my room that easily,￥you're dead wrong!"
+  },
+  {
+   "id": "0443:0051F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０２５If the day ever comes when you￥get in, it'll be after I've left￥for Elan!!"
+  },
+  {
+   "id": "0443:0058A",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０２６Ugh, enough!￥We're wasting time￥arguing about this!!"
+  },
+  {
+   "id": "0443:005E1",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿０２７Come on, let's go!"
+  },
+  {
+   "id": "0443:00614",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0443:00632",
+   "end": "818400",
+   "en": "－　；'s Room　－"
+  },
+  {
+   "id": "0443:0065B",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００１Geez... your room is so tidy￥it's almost neurotic. You might￥give Kairi a run for his money."
+  },
+  {
+   "id": "0443:006D4.0",
+   "choice": true,
+   "en": "So what did you want?"
+  },
+  {
+   "id": "0443:006D4.1",
+   "choice": true,
+   "en": "Don't snoop around..."
+  },
+  {
+   "id": "0443:0070E",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００２You don't have to say￥it like that!!"
+  },
+  {
+   "id": "0443:00757",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００３I came all the way to your room,￥and you're not happy about it?!"
+  },
+  {
+   "id": "0443:007AB",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００４Oh, shut up!"
+  },
+  {
+   "id": "0443:007DC",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００５Honestly!￥You're a guy, so quit whining￥about every little thing!"
+  },
+  {
+   "id": "0443:00842",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００６Geez... your room is so tidy￥it's almost obnoxious! I guess￥it shows your personality?"
+  },
+  {
+   "id": "0443:008BD.0",
+   "choice": true,
+   "en": "So what did you want?"
+  },
+  {
+   "id": "0443:008BD.1",
+   "choice": true,
+   "en": "Don't touch my stuff..."
+  },
+  {
+   "id": "0443:008F7",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００７You don't have to say￥it like that!!"
+  },
+  {
+   "id": "0443:00940",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００８I came all the way to your room,￥and you're not happy about it?!"
+  },
+  {
+   "id": "0443:00994",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿００９Oh, shut up!"
+  },
+  {
+   "id": "0443:009C5",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０１０Honestly!! Are you neurotic or￥something?! Quit whining about￥every little thing!"
+  },
+  {
+   "id": "0443:00A34",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０１１Geez, and here I was waiting￥because I had something I really￥wanted you to hear!"
+  },
+  {
+   "id": "0443:00A8F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０１２Well, whatever...￥Just sit quietly and listen."
+  },
+  {
+   "id": "0443:00AD4",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０１３I hate putting it this way, but￥my family is what people call a￥\"distinguished house.\""
+  },
+  {
+   "id": "0443:00B46",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０１４But you know,￥growing up there, all I had￥around me..."
+  },
+  {
+   "id": "0443:00B8F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０１５...were people who only wanted￥something from my family. No one￥cared about me.＝＠１０２＿０１６The people who were kind to me,￥the ones who called me cute..."
+  },
+  {
+   "id": "0443:00C48",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０１７I realized none of them were￥really seeing me.＝＠１０２＿０１８I figured as long as I stayed￥in that world, people would￥always look at me that way."
+  },
+  {
+   "id": "0443:00CF7",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０１９But you always looked at me￥without any prejudice.＝＠１０２＿０２０At the real me."
+  },
+  {
+   "id": "0443:00D7F.0",
+   "choice": true,
+   "en": "Did I?"
+  },
+  {
+   "id": "0443:00D7F.1",
+   "choice": true,
+   "en": "I didn't do anything."
+  },
+  {
+   "id": "0443:00DAF.0",
+   "choice": true,
+   "en": "Did I?"
+  },
+  {
+   "id": "0443:00DAF.1",
+   "choice": true,
+   "en": "I didn't do anything."
+  },
+  {
+   "id": "0443:00DE2",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０２１It's so like you not to notice."
+  },
+  {
+   "id": "0443:00E1F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０２２I see... For you,￥that was just a natural￥thing to do...＝＠１０２＿０２３You're the first person￥who's ever been like that."
+  },
+  {
+   "id": "0443:00EB8",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０２４Right. For you, that was￥just the natural thing."
+  },
+  {
+   "id": "0443:00F15",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０２５But for me,￥it was really special."
+  },
+  {
+   "id": "0443:00F62",
+   "end": "818400",
+   "en": "＊Riko＊＠１０２＿０２６For someone like me, who's lived￥surrounded by prejudice..."
+  },
+  {
+   "id": "0443:00FB1",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿００１From now on I want to be someone￥who looks past the surface and￥sees who people really are.＝＠１０３＿００２You always did that,￥didn't you?"
+  },
+  {
+   "id": "0443:0105E",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿００３That's why, at first... even￥when I was so nasty to you, you￥still treated me normally."
+  },
+  {
+   "id": "0443:010CD",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿００４Maybe it's thanks to you...￥that I could change how I think."
+  },
+  {
+   "id": "0443:0112B.0",
+   "choice": true,
+   "en": "You did that yourself."
+  },
+  {
+   "id": "0443:0112B.1",
+   "choice": true,
+   "en": "Oh... thank you."
+  },
+  {
+   "id": "0443:01161.0",
+   "choice": true,
+   "en": "You did that yourself."
+  },
+  {
+   "id": "0443:01161.1",
+   "choice": true,
+   "en": "Oh... thank you."
+  },
+  {
+   "id": "0443:01197",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0443:011A8",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿００５You think so? But if you hadn't￥been here, I'd have just been a￥nasty person.＝＠１０３＿００６I'd never have learned to care￥about others, and maybe never￥realized I was wrong.＝＠１０３＿００７So I really mean it now.￥I'm glad I met you..."
+  },
+  {
+   "id": "0443:012C8",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0443:012D9",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿００８I'm the one who should be￥thanking you.＝＠１０３＿００９If I'd never met you, I'd have￥just been a nasty person.＝＠１０３＿０１０You made me see that,￥so for once,￥I should be honest.＝＠１０３＿０１１Thank you.￥Really.￥I'm glad I met you."
+  },
+  {
+   "id": "0443:01418",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿０１２Right now...￥I've started thinking￥seriously about Elan.＝＠１０３＿０１３I just wonder what kind of￥planet it is. I want to see￥it for myself."
+  },
+  {
+   "id": "0443:014B7",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿０１４And...￥if it's with you,￥I wouldn't mind going."
+  },
+  {
+   "id": "0443:01512",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿０１５B-but don't get the wrong idea!"
+  },
+  {
+   "id": "0443:0154F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０３＿０１６It's just that with you, I doubt￥I'd get bored, no matter￥what planet it is!!"
+  },
+  {
+   "id": "0443:015B6",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

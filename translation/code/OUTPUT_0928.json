@@ -1,0 +1,26 @@
+{
+ "module": "OUTPUT:0928",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "OUTPUT_0928:00004",
+   "max": 100,
+   "en": "＊Tomoe＊Shall we start training soon...?￥I have a feeling we'd get a￥lot done right now.＞"
+  },
+  {
+   "id": "OUTPUT_0928:0006C",
+   "max": 96,
+   "en": "＊Tomoe＊I'm sorry to interrupt our talk,￥but shouldn't we get to our￥training soon...?＞"
+  },
+  {
+   "id": "OUTPUT_0928:000D0",
+   "max": 82,
+   "en": "＊Tomoe＊We came here to train,￥after all. Shall we get￥started soon?＞"
+  },
+  {
+   "id": "OUTPUT_0928:00124",
+   "max": 70,
+   "en": "＊Tomoe＊...We really should￥start training soon,￥shouldn't we?＞"
+  }
+ ]
+}

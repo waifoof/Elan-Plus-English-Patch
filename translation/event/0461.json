@@ -1,0 +1,116 @@
+{
+ "entry": 461,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0461:0001C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿００９Helloooo!￥Hehe, I came to hang out!￥Can I come in?"
+  },
+  {
+   "id": "0461:0007D",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１０Hey, hey!￥How come your scores have￥been so good lately?"
+  },
+  {
+   "id": "0461:000D2",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１１Tell me your secret too!￥I won't tell anyone!!"
+  },
+  {
+   "id": "0461:0011C.0",
+   "choice": true,
+   "en": "Nothing special, really."
+  },
+  {
+   "id": "0461:0011C.1",
+   "choice": true,
+   "en": "That's a secret."
+  },
+  {
+   "id": "0461:00144.0",
+   "choice": true,
+   "en": "Nothing special, really."
+  },
+  {
+   "id": "0461:00144.1",
+   "choice": true,
+   "en": "That's a secret."
+  },
+  {
+   "id": "0461:0016E",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１２Whaaat! Seriously?￥You're amazing!＝＠０２８＿０１３Are you finally showing off￥the skills you've been hiding?"
+  },
+  {
+   "id": "0461:001FA",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１４No fair! You could at least￥give me a little hint!"
+  },
+  {
+   "id": "0461:00255",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１５Didn't your mom ever teach you￥that helping each other matters?"
+  },
+  {
+   "id": "0461:002A8",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１６At first I thought it must be￥tough for you, not having a￥specialty, but..."
+  },
+  {
+   "id": "0461:00311",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１７That wasn't true at all!￥Not having a weak spot￥actually makes you stronger!!"
+  },
+  {
+   "id": "0461:00380",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１８If it's you passing me,￥I don't really mind that much."
+  },
+  {
+   "id": "0461:003D1",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０１９Maybe that's because I really,￥really like you!"
+  },
+  {
+   "id": "0461:0042F.0",
+   "choice": true,
+   "en": "Thanks, that's sweet."
+  },
+  {
+   "id": "0461:0042F.1",
+   "choice": true,
+   "en": "Huh, is that right?"
+  },
+  {
+   "id": "0461:0045F.0",
+   "choice": true,
+   "en": "Thanks, I like you too."
+  },
+  {
+   "id": "0461:0045F.1",
+   "choice": true,
+   "en": "Huh, is that right?"
+  },
+  {
+   "id": "0461:0048D",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０２０I've gotta follow your￥example and work hard too!"
+  },
+  {
+   "id": "0461:004D9",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０２１That's right!! So when you're￥giving it your all, I feel like￥I can push even harder too!"
+  },
+  {
+   "id": "0461:00554",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０２２I'm so proud to be friends￥with someone like you!＝＠０２８＿０２３I'll work even harder so you'll￥be proud of me too!"
+  },
+  {
+   "id": "0461:00611",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿０２４Look forward to the next exam!￥Okay, see ya!"
+  }
+ ]
+}

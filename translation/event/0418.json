@@ -1,0 +1,46 @@
+{
+ "entry": 418,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0418:00011",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿００３Morning!￥You're heading off￥to training, right?"
+  },
+  {
+   "id": "0418:00064",
+   "end": "818400",
+   "en": "＠２０６＿００４I'm going to the Weight Room.￥Want to come along, if you're￥up for it?"
+  },
+  {
+   "id": "0418:000C6.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0418:000C6.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0418:000FE.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0418:000FE.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0418:0013A",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿００５Really?￥Then let's go.＝＠２０６＿００６Even the same old workout￥should be fun with you there."
+  },
+  {
+   "id": "0418:001CB",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿００７I see, too bad...￥It'd be fun with you, though.￥Well, maybe another time..."
+  }
+ ]
+}

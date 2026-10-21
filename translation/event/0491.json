@@ -1,0 +1,91 @@
+{
+ "entry": 491,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0491:00022",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿００１G-good morning. I'm sorry￥to bother you so early.＝＠１８６＿００２There's just something I really￥wanted to ask you..."
+  },
+  {
+   "id": "0491:000B3",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿００３It's about the exam... What￥happened to you this time?＝＠１８６＿００４You didn't seem to do￥very well..."
+  },
+  {
+   "id": "0491:00147.0",
+   "choice": true,
+   "en": "I was just off my game."
+  },
+  {
+   "id": "0491:00147.1",
+   "choice": true,
+   "en": "Leave me alone."
+  },
+  {
+   "id": "0491:0017B.0",
+   "choice": true,
+   "en": "I was just off my game."
+  },
+  {
+   "id": "0491:0017B.1",
+   "choice": true,
+   "en": "Leave me alone."
+  },
+  {
+   "id": "0491:001AB",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿００５I see.￥Everyone has times like that."
+  },
+  {
+   "id": "0491:001F5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿００６Oh... I-I'm sorry."
+  },
+  {
+   "id": "0491:0022E",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿００７I know how hard you always work.＝＠１８６＿００８So I thought maybe...￥something had happened...＝＠１８６＿００９I'm sorry. I worried￥for nothing."
+  },
+  {
+   "id": "0491:002FA.0",
+   "choice": true,
+   "en": "Thanks for worrying."
+  },
+  {
+   "id": "0491:002FA.1",
+   "choice": true,
+   "en": "Mind your own business."
+  },
+  {
+   "id": "0491:00328.0",
+   "choice": true,
+   "en": "Thanks for worrying."
+  },
+  {
+   "id": "0491:00328.1",
+   "choice": true,
+   "en": "Mind your own business."
+  },
+  {
+   "id": "0491:00356",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０１０Oh... r-really...?"
+  },
+  {
+   "id": "0491:00396",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０１１Y-yes... I'm sorry..."
+  },
+  {
+   "id": "0491:003D5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０１２Um... please do your best.＝＠１８６＿０１３What you're doing now is for￥your own sake, nobody else's."
+  },
+  {
+   "id": "0491:00468",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０１４Well then... um...￥I'm sorry for intruding on￥your day off."
+  }
+ ]
+}

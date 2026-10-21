@@ -1,0 +1,116 @@
+{
+ "entry": 498,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0498:00025",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿００１Hey, I heard you collapsed...￥Are you okay?"
+  },
+  {
+   "id": "0498:00070",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿００２You push yourself way too hard!＝＠２０５＿００３If you don't take a little more￥care of yourself, training's the￥least of your worries."
+  },
+  {
+   "id": "0498:00105",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿００４Looks like you've been￥overdoing it for a while...＝＠２０５＿００５I wish I could trade places..."
+  },
+  {
+   "id": "0498:00188",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿００６If there's anything I can do,￥just say the word."
+  },
+  {
+   "id": "0498:001D4.0",
+   "choice": true,
+   "en": "Thanks."
+  },
+  {
+   "id": "0498:001D4.1",
+   "choice": true,
+   "en": "Don't worry about it."
+  },
+  {
+   "id": "0498:001F6.0",
+   "choice": true,
+   "en": "Thanks."
+  },
+  {
+   "id": "0498:001F6.1",
+   "choice": true,
+   "en": "Don't worry about it."
+  },
+  {
+   "id": "0498:0021C",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿００７No need to thank me. You just￥focus on getting better!"
+  },
+  {
+   "id": "0498:00286",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿００８You sure? When you're sick,￥you should take people up on￥their kindness."
+  },
+  {
+   "id": "0498:002E1",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿００９Push it now and it'll only￥get worse."
+  },
+  {
+   "id": "0498:00320",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０１０So just stay in bed... Though￥all I can really do for you￥right now...＝＠２０５＿０１１is go get you some medicine￥or bring you something to eat."
+  },
+  {
+   "id": "0498:003E3",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０１２Anyway, you'd better rest up￥properly today and get well."
+  },
+  {
+   "id": "0498:00443.0",
+   "choice": true,
+   "en": "Okay, I will."
+  },
+  {
+   "id": "0498:00443.1",
+   "choice": true,
+   "en": "I can't just lie here!"
+  },
+  {
+   "id": "0498:00475.0",
+   "choice": true,
+   "en": "Okay, I will."
+  },
+  {
+   "id": "0498:00475.1",
+   "choice": true,
+   "en": "I can't just lie here!"
+  },
+  {
+   "id": "0498:004AB",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０１３Good! Glad you're listening."
+  },
+  {
+   "id": "0498:004DD",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０１４There you go again!＝＠２０５＿０１５If you push yourself while￥you're sick, your training won't￥get you anywhere!"
+  },
+  {
+   "id": "0498:0056A",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０１６Now get some sleep!"
+  },
+  {
+   "id": "0498:00599",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０１７You can make up for it once￥you're better."
+  },
+  {
+   "id": "0498:005E0",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０５＿０１８See ya. Get some good rest."
+  }
+ ]
+}

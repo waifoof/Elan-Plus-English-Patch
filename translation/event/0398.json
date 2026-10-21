@@ -1,0 +1,316 @@
+{
+ "entry": 398,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0398:0001E",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０２４Hello! I was looking for you.＝＠１６８＿０２５While I was researching Elan, I￥found some really beautiful￥footage..."
+  },
+  {
+   "id": "0398:000C1",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０２６Um, if you don't mind... would￥you come watch it with me?"
+  },
+  {
+   "id": "0398:00129.0",
+   "choice": true,
+   "en": "Sure, let's watch it."
+  },
+  {
+   "id": "0398:00129.1",
+   "choice": true,
+   "en": "I'll pass for today."
+  },
+  {
+   "id": "0398:00159.0",
+   "choice": true,
+   "en": "Sure, let's watch it."
+  },
+  {
+   "id": "0398:00159.1",
+   "choice": true,
+   "en": "Not today, thanks."
+  },
+  {
+   "id": "0398:00191",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０２７Great, I'm so happy!￥Let's go, then."
+  },
+  {
+   "id": "0398:001E3",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０２８I see... That's too bad.＝＠１６８＿０２９Then I'll go watch it alone.￥Goodbye..."
+  },
+  {
+   "id": "0398:00264",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0398:00275",
+   "end": "818400",
+   "en": "＊＊－　Monitor Room　－"
+  },
+  {
+   "id": "0398:00298",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿００１Here it is.￥On this big monitor, it looked￥really beautiful."
+  },
+  {
+   "id": "0398:002FF",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿００２So I really wanted to watch it￥with you..."
+  },
+  {
+   "id": "0398:00355.0",
+   "choice": true,
+   "en": "Why with me?"
+  },
+  {
+   "id": "0398:00355.1",
+   "choice": true,
+   "en": "I'm a bit embarrassed."
+  },
+  {
+   "id": "0398:00379.0",
+   "choice": true,
+   "en": "Why with me?"
+  },
+  {
+   "id": "0398:00379.1",
+   "choice": true,
+   "en": "I'm a bit embarrassed."
+  },
+  {
+   "id": "0398:0039F",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿００３I thought if I saw it with you,￥it might look more beautiful￥than when I watched it alone...＝＠１６９＿００４I'm not sure why, but I did."
+  },
+  {
+   "id": "0398:00449",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿００５Embarrassed?￥I just felt like it would look￥more beautiful with you...＝＠１６９＿００６Did that... bother you?"
+  },
+  {
+   "id": "0398:004EB.0",
+   "choice": true,
+   "en": "No, not at all."
+  },
+  {
+   "id": "0398:004EB.1",
+   "choice": true,
+   "en": "Yeah, a little."
+  },
+  {
+   "id": "0398:00513.0",
+   "choice": true,
+   "en": "No, not at all."
+  },
+  {
+   "id": "0398:00513.1",
+   "choice": true,
+   "en": "Yes, a little."
+  },
+  {
+   "id": "0398:0053D",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿００７What a relief.＝＠１６９＿００８I didn't know what I'd do if you￥said it did..."
+  },
+  {
+   "id": "0398:005B3",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿００９I'm sorry. I don't want to make￥you feel bad.＝＠１６９＿０１０Thank you for coming all this￥way with me.＝..."
+  },
+  {
+   "id": "0398:0066A",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０１１I...＝＠１６９＿０１２If I see you, I'm sure I'll end￥up saying something that bothers￥you again."
+  },
+  {
+   "id": "0398:006F5",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０１３So...￥I won't come looking for you￥anymore.＝＠１６９＿０１４Goodbye..."
+  },
+  {
+   "id": "0398:00779",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０１５It was something you said that￥got me looking into Elan.＝＠１６９＿０１６And every time I met you after￥that, I got curious about more￥and more things."
+  },
+  {
+   "id": "0398:0083E",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０１７I owe so much of it to you..."
+  },
+  {
+   "id": "0398:00883",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０１８I was built to go to Elan."
+  },
+  {
+   "id": "0398:008CA",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０１９But in the end, they gave up on￥me and threw me away like￥trash...＝＠１６９＿０２０When they threw me away, I￥didn't feel a thing. Not sad,￥not hurt..."
+  },
+  {
+   "id": "0398:00985",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０２１But now, I think it's sad.＝＠１６９＿０２２I really do have feelings."
+  },
+  {
+   "id": "0398:00A04",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０２３Having feelings is amazing.＝＠１６９＿０２４You feel bad, painful things￥too, but...＝＠１６９＿０２５even more than that, you get to￥feel happy and have fun!"
+  },
+  {
+   "id": "0398:00AE1",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０２６Right now, I'm really, really￥\"happy\"!"
+  },
+  {
+   "id": "0398:00B29.0",
+   "choice": true,
+   "en": "You look really happy."
+  },
+  {
+   "id": "0398:00B29.1",
+   "choice": true,
+   "en": "Is it that amazing?"
+  },
+  {
+   "id": "0398:00B5B.0",
+   "choice": true,
+   "en": "You look really happy."
+  },
+  {
+   "id": "0398:00B5B.1",
+   "choice": true,
+   "en": "Is it really so amazing?"
+  },
+  {
+   "id": "0398:00B8B",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０２７Yes! Because I never knew￥feelings like this even existed."
+  },
+  {
+   "id": "0398:00BF3",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６９＿０２８Yes!＝＠１６９＿０２９Because I never used to feel￥happy like this before."
+  },
+  {
+   "id": "0398:00C74",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿００１I want to go to Elan.＝＠１７０＿００２I'm an android built for Elan￥experiments, but...＝＠１７０＿００３now I want to go because I￥choose to. I really, really do!!"
+  },
+  {
+   "id": "0398:00D46.0",
+   "choice": true,
+   "en": "Why do you want that?"
+  },
+  {
+   "id": "0398:00D46.1",
+   "choice": true,
+   "en": "That's impossible."
+  },
+  {
+   "id": "0398:00D74.0",
+   "choice": true,
+   "en": "What makes you say that?"
+  },
+  {
+   "id": "0398:00D74.1",
+   "choice": true,
+   "en": "I don't think you can..."
+  },
+  {
+   "id": "0398:00DB4",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿００４Well... Elan is so beautiful,￥and I think my abilities could￥be useful there..."
+  },
+  {
+   "id": "0398:00E29",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿００５I knew it..."
+  },
+  {
+   "id": "0398:00E58",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿００６An android that was already￥thrown away once...＝＠１７０＿００７would never be trusted with such￥important work..."
+  },
+  {
+   "id": "0398:00EF1",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿００８I'm such a fool..."
+  },
+  {
+   "id": "0398:00F30",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿００９And more than anything...￥because you're going to Elan..."
+  },
+  {
+   "id": "0398:00F7B",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿０１０It might be impossible... but￥I'll try my best to find a way￥to go."
+  },
+  {
+   "id": "0398:00FE4",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿０１１Because you're the reason I have￥feelings and emotions..."
+  },
+  {
+   "id": "0398:01043",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿０１２I don't want to be scrapped￥ever again!"
+  },
+  {
+   "id": "0398:0108B.0",
+   "choice": true,
+   "en": "I won't let that happen!"
+  },
+  {
+   "id": "0398:0108B.1",
+   "choice": true,
+   "en": "You have a heart. Relax."
+  },
+  {
+   "id": "0398:010C9.0",
+   "choice": true,
+   "en": "I won't let that happen!"
+  },
+  {
+   "id": "0398:010C9.1",
+   "choice": true,
+   "en": "You have a heart. Relax."
+  },
+  {
+   "id": "0398:0110A",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿０１３Oh...￥Thank you..."
+  },
+  {
+   "id": "0398:0114D",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿０１４Okay! ..."
+  },
+  {
+   "id": "0398:0117E",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿０１５Huh? What's..."
+  },
+  {
+   "id": "0398:011B1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0398:011C4",
+   "end": "818400",
+   "en": "＊Sarai＊＠１７０＿０１６Is this... a tear?＝...＝＠１７０＿０１７I can cry too...＝＠１７０＿０１８Thank you.￥It's all thanks to you."
+  },
+  {
+   "id": "0398:0126B",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

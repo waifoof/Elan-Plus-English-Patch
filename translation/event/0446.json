@@ -1,0 +1,376 @@
+{
+ "entry": 446,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0446:0001A",
+   "end": "818400",
+   "en": "－　Corridor　－＝－　Riko and Eiji are fighting　－"
+  },
+  {
+   "id": "0446:00057",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０２４Eiji, you idiot!!￥Stop making things up!!"
+  },
+  {
+   "id": "0446:000A2",
+   "end": "818400",
+   "en": "＊Eiji＊＠０９７＿０２５C'mon, it's not like I said it￥to be mean or anything."
+  },
+  {
+   "id": "0446:000F5",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０２６Not meaning it doesn't give you￥the right to say whatever you￥want!＝＠０９７＿０２７Take it back!!"
+  },
+  {
+   "id": "0446:0017A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０９７＿０２８It's just a rumor, geez.￥Quit blowing up over every￥little thing!!"
+  },
+  {
+   "id": "0446:001D9",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0446:001ED",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０２９Ah... hey, Eiji!￥Get back here! Hey!!"
+  },
+  {
+   "id": "0446:0023F.0",
+   "choice": true,
+   "en": "Did Eiji do something?"
+  },
+  {
+   "id": "0446:0023F.1",
+   "choice": true,
+   "en": "Fighting's no good."
+  },
+  {
+   "id": "0446:0026F.0",
+   "choice": true,
+   "en": "Did Eiji do something?"
+  },
+  {
+   "id": "0446:0026F.1",
+   "choice": true,
+   "en": "You two shouldn't fight."
+  },
+  {
+   "id": "0446:0029F",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿００１\"Something\" doesn't even￥begin to cover it!!"
+  },
+  {
+   "id": "0446:002DE",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿００２Not that yelling at you￥will do any good, but...!"
+  },
+  {
+   "id": "0446:0032A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿００３This isn't some fight!＝＠０９８＿００４That guy is going around￥spreading baseless rumors,￥that's what!!"
+  },
+  {
+   "id": "0446:003AB",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿００５I was passing by here, and I￥heard Eiji talking to someone...＝＠０９８＿００６And I heard my name in there,￥so I sort of stopped and￥listened in."
+  },
+  {
+   "id": "0446:00478",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿００７And then..."
+  },
+  {
+   "id": "0446:004A6",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿００８They were saying I only became￥a candidate because of my￥connections!"
+  },
+  {
+   "id": "0446:00509",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿００９Because my father's on Project￥Elan's executive board? Because￥of my family name? That's..."
+  },
+  {
+   "id": "0446:00574",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１０That has nothing to do￥with who I am!!"
+  },
+  {
+   "id": "0446:005C9",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１１Connections...￥As if that could ever be true!"
+  },
+  {
+   "id": "0446:0061D.0",
+   "choice": true,
+   "en": "Ignore those rumors."
+  },
+  {
+   "id": "0446:0061D.1",
+   "choice": true,
+   "en": "It's not true, right?"
+  },
+  {
+   "id": "0446:00651.0",
+   "choice": true,
+   "en": "Ignore those rumors."
+  },
+  {
+   "id": "0446:00651.1",
+   "choice": true,
+   "en": "It's not true, right?"
+  },
+  {
+   "id": "0446:0068B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１２Put yourself in my shoes!"
+  },
+  {
+   "id": "0446:006CA",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１３Are you saying you could just￥shrug it off if it were you?"
+  },
+  {
+   "id": "0446:00722",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１４Don't tell me...￥you have doubts too...?"
+  },
+  {
+   "id": "0446:0076B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１５I can't... I can't￥take this anymore!!"
+  },
+  {
+   "id": "0446:007AE",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0446:007C3.0",
+   "choice": true,
+   "en": "Ah, wait!"
+  },
+  {
+   "id": "0446:007C3.1",
+   "choice": true,
+   "en": "Hey, where you going?"
+  },
+  {
+   "id": "0446:007EF.0",
+   "choice": true,
+   "en": "Ah, wait!"
+  },
+  {
+   "id": "0446:007EF.1",
+   "choice": true,
+   "en": "Where are you going?"
+  },
+  {
+   "id": "0446:0081D",
+   "end": "818400",
+   "en": "＊＊－　； chases after Riko　－"
+  },
+  {
+   "id": "0446:0084E",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１６..."
+  },
+  {
+   "id": "0446:0088B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１７Why...￥Why are you following me?!＝＠０９８＿０１８Just leave me alone, okay?!"
+  },
+  {
+   "id": "0446:0090F.0",
+   "choice": true,
+   "en": "I can't leave you alone!"
+  },
+  {
+   "id": "0446:0090F.1",
+   "choice": true,
+   "en": "Why would you say that?"
+  },
+  {
+   "id": "0446:0093F.0",
+   "choice": true,
+   "en": "I can't leave you alone!"
+  },
+  {
+   "id": "0446:0093F.1",
+   "choice": true,
+   "en": "Why would you say that?"
+  },
+  {
+   "id": "0446:0096B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０１９Why do you even care?￥If you say it's out of pity...￥I'll knock you flat!!"
+  },
+  {
+   "id": "0446:009C9",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０２０If you're not serious about it,￥then don't bother with me!＝＠０９８＿０２１If you're just curious, leaving￥me alone would be the kinder￥thing!"
+  },
+  {
+   "id": "0446:00A69",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０２２I've... I've been hearing it￥since I was a kid... I'm used to￥that kind of backstabbing talk."
+  },
+  {
+   "id": "0446:00AD8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０２３Everyone judges me by my family￥name, or my father's power...＝＠０９８＿０２４by things like that, and￥nothing else."
+  },
+  {
+   "id": "0446:00B59",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０２５No matter how hard I work,￥everyone thinks it's all￥thanks to my family."
+  },
+  {
+   "id": "0446:00BB8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０２６At times like that, I wonder￥why nobody will look at￥me for who I am."
+  },
+  {
+   "id": "0446:00C11",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０２７Why won't anyone judge me￥on my own merits, just as￥I am...?"
+  },
+  {
+   "id": "0446:00C75.0",
+   "choice": true,
+   "en": "Not everyone's that way."
+  },
+  {
+   "id": "0446:00C75.1",
+   "choice": true,
+   "en": "Aren't you overreacting?"
+  },
+  {
+   "id": "0446:00CB3.0",
+   "choice": true,
+   "en": "Not everyone's that way."
+  },
+  {
+   "id": "0446:00CB3.1",
+   "choice": true,
+   "en": "Aren't you overreacting?"
+  },
+  {
+   "id": "0446:00CF3",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０２８Don't play nice with me!! Deep￥down you think the same thing,￥don't you?!"
+  },
+  {
+   "id": "0446:00D5B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０２９How can you say that?"
+  },
+  {
+   "id": "0446:00D96",
+   "end": "818400",
+   "en": "＊Riko＊＠０９８＿０３０Sure, maybe it's not your￥problem, but you're being￥way too flippant!"
+  },
+  {
+   "id": "0446:00DF9",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿００１We've been training together as￥candidates for months now...＝＠０９９＿００２I thought everyone here￥understood me."
+  },
+  {
+   "id": "0446:00E9A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿００３That I...￥got in here on my own."
+  },
+  {
+   "id": "0446:00EE3",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿００４And instead... they thought I￥was the kind of person who'd￥pull strings to get in..."
+  },
+  {
+   "id": "0446:00F45.0",
+   "choice": true,
+   "en": "I believe you."
+  },
+  {
+   "id": "0446:00F45.1",
+   "choice": true,
+   "en": "Just make them see it."
+  },
+  {
+   "id": "0446:00F79.0",
+   "choice": true,
+   "en": "I believe you."
+  },
+  {
+   "id": "0446:00F79.1",
+   "choice": true,
+   "en": "Just make them see it."
+  },
+  {
+   "id": "0446:00FAF",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿００５Really...?"
+  },
+  {
+   "id": "0446:00FDE",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿００６Talk is cheap, you know."
+  },
+  {
+   "id": "0446:0101C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿００７Make them see it... huh.￥I'm tired of trying to get￥people to understand me."
+  },
+  {
+   "id": "0446:0107D",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿００８But... I was a little relieved￥that you weren't part of all￥that gossip."
+  },
+  {
+   "id": "0446:010E2",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿００９Because I thought that you,￥at least, might believe￥in me..."
+  },
+  {
+   "id": "0446:01148.0",
+   "choice": true,
+   "en": "Thank you."
+  },
+  {
+   "id": "0446:01148.1",
+   "choice": true,
+   "en": "Don't count on me."
+  },
+  {
+   "id": "0446:01174.0",
+   "choice": true,
+   "en": "Thank you."
+  },
+  {
+   "id": "0446:01174.1",
+   "choice": true,
+   "en": "Don't count on me."
+  },
+  {
+   "id": "0446:011A2",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１０Y-you don't need to thank me￥for anything!!!"
+  },
+  {
+   "id": "0446:011EE",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１１Right... I guess so.￥I'm sorry!"
+  },
+  {
+   "id": "0446:0122D",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１２Why did I end up telling you￥all this? Maybe I'm a￥little tired."
+  },
+  {
+   "id": "0446:0128E",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１３Just forget everything we￥talked about today! Got it?!"
+  }
+ ]
+}

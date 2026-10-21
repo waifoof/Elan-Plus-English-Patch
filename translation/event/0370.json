@@ -1,0 +1,41 @@
+{
+ "entry": 370,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0370:00021",
+   "end": "818400",
+   "en": "＠０１０＿０１２＊Sakaki＊Hello.￥Mind if I come in for a moment?＝＠０１０＿０１３Sorry to bother you while you're￥resting, but there's something I￥need to check. A mail just..."
+  },
+  {
+   "id": "0370:000CC",
+   "end": "818400",
+   "en": "＠０１０＿０１４＊Sakaki＊Ah, it's arrived.￥So the connection is fine..."
+  },
+  {
+   "id": "0370:0011B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０１０＿０１５It goes live tomorrow, but...￥your console now has a function￥for sending and receiving mail.＝＠０１０＿０１６＊Sakaki＊The system is old, so sending￥takes quite a while, though..."
+  },
+  {
+   "id": "0370:001EA",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０１０＿０１７It lets candidates keep in touch￥without going to the facilities."
+  },
+  {
+   "id": "0370:00245",
+   "end": "818400",
+   "en": "＠０１０＿０１８＊Sakaki＊For instance, when you want to￥change someone's mood...＝＠０１０＿０１９It might work better than seeing￥them in person, you know?"
+  },
+  {
+   "id": "0370:002CA",
+   "end": "818400",
+   "en": "＠０１０＿０２０＊Sakaki＊Not that you seem all that shy."
+  },
+  {
+   "id": "0370:00315",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０１０＿０２１Well, how you use it is￥up to you.＝＠０１０＿０２２Put it to good use."
+  }
+ ]
+}

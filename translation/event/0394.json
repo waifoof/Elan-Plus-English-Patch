@@ -1,0 +1,306 @@
+{
+ "entry": 394,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0394:00024",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿００４I thought someone was still￥here. So it's you.＝＠１４７＿００５You've been training this late?￥You're working really hard.＝＠１４７＿００６With that much training, you￥must be able to feel yourself￥getting better."
+  },
+  {
+   "id": "0394:00121",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿００７Well? Say you qualify and￥go to Elan...＝＠１４７＿００８Are you confident you can handle￥the work properly?"
+  },
+  {
+   "id": "0394:001C5.0",
+   "choice": true,
+   "en": "Yes, I'm confident."
+  },
+  {
+   "id": "0394:001C5.1",
+   "choice": true,
+   "en": "Not really..."
+  },
+  {
+   "id": "0394:001F7.0",
+   "choice": true,
+   "en": "Yes, I'm confident."
+  },
+  {
+   "id": "0394:001F7.1",
+   "choice": true,
+   "en": "Not really..."
+  },
+  {
+   "id": "0394:0022B",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿００９Good!￥Then you'll be fine."
+  },
+  {
+   "id": "0394:0026F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０１０You're not...?＝＠１４７＿０１１From what I can see, your￥training is paying off fine."
+  },
+  {
+   "id": "0394:00300",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０１２With that attitude, you'll never￥show what you can really do!"
+  },
+  {
+   "id": "0394:0035C.0",
+   "choice": true,
+   "en": "I guess you're right."
+  },
+  {
+   "id": "0394:0035C.1",
+   "choice": true,
+   "en": "But it's pretty hard."
+  },
+  {
+   "id": "0394:0038A.0",
+   "choice": true,
+   "en": "I guess you're right."
+  },
+  {
+   "id": "0394:0038A.1",
+   "choice": true,
+   "en": "But it's quite hard."
+  },
+  {
+   "id": "0394:003B8",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０１３Have more faith in yourself. You￥haven't been training all this￥time for nothing.＝＠１４７＿０１４What you're learning now will be￥useful once you're on Elan.￥I guarantee it."
+  },
+  {
+   "id": "0394:00484",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０１５You need to have more confidence￥in yourself."
+  },
+  {
+   "id": "0394:004D5",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０１６Now, get some rest tonight and￥be ready for training tomorrow."
+  },
+  {
+   "id": "0394:0053C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０１７If you get too caught up in￥daily training, you can lose￥sight of what it's really for."
+  },
+  {
+   "id": "0394:005AD",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０１８Not that I'm worried about you￥on that front...＝＠１４７＿０１９I just wanted to check how￥confident you were."
+  },
+  {
+   "id": "0394:0063F.0",
+   "choice": true,
+   "en": "Then no need to worry!"
+  },
+  {
+   "id": "0394:0063F.1",
+   "choice": true,
+   "en": "Why ask that now?"
+  },
+  {
+   "id": "0394:0066D.0",
+   "choice": true,
+   "en": "Then no need to worry!"
+  },
+  {
+   "id": "0394:0066D.1",
+   "choice": true,
+   "en": "Why ask that now?"
+  },
+  {
+   "id": "0394:0069F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０２０Full of confidence, huh!￥Good to hear."
+  },
+  {
+   "id": "0394:006EB",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０２１Fair enough.￥Maybe it is a bit late to ask.＝＠１４７＿０２２That's what you work so hard for￥every day, after all."
+  },
+  {
+   "id": "0394:0076D.0",
+   "choice": true,
+   "en": "Yes, that's right."
+  },
+  {
+   "id": "0394:0076D.1",
+   "choice": true,
+   "en": "Did I seem unsure?"
+  },
+  {
+   "id": "0394:007A3.0",
+   "choice": true,
+   "en": "Yes, exactly."
+  },
+  {
+   "id": "0394:007A3.1",
+   "choice": true,
+   "en": "Did I look unsure?"
+  },
+  {
+   "id": "0394:007D9",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０２３I know the training's tough, but￥the final exam is almost here.＝＠１４７＿０２４Hang in there."
+  },
+  {
+   "id": "0394:00851",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０２５Yeah, a little."
+  },
+  {
+   "id": "0394:00882",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０２６You looked like you'd lost sight￥of why you're training, and￥you'd stopped improving."
+  },
+  {
+   "id": "0394:008F1",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿０２７But I guess I was worrying over￥nothing.＝＠１４７＿０２８The final exam is coming up￥soon. Give it your best."
+  },
+  {
+   "id": "0394:00974",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿００１People have all kinds of names￥for this planet, Elan...＝＠１４８＿００２\"Humanity's star of hope\"...￥\"The new frontier\"...￥\"Our second homeworld\"...＝＠１４８＿００３But here's how I see it.＝＠１４８＿００４Elan is... the \"new home\" that￥humanity seeks, now that it's￥lost the home it came from."
+  },
+  {
+   "id": "0394:00AB8.0",
+   "choice": true,
+   "en": "A new home..."
+  },
+  {
+   "id": "0394:00AB8.1",
+   "choice": true,
+   "en": "That's not like you."
+  },
+  {
+   "id": "0394:00AE2.0",
+   "choice": true,
+   "en": "A new home..."
+  },
+  {
+   "id": "0394:00AE2.1",
+   "choice": true,
+   "en": "That's not like you."
+  },
+  {
+   "id": "0394:00B0E",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿００５I've never lived on Earth, but￥for some reason...＝＠１４８＿００６When I look at Elan, it feels￥so familiar to me."
+  },
+  {
+   "id": "0394:00BA8",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿００７Well, that's just my opinion."
+  },
+  {
+   "id": "0394:00BE3",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿００８The point is, that's how much￥humanity longs for Elan.＝＠１４８＿００９And you've still got the big￥final exam ahead of you.＝＠１４８＿０１０Don't let your guard down."
+  },
+  {
+   "id": "0394:00CB5",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０１１You know, I was born the year￥Elan was discovered."
+  },
+  {
+   "id": "0394:00D0A",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０１２Finding a planet just like Earth￥caused a huge stir back then.＝＠１４８＿０１３And as the years went by, it￥grew clearer and clearer that￥humanity could move there."
+  },
+  {
+   "id": "0394:00DD1",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０１４Back then, settling on a planet￥felt like something in the far,￥far future...＝＠１４８＿０１５But now it's almost here."
+  },
+  {
+   "id": "0394:00E7B.0",
+   "choice": true,
+   "en": "That's true."
+  },
+  {
+   "id": "0394:00E7B.1",
+   "choice": true,
+   "en": "I can't wait to go."
+  },
+  {
+   "id": "0394:00E9F.0",
+   "choice": true,
+   "en": "Yes, that's true."
+  },
+  {
+   "id": "0394:00E9F.1",
+   "choice": true,
+   "en": "I can't wait to go."
+  },
+  {
+   "id": "0394:00ECD",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０１６Yeah...￥For you candidates, it's a lot￥closer to home."
+  },
+  {
+   "id": "0394:00F31",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０１７Yeah...￥It really is."
+  },
+  {
+   "id": "0394:00F75",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０１８I never got to be a candidate,￥but I'm rooting for all of you￥with everything I've got.＝＠１４８＿０１９The final exam is close now.￥Stay sharp and do your best."
+  },
+  {
+   "id": "0394:01025.0",
+   "choice": true,
+   "en": "Yes, I'll do my best."
+  },
+  {
+   "id": "0394:01025.1",
+   "choice": true,
+   "en": "Yes, I know."
+  },
+  {
+   "id": "0394:0104F.0",
+   "choice": true,
+   "en": "Yes, I'll do my best."
+  },
+  {
+   "id": "0394:0104F.1",
+   "choice": true,
+   "en": "Yes, I understand."
+  },
+  {
+   "id": "0394:0107D",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０２０Good! That's the spirit.＝＠１４８＿０２１Elan is no fairy tale. It's real￥ground that people will walk on.＝＠１４８＿０２２Don't forget that."
+  },
+  {
+   "id": "0394:0112D",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０２３I see. You've got a good head on￥your shoulders, so maybe I￥didn't need to say it."
+  },
+  {
+   "id": "0394:0118C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0394:0119C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０２４Maybe someone in charge￥shouldn't be saying this, but...＝＠１４８＿０２５I hope you're the one￥who goes..."
+  },
+  {
+   "id": "0394:0124F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４８＿０２６I mean... anyway,￥just do your best!"
+  },
+  {
+   "id": "0394:01296",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

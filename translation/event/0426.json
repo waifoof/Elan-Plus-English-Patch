@@ -1,0 +1,286 @@
+{
+ "entry": 426,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0426:00016",
+   "end": "818400",
+   "en": "－　Maintenance Room　－"
+  },
+  {
+   "id": "0426:0002B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２７Eek!"
+  },
+  {
+   "id": "0426:00056",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿００１Oh, you startled me..."
+  },
+  {
+   "id": "0426:00091",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿００２Someone's still here?￥At this hour, I thought￥everyone was gone."
+  },
+  {
+   "id": "0426:00103",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿００３It's good that you're eager, but￥maybe you shouldn't stay here￥too long."
+  },
+  {
+   "id": "0426:0016F",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿００４Being eager is fine, but a girl￥probably shouldn't stay here￥this late."
+  },
+  {
+   "id": "0426:001E4",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿００５There are strange rumors, too..."
+  },
+  {
+   "id": "0426:0021C.0",
+   "choice": true,
+   "en": "What strange rumors?"
+  },
+  {
+   "id": "0426:0021C.1",
+   "choice": true,
+   "en": "Okay, I'll head back."
+  },
+  {
+   "id": "0426:00256.0",
+   "choice": true,
+   "en": "What kind of rumors?"
+  },
+  {
+   "id": "0426:00256.1",
+   "choice": true,
+   "en": "All right, I'll go back."
+  },
+  {
+   "id": "0426:00298",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿００６Nothing serious, just a little￥ghost story about this room."
+  },
+  {
+   "id": "0426:002F8",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿００７Yes, do that.＝＠１５１＿００８Wandering around the facility￥this late...＝＠１５１＿００９If there's an accident, we can't￥take responsibility for it."
+  },
+  {
+   "id": "0426:003A9",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０１０You need to act with more￥awareness as a candidate.＝＠１５１＿０１１I'm closing this area, so￥please leave now."
+  },
+  {
+   "id": "0426:00449",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０１２Long ago, this Maintenance Room￥had a big press machine that￥got a lot of use.＝＠１５１＿０１３One day, a veteran mechanic was￥checking the press, when an￥accident happened.＝＠１５１＿０１４Just as he leaned in to look...￥the press went off by mistake.＝＠１５１＿０１５His head got caught, and￥they say he died instantly...＝＠１５１＿０１６The press was scrapped, but￥ever since then...＝＠１５１＿０１７they say a headless ghost￥haunts this facility."
+  },
+  {
+   "id": "0426:00625.0",
+   "choice": true,
+   "en": "Is that story true?"
+  },
+  {
+   "id": "0426:00625.1",
+   "choice": true,
+   "en": "Ghosts aren't real."
+  },
+  {
+   "id": "0426:00653.0",
+   "choice": true,
+   "en": "Is that story true?"
+  },
+  {
+   "id": "0426:00653.1",
+   "choice": true,
+   "en": "Ghosts aren't real."
+  },
+  {
+   "id": "0426:00691",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０１８I've never seen it myself,￥so I couldn't say.＝＠１５１＿０１９I do think it's just a￥rumor, though..."
+  },
+  {
+   "id": "0426:0071E",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０２０But even knowing that,￥walking alone after lights-out￥is a little..."
+  },
+  {
+   "id": "0426:0078C",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０２１Yes, I think so too, but...￥once you know the story,￥it's still a little..."
+  },
+  {
+   "id": "0426:007F9",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０２２Well, it's about time￥to close up!＝＠１５１＿０２３If you still need something￥here, I can wait a bit longer."
+  },
+  {
+   "id": "0426:0088B.0",
+   "choice": true,
+   "en": "No, I was just leaving."
+  },
+  {
+   "id": "0426:0088B.1",
+   "choice": true,
+   "en": "I only stopped by."
+  },
+  {
+   "id": "0426:008C5.0",
+   "choice": true,
+   "en": "No, I was just leaving."
+  },
+  {
+   "id": "0426:008C5.1",
+   "choice": true,
+   "en": "I only stopped by."
+  },
+  {
+   "id": "0426:00901",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０２４I see.￥Then shall we walk back￥together partway?"
+  },
+  {
+   "id": "0426:00962",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０２５Everyone's working hard￥in training.＝＠１５１＿０２６I can see why you wouldn't￥want to fall behind."
+  },
+  {
+   "id": "0426:009EC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０２７Oh, is that so?"
+  },
+  {
+   "id": "0426:00A1D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０２８Then what were you doing￥in here until now?"
+  },
+  {
+   "id": "0426:00A65.0",
+   "choice": true,
+   "en": "I was training."
+  },
+  {
+   "id": "0426:00A65.1",
+   "choice": true,
+   "en": "Just goofing off a bit."
+  },
+  {
+   "id": "0426:00A9B.0",
+   "choice": true,
+   "en": "I was training."
+  },
+  {
+   "id": "0426:00A9B.1",
+   "choice": true,
+   "en": "Just taking a walk..."
+  },
+  {
+   "id": "0426:00ACF",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５１＿０２９You're working hard too.＝＠１５１＿０３０I know you don't want to fall￥behind, but don't overdo it!"
+  },
+  {
+   "id": "0426:00B5D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００１I'm a little disappointed..."
+  },
+  {
+   "id": "0426:00B92",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００２I'm not telling you to push￥yourself, but you don't seem to￥take your candidacy seriously."
+  },
+  {
+   "id": "0426:00C05",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００３I'll keep doing my rounds.￥You hurry on back￥to your room."
+  },
+  {
+   "id": "0426:00C6C",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００４Earlier, I ran into some￥candidates still training￥in other facilities."
+  },
+  {
+   "id": "0426:00CCF",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００５It was past lights-out, so I￥sent them off, but they're all￥working so hard. Impressive!"
+  },
+  {
+   "id": "0426:00D36",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００６They're training right up￥to the very last minute."
+  },
+  {
+   "id": "0426:00D8C.0",
+   "choice": true,
+   "en": "I need to step it up..."
+  },
+  {
+   "id": "0426:00D8C.1",
+   "choice": true,
+   "en": "Everyone's trying hard."
+  },
+  {
+   "id": "0426:00DC0.0",
+   "choice": true,
+   "en": "I need to step it up..."
+  },
+  {
+   "id": "0426:00DC0.1",
+   "choice": true,
+   "en": "Everyone's working hard."
+  },
+  {
+   "id": "0426:00DF2",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００７What are you saying?￥You're working hard this￥late yourself."
+  },
+  {
+   "id": "0426:00E57",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００８Working hard is good, but I￥don't want you overdoing it."
+  },
+  {
+   "id": "0426:00EAF",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿００９It's true.￥But you're one of them, too."
+  },
+  {
+   "id": "0426:00EFC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０１０Working hard is good,￥but I don't want any of you￥overdoing it."
+  },
+  {
+   "id": "0426:00F5B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０１１If you candidates cooperated￥and trained together, you'd￥be even more efficient."
+  },
+  {
+   "id": "0426:00FCA",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０１２I'll support you as much￥as I can.＝＠１５２＿０１３If anything in the facility￥isn't working right, tell me￥right away.＝＠１５２＿０１４Well, I'll keep patrolling,￥so I'll leave you here."
+  },
+  {
+   "id": "0426:0108F",
+   "end": "818400",
+   "en": "＊Sakaki＊..."
+  },
+  {
+   "id": "0426:010AC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０１５To tell the truth,￥I was a little spooked by the￥Maintenance Room ghost."
+  },
+  {
+   "id": "0426:01109",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０１６So I'm really glad you￥came along with me."
+  },
+  {
+   "id": "0426:01160",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０１７Well, get plenty of rest￥tonight for tomorrow."
+  }
+ ]
+}

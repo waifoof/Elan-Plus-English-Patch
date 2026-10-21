@@ -1,0 +1,186 @@
+{
+ "entry": 479,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0479:00019",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００１Hi! Sorry for dropping by out of￥the blue! I wanted to talk to￥you about something, Cousin."
+  },
+  {
+   "id": "0479:00086",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００２Wow, you're really something,￥Cousin! Before I knew it, you'd￥passed me! What a shock!"
+  },
+  {
+   "id": "0479:000FB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００３Does that mean you weren't￥really trying until now? Because￥if so, that's kind of insulting."
+  },
+  {
+   "id": "0479:0016E.0",
+   "choice": true,
+   "en": "I always give it my all."
+  },
+  {
+   "id": "0479:0016E.1",
+   "choice": true,
+   "en": "It's not like that..."
+  },
+  {
+   "id": "0479:001B0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００４Really?￥I see...＝＠１３９＿００５Then I got passed just because￥I wasn't good enough."
+  },
+  {
+   "id": "0479:00244",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００６That's how it looked to me,￥at least."
+  },
+  {
+   "id": "0479:0029F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００７Sorry, Cousin."
+  },
+  {
+   "id": "0479:002D2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００８I never thought the day would￥come when we'd compete over￥grades.＝＠１３９＿００９Kind of happy, kind of sad...￥It's a complicated feeling."
+  },
+  {
+   "id": "0479:00377",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１０But you're still the same old￥Cousin I know, right?"
+  },
+  {
+   "id": "0479:003C8.0",
+   "choice": true,
+   "en": "We're not kids anymore."
+  },
+  {
+   "id": "0479:003C8.1",
+   "choice": true,
+   "en": "I'll never change."
+  },
+  {
+   "id": "0479:00404",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１１Right... you're right.￥We're both grown-ups now.￥It's only natural we've changed."
+  },
+  {
+   "id": "0479:00480",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１２I knew it, phew! For some￥reason, I felt like you were￥going far away from me!"
+  },
+  {
+   "id": "0479:004F3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１３You're you, Cousin.￥And that'll never change,￥not ever!"
+  },
+  {
+   "id": "0479:0054A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１４Sorry to bother you on your￥day off. I'll try harder on￥the next exam, too."
+  },
+  {
+   "id": "0479:005B7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１５If you don't have some￥competition, you won't feel￥motivated either, right, Cousin?"
+  },
+  {
+   "id": "0479:00614",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１６See you!"
+  },
+  {
+   "id": "0479:0064E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００１Hi! Sorry for dropping by out of￥the blue! I wanted to talk to￥you about something, Cousin."
+  },
+  {
+   "id": "0479:006BB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００２Wow, you're really something,￥Cousin! Before I knew it, you'd￥passed me! What a shock!"
+  },
+  {
+   "id": "0479:00730",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００３Does that mean you weren't￥really trying until now? Because￥if so, that's kind of insulting."
+  },
+  {
+   "id": "0479:007A3.0",
+   "choice": true,
+   "en": "I always give it my all."
+  },
+  {
+   "id": "0479:007A3.1",
+   "choice": true,
+   "en": "It's not like that..."
+  },
+  {
+   "id": "0479:007E5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００４Really?￥I see...＝＠１３９＿００５Then I got passed just because￥I wasn't good enough."
+  },
+  {
+   "id": "0479:00879",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００６That's how it looked to me,￥at least."
+  },
+  {
+   "id": "0479:008D4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００７Sorry, Cousin."
+  },
+  {
+   "id": "0479:00907",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿００８I never thought the day would￥come when we'd compete over￥grades.＝＠１３９＿００９Kind of happy, kind of sad...￥It's a complicated feeling."
+  },
+  {
+   "id": "0479:009AC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１０But you're still the same old￥Cousin I know, right?"
+  },
+  {
+   "id": "0479:009FD.0",
+   "choice": true,
+   "en": "We're not kids anymore."
+  },
+  {
+   "id": "0479:009FD.1",
+   "choice": true,
+   "en": "I'll never change."
+  },
+  {
+   "id": "0479:00A37",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１１Right... you're right.￥We're both grown-ups now.￥It's only natural we've changed."
+  },
+  {
+   "id": "0479:00AB3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１２I knew it, phew! For some￥reason, I felt like you were￥going far away from me!"
+  },
+  {
+   "id": "0479:00B26",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１３You're you, Cousin.￥And that'll never change,￥not ever!"
+  },
+  {
+   "id": "0479:00B7D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１４Sorry to bother you on your￥day off. I'll try harder on￥the next exam, too."
+  },
+  {
+   "id": "0479:00BEA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１５If you don't have some￥competition, you won't feel￥motivated either, right, Cousin?"
+  },
+  {
+   "id": "0479:00C47",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１６See you!"
+  }
+ ]
+}

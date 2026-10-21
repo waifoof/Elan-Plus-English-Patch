@@ -1,0 +1,66 @@
+{
+ "entry": 421,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0421:00016",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００３Morning, Cousin!￥You're heading off￥to training, right?"
+  },
+  {
+   "id": "0421:0006F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００４I'm thinking of going to the￥High-G Room today. Come with me,￥if you want!"
+  },
+  {
+   "id": "0421:000DE.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0421:000DE.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0421:00118",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００５Wow, really? Yay!￥I get to train with you￥today, Cousin!"
+  },
+  {
+   "id": "0421:0018D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００６Aww, too bad...￥Let's go together some other￥time, when it works for you!"
+  },
+  {
+   "id": "0421:001F9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００３Morning, Cousin!￥You're heading off￥to training, right?"
+  },
+  {
+   "id": "0421:00252",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００４I'm thinking of going to the￥High-G Room today. Come with me,￥if you want!"
+  },
+  {
+   "id": "0421:002C1.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0421:002C1.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0421:002FD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００５Wow, really? Yay!￥I get to train with you￥today, Cousin!"
+  },
+  {
+   "id": "0421:00372",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００６Aww, too bad...￥Let's go together some other￥time, when it works for you!"
+  }
+ ]
+}

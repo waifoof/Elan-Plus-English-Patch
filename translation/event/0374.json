@@ -1,0 +1,316 @@
+{
+ "entry": 374,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0374:00016",
+   "end": "818400",
+   "en": "－　Maintenance Room　－"
+  },
+  {
+   "id": "0374:0002F",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００１Hmmm..."
+  },
+  {
+   "id": "0374:0005E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００２Okay, this part's done...￥Next up is this bit, I guess..."
+  },
+  {
+   "id": "0374:000B2.0",
+   "choice": true,
+   "en": "What are you doing?"
+  },
+  {
+   "id": "0374:000B2.1",
+   "choice": true,
+   "en": "Training after hours?"
+  },
+  {
+   "id": "0374:000DE.0",
+   "choice": true,
+   "en": "What're you up to?"
+  },
+  {
+   "id": "0374:000DE.1",
+   "choice": true,
+   "en": "Staying late to train?"
+  },
+  {
+   "id": "0374:00108",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００３Oh, hey there."
+  },
+  {
+   "id": "0374:00139",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００４See, I found a Worker that's￥scheduled to be scrapped..."
+  },
+  {
+   "id": "0374:00192",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００５It still looks like it runs, so￥tossing it out like that seems￥so wasteful, don't you think?"
+  },
+  {
+   "id": "0374:00201",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００６So if I can, I'd like to bring￥it back to life."
+  },
+  {
+   "id": "0374:00257",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００７Huh? ...Oh, it's you! Nope.￥I'm not training. I'm doing￥maintenance on this Worker."
+  },
+  {
+   "id": "0374:002D2",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００８This little guy... oh! I mean,￥this Worker is going to be￥scrapped, but..."
+  },
+  {
+   "id": "0374:00331",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿００９But if I fix it up, it'll￥still run just fine.＝＠０１５＿０１０So if I can, I'd like to bring￥it back to life."
+  },
+  {
+   "id": "0374:003C4",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿０１１I really love Workers and stuff.＝＠０１５＿０１２When you take care of a Worker,￥it pays you back for every bit￥of effort you put in!"
+  },
+  {
+   "id": "0374:00469",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿０１３Machines are like living things.￥Give them love, and they'll￥love you right back!"
+  },
+  {
+   "id": "0374:004DC",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿０１４Right? Workers are cute too,￥aren't they?!"
+  },
+  {
+   "id": "0374:0051C.0",
+   "choice": true,
+   "en": "Yeah, I think so too."
+  },
+  {
+   "id": "0374:0051C.1",
+   "choice": true,
+   "en": "Is that how it works...?"
+  },
+  {
+   "id": "0374:00556.0",
+   "choice": true,
+   "en": "I feel the same way."
+  },
+  {
+   "id": "0374:00556.1",
+   "choice": true,
+   "en": "You think so...?"
+  },
+  {
+   "id": "0374:00592",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿０１５Really?!"
+  },
+  {
+   "id": "0374:005BD",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿０１６Hearing you say that makes me￥so happy!!"
+  },
+  {
+   "id": "0374:00617",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿０１７Huh?!"
+  },
+  {
+   "id": "0374:0063E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１５＿０１８Ummm... I don't know what other￥people think, but that's how￥I feel!"
+  },
+  {
+   "id": "0374:006AC",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿００１Huh? It's Natsuno..."
+  },
+  {
+   "id": "0374:006EA",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０１６＿００２Ah! Amane!!￥It's dangerous to mess with a￥scrapped Worker on your own!"
+  },
+  {
+   "id": "0374:00753",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿００３It's fine.￥I know what I'm..."
+  },
+  {
+   "id": "0374:00796",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０１６＿００４But it's being scrapped because￥it's dangerous."
+  },
+  {
+   "id": "0374:007E9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０１６＿００５What if you make a mistake and￥get seriously hurt?!"
+  },
+  {
+   "id": "0374:00832",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0374:00847",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿００６Don't treat me like a kid!"
+  },
+  {
+   "id": "0374:00878",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿００７I already know that much!"
+  },
+  {
+   "id": "0374:008C8",
+   "end": "818400",
+   "en": "＊Amane＊...!!￥＠０１６＿００８Oh... s-sorry.￥But I..."
+  },
+  {
+   "id": "0374:00923",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿００９It's not like I didn't know￥what I was doing."
+  },
+  {
+   "id": "0374:0096A",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０１０I'm a certified mechanic too,￥you know...＝＠０１６＿０１１I've seen the blueprints, and I￥think I've got a good handle on￥how Workers are built."
+  },
+  {
+   "id": "0374:00A16.0",
+   "choice": true,
+   "en": "Right, you'll be fine."
+  },
+  {
+   "id": "0374:00A16.1",
+   "choice": true,
+   "en": "She was just worried."
+  },
+  {
+   "id": "0374:00A54.0",
+   "choice": true,
+   "en": "Yes, you'll be fine."
+  },
+  {
+   "id": "0374:00A54.1",
+   "choice": true,
+   "en": "She was just worried."
+  },
+  {
+   "id": "0374:00A8F",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０１２Yeah. So...￥it's okay, Natsuno."
+  },
+  {
+   "id": "0374:00AE0",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０１６＿０１３You're right. I'm sorry.￥You're certified too, Amane."
+  },
+  {
+   "id": "0374:00B3D",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０１４Yeah, I know. But I just￥kind of lost my temper..."
+  },
+  {
+   "id": "0374:00B92",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０１５Sorry, Natsuno."
+  },
+  {
+   "id": "0374:00BCB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０１６＿０１６I should be the one apologizing.￥You're right, you're certified￥too, Amane..."
+  },
+  {
+   "id": "0374:00C30",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０１６＿０１７I never meant to look down on￥you, not at all. It's just...＝＠０１６＿０１８When I think something's risky,￥I get worried, and I end up￥butting in."
+  },
+  {
+   "id": "0374:00CD7",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０１６＿０１９Sorry for getting in your way.＝＠０１６＿０２０Well, good luck!"
+  },
+  {
+   "id": "0374:00D46",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0374:00D56",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０２１I was mean to Natsuno.￥She was only trying to help me,￥wasn't she?"
+  },
+  {
+   "id": "0374:00DC7",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０２２I'm so short-tempered...￥Not very manly of me."
+  },
+  {
+   "id": "0374:00E0C",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０２３\"Only a child loses his temper￥so fast.\" Dad always told me￥that, and I still did it."
+  },
+  {
+   "id": "0374:00E7F",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０２４I've still got a lot￥of growing up to do..."
+  },
+  {
+   "id": "0374:00EC1.0",
+   "choice": true,
+   "en": "Yeah, still immature."
+  },
+  {
+   "id": "0374:00EC1.1",
+   "choice": true,
+   "en": "No, that's not true."
+  },
+  {
+   "id": "0374:00EEF.0",
+   "choice": true,
+   "en": "Yes, still immature."
+  },
+  {
+   "id": "0374:00EEF.1",
+   "choice": true,
+   "en": "No, not at all."
+  },
+  {
+   "id": "0374:00F26",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０２５Yeah, you're right.￥I've gotta try even harder!"
+  },
+  {
+   "id": "0374:00F7B",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０２６You think so...? Really?"
+  },
+  {
+   "id": "0374:00FB6",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０２７Ah!! Oh no!＝＠０１６＿０２８I wanted to finish fixing it￥so it'd be ready tomorrow!"
+  },
+  {
+   "id": "0374:01043",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０２９Sorry,￥I'm gonna get back to work!"
+  },
+  {
+   "id": "0374:01084",
+   "end": "818400",
+   "en": "＊Amane＊＠０１６＿０３０Thanks for everything today!￥See ya, bye-bye!!"
+  },
+  {
+   "id": "0374:010DD",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

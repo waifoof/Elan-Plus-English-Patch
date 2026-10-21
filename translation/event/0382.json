@@ -1,0 +1,321 @@
+{
+ "entry": 382,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0382:00015",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0382:0002C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿０１Yo! Good work today.￥You're done training, right?"
+  },
+  {
+   "id": "0382:0007F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿０２Doing nothing but training￥day in, day out really￥stresses you out, huh."
+  },
+  {
+   "id": "0382:000E2",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿０３Hey, hey! ...I came up with a￥great idea. Wanna come along￥after this?"
+  },
+  {
+   "id": "0382:0015C.0",
+   "choice": true,
+   "en": "Sure, I'm in."
+  },
+  {
+   "id": "0382:0015C.1",
+   "choice": true,
+   "en": "Sounds kinda shady."
+  },
+  {
+   "id": "0382:0018E.0",
+   "choice": true,
+   "en": "Sure, I'll come along."
+  },
+  {
+   "id": "0382:0018E.1",
+   "choice": true,
+   "en": "That sounds suspicious."
+  },
+  {
+   "id": "0382:001BA",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿０４All right!￥That's what I like to hear!＝＠０３９＿０５I just knew you'd be up for it!"
+  },
+  {
+   "id": "0382:00238",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿０６It's nothing weird.￥Hear me out before you￥start complaining."
+  },
+  {
+   "id": "0382:00299",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿０７Here's what I've been thinking:￥this place is pretty big, right?＝＠０３９＿０８But every day we just shuttle￥between training and our rooms.＝＠０３９＿０９There's gotta be tons of places￥we haven't seen yet."
+  },
+  {
+   "id": "0382:0037C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿１０Don't you think that's a￥total waste?"
+  },
+  {
+   "id": "0382:003C7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿１１So let's go explore, all the way￥to the far corners! Gotta see￥whatever there is to see!"
+  },
+  {
+   "id": "0382:00438",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿１２Right?! Let's go!"
+  },
+  {
+   "id": "0382:00463",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0382:0047A",
+   "end": "818400",
+   "en": "－　Eiji and ； walk around￥　　　　various facilities　－"
+  },
+  {
+   "id": "0382:004C3",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿１３So the gravity control room and￥stuff are usually locked, huh.＝＠０３９＿１４I bet you can't get in unless￥you ask, \"Can I have a tour?\""
+  },
+  {
+   "id": "0382:0056C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿１５Hey, just like back there...＝＠０３９＿１６there are lots of off-limits￥areas on Alpha, right?￥Do you know why that is?"
+  },
+  {
+   "id": "0382:00610.0",
+   "choice": true,
+   "en": "Do you know?"
+  },
+  {
+   "id": "0382:00610.1",
+   "choice": true,
+   "en": "Construction, I guess."
+  },
+  {
+   "id": "0382:00646.0",
+   "choice": true,
+   "en": "Do you know, Eiji?"
+  },
+  {
+   "id": "0382:00646.1",
+   "choice": true,
+   "en": "Construction, I guess?"
+  },
+  {
+   "id": "0382:00686",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿１７Here's what I heard."
+  },
+  {
+   "id": "0382:006BD",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿１８Once this selection's over,￥they're gonna remodel this￥place...＝＠０３９＿１９and turn it into a kind of￥\"station\" for going from Sophia￥to Elan."
+  },
+  {
+   "id": "0382:00769",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿２０Well, yeah, but I'm asking￥why they're doing it."
+  },
+  {
+   "id": "0382:007B2",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿２１Apparently, after the selection,￥they're gonna remodel this￥place.＝＠０３９＿２２They'll make Alpha into a kind￥of \"station\" for going from￥Sophia to Elan."
+  },
+  {
+   "id": "0382:0087B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿２３After this, following the path￥we open up...＝＠０３９＿２４tons of people are gonna￥move to Elan, I bet."
+  },
+  {
+   "id": "0382:00914",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿２５Thinking about it like that￥makes me happy, y'know?"
+  },
+  {
+   "id": "0382:00955",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0382:0096C",
+   "end": "818400",
+   "en": "－　Outside Control Center　－"
+  },
+  {
+   "id": "0382:0098B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿２６Oh!＝＠０３９＿２７The Control Center's up ahead."
+  },
+  {
+   "id": "0382:009DD",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３９＿２８Huh?￥I hear voices..."
+  },
+  {
+   "id": "0382:00A1A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0382:00A28",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０４０＿０１Is it true a mistake was made￥when picking these candidates?"
+  },
+  {
+   "id": "0382:00A79",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４０＿０２Yes. Apparently a terminal of￥the central computer, Gaia, put￥out the wrong data."
+  },
+  {
+   "id": "0382:00AEE",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0382:00B02",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０４０＿０３We'd better not tell the￥candidates about this."
+  },
+  {
+   "id": "0382:00B4D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４０＿０４Agreed. Not in the middle of￥such an important test."
+  },
+  {
+   "id": "0382:00B8E",
+   "end": "818400",
+   "en": "＊Narusawa＊..."
+  },
+  {
+   "id": "0382:00BAB",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４０＿０５And Ryu was such a talented,￥outstanding sprinter, too...＝＠０４０＿０６It's such a shame."
+  },
+  {
+   "id": "0382:00C2E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿０７?!"
+  },
+  {
+   "id": "0382:00C4F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０４０＿０８Yeah. Well, you never know￥where life's going to take you."
+  },
+  {
+   "id": "0382:00CB0",
+   "end": "818400",
+   "en": "＊Eiji＊...!!"
+  },
+  {
+   "id": "0382:00CD5",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１０A computer error...￥Ryu..."
+  },
+  {
+   "id": "0382:00D1D.0",
+   "choice": true,
+   "en": "What computer error?"
+  },
+  {
+   "id": "0382:00D1D.1",
+   "choice": true,
+   "en": "Who's this Ryu?"
+  },
+  {
+   "id": "0382:00D61.0",
+   "choice": true,
+   "en": "What computer error?"
+  },
+  {
+   "id": "0382:00D61.1",
+   "choice": true,
+   "en": "Who's this Ryu?"
+  },
+  {
+   "id": "0382:00DA5",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１１I dunno, but..."
+  },
+  {
+   "id": "0382:00DE0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１２Ryu is... the first guy￥who ever beat me."
+  },
+  {
+   "id": "0382:00E3C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１３Oh... uh, yeah..."
+  },
+  {
+   "id": "0382:00E69",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１４He's... the guy who gave me￥my first loss..."
+  },
+  {
+   "id": "0382:00EB1.0",
+   "choice": true,
+   "en": "Huh? Really?"
+  },
+  {
+   "id": "0382:00EB1.1",
+   "choice": true,
+   "en": "Why'd they mention him?"
+  },
+  {
+   "id": "0382:00EEB.0",
+   "choice": true,
+   "en": "Huh? Really?"
+  },
+  {
+   "id": "0382:00EEB.1",
+   "choice": true,
+   "en": "Why'd they mention him?"
+  },
+  {
+   "id": "0382:00F25",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１５Yeah..."
+  },
+  {
+   "id": "0382:00F4E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１６Why would his name￥come up now..."
+  },
+  {
+   "id": "0382:00F90",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１７Y-yeah...￥I wonder why..."
+  },
+  {
+   "id": "0382:00FD5",
+   "end": "818400",
+   "en": "＊Eiji＊..."
+  },
+  {
+   "id": "0382:00FF2",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１８My head's all messed up.￥Sorry, but let's call it a day."
+  },
+  {
+   "id": "0382:01051",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４０＿１９It's almost lights-out anyway.￥Sorry for dragging you around.￥See ya."
+  },
+  {
+   "id": "0382:010B6",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

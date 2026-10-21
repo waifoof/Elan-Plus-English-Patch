@@ -1,0 +1,106 @@
+{
+ "entry": 493,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0493:0001F",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０１５Um... I'm sorry for letting￥myself in.＝＠１８６＿０１６I heard you collapsed,￥and I was worried...＝＠１８６＿０１７Um, how are you feeling?"
+  },
+  {
+   "id": "0493:000D9.0",
+   "choice": true,
+   "en": "I'm fine."
+  },
+  {
+   "id": "0493:000D9.1",
+   "choice": true,
+   "en": "You were worried?"
+  },
+  {
+   "id": "0493:000FD.0",
+   "choice": true,
+   "en": "I'm fine."
+  },
+  {
+   "id": "0493:000FD.1",
+   "choice": true,
+   "en": "You were worried?"
+  },
+  {
+   "id": "0493:00121",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０１８Oh!￥Please stay in bed!"
+  },
+  {
+   "id": "0493:0015C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０１９When you're overworked, the best￥thing is to eat well and get￥plenty of sleep."
+  },
+  {
+   "id": "0493:001C8",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２０Y-yes..."
+  },
+  {
+   "id": "0493:001F7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２１Training hard is good, but￥please take better care￥of yourself.＝＠１８６＿０２２If you want to qualify, your￥body is your greatest asset."
+  },
+  {
+   "id": "0493:002A2",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２３You've been training almost￥too hard lately, haven't you?"
+  },
+  {
+   "id": "0493:00307",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２４So please, take this chance￥to get some proper rest today."
+  },
+  {
+   "id": "0493:00369.0",
+   "choice": true,
+   "en": "Thanks, I will."
+  },
+  {
+   "id": "0493:00369.1",
+   "choice": true,
+   "en": "I can't afford to rest."
+  },
+  {
+   "id": "0493:0039F.0",
+   "choice": true,
+   "en": "Thanks, I will."
+  },
+  {
+   "id": "0493:0039F.1",
+   "choice": true,
+   "en": "I can't afford to rest."
+  },
+  {
+   "id": "0493:003D7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２５Yes, I think that's best.￥Everyone needs a rest sometimes."
+  },
+  {
+   "id": "0493:00437",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２６You mustn't. When you're unwell,￥pushing yourself won't make you￥any more productive."
+  },
+  {
+   "id": "0493:00498",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２７Everyone needs a rest sometimes."
+  },
+  {
+   "id": "0493:004D3",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２８Don't rush things. Just focus￥on getting better soon, okay?"
+  },
+  {
+   "id": "0493:0052E",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８６＿０２９Well, I should be going now,￥but please stay in bed.＝＠１８６＿０３０I'm sorry for all the fuss."
+  }
+ ]
+}

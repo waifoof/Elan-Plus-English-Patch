@@ -1,0 +1,386 @@
+{
+ "entry": 434,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0434:0001C",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２６Whoa!!"
+  },
+  {
+   "id": "0434:00049",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２７Oh, it's just you...￥Don't scare me like that!"
+  },
+  {
+   "id": "0434:00097.0",
+   "choice": true,
+   "en": "I didn't mean to."
+  },
+  {
+   "id": "0434:00097.1",
+   "choice": true,
+   "en": "Why so jumpy?"
+  },
+  {
+   "id": "0434:000C9.0",
+   "choice": true,
+   "en": "I didn't mean to."
+  },
+  {
+   "id": "0434:000C9.1",
+   "choice": true,
+   "en": "Why so jumpy?"
+  },
+  {
+   "id": "0434:000FF",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２８Shhhh!＝＜０..."
+  },
+  {
+   "id": "0434:00140",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２９＜５Crap! He'll find me!"
+  },
+  {
+   "id": "0434:00176",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０３０Shut up!￥Keep quiet..."
+  },
+  {
+   "id": "0434:001B9",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２８Shhhh!￥..."
+  },
+  {
+   "id": "0434:001F2",
+   "end": "818400",
+   "en": "＊Rei＊＠１１１＿０２９＜５Crap! He'll find me!"
+  },
+  {
+   "id": "0434:00225",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0434:00237",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１２＿００１I could've sworn he was here..."
+  },
+  {
+   "id": "0434:00278",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１２＿００２Ah, can I ask you something...＝＠１１２＿００３Have you seen Rei? Mechanic with￥messy hair, brown coveralls and￥a nasty look in his eye?"
+  },
+  {
+   "id": "0434:0032E.0",
+   "choice": true,
+   "en": "He's right there."
+  },
+  {
+   "id": "0434:0032E.1",
+   "choice": true,
+   "en": "No, I haven't seen him."
+  },
+  {
+   "id": "0434:00358.0",
+   "choice": true,
+   "en": "He's right there."
+  },
+  {
+   "id": "0434:00358.1",
+   "choice": true,
+   "en": "No, I haven't."
+  },
+  {
+   "id": "0434:00386",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿００４Ack!!"
+  },
+  {
+   "id": "0434:003AD",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１２＿００５I knew you were here, Rei!!￥Quit skipping work to￥goof off!!"
+  },
+  {
+   "id": "0434:00416",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿００６It's all boring junk anyway, so￥let somebody else do it!!"
+  },
+  {
+   "id": "0434:00477",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１２＿００７What are you talking about?!￥Work is meant to be shared!＝＠１１２＿００８You can't be the only one￥slacking off!＝＠１１２＿００９Hey! Rei!!￥Don't you run!!"
+  },
+  {
+   "id": "0434:00534",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0434:00540",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０１０No way, man!!"
+  },
+  {
+   "id": "0434:0056D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0434:00582",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１２＿０１１I see. If you spot him,￥let me know.＝＠１１２＿０１２Sorry for interrupting your￥training."
+  },
+  {
+   "id": "0434:00607",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0434:00615",
+   "end": "818400",
+   "en": "＊Rei＊＜２...＝＠１１２＿０１３Is Narusawa gone?"
+  },
+  {
+   "id": "0434:0066E",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０１４Whew!￥Thanks, thanks a bunch!￥You saved my hide!"
+  },
+  {
+   "id": "0434:006C3",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０１５Didn't think you'd keep￥quiet for me."
+  },
+  {
+   "id": "0434:00706",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０１６You're all right, y'know?"
+  },
+  {
+   "id": "0434:0073E.0",
+   "choice": true,
+   "en": "Oh, it was nothing..."
+  },
+  {
+   "id": "0434:0073E.1",
+   "choice": true,
+   "en": "Why was he after you?"
+  },
+  {
+   "id": "0434:00778.0",
+   "choice": true,
+   "en": "Oh, it was nothing..."
+  },
+  {
+   "id": "0434:00778.1",
+   "choice": true,
+   "en": "Why was he after you?"
+  },
+  {
+   "id": "0434:007B4",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０１７Hey now, are you blushing?￥You're a weird one!＝＠１１２＿０１８I never even asked you to hide￥me, so I figured I was a goner￥for sure."
+  },
+  {
+   "id": "0434:00864.0",
+   "choice": true,
+   "en": "You asked for it..."
+  },
+  {
+   "id": "0434:00864.1",
+   "choice": true,
+   "en": "Glad you got away."
+  },
+  {
+   "id": "0434:008A4.0",
+   "choice": true,
+   "en": "You had it coming..."
+  },
+  {
+   "id": "0434:008A4.1",
+   "choice": true,
+   "en": "Glad you got away."
+  },
+  {
+   "id": "0434:008E8",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０１９Hm...?＝＠１１２＿０２０I don't like how￥you said that."
+  },
+  {
+   "id": "0434:00945",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０２１Well, I guess I'm partly to￥blame for skipping work..."
+  },
+  {
+   "id": "0434:00994",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０２２Eh, whatever.￥Anyway, thanks!￥Later!"
+  },
+  {
+   "id": "0434:009E5",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０２３Yeah, thanks to you!"
+  },
+  {
+   "id": "0434:00A1A",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０２４Man, Narusawa never lets up!￥Shaking him was tough!"
+  },
+  {
+   "id": "0434:00A79",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０２５It's all tedious grunt work that￥takes forever. Too much hassle,￥so I bailed."
+  },
+  {
+   "id": "0434:00AEF",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０２６Huh?￥Well, y'see...＝＠１１２＿０２７I got stuck with this lousy job.￥Takes forever, and it's just￥mindless grunt work..."
+  },
+  {
+   "id": "0434:00B84",
+   "end": "818400",
+   "en": "＊Rei＊＠１１２＿０２８It was such a pain that I tried￥to ditch it, and he caught me."
+  },
+  {
+   "id": "0434:00BE7",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿００１He looked ready to lecture me￥all day long. I'd be dead meat￥if he caught me."
+  },
+  {
+   "id": "0434:00C59",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿００２But man, that jerk Narusawa￥said some nasty stuff, huh!＝＠１１３＿００３\"Messy hair\" and a \"nasty look\"!"
+  },
+  {
+   "id": "0434:00CE2",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿００４My hair's like this on purpose!￥I was born with these eyes!!￥Leave me alone!!＝＠１１３＿００５He's always got it in for￥me... Seriously, that guy!"
+  },
+  {
+   "id": "0434:00DA0.0",
+   "choice": true,
+   "en": "You two don't get along."
+  },
+  {
+   "id": "0434:00DA0.1",
+   "choice": true,
+   "en": "Slacking is the problem."
+  },
+  {
+   "id": "0434:00DD6.0",
+   "choice": true,
+   "en": "You two don't get along."
+  },
+  {
+   "id": "0434:00DD6.1",
+   "choice": true,
+   "en": "Slacking is the problem."
+  },
+  {
+   "id": "0434:00E11",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿００６Yeah!￥Like cats and dogs!"
+  },
+  {
+   "id": "0434:00E4C",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿００７Every time we meet, I get a￥lecture. Now I run the second￥I see his face."
+  },
+  {
+   "id": "0434:00EC5",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿００８But c'mon, lecturing somebody￥every single time? Don't you￥think that's a bit much?"
+  },
+  {
+   "id": "0434:00F20",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿００９You ever heard one of his￥lectures? They go on forever!＝＠１１３＿０１０Then again, a \"candidate\" like￥you might not get it!"
+  },
+  {
+   "id": "0434:00FC7",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０１１Well, thanks! You saved me!!"
+  },
+  {
+   "id": "0434:0100A",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０１２But you gotta understand why I￥wanna slack off.＝＠１１３＿０１３I'm the guy who maintains the￥main computer, y'know?＝＠１１３＿０１４And they grab a guy like that￥for fixing lights, adjusting￥shower pressure..."
+  },
+  {
+   "id": "0434:01105",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０１５Piddly little jobs aren't￥my department!"
+  },
+  {
+   "id": "0434:01153.0",
+   "choice": true,
+   "en": "You're a proud one."
+  },
+  {
+   "id": "0434:01153.1",
+   "choice": true,
+   "en": "No picking and choosing."
+  },
+  {
+   "id": "0434:0118D.0",
+   "choice": true,
+   "en": "You've got pride, huh."
+  },
+  {
+   "id": "0434:0118D.1",
+   "choice": true,
+   "en": "You shouldn't be picky."
+  },
+  {
+   "id": "0434:011CF",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０１６Hmm, I guess so."
+  },
+  {
+   "id": "0434:011FE",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０１７A real pro's gotta take￥pride in his work!!"
+  },
+  {
+   "id": "0434:01268",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０１８I just wanna do the job I'm￥supposed to do, y'know?＝＠１１３＿０１９Wanting to do your own job is￥only natural, right?"
+  },
+  {
+   "id": "0434:012F4.0",
+   "choice": true,
+   "en": "That's a fair point."
+  },
+  {
+   "id": "0434:012F4.1",
+   "choice": true,
+   "en": "Small jobs are work too."
+  },
+  {
+   "id": "0434:01326.0",
+   "choice": true,
+   "en": "That's a fair point."
+  },
+  {
+   "id": "0434:01326.1",
+   "choice": true,
+   "en": "Small jobs are work too."
+  },
+  {
+   "id": "0434:0135A",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０２０Right?＝＠１１３＿０２１If it's not my job, better to￥skip it than drag my feet￥through it."
+  },
+  {
+   "id": "0434:013E2",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０２２Ugh, you sound just like￥Narusawa!＝＠１１３＿０２３Real noble of you, but it's￥not for me...＝＠１１３＿０２４Well, later. Thanks for￥hiding me..."
+  },
+  {
+   "id": "0434:014A9",
+   "end": "818400",
+   "en": "＊Rei＊＠１１３＿０２５I don't bother sharing views￥like this with people who won't￥get 'em!＝＠１１３＿０２６Easier to just avoid 'em!＝＠１１３＿０２７I think you and me are gonna￥get along fine, so I bet we'll￥run into each other again!＝＠１１３＿０２８Later!!"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "entry": 472,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0472:0001C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿００１There's something I'd like￥to ask you...＝＠０６４＿００２Have you been doing well lately?＝＠０６４＿００３Your scores have been high, so I￥was wondering just how much￥training you've been putting in."
+  },
+  {
+   "id": "0472:000F3",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿００４Is it because your training is￥so rigorous that you're getting￥such results?"
+  },
+  {
+   "id": "0472:00163.0",
+   "choice": true,
+   "en": "Yeah, that's right."
+  },
+  {
+   "id": "0472:00163.1",
+   "choice": true,
+   "en": "It's not that rigorous."
+  },
+  {
+   "id": "0472:00195.0",
+   "choice": true,
+   "en": "Yes, that's right."
+  },
+  {
+   "id": "0472:00195.1",
+   "choice": true,
+   "en": "It's not that rigorous."
+  },
+  {
+   "id": "0472:001C7",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿００５I thought so. Then I should￥follow your example and step up￥my own training."
+  },
+  {
+   "id": "0472:0022F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿００６Of all these experts, you were￥the one chosen, with your strong￥all-around ability...＝＠０６４＿００７Maybe that's because you had￥that kind of aptitude."
+  },
+  {
+   "id": "0472:002DB",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿００８Ranking near the top among￥the candidates...＝＠０６４＿００９is on a different level than￥among ordinary people."
+  },
+  {
+   "id": "0472:00360",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０１０It's no easy feat... You make￥it look effortless, and for that￥I respect you."
+  },
+  {
+   "id": "0472:003CC.0",
+   "choice": true,
+   "en": "You're making me blush."
+  },
+  {
+   "id": "0472:003CC.1",
+   "choice": true,
+   "en": "Stop, you flatter me."
+  },
+  {
+   "id": "0472:003F4.0",
+   "choice": true,
+   "en": "You're making me blush."
+  },
+  {
+   "id": "0472:003F4.1",
+   "choice": true,
+   "en": "Stop, you flatter me."
+  },
+  {
+   "id": "0472:00420",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０１１I didn't mean to embarrass you."
+  },
+  {
+   "id": "0472:00469",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０１２I only said what I thought."
+  },
+  {
+   "id": "0472:004A7",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０１３No, I'm not saying it to￥flatter you."
+  },
+  {
+   "id": "0472:004F6",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０１４I'm only stating the facts."
+  },
+  {
+   "id": "0472:0052B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０１５As a fellow candidate, I intend￥to learn from you.＝＠０６４＿０１６I think it will help me with my￥own training."
+  },
+  {
+   "id": "0472:005C4",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０１７Sorry to bother you on your day￥off. I'll take my leave..."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "entry": 403,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0403:00011",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿０３Yo!￥Off to training?＝＠０４７＿０４I'm heading to the Indoor Gym.￥Wanna come along?"
+  },
+  {
+   "id": "0403:00093.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0403:00093.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0403:000CB.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0403:000CB.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0403:00107",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿０５All riiight!!￥Let's go, then!"
+  },
+  {
+   "id": "0403:00148",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４７＿０６Okay.￥Well, I'm not gonna force you."
+  }
+ ]
+}

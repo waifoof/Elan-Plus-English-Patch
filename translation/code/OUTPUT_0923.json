@@ -1,0 +1,26 @@
+{
+ "module": "OUTPUT:0923",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "OUTPUT_0923:00004",
+   "max": 76,
+   "en": "＊Eiji＊Man, I feel a lot better.￥Hey, let's keep it going￥and train!＞"
+  },
+  {
+   "id": "OUTPUT_0923:00054",
+   "max": 80,
+   "en": "＊Eiji＊Okay, enough.￥Let's quit talking and￥get some training done.＞"
+  },
+  {
+   "id": "OUTPUT_0923:000A8",
+   "max": 86,
+   "en": "＊Eiji＊This is bugging me.￥Let's drop it, okay?￥We came here to train.＞"
+  },
+  {
+   "id": "OUTPUT_0923:00100",
+   "max": 52,
+   "en": "＊Eiji＊Hey, let's get￥started training.＞"
+  }
+ ]
+}

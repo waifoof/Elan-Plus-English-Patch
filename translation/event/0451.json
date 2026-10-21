@@ -1,0 +1,361 @@
+{
+ "entry": 451,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0451:0001A",
+   "end": "818400",
+   "en": "－　High-G Room　－"
+  },
+  {
+   "id": "0451:00035",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿００８Ah, hey, wait a sec!＝＠１９６＿００９So, there's something I could￥use your help with...￥If that's okay?"
+  },
+  {
+   "id": "0451:000BA",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１０The floor here was wet earlier,￥and I almost slipped.＝＠１９６＿０１１Looking closer, I saw the bolt￥on this pipe was loose."
+  },
+  {
+   "id": "0451:00161",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１２I'll tighten it right up, so￥could you hold this end￥steady for me?"
+  },
+  {
+   "id": "0451:001BF.0",
+   "choice": true,
+   "en": "Sure, I'll help."
+  },
+  {
+   "id": "0451:001BF.1",
+   "choice": true,
+   "en": "Tell a supervisor first?"
+  },
+  {
+   "id": "0451:001F3.0",
+   "choice": true,
+   "en": "Sure, I'll help."
+  },
+  {
+   "id": "0451:001F3.1",
+   "choice": true,
+   "en": "Tell a supervisor first?"
+  },
+  {
+   "id": "0451:00227",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１３Thanks, that helps.￥The pipe's up so high, I can't￥get much leverage."
+  },
+  {
+   "id": "0451:00295",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１４It's fine.￥I mean, it's just one bolt."
+  },
+  {
+   "id": "0451:002E6",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１５This bolt's being stubborn.￥It won't tighten properly."
+  },
+  {
+   "id": "0451:00339",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0451:00349",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１６Oh, could you hold it￥right there?"
+  },
+  {
+   "id": "0451:0038E",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１７Hup! ...Can't reach."
+  },
+  {
+   "id": "0451:003C5",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１８Tall as I am, I'll still have to￥step up on the pipe to reach..."
+  },
+  {
+   "id": "0451:00427.0",
+   "choice": true,
+   "en": "Is it safe to step on?"
+  },
+  {
+   "id": "0451:00427.1",
+   "choice": true,
+   "en": "Stand on me."
+  },
+  {
+   "id": "0451:00459.0",
+   "choice": true,
+   "en": "Is it safe to step on?"
+  },
+  {
+   "id": "0451:00459.1",
+   "choice": true,
+   "en": "Want me to hold you up?"
+  },
+  {
+   "id": "0451:00498",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０１９It looks sturdy, so it's fine.￥Anyway, hand me that wrench."
+  },
+  {
+   "id": "0451:004F6",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０２０Stand on you?￥You think I could do that?"
+  },
+  {
+   "id": "0451:00538",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0451:00541",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０２１Never mind, just... hand me￥that wrench..."
+  },
+  {
+   "id": "0451:00589",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０２２Huh? You?!￥A big guy like me? You'd never￥manage it.＝＠１９６＿０２３Besides, I can't let you do￥something like that."
+  },
+  {
+   "id": "0451:00621",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0451:0062A",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０２４Anyway... could you hand me...￥that wrench...?"
+  },
+  {
+   "id": "0451:00689",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０２５Thanks..."
+  },
+  {
+   "id": "0451:006B6",
+   "end": "818400",
+   "en": "＊Yoh＊...＝＠１９６＿０２６Just a little... more..."
+  },
+  {
+   "id": "0451:00703",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０２７Whoa! I'm falling!!"
+  },
+  {
+   "id": "0451:00738",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿０２８Owww...￥The pipe snapped...?!"
+  },
+  {
+   "id": "0451:00789",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿００１Huh?! What?￥Wait, was the pipe that broke￥an important one?"
+  },
+  {
+   "id": "0451:007F0",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0451:007FB",
+   "end": "818400",
+   "en": "＊PA＊＠１９７＿００２A fault has been detected in an￥air regulation pipe.＝＠１９７＿００３All personnel inside, evacuate￥immediately. Repeat..."
+  },
+  {
+   "id": "0451:0088A",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿００４This is bad...￥Let's just get out of here."
+  },
+  {
+   "id": "0451:008D5",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0451:008E9",
+   "end": "818400",
+   "en": "－　As soon as you step outside,￥　　　you run into Narusawa　－"
+  },
+  {
+   "id": "0451:00922",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９７＿０２８What did you two do?!"
+  },
+  {
+   "id": "0451:00961",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９７＿００５One wrong move and the entire￥air system on Alpha could have￥shut down!"
+  },
+  {
+   "id": "0451:009C8",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９７＿００６Tampering with station equipment￥and breaking it is unacceptable!"
+  },
+  {
+   "id": "0451:00A1F",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿００７We were only trying to fix it..."
+  },
+  {
+   "id": "0451:00A5A",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９７＿００８Touching the facilities without￥permission IS the problem!"
+  },
+  {
+   "id": "0451:00AAF",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９７＿００９Yoh, you're always careless with￥the equipment. Be more careful!"
+  },
+  {
+   "id": "0451:00B16",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0451:00B24.0",
+   "choice": true,
+   "en": "Yoh meant no harm."
+  },
+  {
+   "id": "0451:00B24.1",
+   "choice": true,
+   "en": "Sorry. We'll be careful."
+  },
+  {
+   "id": "0451:00B62.0",
+   "choice": true,
+   "en": "Yoh meant no harm."
+  },
+  {
+   "id": "0451:00B62.1",
+   "choice": true,
+   "en": "Sorry. We'll be careful."
+  },
+  {
+   "id": "0451:00BB8",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0451:00BD1",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９７＿０１０Not meaning harm doesn't make it￥okay! I'm saying this because￥it's dangerous.＝＠１９７＿０１１In situations like this, contact￥me first.＝＠１９７＿０１２Don't overestimate what you can￥handle! You could... get￥yourselves killed."
+  },
+  {
+   "id": "0451:00CDB",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0451:00CF4",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１９７＿０１３Right. In a case like this, you￥should have called me first.＝＠１９７＿０１４Listen. Before you act, always￥assume the worst can happen.＝＠１９７＿０１５Caution is the fastest way to￥solve a problem. Both of you,￥take that to heart."
+  },
+  {
+   "id": "0451:00DF5",
+   "end": "818400",
+   "en": "＊＊－　Having said his piece,￥　　　　Narusawa rushes off　－"
+  },
+  {
+   "id": "0451:00E3F",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0451:00E54",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0451:00E72.0",
+   "choice": true,
+   "en": "You okay?"
+  },
+  {
+   "id": "0451:00E72.1",
+   "choice": true,
+   "en": "What's wrong?"
+  },
+  {
+   "id": "0451:00E92.0",
+   "choice": true,
+   "en": "Are you okay?"
+  },
+  {
+   "id": "0451:00E92.1",
+   "choice": true,
+   "en": "What's wrong?"
+  },
+  {
+   "id": "0451:00EB4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿０１６Oh, yeah. Totally fine. Sorry￥for dragging you into this.＝＠１９７＿０１７I was the one who made you￥help me..."
+  },
+  {
+   "id": "0451:00F50",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿０１８No...￥This time I really messed up,￥didn't I...＝＠１９７＿０１９Sorry for getting you mixed￥up in it."
+  },
+  {
+   "id": "0451:00FD7",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿０２０You should've just kept quiet￥and not worried about me...＝＠１９７＿０２１And if you'd told him you had￥nothing to do with it, you￥wouldn't have gotten chewed out."
+  },
+  {
+   "id": "0451:01087.0",
+   "choice": true,
+   "en": "I guess that's true..."
+  },
+  {
+   "id": "0451:01087.1",
+   "choice": true,
+   "en": "I should've stopped you."
+  },
+  {
+   "id": "0451:010C1.0",
+   "choice": true,
+   "en": "I guess that's true."
+  },
+  {
+   "id": "0451:010C1.1",
+   "choice": true,
+   "en": "I should've stopped you."
+  },
+  {
+   "id": "0451:010F3",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0451:0110F",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿０２２That's not true.￥Why would you think that?"
+  },
+  {
+   "id": "0451:01158",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿０２３You're honest to a fault, or...￥how should I put it..."
+  },
+  {
+   "id": "0451:011A5",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿０２４Oh! I don't mean that in a bad￥way. It's a compliment.＝＠１９７＿０２５I just thought it's kind of￥nice, that's all.＝..."
+  },
+  {
+   "id": "0451:0124A",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿０２６Really, I'm sorry about today.￥And also..."
+  },
+  {
+   "id": "0451:0128D",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９７＿０２７Thank you!"
+  }
+ ]
+}

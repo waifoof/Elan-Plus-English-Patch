@@ -1,0 +1,271 @@
+{
+ "entry": 385,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0385:00016",
+   "end": "818400",
+   "en": "－　Archives　－"
+  },
+  {
+   "id": "0385:00031",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿００１Ah, I've been waiting for you.￥There's something I want to￥show you..."
+  },
+  {
+   "id": "0385:00098",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿００２Sorry, but give me a moment."
+  },
+  {
+   "id": "0385:000DB.0",
+   "choice": true,
+   "en": "Did you make something?"
+  },
+  {
+   "id": "0385:000DB.1",
+   "choice": true,
+   "en": "Something to show me?"
+  },
+  {
+   "id": "0385:00107.0",
+   "choice": true,
+   "en": "What did you make?"
+  },
+  {
+   "id": "0385:00107.1",
+   "choice": true,
+   "en": "Show me what?"
+  },
+  {
+   "id": "0385:00131",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0385:00142",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿００３Just a little longer.￥You'll see soon enough..."
+  },
+  {
+   "id": "0385:00192",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0385:001A3",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿００４You'll understand the moment you￥see it. Just a little longer..."
+  },
+  {
+   "id": "0385:001FB",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0385:00206",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿００５Done."
+  },
+  {
+   "id": "0385:00231",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿００６Here it is."
+  },
+  {
+   "id": "0385:0025A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0385:00270",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿００７It's a hologram of Elan.＝＠０６２＿００８It's not done yet, but it has￥all the data we have. It's the￥closest image of Elan there is.＝＠０６２＿００９I wanted you to be the￥first to see it."
+  },
+  {
+   "id": "0385:0034E.0",
+   "choice": true,
+   "en": "Me?! Why?"
+  },
+  {
+   "id": "0385:0034E.1",
+   "choice": true,
+   "en": "A miniature Elan!"
+  },
+  {
+   "id": "0385:00380.0",
+   "choice": true,
+   "en": "Me?! Why me?"
+  },
+  {
+   "id": "0385:00380.1",
+   "choice": true,
+   "en": "It's a tiny Elan!"
+  },
+  {
+   "id": "0385:003B0",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０１０This hologram started out as the￥Earth hologram data you found￥for me.＝＠０６２＿０１１I sorted the Elan data,￥added it in, and built this."
+  },
+  {
+   "id": "0385:00460",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０１２Interesting reaction, as always.＝＠０６２＿０１３This Elan started out as the￥Earth hologram data you found￥for me a while back.＝＠０６２＿０１４I sorted the Elan data, added it￥in, and built this from it."
+  },
+  {
+   "id": "0385:0053A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０１５So I wanted to show it first to￥you, since you're the one who￥found the data."
+  },
+  {
+   "id": "0385:0059F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０１６I used to wonder why you would￥go out of your way for others."
+  },
+  {
+   "id": "0385:005F4",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０１７But now, I think I￥sort of understand."
+  },
+  {
+   "id": "0385:00639",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０１８Every person thinks differently,￥and treats others differently."
+  },
+  {
+   "id": "0385:0068E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０１９And meeting those different￥personalities helps us grow￥into new ones."
+  },
+  {
+   "id": "0385:006E5",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２０Until now, I never really faced￥people head-on.＝＠０６２＿０２１I didn't think it could be￥this interesting."
+  },
+  {
+   "id": "0385:0078E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２２I'm grateful to you for making￥me realize that."
+  },
+  {
+   "id": "0385:007E0.0",
+   "choice": true,
+   "en": "No need for thanks."
+  },
+  {
+   "id": "0385:007E0.1",
+   "choice": true,
+   "en": "Aw, that makes me happy."
+  },
+  {
+   "id": "0385:00816.0",
+   "choice": true,
+   "en": "No need to thank me."
+  },
+  {
+   "id": "0385:00816.1",
+   "choice": true,
+   "en": "Aw, that makes me happy."
+  },
+  {
+   "id": "0385:00850",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２３I see. Still, I wanted￥to tell you I'm grateful."
+  },
+  {
+   "id": "0385:008AA",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２４Being curious about you made￥me start noticing everyone￥else, too."
+  },
+  {
+   "id": "0385:008F7",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0385:0090A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２５Ah, the display isn't stable￥yet. Hold on a moment."
+  },
+  {
+   "id": "0385:00967",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0385:00973",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２６I rushed to put it together￥as a hologram, after all..."
+  },
+  {
+   "id": "0385:009C2",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0385:009CF",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２７Right now it's 70 percent Earth￥data, but the more we learn, the￥closer it gets to the real Elan."
+  },
+  {
+   "id": "0385:00A52",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２８If I get to go to Elan,￥I plan to take this with me."
+  },
+  {
+   "id": "0385:00AAB",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０２９I want to add new data I've￥gathered with my own hands and￥finish this hologram."
+  },
+  {
+   "id": "0385:00B15.0",
+   "choice": true,
+   "en": "I'm sure you can do it."
+  },
+  {
+   "id": "0385:00B15.1",
+   "choice": true,
+   "en": "That's a good goal."
+  },
+  {
+   "id": "0385:00B37.0",
+   "choice": true,
+   "en": "I'm sure you can do it!"
+  },
+  {
+   "id": "0385:00B37.1",
+   "choice": true,
+   "en": "That's a wonderful goal."
+  },
+  {
+   "id": "0385:00B63",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０３０Yes. And for that, I intend to￥do everything I can to qualify."
+  },
+  {
+   "id": "0385:00BCF",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６２＿０３１Yes. For now, all I can do is￥give it my all to qualify."
+  },
+  {
+   "id": "0385:00C2E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５１＿００１But even if I end up not being￥chosen, I don't think I'll￥have any regrets."
+  },
+  {
+   "id": "0385:00C93",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５１＿００２I've gained that much from this."
+  },
+  {
+   "id": "0385:00CD0",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５１＿００３And I think it's thanks to you.￥Thank you..."
+  },
+  {
+   "id": "0385:00D15",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

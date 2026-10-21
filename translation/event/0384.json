@@ -1,0 +1,311 @@
+{
+ "entry": 384,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0384:00019",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0384:00036",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿０１Oh! There you are.￥I was looking for you."
+  },
+  {
+   "id": "0384:00071",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿０２Y'know how the Archives have￥planetary data?＝＠０４４＿０３I found something amazing in￥there. Come with me right now."
+  },
+  {
+   "id": "0384:0010F.0",
+   "choice": true,
+   "en": "What's so amazing?"
+  },
+  {
+   "id": "0384:0010F.1",
+   "choice": true,
+   "en": "Pushy as always..."
+  },
+  {
+   "id": "0384:0013F.0",
+   "choice": true,
+   "en": "What's so amazing?"
+  },
+  {
+   "id": "0384:0013F.1",
+   "choice": true,
+   "en": "Geez, you're so pushy..."
+  },
+  {
+   "id": "0384:00175",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿０４Seriously amazing! It's not the￥kind of thing you get to see￥many times in your life!"
+  },
+  {
+   "id": "0384:001DF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿０５Keep making that face, and￥you'll totally regret it later."
+  },
+  {
+   "id": "0384:00234",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿０６Just... come on.￥Let's go see it!"
+  },
+  {
+   "id": "0384:00275",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0384:00288",
+   "end": "818400",
+   "en": "－　Monitor Room　－"
+  },
+  {
+   "id": "0384:002A7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿０７Hang on a sec.￥I'm loading the data now."
+  },
+  {
+   "id": "0384:002F8",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿０８Trust me, it's amazing.￥You'll be blown away."
+  },
+  {
+   "id": "0384:00341",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0384:00353",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿０９Look!"
+  },
+  {
+   "id": "0384:00377",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0384:0038C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿１０Wh... huh...?￥What's this?￥This is incredible...＝＠０４４＿１１What I saw earlier was this rare￥footage of a planet's surface￥all sparkling...＝＠０４４＿１２That's what I meant to show you,￥but...＝＠０４４＿１３they had the same label,￥\"Meteor Shower,\" so I mixed￥them up."
+  },
+  {
+   "id": "0384:004B7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿１４But this... this is a meteor￥shower seen from the surface!＝＠０４４＿１５Whoa... amazing...￥So this is how it looks￥from down below..."
+  },
+  {
+   "id": "0384:00565.0",
+   "choice": true,
+   "en": "Like stars falling down."
+  },
+  {
+   "id": "0384:00565.1",
+   "choice": true,
+   "en": "Gravity pulls them down."
+  },
+  {
+   "id": "0384:005A3.0",
+   "choice": true,
+   "en": "Like stars falling down."
+  },
+  {
+   "id": "0384:005A3.1",
+   "choice": true,
+   "en": "Gravity pulls them down."
+  },
+  {
+   "id": "0384:005DD",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿１６Yeah...￥What a view...＝＠０４４＿１７It's like they're streaming by,￥trailing tails behind them."
+  },
+  {
+   "id": "0384:0065F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿１８Yeah...＝＠０４４＿１９I guess they are falling, but￥it's like they're streaming by,￥trailing tails behind them."
+  },
+  {
+   "id": "0384:006E4",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿２０Oh!￥So that's why they're called￥shooting stars!＝＠０４４＿２１Makes sense!＝＠０４４＿２２Speaking of shooting stars, they￥say seeing one is good luck.＝＠０４４＿２３It's like a charm. If you make a￥wish while one's falling, it's￥supposed to come true."
+  },
+  {
+   "id": "0384:007E3",
+   "end": "818400",
+   "en": "＊Eiji＊..."
+  },
+  {
+   "id": "0384:00803",
+   "end": "818400",
+   "en": "＊Eiji＊..."
+  },
+  {
+   "id": "0384:00823.0",
+   "choice": true,
+   "en": "Why'd you go quiet?"
+  },
+  {
+   "id": "0384:00823.1",
+   "choice": true,
+   "en": "Making a wish or what?"
+  },
+  {
+   "id": "0384:00865.0",
+   "choice": true,
+   "en": "Why'd you go quiet?"
+  },
+  {
+   "id": "0384:00865.1",
+   "choice": true,
+   "en": "Are you making a wish?"
+  },
+  {
+   "id": "0384:008A9",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿２４Oh...￥No real reason.＝＠０４４＿２５I was just thinking this test'll￥be over pretty soon...＝＠０４４＿２６And then I started remembering￥all the stuff that's happened￥during it."
+  },
+  {
+   "id": "0384:0098B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４４＿２７Nah, it's not that.￥It's just...＝＠０４４＿２８when I thought about how it￥won't be long till I see sights￥like this with my own eyes...＝＠０４４＿２９I started remembering all the￥stuff that's happened during￥this test."
+  },
+  {
+   "id": "0384:00A80",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿０１Y'know..."
+  },
+  {
+   "id": "0384:00AAB",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿０２When I thought I might've been￥picked as a candidate because of￥a computer error...＝＠０４５＿０３it was a real shock. I figured￥maybe I didn't belong here."
+  },
+  {
+   "id": "0384:00B72",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿０４You really helped me out￥back then."
+  },
+  {
+   "id": "0384:00BB3",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿０５If it weren't for you, I might￥never have found the guts to￥find out the truth."
+  },
+  {
+   "id": "0384:00C23.0",
+   "choice": true,
+   "en": "That was your courage."
+  },
+  {
+   "id": "0384:00C23.1",
+   "choice": true,
+   "en": "Flattery won't work."
+  },
+  {
+   "id": "0384:00C5B.0",
+   "choice": true,
+   "en": "That was your courage."
+  },
+  {
+   "id": "0384:00C5B.1",
+   "choice": true,
+   "en": "Flattery won't work."
+  },
+  {
+   "id": "0384:00C9A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿０６Well, I guess."
+  },
+  {
+   "id": "0384:00CCB",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿０７But I'm only still here because￥you helped me."
+  },
+  {
+   "id": "0384:00D2E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿０８Hahaha!￥You're a riot!"
+  },
+  {
+   "id": "0384:00D6F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿０９Competing with you was a￥total blast,＝＠０４５＿１０so in training and the tests,￥I pushed hard so I wouldn't￥lose to you."
+  },
+  {
+   "id": "0384:00E1B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿１１You're the best rival I've￥ever had."
+  },
+  {
+   "id": "0384:00E79",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿１２I'm really glad you're here￥as a candidate with me."
+  },
+  {
+   "id": "0384:00ED4",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿１３From now on, if you ever￥get into trouble..."
+  },
+  {
+   "id": "0384:00F27",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿１４come to me first, okay?￥I want to help you out, too."
+  },
+  {
+   "id": "0384:00F8C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿１５Oh, the footage ended...＝＠０４５＿１６So, how was the meteor shower?￥Beautiful, right?"
+  },
+  {
+   "id": "0384:01006.0",
+   "choice": true,
+   "en": "Yeah, it was beautiful."
+  },
+  {
+   "id": "0384:01006.1",
+   "choice": true,
+   "en": "Thanks for showing me."
+  },
+  {
+   "id": "0384:0103A.0",
+   "choice": true,
+   "en": "Yes, it was beautiful."
+  },
+  {
+   "id": "0384:0103A.1",
+   "choice": true,
+   "en": "Thanks for showing me."
+  },
+  {
+   "id": "0384:01074",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿１７You'd better be grateful.￥I went out of my way to￥show it to you."
+  },
+  {
+   "id": "0384:010CA",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿１８Yeah?￥Hearing that makes it worth￥showing you."
+  },
+  {
+   "id": "0384:0112C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿１９If I find anything else cool,￥I'll show you."
+  },
+  {
+   "id": "0384:01177",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿２０All right!￥Not long now till we go to Elan.￥Let's give it one more push!＝＠０４５＿２１If I'm going, I'd rather go￥with you."
+  },
+  {
+   "id": "0384:0121C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４５＿２２With the two of us, we'll be￥unbeatable wherever we go!"
+  },
+  {
+   "id": "0384:0126B",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "entry": 487,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0487:00028",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿００１Quit spacing out! Do you even￥know why I came here today?"
+  },
+  {
+   "id": "0487:00087",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿００２After getting a ranking like￥that, how can you be so￥laid-back?!"
+  },
+  {
+   "id": "0487:000E8",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿００３Don't you ever think \"I need to￥try harder\" or \"This is bad\"?￥Not even once?"
+  },
+  {
+   "id": "0487:0015C.0",
+   "choice": true,
+   "en": "Of course I do!"
+  },
+  {
+   "id": "0487:0015C.1",
+   "choice": true,
+   "en": "Well, not really..."
+  },
+  {
+   "id": "0487:00190.0",
+   "choice": true,
+   "en": "Of course I do!"
+  },
+  {
+   "id": "0487:00190.1",
+   "choice": true,
+   "en": "Well, not really..."
+  },
+  {
+   "id": "0487:001C8",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿００４Hmph.￥Then why don't you act￥like it?"
+  },
+  {
+   "id": "0487:0021D",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿００５The only reason you got those￥results is that you're not￥giving it your all."
+  },
+  {
+   "id": "0487:00289",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿００６I knew it!＝＠１０６＿００７I've always thought so. You've￥got no sense of what it means to￥be a candidate."
+  },
+  {
+   "id": "0487:00312",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿００８Being so halfhearted only makes￥you and everyone else miserable!￥Why not just make up your mind?"
+  },
+  {
+   "id": "0487:0038F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿００９If you really still want￥to go to Elan..."
+  },
+  {
+   "id": "0487:003F2",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１０then pull yourself together and￥give it a real shot!￥Though it might be too late now."
+  },
+  {
+   "id": "0487:00460.0",
+   "choice": true,
+   "en": "That's my plan."
+  },
+  {
+   "id": "0487:00460.1",
+   "choice": true,
+   "en": "Just leave me alone."
+  },
+  {
+   "id": "0487:00490.0",
+   "choice": true,
+   "en": "That's my plan."
+  },
+  {
+   "id": "0487:00490.1",
+   "choice": true,
+   "en": "Stop bothering me."
+  },
+  {
+   "id": "0487:004BA",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１１Oh, so you've still got a￥little pride as a candidate!"
+  },
+  {
+   "id": "0487:0051D",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１２Right now, if you give it￥everything you've got, you might￥still pull through!"
+  },
+  {
+   "id": "0487:00585",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１３If you've got time to sulk, put￥more effort into improving￥yourself!"
+  },
+  {
+   "id": "0487:005E8",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１４At this rate, even if you go￥back to Sophia, nobody's going￥to take you seriously!"
+  },
+  {
+   "id": "0487:0065B",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１５I'm not talking about your￥stats! I'm talking about your￥drive!!"
+  },
+  {
+   "id": "0487:006BC",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１６I've said everything I￥came to say."
+  },
+  {
+   "id": "0487:006FB",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１７Put your hand on your heart and￥think hard about what I said.＝＠１０６＿０１８So you don't end up￥regretting it later."
+  },
+  {
+   "id": "0487:00782",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０１９Well, sorry for barging in!"
+  }
+ ]
+}

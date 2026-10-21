@@ -1,0 +1,229 @@
+{
+ "module": "SLPS_027.59",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "SLPS_027_59:0084C",
+   "max": 8,
+   "en": "Narusawa"
+  },
+  {
+   "id": "SLPS_027_59:009FC",
+   "max": 8,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:00A08",
+   "max": 8,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:00A14",
+   "max": 12,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:02A2A",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:05E46",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:09642",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:0A2A2",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:0A372",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:0A66A",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:0B844",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:0C3F8",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:130CD",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:131B9",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:132AD",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:133FD",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:15711",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:15B55",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:15C55",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:17879",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:18716",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:1B19D",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:1CC01",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:1EA52",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:20F48",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:23EA2",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:285C0",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "SLPS_027_59:3BBB8",
+   "max": 4,
+   "en": "",
+   "skip": true,
+   "note": "default player name: kept Japanese (slot too small for full-width English)"
+  },
+  {
+   "id": "SLPS_027_59:3BBC0",
+   "max": 6,
+   "en": "Eiji"
+  },
+  {
+   "id": "SLPS_027_59:3BBC8",
+   "max": 4,
+   "en": "Yoh"
+  },
+  {
+   "id": "SLPS_027_59:3BBD0",
+   "max": 6,
+   "en": "Kairi"
+  },
+  {
+   "id": "SLPS_027_59:3BBD8",
+   "max": 6,
+   "en": "Amane"
+  },
+  {
+   "id": "SLPS_027_59:3BBE0",
+   "max": 6,
+   "en": "Natsu"
+  },
+  {
+   "id": "SLPS_027_59:3BBE8",
+   "max": 6,
+   "en": "Tomoe"
+  },
+  {
+   "id": "SLPS_027_59:3BBF0",
+   "max": 4,
+   "en": "Riko"
+  },
+  {
+   "id": "SLPS_027_59:3BBF8",
+   "max": 6,
+   "en": "Kaname"
+  },
+  {
+   "id": "SLPS_027_59:3BC00",
+   "max": 6,
+   "en": "Sakaki"
+  },
+  {
+   "id": "SLPS_027_59:3BC08",
+   "max": 4,
+   "en": "Rei"
+  },
+  {
+   "id": "SLPS_027_59:3BC10",
+   "max": 6,
+   "en": "Sarai"
+  }
+ ]
+}

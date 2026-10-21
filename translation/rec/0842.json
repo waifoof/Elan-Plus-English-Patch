@@ -1,0 +1,16 @@
+{
+ "entry": 842,
+ "kind": "rec",
+ "header": 64,
+ "rows": [
+  {
+   "id": "0842:r000",
+   "en": "Sending test mail..."
+  },
+  {
+   "id": "0842:r001",
+   "en": "",
+   "skip": true
+  }
+ ]
+}

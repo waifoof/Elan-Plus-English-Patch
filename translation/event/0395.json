@@ -1,0 +1,356 @@
+{
+ "entry": 395,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0395:00021",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿００１We meet again.￥Do you remember me?"
+  },
+  {
+   "id": "0395:00077.0",
+   "choice": true,
+   "en": "Yeah, I remember you."
+  },
+  {
+   "id": "0395:00077.1",
+   "choice": true,
+   "en": "Um, who are you again?"
+  },
+  {
+   "id": "0395:000A1.0",
+   "choice": true,
+   "en": "Yes, I remember you."
+  },
+  {
+   "id": "0395:000A1.1",
+   "choice": true,
+   "en": "Um, who were you again?"
+  },
+  {
+   "id": "0395:000D7",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿００２Oh, good. It was so long ago,￥I thought you'd forgotten."
+  },
+  {
+   "id": "0395:0013F",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿００３You've forgotten?＝＠１６４＿００４My name is Sarai..."
+  },
+  {
+   "id": "0395:001AD.0",
+   "choice": true,
+   "en": "Sorry, I don't remember."
+  },
+  {
+   "id": "0395:001AD.1",
+   "choice": true,
+   "en": "Oh, now I remember."
+  },
+  {
+   "id": "0395:001DD.0",
+   "choice": true,
+   "en": "Sorry, I don't remember."
+  },
+  {
+   "id": "0395:001DD.1",
+   "choice": true,
+   "en": "Oh! Now I remember."
+  },
+  {
+   "id": "0395:00215",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿００５I see...￥That's all right, then...＝＠１６４＿００６Um, sorry for bothering you."
+  },
+  {
+   "id": "0395:0029C",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿００７You remember me?￥I'm so glad."
+  },
+  {
+   "id": "0395:002DF",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿００８Thank you so much for answering￥all my questions back then.＝＠１６４＿００９After that, I kept looking into￥Project Elan."
+  },
+  {
+   "id": "0395:0039E",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０１０It's an amazing plan, isn't it?￥I learned a lot looking into it."
+  },
+  {
+   "id": "0395:003F3",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０１１I also looked into the people￥they call candidates...＝＠１６４＿０１２You're really outstanding,￥aren't you?"
+  },
+  {
+   "id": "0395:0048F.0",
+   "choice": true,
+   "en": "Eh, not really."
+  },
+  {
+   "id": "0395:0048F.1",
+   "choice": true,
+   "en": "How'd you find that out?"
+  },
+  {
+   "id": "0395:004C1.0",
+   "choice": true,
+   "en": "Oh, not at all."
+  },
+  {
+   "id": "0395:004C1.1",
+   "choice": true,
+   "en": "How did you find out?"
+  },
+  {
+   "id": "0395:004EF",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０１３You're not?＝＠１６４＿０１４But your results are always at￥the very top..."
+  },
+  {
+   "id": "0395:00564",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０１５I guess it's no big deal to you."
+  },
+  {
+   "id": "0395:005B4",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０１６I was searching through all￥kinds of data, and I found it..."
+  },
+  {
+   "id": "0395:0060F",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０１７Was that wrong of me?"
+  },
+  {
+   "id": "0395:0064B.0",
+   "choice": true,
+   "en": "Eh... probably okay."
+  },
+  {
+   "id": "0395:0064B.1",
+   "choice": true,
+   "en": "Definitely not okay."
+  },
+  {
+   "id": "0395:00677.0",
+   "choice": true,
+   "en": "Well... it's all right."
+  },
+  {
+   "id": "0395:00677.1",
+   "choice": true,
+   "en": "That's definitely wrong."
+  },
+  {
+   "id": "0395:006A5",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０１８Really?￥Thank goodness..."
+  },
+  {
+   "id": "0395:006E5",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０１９Um... Then I'll go apologize.＝＠１６４＿０２０Who should I tell about￥something like this? One of the￥facility staff, maybe...＝＠１６４＿０２１I'll go right now."
+  },
+  {
+   "id": "0395:007AC",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０２２I also walked around the￥facility a little.＝＠１６４＿０２３There are all kinds of rooms￥here, aren't there?＝＠１６４＿０２４Like the place with all the￥plants growing..."
+  },
+  {
+   "id": "0395:00873",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０２５Have you been there?＝＠１６４＿０２６If you like, why don't we go￥there together now?"
+  },
+  {
+   "id": "0395:008F3.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0395:008F3.1",
+   "choice": true,
+   "en": "I think I'll pass."
+  },
+  {
+   "id": "0395:00919.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0395:00919.1",
+   "choice": true,
+   "en": "I think I'll pass."
+  },
+  {
+   "id": "0395:00947",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０２７Then let's go.￥I'll show you the way."
+  },
+  {
+   "id": "0395:00995",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６４＿０２８I see. All right.￥Then I'll go by myself."
+  },
+  {
+   "id": "0395:009F0",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0395:00A01",
+   "end": "818400",
+   "en": "－　Environmental Section　－"
+  },
+  {
+   "id": "0395:00A1A",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿００１There are so many plants￥growing here.＝＠１６５＿００２To look after this many kinds of￥plants, the equipment must be￥really advanced."
+  },
+  {
+   "id": "0395:00ABB",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿００３Huh...?＝＠１６５＿００４This flower doesn't look￥very healthy...＝＠１６５＿００５Hm? This soil..."
+  },
+  {
+   "id": "0395:00B48",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0395:00B54",
+   "end": "818400",
+   "en": "－　Sarai crouches with a handful￥　　of soil, lost in thought　－"
+  },
+  {
+   "id": "0395:00BA5",
+   "end": "818400",
+   "en": "＊Sarai＊..."
+  },
+  {
+   "id": "0395:00BC2",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿００６There's too much phosphate in￥this. Potassium, too.＝＠１６５＿００７I think they gave it a little￥too much fertilizer.＝＠１６５＿００８If you add some fresh soil,￥it'll perk right up."
+  },
+  {
+   "id": "0395:00C91",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿００９And I think it could use a￥little more manganese..."
+  },
+  {
+   "id": "0395:00CF5.0",
+   "choice": true,
+   "en": "You can tell by touch?"
+  },
+  {
+   "id": "0395:00CF5.1",
+   "choice": true,
+   "en": "You know your stuff."
+  },
+  {
+   "id": "0395:00D23.0",
+   "choice": true,
+   "en": "You can tell by touch?"
+  },
+  {
+   "id": "0395:00D23.1",
+   "choice": true,
+   "en": "You know a lot about it."
+  },
+  {
+   "id": "0395:00D53",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０１０Yes...?￥I can sort of tell by touch..."
+  },
+  {
+   "id": "0395:00D96",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０１１Can't most people tell?￥I'm not really sure about￥things like that..."
+  },
+  {
+   "id": "0395:00E02",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０１２Do I...?＝＠１６５＿０１３When I touch soil, I can sort of￥tell what nutrients are in it.￥So..."
+  },
+  {
+   "id": "0395:00E8B",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０１４Can't most people tell?￥I'm not really sure about￥things like that..."
+  },
+  {
+   "id": "0395:00EF1.0",
+   "choice": true,
+   "en": "Most people can't."
+  },
+  {
+   "id": "0395:00EF1.1",
+   "choice": true,
+   "en": "Man, you're creepy."
+  },
+  {
+   "id": "0395:00F2B.0",
+   "choice": true,
+   "en": "Most people can't."
+  },
+  {
+   "id": "0395:00F2B.1",
+   "choice": true,
+   "en": "What are you? Creepy."
+  },
+  {
+   "id": "0395:00F6E",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０１５Is that so..."
+  },
+  {
+   "id": "0395:00FA6",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０１６Oh... I...＝＠１６５＿０１７You're right. Something like￥this is creepy, isn't it.＝＠１６５＿０１８I'm sorry.￥I won't come see you anymore.＝＠１６５＿０１９Goodbye."
+  },
+  {
+   "id": "0395:01085",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０２０What am I, anyway...?"
+  },
+  {
+   "id": "0395:010C2",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０２１I'm starting to understand most￥things about this facility, and￥about Elan...＝＠１６５＿０２２But I don't understand anything￥about myself."
+  },
+  {
+   "id": "0395:0115B",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０２３I'm going to look into￥lots more things.＝＠１６５＿０２４Maybe that will help bring my￥memory back."
+  },
+  {
+   "id": "0395:01200",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６５＿０２５Well, I'll be going now.￥We'll meet again, won't we?"
+  },
+  {
+   "id": "0395:01253",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0395:01264",
+   "end": "818400",
+   "en": "－　Sarai has gone...　－＝－　?!　￥　　Narusawa is watching Sarai￥　　　walk away, looking wary　－"
+  },
+  {
+   "id": "0395:012E3",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１６５＿０２６That was...￥...＝＠１６６＿００１If I remember right...＝＠１６５＿０２７I hope I'm just seeing things...￥but was he an SPN type...?"
+  },
+  {
+   "id": "0395:0138E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0395:0139B",
+   "end": "818400",
+   "en": "－　An SPN type...?!￥　　What could that mean?　－"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "entry": 489,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0489:0001F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０１０Got a minute?￥Sorry, but I'm coming in."
+  },
+  {
+   "id": "0489:00072",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０１１You've been on a roll lately...＝＠１０５＿０１２but if one good score has you￥all complacent, you've got￥another thing coming."
+  },
+  {
+   "id": "0489:00124.0",
+   "choice": true,
+   "en": "I know that."
+  },
+  {
+   "id": "0489:00124.1",
+   "choice": true,
+   "en": "What do you mean?"
+  },
+  {
+   "id": "0489:00158.0",
+   "choice": true,
+   "en": "I know that."
+  },
+  {
+   "id": "0489:00158.1",
+   "choice": true,
+   "en": "What do you mean?"
+  },
+  {
+   "id": "0489:0018E",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０１３Do you really get it? This place￥is full of experts gathered from￥all over the world, you know?"
+  },
+  {
+   "id": "0489:00201",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０１４Instead of getting carried away￥over one lucky break...＝＠１０５＿０１５you should think about keeping￥your scores where they are!"
+  },
+  {
+   "id": "0489:00299",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０１６Just what I said. If you space￥out, you'll get knocked down in￥no time!"
+  },
+  {
+   "id": "0489:00302",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０１７After all, this place is full of￥the world's top talent!"
+  },
+  {
+   "id": "0489:00367",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０１８Well, even you probably wanted a￥good score at least once...＝＠１０５＿０１９so this'll make a nice keepsake,￥won't it?"
+  },
+  {
+   "id": "0489:00406",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０２０Just remember, luck like this￥doesn't keep coming around!"
+  },
+  {
+   "id": "0489:00480.0",
+   "choice": true,
+   "en": "That was all me."
+  },
+  {
+   "id": "0489:00480.1",
+   "choice": true,
+   "en": "Who asked you, Riko?"
+  },
+  {
+   "id": "0489:004B8.0",
+   "choice": true,
+   "en": "That was all me."
+  },
+  {
+   "id": "0489:004B8.1",
+   "choice": true,
+   "en": "Who asked you, Riko?"
+  },
+  {
+   "id": "0489:004F0",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０２１Oh? Then keeping the same scores￥on future exams should be easy,￥right? I can't wait!!"
+  },
+  {
+   "id": "0489:0056A",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０２２You obviously don't get it, so￥I'm going out of my way to tell￥you! You should be grateful!!"
+  },
+  {
+   "id": "0489:005E5",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０２３Honestly, I couldn't care less￥whether you get good scores￥or not.＝＠１０５＿０２４But if you think this was your￥real ability...＝＠１０５＿０２５then you're kidding yourself.￥I just came, out of kindness, to￥set you straight."
+  },
+  {
+   "id": "0489:006E8",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０２６Well, go ahead and bask in this￥score while you can. The next￥exam will wake you up!"
+  },
+  {
+   "id": "0489:00753",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿０２７Well, see ya!!"
+  }
+ ]
+}

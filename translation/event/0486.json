@@ -1,0 +1,106 @@
+{
+ "entry": 486,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0486:00022",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２６Oh! Sorry to bug you￥on your day off.＝＠１０８＿０２７But there's something I just had￥to tell you today..."
+  },
+  {
+   "id": "0486:000A1",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２８I was totally shocked! What's￥with that ranking?! You're￥better than I thought!"
+  },
+  {
+   "id": "0486:0010F.0",
+   "choice": true,
+   "en": "All my effort paid off."
+  },
+  {
+   "id": "0486:0010F.1",
+   "choice": true,
+   "en": "It surprised me too."
+  },
+  {
+   "id": "0486:00139.0",
+   "choice": true,
+   "en": "All my effort paid off."
+  },
+  {
+   "id": "0486:00139.1",
+   "choice": true,
+   "en": "It surprised me too."
+  },
+  {
+   "id": "0486:00167",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２９Well! Aren't you full of￥yourself!＝＠１０８＿０３０But... maybe you're right. You￥have been working pretty hard!"
+  },
+  {
+   "id": "0486:001F1",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０３１I know, right? I bet everyone￥was surprised!＝＠１０８＿０３２Who'd have thought you'd get￥scores that good..."
+  },
+  {
+   "id": "0486:00276",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿００１Did you do anything different￥this time? Like training after￥hours...?"
+  },
+  {
+   "id": "0486:002CF",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿００２If you've got some secret, I￥guess I could hear you out,￥since I'm here and all!"
+  },
+  {
+   "id": "0486:00335.0",
+   "choice": true,
+   "en": "I didn't do anything."
+  },
+  {
+   "id": "0486:00335.1",
+   "choice": true,
+   "en": "Wouldn't tell you, Riko."
+  },
+  {
+   "id": "0486:00369.0",
+   "choice": true,
+   "en": "I didn't do anything."
+  },
+  {
+   "id": "0486:00369.1",
+   "choice": true,
+   "en": "Wouldn't tell you, Riko."
+  },
+  {
+   "id": "0486:0039F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿００３When you say that, it's like￥you're saying \"It's all talent!\"￥and that really bugs me!"
+  },
+  {
+   "id": "0486:00412",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿００４Well, the next exam will show￥whether that's your real￥ability or not!"
+  },
+  {
+   "id": "0486:00488",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿００５What's that supposed to mean?!＝＠１０５＿００６Oh... I get it!"
+  },
+  {
+   "id": "0486:004EB",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿００７So you're that worried about￥me as a rival? Oh, dear..."
+  },
+  {
+   "id": "0486:0053A",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿００８Anyway, for now, I'll say￥congratulations!"
+  },
+  {
+   "id": "0486:00589",
+   "end": "818400",
+   "en": "＊Riko＊＠１０５＿００９Keep it up on the next exam too!￥I'm looking forward to it!￥See ya!!"
+  }
+ ]
+}

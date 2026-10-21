@@ -1,0 +1,481 @@
+{
+ "entry": 439,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0439:0001A",
+   "end": "818400",
+   "en": "－　Corridor　－＝－　Narusawa's shouting echoes￥　　from down the hall　－"
+  },
+  {
+   "id": "0439:00067",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２７＿００１Kaname!! Do you understand?!"
+  },
+  {
+   "id": "0439:0009E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿００２Yes, sir!"
+  },
+  {
+   "id": "0439:000C5",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２７＿００３You can't keep treating this￥like a game!＝＠１２７＿００４Keep that up, and one day you￥could cause a serious accident.＝＠１２７＿００５From now on, tighten up and take￥your training seriously.￥Understood?"
+  },
+  {
+   "id": "0439:001AA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿００６Understood!!"
+  },
+  {
+   "id": "0439:001E4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿００７Phew. He's finally gone."
+  },
+  {
+   "id": "0439:00221",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿００８Ugh! So bossy!!"
+  },
+  {
+   "id": "0439:00256",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿００９What's with that...｝￥＠１２７＿０１０\"Tighten up and train harder\"?￥Give me a break!"
+  },
+  {
+   "id": "0439:002C5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１１It's not like I'm here for YOUR￥sake! Hmph!"
+  },
+  {
+   "id": "0439:00319",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１２Oh! Cousin!＝＠１２７＿０１３Oh no... were you watching￥the whole time?"
+  },
+  {
+   "id": "0439:00374",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１４N-Narusawa was just nagging me￥about little things. I don't￥even get what he means!"
+  },
+  {
+   "id": "0439:003EB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１５Hey, Cousin. As long as we get￥to Elan and have fun doing it,￥that's all that matters, right?"
+  },
+  {
+   "id": "0439:00446.0",
+   "choice": true,
+   "en": "No, I don't think so."
+  },
+  {
+   "id": "0439:00446.1",
+   "choice": true,
+   "en": "Yeah. It's gotta be fun."
+  },
+  {
+   "id": "0439:00486",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１６Whaaat?! Why?!￥Do you actually LIKE Narusawa,￥Cousin?"
+  },
+  {
+   "id": "0439:004DD.0",
+   "choice": true,
+   "en": "That's not the point."
+  },
+  {
+   "id": "0439:004DD.1",
+   "choice": true,
+   "en": "Fun alone isn't enough."
+  },
+  {
+   "id": "0439:0051C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１７Huh...?!￥Don't take it so seriously."
+  },
+  {
+   "id": "0439:00567",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１８C-Cousin, are you mad at me?"
+  },
+  {
+   "id": "0439:005AA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１９Huh?! What's wrong with just￥having fun?"
+  },
+  {
+   "id": "0439:005F7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２０Hey... Cousin, are you mad?"
+  },
+  {
+   "id": "0439:00637",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２１See? You think so too, right?"
+  },
+  {
+   "id": "0439:00676.0",
+   "choice": true,
+   "en": "But just having fun..."
+  },
+  {
+   "id": "0439:00676.1",
+   "choice": true,
+   "en": "If you really think so."
+  },
+  {
+   "id": "0439:006B2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２２Huh?! Well, yeah...￥I mean, that's true, but..."
+  },
+  {
+   "id": "0439:00706",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２３Was something I said wrong...?"
+  },
+  {
+   "id": "0439:0075F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２４What's that supposed to mean...?￥You've got something to say,￥don't you, Cousin?＝＠１２７＿０２５Am I wrong...?￥Is just having fun not enough?"
+  },
+  {
+   "id": "0439:00808.0",
+   "choice": true,
+   "en": "Maybe so."
+  },
+  {
+   "id": "0439:00808.1",
+   "choice": true,
+   "en": "Grow up a little."
+  },
+  {
+   "id": "0439:0082E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0439:0083F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２６!!｝￥...｝￥＠１２７＿０２７Cou...sin..."
+  },
+  {
+   "id": "0439:0089D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0439:008AE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２８!!｝￥＠１２７＿０２９Cousin... I..."
+  },
+  {
+   "id": "0439:008FD",
+   "end": "818400",
+   "en": "＊Kaname＊..."
+  },
+  {
+   "id": "0439:00918",
+   "end": "818400",
+   "en": "＊Riko＊＠１２８＿００１Hey!! What are you doing picking￥on Kaname?!"
+  },
+  {
+   "id": "0439:00967",
+   "end": "818400",
+   "en": "＊Riko＊＠１２８＿００２Unbelievable!￥Making a girl cry?!"
+  },
+  {
+   "id": "0439:009B0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００５No, Riko! It was my fault!!"
+  },
+  {
+   "id": "0439:009F5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００６And besides, I'm not crying."
+  },
+  {
+   "id": "0439:00A32",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００７You meant I should take being a￥candidate seriously... right?"
+  },
+  {
+   "id": "0439:00A8D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００８Maybe I was being naive."
+  },
+  {
+   "id": "0439:00AD6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００９You got mad, Cousin, so there￥must be something I'm missing."
+  },
+  {
+   "id": "0439:00B3F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１０I'll... really think it over."
+  },
+  {
+   "id": "0439:00B80.0",
+   "choice": true,
+   "en": "Sorry, I went too far."
+  },
+  {
+   "id": "0439:00B80.1",
+   "choice": true,
+   "en": "Take your time with it."
+  },
+  {
+   "id": "0439:00BBC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１１No. It was my fault...＝＠１２８＿０１２I'll try hard so you won't￥end up hating me, Cousin."
+  },
+  {
+   "id": "0439:00C42",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１３Okay...￥Sorry, Cousin.＝＠１２８＿０１４I've gotta try hard so you￥won't hate me... right."
+  },
+  {
+   "id": "0439:00CC3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１５You too, Riko... sorry."
+  },
+  {
+   "id": "0439:00CFA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１６Well... bye."
+  },
+  {
+   "id": "0439:00D25",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0439:00D35",
+   "end": "818400",
+   "en": "＊Riko＊＠１２８＿０１７Kaname..."
+  },
+  {
+   "id": "0439:00D60",
+   "end": "818400",
+   "en": "＊Riko＊＠１２８＿０１８Geez!!￥She went off all by herself!￥What did you do to her?!＝＠１２８＿０１９If I can't sleep tonight from￥worrying, it's on you!￥Honestly!!"
+  },
+  {
+   "id": "0439:00E17",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0439:00E2C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１２Oh! Cousin!＝＠１２７＿０１３Oh no... were you watching￥the whole time?"
+  },
+  {
+   "id": "0439:00E87",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１４N-Narusawa was just nagging me￥about little things. I don't￥even get what he means!"
+  },
+  {
+   "id": "0439:00EFE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１５Hey, Cousin. As long as we get￥to Elan and have fun doing it,￥that's all that matters, right?"
+  },
+  {
+   "id": "0439:00F59.0",
+   "choice": true,
+   "en": "I don't think so."
+  },
+  {
+   "id": "0439:00F59.1",
+   "choice": true,
+   "en": "Right, it has to be fun."
+  },
+  {
+   "id": "0439:00F8C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１６Whaaat?! Why?!￥Do you actually LIKE Narusawa,￥Cousin?"
+  },
+  {
+   "id": "0439:00FE3.0",
+   "choice": true,
+   "en": "That's not the point."
+  },
+  {
+   "id": "0439:00FE3.1",
+   "choice": true,
+   "en": "Fun alone isn't enough."
+  },
+  {
+   "id": "0439:01028",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１７Huh...?!￥Don't take it so seriously."
+  },
+  {
+   "id": "0439:01073",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１８C-Cousin, are you mad at me?"
+  },
+  {
+   "id": "0439:010B6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０１９Huh?! What's wrong with just￥having fun?"
+  },
+  {
+   "id": "0439:01103",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２０Hey... Cousin, are you mad?"
+  },
+  {
+   "id": "0439:01143",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２１See? You think so too, right?"
+  },
+  {
+   "id": "0439:01182.0",
+   "choice": true,
+   "en": "But just having fun..."
+  },
+  {
+   "id": "0439:01182.1",
+   "choice": true,
+   "en": "If you really think so."
+  },
+  {
+   "id": "0439:011BE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２２Huh?! Well, yeah...￥I mean, that's true, but..."
+  },
+  {
+   "id": "0439:01212",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２３Was something I said wrong...?"
+  },
+  {
+   "id": "0439:0126B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２４What's that supposed to mean...?￥You've got something to say,￥don't you, Cousin?＝＠１２７＿０２５Am I wrong...?￥Is just having fun not enough?"
+  },
+  {
+   "id": "0439:01314.0",
+   "choice": true,
+   "en": "Maybe so."
+  },
+  {
+   "id": "0439:01314.1",
+   "choice": true,
+   "en": "You need to grow up."
+  },
+  {
+   "id": "0439:0133E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0439:0134F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２６!!｝￥...｝￥＠１２７＿０２７Cou...sin..."
+  },
+  {
+   "id": "0439:013AD",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0439:013BE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２７＿０２８!!｝￥＠１２７＿０２９Cousin... I..."
+  },
+  {
+   "id": "0439:0140D",
+   "end": "818400",
+   "en": "＊Kaname＊..."
+  },
+  {
+   "id": "0439:01428",
+   "end": "818400",
+   "en": "＊Riko＊＠１２８＿００１Hey!! What are you doing picking￥on Kaname?!"
+  },
+  {
+   "id": "0439:01477",
+   "end": "818400",
+   "en": "＊Riko＊＠１２８＿００３Unbelievable! Making her cry,￥even if you ARE her cousin!＝＠１２８＿００４That's the lowest!!"
+  },
+  {
+   "id": "0439:014F4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００５No, Riko! It was my fault!!"
+  },
+  {
+   "id": "0439:01539",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００６And besides, I'm not crying."
+  },
+  {
+   "id": "0439:01578",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００７You meant I should take being a￥candidate seriously... right?"
+  },
+  {
+   "id": "0439:015D3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００８Maybe I was being naive."
+  },
+  {
+   "id": "0439:0161C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿００９You got mad, Cousin, so there￥must be something I'm missing."
+  },
+  {
+   "id": "0439:01685",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１０I'll... really think it over."
+  },
+  {
+   "id": "0439:016C6.0",
+   "choice": true,
+   "en": "Sorry, I went too far."
+  },
+  {
+   "id": "0439:016C6.1",
+   "choice": true,
+   "en": "Yes, that might be best."
+  },
+  {
+   "id": "0439:0170A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１１No. It was my fault...＝＠１２８＿０１２I'll try hard so you won't￥end up hating me, Cousin."
+  },
+  {
+   "id": "0439:01790",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１３Okay...￥Sorry, Cousin.＝＠１２８＿０１４I've gotta try hard so you￥won't hate me... right."
+  },
+  {
+   "id": "0439:01811",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１５You too, Riko... sorry."
+  },
+  {
+   "id": "0439:01848",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０１６Well... bye."
+  },
+  {
+   "id": "0439:01873",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0439:01883",
+   "end": "818400",
+   "en": "＊Riko＊＠１２８＿０１７Kaname..."
+  },
+  {
+   "id": "0439:018AE",
+   "end": "818400",
+   "en": "＊Riko＊＠１２８＿０１８Geez!!￥She went off all by herself!￥What did you do to her?!＝＠１２８＿０１９If I can't sleep tonight from￥worrying, it's on you!￥Honestly!!"
+  },
+  {
+   "id": "0439:01965",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

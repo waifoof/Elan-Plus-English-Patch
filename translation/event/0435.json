@@ -1,0 +1,411 @@
+{
+ "entry": 435,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0435:00022",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿００１Oh, it's you.￥Need something?＝＠１１４＿００２If not, I've got stuff￥to do, so..."
+  },
+  {
+   "id": "0435:00095",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿００３Oh yeah, you're one of the￥candidates, right?＝＠１１４＿００４So you've been doing maintenance￥training too, huh?"
+  },
+  {
+   "id": "0435:00123.0",
+   "choice": true,
+   "en": "Yeah, sort of."
+  },
+  {
+   "id": "0435:00123.1",
+   "choice": true,
+   "en": "But I'm not good at it."
+  },
+  {
+   "id": "0435:0014B.0",
+   "choice": true,
+   "en": "Yeah, sort of."
+  },
+  {
+   "id": "0435:0014B.1",
+   "choice": true,
+   "en": "But I'm not good at it."
+  },
+  {
+   "id": "0435:00173",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿００５Okay, then maybe this'll work..."
+  },
+  {
+   "id": "0435:001B5",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿００６Not good, huh...￥What to do, what to do..."
+  },
+  {
+   "id": "0435:001F8",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿００７Nah, never mind.￥My bad!￥Forget it."
+  },
+  {
+   "id": "0435:0024B",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿００８Hey, you got￥a minute?"
+  },
+  {
+   "id": "0435:0028B.0",
+   "choice": true,
+   "en": "Sure, why?"
+  },
+  {
+   "id": "0435:0028B.1",
+   "choice": true,
+   "en": "I want to train..."
+  },
+  {
+   "id": "0435:002BF.0",
+   "choice": true,
+   "en": "Sure, why?"
+  },
+  {
+   "id": "0435:002BF.1",
+   "choice": true,
+   "en": "I want to train..."
+  },
+  {
+   "id": "0435:002F3",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿００９Then come with me!￥This way."
+  },
+  {
+   "id": "0435:0032E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0435:0033E",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０１０Not really the time for￥that, though..."
+  },
+  {
+   "id": "0435:00383",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０１１Eh, whatever.￥I can probably handle it alone.＝＠１１４＿０１２Never mind, then.￥See ya!"
+  },
+  {
+   "id": "0435:0040A",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０１３So, I just heard the A/C pipes￥in the Monitor Room are busted.＝＠１１４＿０１４If that goes, it won't just kill￥temperature control, it'll cut￥the air supply too."
+  },
+  {
+   "id": "0435:004E5",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０１５And right now there's￥a warning in effect."
+  },
+  {
+   "id": "0435:00533.0",
+   "choice": true,
+   "en": "Isn't that really bad?"
+  },
+  {
+   "id": "0435:00533.1",
+   "choice": true,
+   "en": "You're kidding, right?"
+  },
+  {
+   "id": "0435:00565.0",
+   "choice": true,
+   "en": "That sounds really bad."
+  },
+  {
+   "id": "0435:00565.1",
+   "choice": true,
+   "en": "You're kidding, right?"
+  },
+  {
+   "id": "0435:00597",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０１６Yep.＝＠１１４＿０１７But I've got a good idea what's￥wrong, so I can fix it quick."
+  },
+  {
+   "id": "0435:0061B",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０１８Nope, it's for real.＝＠１１４＿０１９Well, it's not like it's gonna￥go bad right this second...＝＠１１４＿０２０But we'd better hurry."
+  },
+  {
+   "id": "0435:006C5.0",
+   "choice": true,
+   "en": "Why am I going too?"
+  },
+  {
+   "id": "0435:006C5.1",
+   "choice": true,
+   "en": "We have to hurry!"
+  },
+  {
+   "id": "0435:006F3.0",
+   "choice": true,
+   "en": "Why do I have to go?"
+  },
+  {
+   "id": "0435:006F3.1",
+   "choice": true,
+   "en": "We have to hurry!"
+  },
+  {
+   "id": "0435:00727",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０２１Isn't it obvious?￥You're helping out!"
+  },
+  {
+   "id": "0435:0076C",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０２２Whaddaya, chickening out?"
+  },
+  {
+   "id": "0435:007A9",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０２３Fine, then!＝＠１１４＿０２４No point draggin' you along￥if you're just gonna get in￥the way!＝＠１１４＿０２５Sorry for draggin' you out.￥See ya!"
+  },
+  {
+   "id": "0435:00862",
+   "end": "818400",
+   "en": "＊Rei＊＠１１４＿０２６Oh!￥Look at you, all fired up."
+  },
+  {
+   "id": "0435:008A5",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿００１We're short-handed, so￥you're helping out.＝＠１１５＿００２As long as you've got the basics￥of maintenance down, you'll￥be fine!"
+  },
+  {
+   "id": "0435:00939.0",
+   "choice": true,
+   "en": "I'll try. Just guide me."
+  },
+  {
+   "id": "0435:00939.1",
+   "choice": true,
+   "en": "No way, I can't do it!"
+  },
+  {
+   "id": "0435:00977.0",
+   "choice": true,
+   "en": "I'll try. Just guide me."
+  },
+  {
+   "id": "0435:00977.1",
+   "choice": true,
+   "en": "No way, I can't do it!"
+  },
+  {
+   "id": "0435:009B7",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿００３Well, duh!￥I don't expect you to manage￥without instructions!"
+  },
+  {
+   "id": "0435:00A1B",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿００４Don't be such a wimp!￥I'm gonna tell you what to do.￥Don't you trust me?"
+  },
+  {
+   "id": "0435:00A82",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿００５Well... if somebody says they￥can't do it, they'll probably￥just slow me down..."
+  },
+  {
+   "id": "0435:00AEF",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿００６Nah, I can probably handle it￥myself. Sorry for draggin'￥you along.＝＠１１５＿００７See ya!"
+  },
+  {
+   "id": "0435:00B76",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿００８Don't worry.￥I won't make you do any of￥the hard stuff."
+  },
+  {
+   "id": "0435:00BC7",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0435:00BDF",
+   "end": "818400",
+   "en": "－Monitor Room－"
+  },
+  {
+   "id": "0435:00C00",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１５＿０１０Finally!!￥You're late, Rei!＝＠１１５＿０１１If we don't hurry, the station's￥temperature will start dropping￥in minutes!"
+  },
+  {
+   "id": "0435:00C89",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿０１２Relax, relax!＝＠１１５＿０１３At this rate, it'll hold for￥another 5 or 6 minutes.￥That's plenty of time."
+  },
+  {
+   "id": "0435:00D0A",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１５＿０１４There you go again,￥taking dangerous chances..."
+  },
+  {
+   "id": "0435:00D53",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１５＿０１５Hm? Who's that with you..."
+  },
+  {
+   "id": "0435:00D92",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１５＿０１６Rei!!￥You brought a candidate to a￥dangerous place like this?!"
+  },
+  {
+   "id": "0435:00DF1",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿０１７Never mind that, just stand￥back. We're short on time,￥right?＝＠１１５＿０１８Okay, let's get to it!"
+  },
+  {
+   "id": "0435:00E62",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0435:00E7D",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿０１９Hup! Hey!￥Don't just stand there gawking!＝＠１１５＿０２０Swap out that busted pipe for￥the new one by your feet."
+  },
+  {
+   "id": "0435:00F0A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0435:00F1B",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿０２１Oh, done?＝＠１１５＿０２２Then take the thickest bundle￥from that wiring over there and￥hook it up to this one.＝＠１１５＿０２３Match the colors right!￥Mess it up and it's game over!"
+  },
+  {
+   "id": "0435:00FEF.0",
+   "choice": true,
+   "en": "I'll do my best."
+  },
+  {
+   "id": "0435:00FEF.1",
+   "choice": true,
+   "en": "Don't say scary stuff!"
+  },
+  {
+   "id": "0435:01021.0",
+   "choice": true,
+   "en": "I'll do my best."
+  },
+  {
+   "id": "0435:01021.1",
+   "choice": true,
+   "en": "Don't say scary stuff!"
+  },
+  {
+   "id": "0435:01053",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿０２４Don't sweat it!＝＠１１５＿０２５It's fine. As long as you don't￥mess up, there's nothing to￥worry about."
+  },
+  {
+   "id": "0435:010CE",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0435:010DA",
+   "end": "818400",
+   "en": "＊Rei＊＠１１５＿０２６It's fine!￥As long as you don't mess up!＝＠１１５＿０２７It's just a few dozen cables!￥C'mon! No time to waste!"
+  },
+  {
+   "id": "0435:0116B",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0435:01178",
+   "end": "818400",
+   "en": "＊Rei＊＠１１６＿００１Okay! This side's done.＝＠１１６＿００２Wiring looks good. You can stop.￥Step back a bit."
+  },
+  {
+   "id": "0435:011EB",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0435:011FF",
+   "end": "818400",
+   "en": "＊Rei＊＠１１６＿００３Okay, we're all set!"
+  },
+  {
+   "id": "0435:01236",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１６＿００４I can't believe you actually￥fixed it so fast...＝＠１１６＿００５I'm glad we dealt with it before￥it became a major accident."
+  },
+  {
+   "id": "0435:012C1",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１１６＿００６Rei, I'll handle the aftermath.￥Once you've taken the candidate￥back, get right back to work!"
+  },
+  {
+   "id": "0435:01334",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0435:01349",
+   "end": "818400",
+   "en": "＊Rei＊＠１１６＿００７Thanks for the help.￥We fixed it with time to spare!"
+  },
+  {
+   "id": "0435:013A0",
+   "end": "818400",
+   "en": "＊Rei＊＠１１６＿００８On my own, I'd have cut it￥real close.＝＠１１６＿００９Your skills are kid stuff, but￥you've got good instincts."
+  },
+  {
+   "id": "0435:01436.0",
+   "choice": true,
+   "en": "Leave it to me!"
+  },
+  {
+   "id": "0435:01436.1",
+   "choice": true,
+   "en": "Only instincts?"
+  },
+  {
+   "id": "0435:0145E.0",
+   "choice": true,
+   "en": "Leave it to me!"
+  },
+  {
+   "id": "0435:0145E.1",
+   "choice": true,
+   "en": "Only instincts?"
+  },
+  {
+   "id": "0435:01488",
+   "end": "818400",
+   "en": "＊Rei＊＠１１６＿０１０Whoa, whoa, I didn't praise you￥THAT much! I said your skills￥are kid stuff.＝＠１１６＿０１１Well, I guess saying you've got￥instincts kinda counts as￥a compliment."
+  },
+  {
+   "id": "0435:01544",
+   "end": "818400",
+   "en": "＊Rei＊＠１１６＿０１２Well, duh!￥Everything else is just the￥bare-bones basics!"
+  },
+  {
+   "id": "0435:01599",
+   "end": "818400",
+   "en": "＊Rei＊＠１１６＿０１３Instinct isn't something￥you pick up from training￥or whatever.＝＠１１６＿０１４It's what you're made of.￥You're born with it."
+  },
+  {
+   "id": "0435:01654",
+   "end": "818400",
+   "en": "＊Rei＊＠１１６＿０１５And you've got it!＝＠１１６＿０１６Anyway, you were a big help.￥Thanks.＝＠１１６＿０１７Train this kid up, and I bet..."
+  },
+  {
+   "id": "0435:016F5",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

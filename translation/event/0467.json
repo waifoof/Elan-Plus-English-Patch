@@ -1,0 +1,101 @@
+{
+ "entry": 467,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0467:0001F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿０１Yo! How's it going?￥Just came by to see you."
+  },
+  {
+   "id": "0467:0005C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿０２You've been on a roll lately,￥huh? Your scores are near the￥top, right?＝＠０４８＿０３So what's your secret?￥How're you doing so great?"
+  },
+  {
+   "id": "0467:000F4.0",
+   "choice": true,
+   "en": "Hard work, I guess."
+  },
+  {
+   "id": "0467:000F4.1",
+   "choice": true,
+   "en": "No reason, really."
+  },
+  {
+   "id": "0467:0011E.0",
+   "choice": true,
+   "en": "Hard work, I guess."
+  },
+  {
+   "id": "0467:0011E.1",
+   "choice": true,
+   "en": "No reason, really."
+  },
+  {
+   "id": "0467:0014C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿０４Huh.￥So it's not just a hot streak."
+  },
+  {
+   "id": "0467:00198",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿０５No reason?!＝＠０４８＿０６For real?￥Lucky you."
+  },
+  {
+   "id": "0467:001FB",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿０７I guess I'm pretty inconsistent.＝＠０４８＿０８Even in training, there's a big￥gap between the stuff I'm good￥at and the stuff I'm not..."
+  },
+  {
+   "id": "0467:002A8",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿０９When I'm on a roll, though, I￥feel like I could pull off even￥the stuff I'm bad at."
+  },
+  {
+   "id": "0467:0031D",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿１０Doesn't that ever happen to you?"
+  },
+  {
+   "id": "0467:0035F.0",
+   "choice": true,
+   "en": "Yeah, I get that too."
+  },
+  {
+   "id": "0467:0035F.1",
+   "choice": true,
+   "en": "Not really."
+  },
+  {
+   "id": "0467:0038D.0",
+   "choice": true,
+   "en": "Yes, I get that too."
+  },
+  {
+   "id": "0467:0038D.1",
+   "choice": true,
+   "en": "Not really."
+  },
+  {
+   "id": "0467:003BF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿１１Right?"
+  },
+  {
+   "id": "0467:003EA",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿１２If I trained properly at times￥like that, it'd really stick."
+  },
+  {
+   "id": "0467:00454",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿１３Then again, just feeling like I￥can doesn't mean I actually can."
+  },
+  {
+   "id": "0467:004BF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿１４I'm gonna work hard so I don't￥lose to you.＝＠０４８＿１５So don't you go losing your￥edge so easy!＝＠０４８＿１６See ya."
+  }
+ ]
+}

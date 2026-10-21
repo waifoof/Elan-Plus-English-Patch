@@ -1,0 +1,341 @@
+{
+ "entry": 379,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0379:0001C",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0379:00033",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿０１Yo!"
+  },
+  {
+   "id": "0379:0005A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿０２What's with the gloomy face?!￥Training's over, right?"
+  },
+  {
+   "id": "0379:000B9",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿０３Looks like the latest data on￥Elan just came in."
+  },
+  {
+   "id": "0379:0010C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿０４I'm gonna go check it out.￥Come with me!"
+  },
+  {
+   "id": "0379:0016D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0379:00180",
+   "end": "818400",
+   "en": "－　Monitor Room　－＝－　Images of Elan are on screen　－"
+  },
+  {
+   "id": "0379:001C7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿０５Whoooaaa...￥It's really beautiful, huh.￥Amazing..."
+  },
+  {
+   "id": "0379:0022C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿０６Man...￥Pretty soon we'll be landing￥on this planet, huh."
+  },
+  {
+   "id": "0379:00281",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿０７I'm already getting pumped.￥Can't wait to get there!"
+  },
+  {
+   "id": "0379:002D5.0",
+   "choice": true,
+   "en": "Yeah, I can't wait."
+  },
+  {
+   "id": "0379:002D5.1",
+   "choice": true,
+   "en": "I guess..."
+  },
+  {
+   "id": "0379:002FF.0",
+   "choice": true,
+   "en": "Yes, I can't wait."
+  },
+  {
+   "id": "0379:002FF.1",
+   "choice": true,
+   "en": "I suppose..."
+  },
+  {
+   "id": "0379:0032B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿０８Right?!￥I knew you'd feel the same!＝＠０３２＿０９Argh, I wanna go￥right now!"
+  },
+  {
+   "id": "0379:0039E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿１０Why do we have to wait so many￥days for the final exam?"
+  },
+  {
+   "id": "0379:003F6",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿１１Seriously, you...＝＠０３２＿１２You're looking at a planet this￥gorgeous, and that's all you￥say? Where's your drive?!"
+  },
+  {
+   "id": "0379:00471",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿１３Me, I've been dying to go￥to Elan for ages."
+  },
+  {
+   "id": "0379:004D0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿１４When I heard I'd been picked￥as a candidate...＝＠０３２＿１５I couldn't sit still. I started￥packing for Alpha right then￥and there."
+  },
+  {
+   "id": "0379:0057F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿１６My dad laughed and said I was￥jumping the gun, but man,￥I was so happy."
+  },
+  {
+   "id": "0379:005DE",
+   "end": "818400",
+   "en": "＊Eiji＊I mean,￥＠０３２＿１７only nine people got picked￥as candidates, you know?＝＠０３２＿１８That's already huge, but if￥we actually get to go to Elan..."
+  },
+  {
+   "id": "0379:00683",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿１９we'll be carrying the hopes of￥all humanity. How cool is that?!"
+  },
+  {
+   "id": "0379:006E6",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿２０I'm going to Elan,￥no matter what!"
+  },
+  {
+   "id": "0379:00727",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿２１What about you?＝＠０３２＿２２You must've given it plenty of￥thought before coming here too,￥right?"
+  },
+  {
+   "id": "0379:00797.0",
+   "choice": true,
+   "en": "Of course I have."
+  },
+  {
+   "id": "0379:00797.1",
+   "choice": true,
+   "en": "Not really..."
+  },
+  {
+   "id": "0379:007BF.0",
+   "choice": true,
+   "en": "Of course I have."
+  },
+  {
+   "id": "0379:007BF.1",
+   "choice": true,
+   "en": "Not really..."
+  },
+  {
+   "id": "0379:007E7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿２３Figured. I mean, this is one￥huge project."
+  },
+  {
+   "id": "0379:0083E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿２４If it works, we'll be heroes￥overnight, you know?＝＠０３２＿２５Let's give it our all!"
+  },
+  {
+   "id": "0379:008AA",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿２６Huh?! Seriously?"
+  },
+  {
+   "id": "0379:008DB",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿２７Man, you're no fun."
+  },
+  {
+   "id": "0379:00916",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿２８You got picked, didn't you? If￥you don't aim higher than that,￥it's a total waste!"
+  },
+  {
+   "id": "0379:00989",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３２＿２９Let's give it our all!"
+  },
+  {
+   "id": "0379:009B4",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0379:009C9",
+   "end": "818400",
+   "en": "－　Leaving the Monitor Room,￥　　； and Eiji go back　－"
+  },
+  {
+   "id": "0379:00A06",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿０１Hey, come to think of it, you're￥the same age as me, right?＝＠０３３＿０２When we were kids, didn't￥everyone around you get all￥fired up talking about Elan?＝＠０３３＿０３Like, \"Someday we're going to￥that planet of hope!\""
+  },
+  {
+   "id": "0379:00ADD",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿０４I grew up hearing that￥all the time, so...＝＠０３３＿０５before I knew it, I really￥believed I'd go to Elan."
+  },
+  {
+   "id": "0379:00B74",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿０６\"I'm gonna change humanity's￥future!\" ...Like that."
+  },
+  {
+   "id": "0379:00BBF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿０７Huh?!￥Did you just laugh at me?!"
+  },
+  {
+   "id": "0379:00C03.0",
+   "choice": true,
+   "en": "No, I didn't laugh."
+  },
+  {
+   "id": "0379:00C03.1",
+   "choice": true,
+   "en": "Sorry, it was funny."
+  },
+  {
+   "id": "0379:00C37.0",
+   "choice": true,
+   "en": "No, I didn't laugh."
+  },
+  {
+   "id": "0379:00C37.1",
+   "choice": true,
+   "en": "Sorry, it was funny."
+  },
+  {
+   "id": "0379:00C75",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿０８Liar!!￥I saw it with my own eyes!"
+  },
+  {
+   "id": "0379:00CC0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿０９That's harsh. It might not be￥just a pipe dream, you know.＝＠０３３＿１０We really do have a chance to￥change the future."
+  },
+  {
+   "id": "0379:00D6A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿１１That's harsh! It might not be￥just a pipe dream, right?"
+  },
+  {
+   "id": "0379:00DBF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿１２If I get to go, the future￥just might change!"
+  },
+  {
+   "id": "0379:00E1A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿１３Geez...＝＠０３３＿１４Here I am, telling you my￥touching life story, and you go￥and do that. How rude."
+  },
+  {
+   "id": "0379:00E97",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿１５Keep laughing at people like￥that, and someday you'll get￥burned.＝＠０３３＿１６Like they say, \"Learn from￥others' mistakes,\" right?"
+  },
+  {
+   "id": "0379:00F29.0",
+   "choice": true,
+   "en": "Y-yeah, you're right."
+  },
+  {
+   "id": "0379:00F29.1",
+   "choice": true,
+   "en": "That's the wrong saying."
+  },
+  {
+   "id": "0379:00F55.0",
+   "choice": true,
+   "en": "Y-yes, you're right."
+  },
+  {
+   "id": "0379:00F55.1",
+   "choice": true,
+   "en": "Wrong saying, isn't it?"
+  },
+  {
+   "id": "0379:00F7F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿１７Right, right. Or, \"He who digs￥a pit for others...\"￥Huh?"
+  },
+  {
+   "id": "0379:00FD0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿１８Now I'm all mixed up...￥Eh, whatever."
+  },
+  {
+   "id": "0379:0101E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿１９Huh...? Is it?"
+  },
+  {
+   "id": "0379:0104F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３３＿２０Aw, who cares about￥that stuff?＝＠０３３＿２１Quit nitpicking every little￥thing people say."
+  },
+  {
+   "id": "0379:010D0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３４＿０１Hanging out with you reminds me￥of my friends back on Sophia.＝＠０３４＿０２You're easy to talk to."
+  },
+  {
+   "id": "0379:01151",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３４＿０３...＝＠０３４＿０４Friends... huh."
+  },
+  {
+   "id": "0379:0119A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３４＿０５Oh, I know!￥I've got something good for you.￥Wait right here!"
+  },
+  {
+   "id": "0379:011F1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0379:01205",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３４＿０６Hey!￥Sorry to keep you waiting!"
+  },
+  {
+   "id": "0379:01243",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３４＿０７To celebrate us becoming￥friends, try this. My own￥special drink!＝＠０３４＿０８I used to make it all the time￥on Sophia. My crew loved it.＝＠０３４＿０９We've gotta hit the training￥hard from here on out, right?＝＠０３４＿１０So I figured I'd share some￥of my energy with you."
+  },
+  {
+   "id": "0379:01384",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３４＿１１I'm drinking this and giving it￥everything I've got, so don't￥you dare hold back either!"
+  },
+  {
+   "id": "0379:013E1",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３４＿１２Let's both go all out!!"
+  },
+  {
+   "id": "0379:01426",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

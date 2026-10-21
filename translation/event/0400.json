@@ -1,0 +1,46 @@
+{
+ "entry": 400,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0400:00011",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿００４Good mooorning!￥Have you decided what you're￥training in today?"
+  },
+  {
+   "id": "0400:00070",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿００５Hey, hey, I'm about to head to￥the Maintenance Room.￥Wanna come with me?"
+  },
+  {
+   "id": "0400:000E6.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0400:000E6.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0400:0011E.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0400:0011E.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0400:0015A",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿００６Yay! Then we can train together!￥With you around, I bet we'll get￥tons done!"
+  },
+  {
+   "id": "0400:001D3",
+   "end": "818400",
+   "en": "＊Amane＊＠０２８＿００７Aw, okay. Too bad. I thought￥it'd be fun if we went￥together... Next time, then!"
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "entry": 377,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0377:00016",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0377:00029",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿００１Ahh--!!￥Hey! You there--!"
+  },
+  {
+   "id": "0377:00070",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿００２What do I do...￥What do you think I should do?!"
+  },
+  {
+   "id": "0377:000C2.0",
+   "choice": true,
+   "en": "What happened?"
+  },
+  {
+   "id": "0377:000C2.1",
+   "choice": true,
+   "en": "Spit it out already!"
+  },
+  {
+   "id": "0377:000EC.0",
+   "choice": true,
+   "en": "What happened?"
+  },
+  {
+   "id": "0377:000EC.1",
+   "choice": true,
+   "en": "Just tell me already!"
+  },
+  {
+   "id": "0377:00118",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿００３The Environmental Section...￥It's in big trouble!!"
+  },
+  {
+   "id": "0377:0016A",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿００４Y-you don't have to get￥so mad about it!!＝＠０２１＿００５If something precious to you was￥in danger, you'd panic too,￥whether you liked it or not!!"
+  },
+  {
+   "id": "0377:0021A",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿００６The sunflowers... The sunflowers￥I planted in the Environmental￥Section are about to wither!!＝＠０２１＿００７And they'd only just...￥only just bloomed...＝＠０２１＿００８And that's not all. The other￥plants look sickly too...￥they're starting to droop.＝＠０２１＿００９But why? The control system￥is supposed to be perfect...＝＠０２１＿０１０I want to do something to help￥the sunflowers get better,￥but... I don't know what to do!"
+  },
+  {
+   "id": "0377:003E0.0",
+   "choice": true,
+   "en": "Calm down, let's focus."
+  },
+  {
+   "id": "0377:003E0.1",
+   "choice": true,
+   "en": "I'll help you think."
+  },
+  {
+   "id": "0377:0041A.0",
+   "choice": true,
+   "en": "Let's do what we can."
+  },
+  {
+   "id": "0377:0041A.1",
+   "choice": true,
+   "en": "I'll help you think."
+  },
+  {
+   "id": "0377:00459",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１１Huh...?￥O-okay!"
+  },
+  {
+   "id": "0377:00492",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１２I've been thinking about it on￥my own this whole time, but... I￥just can't tell what's wrong."
+  },
+  {
+   "id": "0377:004FF",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１３But you're right. A time like￥this is exactly when I need to￥stay calm, huh?!"
+  },
+  {
+   "id": "0377:00560",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１４Really?!￥Th-thanks..."
+  },
+  {
+   "id": "0377:005A1",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１５When I'm on my own, I just￥get more and more worked up..."
+  },
+  {
+   "id": "0377:005EE",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１６I need to calm down a little."
+  },
+  {
+   "id": "0377:00630.0",
+   "choice": true,
+   "en": "I want to save them too."
+  },
+  {
+   "id": "0377:00630.1",
+   "choice": true,
+   "en": "How bad is it, exactly?"
+  },
+  {
+   "id": "0377:0066A.0",
+   "choice": true,
+   "en": "I want to save them too."
+  },
+  {
+   "id": "0377:0066A.1",
+   "choice": true,
+   "en": "How bad is it, exactly?"
+  },
+  {
+   "id": "0377:006A6",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１７Yeah, of course! The other￥plants too, but... the￥sunflowers are special, so..."
+  },
+  {
+   "id": "0377:00710",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１８Only the sunflowers are dying.￥The others just look a little￥under the weather, but..."
+  },
+  {
+   "id": "0377:0078B",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０１９Sunflowers are a really￥special flower to me."
+  },
+  {
+   "id": "0377:007D6",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０２０A long time ago, my mom got sick￥and had to go into the￥hospital..."
+  },
+  {
+   "id": "0377:00825",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０２１I wanted her to get better fast,￥so I went to find sunflowers.￥They're her favorite."
+  },
+  {
+   "id": "0377:00894",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０２２When she saw them, she was￥so happy... and after that,￥she started to recover!"
+  },
+  {
+   "id": "0377:00907",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０２３That's why, to me, sunflowers￥are the flower of happiness!"
+  },
+  {
+   "id": "0377:0095C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０２４Besides, just looking at those￥big flowers makes you feel￥better, don't you think?"
+  },
+  {
+   "id": "0377:009C6.0",
+   "choice": true,
+   "en": "Yeah, I can see that."
+  },
+  {
+   "id": "0377:009C6.1",
+   "choice": true,
+   "en": "You think so?"
+  },
+  {
+   "id": "0377:009F8.0",
+   "choice": true,
+   "en": "Yes, I can see that."
+  },
+  {
+   "id": "0377:009F8.1",
+   "choice": true,
+   "en": "Do you think so?"
+  },
+  {
+   "id": "0377:00A32",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０２５Right?! So I wanted to share￥that happy feeling with￥everyone else, too..."
+  },
+  {
+   "id": "0377:00AA4",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０２６That's how I feel, anyway...￥but I guess some people￥aren't interested..."
+  },
+  {
+   "id": "0377:00AFF",
+   "end": "818400",
+   "en": "＊Amane＊＠０２１＿０２７But there might be people￥who'll come to love them too!!"
+  },
+  {
+   "id": "0377:00B58",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿００１That's why I don't want￥them to die!"
+  },
+  {
+   "id": "0377:00B96",
+   "end": "818400",
+   "en": "＊Amane＊..."
+  },
+  {
+   "id": "0377:00BB3",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿００２I don't want them to die, but￥what could be causing it...＝＠０２２＿００３That place is fully run by￥computer, so I don't think the￥environment is the problem...＝＠０２２＿００４So what...￥what could be going wrong...?"
+  },
+  {
+   "id": "0377:00CA9.0",
+   "choice": true,
+   "en": "Is the system broken...?"
+  },
+  {
+   "id": "0377:00CA9.1",
+   "choice": true,
+   "en": "Something we overlooked?"
+  },
+  {
+   "id": "0377:00CEF.0",
+   "choice": true,
+   "en": "Is the system broken...?"
+  },
+  {
+   "id": "0377:00CEF.1",
+   "choice": true,
+   "en": "Something we overlooked?"
+  },
+  {
+   "id": "0377:00D39",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿００５Oh!!￥Th-that might be it!"
+  },
+  {
+   "id": "0377:00D88",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿００６I totally overlooked that... It￥never even crossed my mind...!"
+  },
+  {
+   "id": "0377:00DDB",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿００７If the control system's broken,￥that would explain everything!"
+  },
+  {
+   "id": "0377:00E33",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿００８Something... we overlooked...?"
+  },
+  {
+   "id": "0377:00E72",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿００９Oh!! Maybe... what if the￥Environmental Section's control￥system itself is broken...?!"
+  },
+  {
+   "id": "0377:00EE7",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿０１０I see... So that's why it's not￥just the sunflowers... why all￥the plants were looking sick..."
+  },
+  {
+   "id": "0377:00F56",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿０１１If it's a system problem,￥maybe I can actually help!"
+  },
+  {
+   "id": "0377:00FB1",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿０１２I'm heading to the Environmental￥Section now! I'm sure there's￥something I can do!"
+  },
+  {
+   "id": "0377:01012",
+   "end": "818400",
+   "en": "＊Amane＊＠０２２＿０１３Thanks for the advice!￥Okay, I'm off--!!"
+  },
+  {
+   "id": "0377:01063",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

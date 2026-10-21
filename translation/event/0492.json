@@ -1,0 +1,101 @@
+{
+ "entry": 492,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0492:0001C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０１５Good morning. I'm sorry￥to drop by out of nowhere￥on your day off."
+  },
+  {
+   "id": "0492:00073",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０１６Um... you did really well on￥this exam, didn't you?＝＠１８８＿０１７I was wondering how you manage￥to get such high scores..."
+  },
+  {
+   "id": "0492:00120",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０１８If you don't mind, could you￥share your secret with me?"
+  },
+  {
+   "id": "0492:0017A.0",
+   "choice": true,
+   "en": "I just trained hard."
+  },
+  {
+   "id": "0492:0017A.1",
+   "choice": true,
+   "en": "Nothing special, really."
+  },
+  {
+   "id": "0492:001B4.0",
+   "choice": true,
+   "en": "I just trained hard."
+  },
+  {
+   "id": "0492:001B4.1",
+   "choice": true,
+   "en": "Nothing special, really."
+  },
+  {
+   "id": "0492:001F0",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０１９Oh...￥O-of course you did."
+  },
+  {
+   "id": "0492:00230",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０２０Huh... really?＝＠１８８＿０２１Scores like those without￥doing anything special..."
+  },
+  {
+   "id": "0492:002A3",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０２２You must train very￥efficiently every day."
+  },
+  {
+   "id": "0492:00304",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０２３I still can't seem to balance￥my training very well...＝＠１８８＿０２４Daily training alone isn't￥getting me the results I want."
+  },
+  {
+   "id": "0492:003B9",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０２５You're... really amazing."
+  },
+  {
+   "id": "0492:00401.0",
+   "choice": true,
+   "en": "Well, it's pure talent."
+  },
+  {
+   "id": "0492:00401.1",
+   "choice": true,
+   "en": "You're making me blush."
+  },
+  {
+   "id": "0492:00429.0",
+   "choice": true,
+   "en": "Heh, that's pure talent."
+  },
+  {
+   "id": "0492:00429.1",
+   "choice": true,
+   "en": "You're making me blush."
+  },
+  {
+   "id": "0492:00459",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０２６Of course.￥I think it's wonderful."
+  },
+  {
+   "id": "0492:004A5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０２７Oh, no...￥I mean every word."
+  },
+  {
+   "id": "0492:004E6",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８８＿０２８I'll learn from you and work out￥a more efficient routine.＝＠１８８＿０２９I'm sorry for barging in on￥your day off."
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "entry": 480,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0480:0001C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１７Hi, Cousin. Something's been on￥my mind, so I came by..."
+  },
+  {
+   "id": "0480:0008B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１８What's going on with you lately?￥Those scores aren't like you,￥Cousin..."
+  },
+  {
+   "id": "0480:000F6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１９Did something happen? Are you￥feeling sick or something?"
+  },
+  {
+   "id": "0480:00143",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２０If something's bothering you,￥why not talk to me about it?"
+  },
+  {
+   "id": "0480:0018C.0",
+   "choice": true,
+   "en": "Nothing's wrong."
+  },
+  {
+   "id": "0480:0018C.1",
+   "choice": true,
+   "en": "Just leave me alone."
+  },
+  {
+   "id": "0480:001C4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２１Really?￥Then that's even weirder!"
+  },
+  {
+   "id": "0480:0020F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２２Getting scores like that when￥nothing's wrong... It's like￥you've just stopped caring!"
+  },
+  {
+   "id": "0480:0027D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２３I'm... the only family you've￥got here, you know?"
+  },
+  {
+   "id": "0480:002CA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２４If something seems off with you,￥of course I'll worry, right?"
+  },
+  {
+   "id": "0480:00329",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２５Or is my worrying a bother too?"
+  },
+  {
+   "id": "0480:00370",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２６Cousin.￥I'm worried about you, okay?＝＠１３９＿０２７I thought maybe something￥was troubling you..."
+  },
+  {
+   "id": "0480:00403",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２８But don't tell me..."
+  },
+  {
+   "id": "0480:00436",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２９You haven't really lost all￥your motivation, have you?"
+  },
+  {
+   "id": "0480:00491.0",
+   "choice": true,
+   "en": "No, it's not that."
+  },
+  {
+   "id": "0480:00491.1",
+   "choice": true,
+   "en": "Actually, I have."
+  },
+  {
+   "id": "0480:004BD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０３０Oh, good. Then that's fine! You￥can just try harder next time!"
+  },
+  {
+   "id": "0480:00525",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０３１Huh... you have?￥So you're not even interested￥in Elan anymore...?"
+  },
+  {
+   "id": "0480:00592",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００１Maybe I was being nosy...￥But I was worried about you,￥Cousin."
+  },
+  {
+   "id": "0480:005FB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００２I guess I said too much.￥I'm sorry..."
+  },
+  {
+   "id": "0480:00664",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１７Hi, Cousin. Something's been on￥my mind, so I came by..."
+  },
+  {
+   "id": "0480:006D3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１８What's going on with you lately?￥Those scores aren't like you,￥Cousin..."
+  },
+  {
+   "id": "0480:0073E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０１９Did something happen? Are you￥feeling sick or something?"
+  },
+  {
+   "id": "0480:0078B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２０If something's bothering you,￥why not talk to me about it?"
+  },
+  {
+   "id": "0480:007D4.0",
+   "choice": true,
+   "en": "Nothing's wrong."
+  },
+  {
+   "id": "0480:007D4.1",
+   "choice": true,
+   "en": "Just leave me alone."
+  },
+  {
+   "id": "0480:00804",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２１Really?￥Then that's even weirder!"
+  },
+  {
+   "id": "0480:0084F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２２Getting scores like that when￥nothing's wrong... It's like￥you've just stopped caring!"
+  },
+  {
+   "id": "0480:008BD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２３I'm... the only family you've￥got here, you know?"
+  },
+  {
+   "id": "0480:0090A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２４If something seems off with you,￥of course I'll worry, right?"
+  },
+  {
+   "id": "0480:00969",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２５Or is my worrying a bother too?"
+  },
+  {
+   "id": "0480:009B0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２６Cousin.￥I'm worried about you, okay?＝＠１３９＿０２７I thought maybe something￥was troubling you..."
+  },
+  {
+   "id": "0480:00A43",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２８But don't tell me..."
+  },
+  {
+   "id": "0480:00A76",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０２９You haven't really lost all￥your motivation, have you?"
+  },
+  {
+   "id": "0480:00AD1.0",
+   "choice": true,
+   "en": "No, it's not that."
+  },
+  {
+   "id": "0480:00AD1.1",
+   "choice": true,
+   "en": "Actually, I have."
+  },
+  {
+   "id": "0480:00AFB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０３０Oh, good. Then that's fine! You￥can just try harder next time!"
+  },
+  {
+   "id": "0480:00B63",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３９＿０３１Huh... you have?￥So you're not even interested￥in Elan anymore...?"
+  },
+  {
+   "id": "0480:00BD0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００１Maybe I was being nosy...￥But I was worried about you,￥Cousin."
+  },
+  {
+   "id": "0480:00C39",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００２I guess I said too much.￥I'm sorry..."
+  }
+ ]
+}

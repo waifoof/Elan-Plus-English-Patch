@@ -1,0 +1,116 @@
+{
+ "entry": 468,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0468:00022",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿０１Hey!￥I heard you collapsed, so I￥came to check on you."
+  },
+  {
+   "id": "0468:0007F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿０２How're you feeling?"
+  },
+  {
+   "id": "0468:000AD.0",
+   "choice": true,
+   "en": "Yeah, I'm fine."
+  },
+  {
+   "id": "0468:000AD.1",
+   "choice": true,
+   "en": "It's pretty rough..."
+  },
+  {
+   "id": "0468:000D5.0",
+   "choice": true,
+   "en": "Yes, I'm fine."
+  },
+  {
+   "id": "0468:000D5.1",
+   "choice": true,
+   "en": "It's pretty rough..."
+  },
+  {
+   "id": "0468:000FF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿０３Bet you overdid it, huh?"
+  },
+  {
+   "id": "0468:0013C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿０４You can try cramming it all in,￥but people have their limits,￥you know."
+  },
+  {
+   "id": "0468:001A1",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿０５Training so it actually sticks￥is the smartest way to go,￥right?"
+  },
+  {
+   "id": "0468:0020B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿０６Whoa, whoa, you okay?"
+  },
+  {
+   "id": "0468:0023E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿０７Think about your health more.￥Pushing too hard doesn't mean￥it'll stick."
+  },
+  {
+   "id": "0468:002A3",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿０８Still... I never figured you'd￥keel over.＝＠０５０＿０９I thought you were the type who￥had that kind of pacing all￥figured out."
+  },
+  {
+   "id": "0468:00340",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿１０Well, it's a good chance to￥take it easy.＝＠０５０＿１１Meanwhile, I'll be pulling￥way ahead of you."
+  },
+  {
+   "id": "0468:003C8.0",
+   "choice": true,
+   "en": "I'll get better fast."
+  },
+  {
+   "id": "0468:003C8.1",
+   "choice": true,
+   "en": "I can't stay in bed!"
+  },
+  {
+   "id": "0468:003F2.0",
+   "choice": true,
+   "en": "I'll try to heal fast."
+  },
+  {
+   "id": "0468:003F2.1",
+   "choice": true,
+   "en": "I can't stay in bed!"
+  },
+  {
+   "id": "0468:00428",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿１２Yeah, you do that."
+  },
+  {
+   "id": "0468:00457",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿１３Freaking out won't help, so￥just suck it up and rest."
+  },
+  {
+   "id": "0468:004B1",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿１４Freaking out won't help."
+  },
+  {
+   "id": "0468:004EE",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿１５Just suck it up and rest."
+  },
+  {
+   "id": "0468:00525",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５０＿１６Without you around, there's￥no point competing.＝＠０５０＿１７See ya. Get some good sleep￥today!"
+  }
+ ]
+}

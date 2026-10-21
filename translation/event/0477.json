@@ -1,0 +1,236 @@
+{
+ "entry": 477,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0477:0001C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００１Hi, Cousin!￥Hehe, I came to visit!"
+  },
+  {
+   "id": "0477:0006D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００２I mean, I never get to see you￥on our days off."
+  },
+  {
+   "id": "0477:000C0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００３That meeting really surprised￥me! You're amazing, Cousin! When￥did you start working so hard?"
+  },
+  {
+   "id": "0477:0013F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００４I wonder... does rivalry with￥the others have something to do￥with it, at least a little?"
+  },
+  {
+   "id": "0477:0019E.0",
+   "choice": true,
+   "en": "Not really, no."
+  },
+  {
+   "id": "0477:0019E.1",
+   "choice": true,
+   "en": "Maybe it does, a bit."
+  },
+  {
+   "id": "0477:001D4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００５Really?￥Then it's just a pure drive￥to improve yourself!"
+  },
+  {
+   "id": "0477:00227",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００６That's my cousin!"
+  },
+  {
+   "id": "0477:00258",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００７But... don't push yourself so￥hard that you get sick, okay?"
+  },
+  {
+   "id": "0477:002B2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００８Yeah, I get it. I mean, exam￥results are always announced in￥front of everyone..."
+  },
+  {
+   "id": "0477:0031B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００９If there's a first place,￥then... there's always gotta be￥a last place, too.＝＠１３６＿０１０I'd be lying if I said I didn't￥feel any rivalry."
+  },
+  {
+   "id": "0477:003C2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１１I can't just stand on the￥sidelines cheering you on while￥you work hard, huh?"
+  },
+  {
+   "id": "0477:0041F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１２After all, I'm one of the￥candidates too."
+  },
+  {
+   "id": "0477:00468",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１３So... I've gotta work hard too,￥so you can be proud of me,￥Cousin!"
+  },
+  {
+   "id": "0477:004D5.0",
+   "choice": true,
+   "en": "That's the spirit!"
+  },
+  {
+   "id": "0477:004D5.1",
+   "choice": true,
+   "en": "Talk is cheap, you know."
+  },
+  {
+   "id": "0477:00507",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１４Yeah! I'm gonna work so hard,￥I'll surprise even you, Cousin!"
+  },
+  {
+   "id": "0477:00571",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１５R-right! I'll do my best!"
+  },
+  {
+   "id": "0477:005A4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１６I don't want to lose to the￥others either, you know!"
+  },
+  {
+   "id": "0477:0060B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１７If I don't try hard, there's no￥point in being here! Right?"
+  },
+  {
+   "id": "0477:0065A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１８Sorry for barging in on your￥day off.＝＠１３６＿０１９But talking with you got me￥all fired up!"
+  },
+  {
+   "id": "0477:006F9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０２０I feel like I can give training￥my all again starting tomorrow!"
+  },
+  {
+   "id": "0477:00746",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０２１See you later!!"
+  },
+  {
+   "id": "0477:00784",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００１Hi, Cousin!￥Hehe, I came to visit!"
+  },
+  {
+   "id": "0477:007D5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００２I mean, I never get to see you￥on our days off."
+  },
+  {
+   "id": "0477:00828",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００３That meeting really surprised￥me! You're amazing, Cousin! When￥did you start working so hard?"
+  },
+  {
+   "id": "0477:008A7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００４I wonder... does rivalry with￥the others have something to do￥with it, at least a little?"
+  },
+  {
+   "id": "0477:00906.0",
+   "choice": true,
+   "en": "Not really, no."
+  },
+  {
+   "id": "0477:00906.1",
+   "choice": true,
+   "en": "Maybe it does, a bit."
+  },
+  {
+   "id": "0477:0093C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００５Really?￥Then it's just a pure drive￥to improve yourself!"
+  },
+  {
+   "id": "0477:0098F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００６That's my cousin!"
+  },
+  {
+   "id": "0477:009C0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００７But... don't push yourself so￥hard that you get sick, okay?"
+  },
+  {
+   "id": "0477:00A1A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００８Yeah, I get it. I mean, exam￥results are always announced in￥front of everyone..."
+  },
+  {
+   "id": "0477:00A83",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿００９If there's a first place,￥then... there's always gotta be￥a last place, too.＝＠１３６＿０１０I'd be lying if I said I didn't￥feel any rivalry."
+  },
+  {
+   "id": "0477:00B2A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１１I can't just stand on the￥sidelines cheering you on while￥you work hard, huh?"
+  },
+  {
+   "id": "0477:00B87",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１２After all, I'm one of the￥candidates too."
+  },
+  {
+   "id": "0477:00BD0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１３So... I've gotta work hard too,￥so you can be proud of me,￥Cousin!"
+  },
+  {
+   "id": "0477:00C3D.0",
+   "choice": true,
+   "en": "That's the spirit!"
+  },
+  {
+   "id": "0477:00C3D.1",
+   "choice": true,
+   "en": "Talk is cheap, you know."
+  },
+  {
+   "id": "0477:00C6D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１４Yeah! I'm gonna work so hard,￥I'll surprise even you, Cousin!"
+  },
+  {
+   "id": "0477:00CD7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１５R-right! I'll do my best!"
+  },
+  {
+   "id": "0477:00D0A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１６I don't want to lose to the￥others either, you know!"
+  },
+  {
+   "id": "0477:00D71",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１７If I don't try hard, there's no￥point in being here! Right?"
+  },
+  {
+   "id": "0477:00DC0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０１８Sorry for barging in on your￥day off.＝＠１３６＿０１９But talking with you got me￥all fired up!"
+  },
+  {
+   "id": "0477:00E5F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０２０I feel like I can give training￥my all again starting tomorrow!"
+  },
+  {
+   "id": "0477:00EAC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３６＿０２１See you later!!"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "entry": 474,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0474:0001C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿００１This is...＝＠０６６＿００２I see, it's your room..."
+  },
+  {
+   "id": "0474:0007B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿００３All the rooms in the living￥quarters look alike. I can't￥tell them apart...＝＠０６６＿００４I need some kind of marker..."
+  },
+  {
+   "id": "0474:00101.0",
+   "choice": true,
+   "en": "Thought this was yours?"
+  },
+  {
+   "id": "0474:00101.1",
+   "choice": true,
+   "en": "What are you doing here?"
+  },
+  {
+   "id": "0474:0013D.0",
+   "choice": true,
+   "en": "Thought this was yours?"
+  },
+  {
+   "id": "0474:0013D.1",
+   "choice": true,
+   "en": "What are you doing here?"
+  },
+  {
+   "id": "0474:00177",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿００５Ah... sorry."
+  },
+  {
+   "id": "0474:001AB",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿００６Ah...￥You have a point... Sorry."
+  },
+  {
+   "id": "0474:001F2",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿００７I was reading some material and￥ended up at the wrong room."
+  },
+  {
+   "id": "0474:00247",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿００８My training hasn't been paying￥off as much as I'd hoped... and￥my ranking isn't improving.＝＠０６６＿００９The facilities are closed on our￥days off, so I was reading￥while I walked."
+  },
+  {
+   "id": "0474:00302",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１０Doesn't your own ranking￥worry you?"
+  },
+  {
+   "id": "0474:0034E.0",
+   "choice": true,
+   "en": "I do think about it."
+  },
+  {
+   "id": "0474:0034E.1",
+   "choice": true,
+   "en": "That's not your concern."
+  },
+  {
+   "id": "0474:0037C.0",
+   "choice": true,
+   "en": "It's on my mind, but..."
+  },
+  {
+   "id": "0474:0037C.1",
+   "choice": true,
+   "en": "That's not your concern."
+  },
+  {
+   "id": "0474:003AE",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１１If I recall, yours was...￥quite poor..."
+  },
+  {
+   "id": "0474:003FD",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１２Since you're lazing around on￥your day off, I must be wrong."
+  },
+  {
+   "id": "0474:00461",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１３True. It's none of my concern."
+  },
+  {
+   "id": "0474:00496",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６６＿０１４Sorry to have disturbed you￥while you were resting."
+  }
+ ]
+}

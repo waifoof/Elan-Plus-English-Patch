@@ -1,0 +1,26 @@
+{
+ "module": "OUTPUT:0927",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "OUTPUT_0927:00004",
+   "max": 90,
+   "en": "＊Riko＊I kinda want to keep talking￥with you, but we should get￥some training in!＞"
+  },
+  {
+   "id": "OUTPUT_0927:00060",
+   "max": 68,
+   "en": "＊Riko＊Enough idle chatter.￥We're starting our￥training now.＞"
+  },
+  {
+   "id": "OUTPUT_0927:000A8",
+   "max": 88,
+   "en": "＊Riko＊Talking to you any more is￥pointless! Hurry up and￥start training already!＞"
+  },
+  {
+   "id": "OUTPUT_0927:00104",
+   "max": 54,
+   "en": "＊Riko＊Well, let's get￥started training!＞"
+  }
+ ]
+}

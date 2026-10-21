@@ -1,0 +1,106 @@
+{
+ "entry": 481,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0481:00025",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１５Ah... sorry to drop in like￥this. Do you have a minute?"
+  },
+  {
+   "id": "0481:0007A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１６I just can't accept the results￥of this last exam..."
+  },
+  {
+   "id": "0481:000CD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１７When you saw your scores this￥time, didn't you feel anything?"
+  },
+  {
+   "id": "0481:00121.0",
+   "choice": true,
+   "en": "I did my best, my way."
+  },
+  {
+   "id": "0481:00121.1",
+   "choice": true,
+   "en": "Nothing in particular."
+  },
+  {
+   "id": "0481:0015D.0",
+   "choice": true,
+   "en": "I did my best, my way."
+  },
+  {
+   "id": "0481:0015D.1",
+   "choice": true,
+   "en": "Nothing in particular."
+  },
+  {
+   "id": "0481:00199",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１８Hmm...￥I see. So you were￥working hard..."
+  },
+  {
+   "id": "0481:001F3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１９I see... Then am I the only￥one who thinks something's off?"
+  },
+  {
+   "id": "0481:00254",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０２０I'm an expert, after all.￥I didn't think you could pass me￥that easily..."
+  },
+  {
+   "id": "0481:002CD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０２１Don't tell me... you used the￥facilities after hours without￥permission to train?"
+  },
+  {
+   "id": "0481:00339.0",
+   "choice": true,
+   "en": "Like I'd ever do that!"
+  },
+  {
+   "id": "0481:00339.1",
+   "choice": true,
+   "en": "Think what you want."
+  },
+  {
+   "id": "0481:00375.0",
+   "choice": true,
+   "en": "I would never do that!"
+  },
+  {
+   "id": "0481:00375.1",
+   "choice": true,
+   "en": "Think whatever you like."
+  },
+  {
+   "id": "0481:003BD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０２２But anyone can deny it￥as much as they want!"
+  },
+  {
+   "id": "0481:00415",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０２３Because I can't think of any￥other explanation."
+  },
+  {
+   "id": "0481:0045E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０２４No matter how I look at it,￥there's no way you could pass an￥expert that easily."
+  },
+  {
+   "id": "0481:004C9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０２５Sorry, but I have my doubts￥about these results."
+  },
+  {
+   "id": "0481:0051A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０２６Whatever happens on the next￥exam, I won't lose to you.＝＠０８４＿０２７Remember that.￥Well then..."
+  }
+ ]
+}

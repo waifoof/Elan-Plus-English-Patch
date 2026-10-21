@@ -1,0 +1,251 @@
+{
+ "entry": 428,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0428:0001C",
+   "end": "818400",
+   "en": "＊＊－　Weight Room　－"
+  },
+  {
+   "id": "0428:00041",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿００９Phew...￥Maybe... one more trip?"
+  },
+  {
+   "id": "0428:0008D.0",
+   "choice": true,
+   "en": "What are you doing?"
+  },
+  {
+   "id": "0428:0008D.1",
+   "choice": true,
+   "en": "You're still here?"
+  },
+  {
+   "id": "0428:000B5.0",
+   "choice": true,
+   "en": "What are you doing?"
+  },
+  {
+   "id": "0428:000B5.1",
+   "choice": true,
+   "en": "You're still here?"
+  },
+  {
+   "id": "0428:000DB",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０１０Oh... you startled me.＝＠１７４＿０１１You're still here, too."
+  },
+  {
+   "id": "0428:00145",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０１２Eek!"
+  },
+  {
+   "id": "0428:0016E",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０１３Oh... I'm sorry.￥I didn't think anyone￥was here..."
+  },
+  {
+   "id": "0428:001CB",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０１４I'm... just carrying￥some cargo...＝＠１７４＿０１５I've just finished one load.＝＠１７４＿０１６But I thought I'd￥do a little more..."
+  },
+  {
+   "id": "0428:0028D.0",
+   "choice": true,
+   "en": "I'd have helped you."
+  },
+  {
+   "id": "0428:0028D.1",
+   "choice": true,
+   "en": "...Good work."
+  },
+  {
+   "id": "0428:002BF.0",
+   "choice": true,
+   "en": "I'd have helped you."
+  },
+  {
+   "id": "0428:002BF.1",
+   "choice": true,
+   "en": "...Good work."
+  },
+  {
+   "id": "0428:002F3",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０１７Oh, no..."
+  },
+  {
+   "id": "0428:00324",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０１８I was only doing it as￥extra training..."
+  },
+  {
+   "id": "0428:00376",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０１９Oh...￥Thank you."
+  },
+  {
+   "id": "0428:003BB",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０２０But... I'm not there yet.￥If this little bit is enough￥to wear me out..."
+  },
+  {
+   "id": "0428:00420",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０２１I'm not very strong.￥So I want to build up as￥much as I can, even now...＝＠１７４＿０２２Hauling this cargo is￥my own kind of training."
+  },
+  {
+   "id": "0428:004E1",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠１７４＿０２３Since I'm here as a candidate,￥I don't want to take it easy...＝＠１７４＿０２４Because... I want to go to Elan.＝＠１７４＿０２５The chance to reach my dream￥is right in front of me. I can't￥just relax..."
+  },
+  {
+   "id": "0428:005DF.0",
+   "choice": true,
+   "en": "Your dream?"
+  },
+  {
+   "id": "0428:005DF.1",
+   "choice": true,
+   "en": "A real chance, huh?"
+  },
+  {
+   "id": "0428:00601.0",
+   "choice": true,
+   "en": "What dream?"
+  },
+  {
+   "id": "0428:00601.1",
+   "choice": true,
+   "en": "I know how you feel."
+  },
+  {
+   "id": "0428:0062B",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0428:00648",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０２６Real greenery and land,￥untouched by human hands...＝＠１７４＿０２７Reaching out and touching that￥kind of powerful life with my￥own hands..."
+  },
+  {
+   "id": "0428:006EF",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０２８I've always...￥dreamed of that."
+  },
+  {
+   "id": "0428:00730",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０２９Working hard for that￥feels really worthwhile."
+  },
+  {
+   "id": "0428:00788",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0428:007A5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０３０Do you feel the same way?"
+  },
+  {
+   "id": "0428:007DE",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０３１You're right.￥We've been blessed with￥an amazing chance."
+  },
+  {
+   "id": "0428:0083D",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７４＿０３２It feels like a waste￥not to try my hardest."
+  },
+  {
+   "id": "0428:0088B",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿００１So... it's not hard￥for me, and...＝＠１７５＿００２I... I'm going to keep up￥this training a little￥longer today."
+  },
+  {
+   "id": "0428:00922",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿００３I have to try harder...￥or I'll never catch up to￥every... one..."
+  },
+  {
+   "id": "0428:00987",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿００４Ah..."
+  },
+  {
+   "id": "0428:009B7",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0428:009C6",
+   "end": "818400",
+   "en": "＊＊－　Tomoe collapsed!　－"
+  },
+  {
+   "id": "0428:009FC",
+   "end": "818400",
+   "en": "＊＊－　Medical Room　－"
+  },
+  {
+   "id": "0428:00A26",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿００５I'm sorry...＝＠１７５＿００６You must be tired too,￥after your own training..."
+  },
+  {
+   "id": "0428:00AA6.0",
+   "choice": true,
+   "en": "Aren't you overdoing it?"
+  },
+  {
+   "id": "0428:00AA6.1",
+   "choice": true,
+   "en": "No, you have to rest."
+  },
+  {
+   "id": "0428:00AE2.0",
+   "choice": true,
+   "en": "Don't overdo it."
+  },
+  {
+   "id": "0428:00AE2.1",
+   "choice": true,
+   "en": "You need rest, too."
+  },
+  {
+   "id": "0428:00B06",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿００７No...￥I have to try￥even harder..."
+  },
+  {
+   "id": "0428:00B60",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿００８But...￥that's not good enough.￥I won't catch up to everyone..."
+  },
+  {
+   "id": "0428:00BC1",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠１７５＿００９I can't just sit still.＝＠１７５＿０１０I can see how hard￥everyone is working...＝＠１７５＿０１１I don't want to be left behind￥just because I didn't try￥hard enough.＝＠１７５＿０１２At this rate, I might even let￥down the people who believed in￥me and sent me here...＝＠１７５＿０１３I couldn't bear that...!＝..."
+  },
+  {
+   "id": "0428:00D48",
+   "end": "818400",
+   "en": "＊＊－　Tomoe forces herself up　－"
+  },
+  {
+   "id": "0428:00D78",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿０１４I'm sorry for causing you￥so much trouble today."
+  },
+  {
+   "id": "0428:00DD5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿０１５Good night..."
+  }
+ ]
+}

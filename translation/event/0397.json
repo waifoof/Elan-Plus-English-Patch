@@ -1,0 +1,376 @@
+{
+ "entry": 397,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0397:0001E",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿００７Oh... Um, sorry to bother you￥out of nowhere, but could you￥take a look at this?"
+  },
+  {
+   "id": "0397:00081",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿００８I think I cut my hand somewhere￥just now..."
+  },
+  {
+   "id": "0397:000DD.0",
+   "choice": true,
+   "en": "Huh? Are you okay?!"
+  },
+  {
+   "id": "0397:000DD.1",
+   "choice": true,
+   "en": "How'd you cut your hand?"
+  },
+  {
+   "id": "0397:00115.0",
+   "choice": true,
+   "en": "Huh? Are you okay?!"
+  },
+  {
+   "id": "0397:00115.1",
+   "choice": true,
+   "en": "How did you cut it?"
+  },
+  {
+   "id": "0397:0014F",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿００９Yes, it's only a scratch."
+  },
+  {
+   "id": "0397:00188",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０１０But never mind that. What I want￥you to look at is my... blood."
+  },
+  {
+   "id": "0397:001F0",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０１１I tripped over there...｝￥＠１６６＿０１２But never mind that. I want you￥to look at this blood."
+  },
+  {
+   "id": "0397:00272",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０１３My blood is... white.｝￥＠１６６＿０１４That's strange, isn't it?￥Blood is... supposed to be red."
+  },
+  {
+   "id": "0397:002FF",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０１５What... what am I...?"
+  },
+  {
+   "id": "0397:0033F.0",
+   "choice": true,
+   "en": "What are you...?"
+  },
+  {
+   "id": "0397:0033F.1",
+   "choice": true,
+   "en": "Creepy! Stay back!"
+  },
+  {
+   "id": "0397:00377.0",
+   "choice": true,
+   "en": "What are you...?"
+  },
+  {
+   "id": "0397:00377.1",
+   "choice": true,
+   "en": "Gross! Stay away!"
+  },
+  {
+   "id": "0397:003B3",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０１６Huh... I..."
+  },
+  {
+   "id": "0397:003E6",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０１７I don't know.￥What am I... What am I..."
+  },
+  {
+   "id": "0397:0042F",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０１８What am I?!"
+  },
+  {
+   "id": "0397:00467",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０１９Oh...￥I'm sorry."
+  },
+  {
+   "id": "0397:004A2",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０２０If I'm going to cause you any￥more trouble, I'll stay away￥from you."
+  },
+  {
+   "id": "0397:0050B",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０２１Thank you for being so kind to￥someone like me, who doesn't￥even know where he came from..."
+  },
+  {
+   "id": "0397:00586",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６６＿０２２Ah... Huh...?￥Something's... wrong...￥with my... body..."
+  },
+  {
+   "id": "0397:005DD",
+   "end": "818400",
+   "en": "＊Sarai＊...＝..."
+  },
+  {
+   "id": "0397:00610",
+   "end": "818400",
+   "en": "－　Something's wrong...｝￥　　　　　with Sarai!!　－"
+  },
+  {
+   "id": "0397:00650.0",
+   "choice": true,
+   "en": "Hey, what's wrong?!"
+  },
+  {
+   "id": "0397:00650.1",
+   "choice": true,
+   "en": "Why'd you freeze up?"
+  },
+  {
+   "id": "0397:00682.0",
+   "choice": true,
+   "en": "Hey, what's wrong?!"
+  },
+  {
+   "id": "0397:00682.1",
+   "choice": true,
+   "en": "Why did you stop?"
+  },
+  {
+   "id": "0397:006B2",
+   "end": "818400",
+   "en": "＊Sarai＊..."
+  },
+  {
+   "id": "0397:006DA",
+   "end": "818400",
+   "en": "＊Sarai＊..."
+  },
+  {
+   "id": "0397:006FF",
+   "end": "818400",
+   "en": "＊Sarai＊..."
+  },
+  {
+   "id": "0397:00721",
+   "end": "818400",
+   "en": "＊????＊＠２１１＿０１３\"Project Elan serial no.\"￥...\"SPN19\"￥\"Android unit name: SARAI\"＝..."
+  },
+  {
+   "id": "0397:007B2",
+   "end": "818400",
+   "en": "＊＊－　Sarai speaks robotically　－"
+  },
+  {
+   "id": "0397:007E7",
+   "end": "818400",
+   "en": "＊Lab A＊＠２１１＿０１４I really thought this one would￥work... If we only had more￥time..."
+  },
+  {
+   "id": "0397:00844",
+   "end": "818400",
+   "en": "＊Lab B＊＠２１１＿０１５The project has given up on us.￥There's nothing we can do.＝＠２１１＿０１６Not one unit has worked with the￥advanced programming. We're in￥no position to complain."
+  },
+  {
+   "id": "0397:0090D",
+   "end": "818400",
+   "en": "＊Lab A＊＠２１１＿０１７We were finally starting to see￥why they go haywire once the￥emotion pulse passes a limit..."
+  },
+  {
+   "id": "0397:0098C",
+   "end": "818400",
+   "en": "＊Lab B＊＠２１１＿０１８His memory is still locked.＝＠２１１＿０１９He shouldn't even be able to￥tell he's an android. Let's￥dispose of him as is."
+  },
+  {
+   "id": "0397:00A49",
+   "end": "818400",
+   "en": "＊Sarai＊..."
+  },
+  {
+   "id": "0397:00A70",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿００８Now I remember a little￥about myself...＝＠１６７＿００９That replay was what the￥researchers said just as I was￥put to sleep."
+  },
+  {
+   "id": "0397:00AFD",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０１０I'm an android, built to explore￥Elan...＝＠１６７＿０１１and to simulate how humans would￥live there...＝＠１６７＿０１２SPN19, \"SARAI.\""
+  },
+  {
+   "id": "0397:00BD2",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０１３SPN types like me were given an￥emotion program.＝＠１６７＿０１４We had to be more human-like to￥simulate all sorts of things."
+  },
+  {
+   "id": "0397:00C8B",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０１５But even with complex emotions,￥not a single android ever￥functioned properly."
+  },
+  {
+   "id": "0397:00CFC",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０１６If this goes on...￥I might hurt you!"
+  },
+  {
+   "id": "0397:00D5C.0",
+   "choice": true,
+   "en": "It's okay! I trust you!"
+  },
+  {
+   "id": "0397:00D5C.1",
+   "choice": true,
+   "en": "Dangerous! Stay back!"
+  },
+  {
+   "id": "0397:00D9A.0",
+   "choice": true,
+   "en": "It's okay! I trust you!"
+  },
+  {
+   "id": "0397:00D9A.1",
+   "choice": true,
+   "en": "Dangerous! Stay away!"
+  },
+  {
+   "id": "0397:00DDC",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０１７What?!￥You trust me?＝＠１６７＿０１８Even though I'm an android, and￥maybe a defective one too?￥You still trust me?"
+  },
+  {
+   "id": "0397:00E6D",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０１９Really?￥I'm so..."
+  },
+  {
+   "id": "0397:00EAE",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０２０Ah! The lock is coming off!!￥It's... too dangerous!＝＠１６７＿０２１Hur...ry... and... run..."
+  },
+  {
+   "id": "0397:00F37",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０２２Yes, you're right...＝＠１６７＿０２３I don't want to hurt you... so￥I'll never come near you again."
+  },
+  {
+   "id": "0397:00FC0",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６７＿０２４I don't think we'll ever meet￥again. Thank you for everything.＝＠１６７＿０２５Goodbye..."
+  },
+  {
+   "id": "0397:0103F",
+   "end": "818400",
+   "en": "＊Sarai＊..."
+  },
+  {
+   "id": "0397:0105E",
+   "end": "818400",
+   "en": "＊????＊＠２１１＿０２０Emotion pulse has passed￥threshold. ... All green. Normal￥operation confirmed.＝＠１６８＿００２Now releasing unit￥identity lock."
+  },
+  {
+   "id": "0397:01119",
+   "end": "818400",
+   "en": "＊Sarai＊..."
+  },
+  {
+   "id": "0397:01136",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿００３Huh?!￥What?! Am I...?"
+  },
+  {
+   "id": "0397:01175",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿００５I remember everything up to now,￥down to the smallest detail...＝＠１６８＿００６But other than that, I don't￥feel like anything's wrong...＝＠１６８＿００４I... haven't gone haywire,￥have I...?"
+  },
+  {
+   "id": "0397:01247.0",
+   "choice": true,
+   "en": "Yeah, it worked!"
+  },
+  {
+   "id": "0397:01247.1",
+   "choice": true,
+   "en": "...I can't believe it."
+  },
+  {
+   "id": "0397:01281.0",
+   "choice": true,
+   "en": "Yes, it worked!"
+  },
+  {
+   "id": "0397:01281.1",
+   "choice": true,
+   "en": "...I can't believe it."
+  },
+  {
+   "id": "0397:012BB",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿００８Did it... really...?"
+  },
+  {
+   "id": "0397:012F6",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿００９It did, didn't it?!"
+  },
+  {
+   "id": "0397:01327",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１０If the lock was released, that￥means my emotion functions are￥working normally, right?＝＠１６８＿０１１And I haven't gone haywire!"
+  },
+  {
+   "id": "0397:013C6",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１２I'm the first...￥finished android...!"
+  },
+  {
+   "id": "0397:0141C",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１３Yes... neither can I..."
+  },
+  {
+   "id": "0397:01455",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１４But I haven't gone haywire."
+  },
+  {
+   "id": "0397:01496",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１５It worked, didn't it?￥I'm the first...￥finished android...!"
+  },
+  {
+   "id": "0397:014FD",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１６Amazing!!"
+  },
+  {
+   "id": "0397:01528",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１７All that research, and they￥never managed a finished one!"
+  },
+  {
+   "id": "0397:01581",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１８It must be...￥because I met you."
+  },
+  {
+   "id": "0397:015C8",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０１９I don't think the others before￥me ever met someone like you.＝＠１６８＿０２０I'm so lucky!"
+  },
+  {
+   "id": "0397:01655",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０２１Oh... So this is what it feels￥like to be \"happy\"..."
+  },
+  {
+   "id": "0397:016AE",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６８＿０２２I'm so, so \"happy\"￥that I met you!＝＠１６８＿０２３I want to be useful to you, so￥I'll do my best!"
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "entry": 485,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0485:00022",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿００８Sorry for showing up out of￥nowhere! I just really wanted to￥say congratulations!"
+  },
+  {
+   "id": "0485:00089",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿００９More than losing my spot to you,￥I was just amazed at how hard￥you worked!"
+  },
+  {
+   "id": "0485:000F6",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１０You're amazing! Did you have a￥change of heart or something?"
+  },
+  {
+   "id": "0485:0014A.0",
+   "choice": true,
+   "en": "Not really."
+  },
+  {
+   "id": "0485:0014A.1",
+   "choice": true,
+   "en": "Actually, kind of..."
+  },
+  {
+   "id": "0485:00172.0",
+   "choice": true,
+   "en": "Not really."
+  },
+  {
+   "id": "0485:00172.1",
+   "choice": true,
+   "en": "Actually, kind of..."
+  },
+  {
+   "id": "0485:001A0",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１１I guess so. You've always￥worked hard! I'm so glad your￥effort paid off!"
+  },
+  {
+   "id": "0485:00210",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１２Ooh? What is it? Don't hold out￥on me, tell me!"
+  },
+  {
+   "id": "0485:00265",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１３Maybe a cute girl gave you some￥special training?￥Ha, just kidding! Hehe!"
+  },
+  {
+   "id": "0485:002D7",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１２Ooh? What is it? Don't hold out￥on me, tell me!"
+  },
+  {
+   "id": "0485:0032C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１４Maybe that special someone gave￥you some private training?￥Ha, just kidding! Hehe!"
+  },
+  {
+   "id": "0485:0039F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１５I didn't think I'd slacked off￥this time, though."
+  },
+  {
+   "id": "0485:003F2",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１６But with exams, results are￥everything. Excuses like that￥don't count, right?"
+  },
+  {
+   "id": "0485:0045B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１７Next time, I'll work hard enough￥to surprise you!"
+  },
+  {
+   "id": "0485:004B5.0",
+   "choice": true,
+   "en": "That's the spirit!"
+  },
+  {
+   "id": "0485:004B5.1",
+   "choice": true,
+   "en": "Can't slack off either."
+  },
+  {
+   "id": "0485:004E5.0",
+   "choice": true,
+   "en": "That's the spirit!"
+  },
+  {
+   "id": "0485:004E5.1",
+   "choice": true,
+   "en": "Can't slack off either."
+  },
+  {
+   "id": "0485:00517",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１８Yes!￥I won't let you show me up￥that many times!"
+  },
+  {
+   "id": "0485:0056D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０１９That's right! This time I'll￥show you what I can really do,￥so be ready!"
+  },
+  {
+   "id": "0485:005CE",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０２０I really lost fair and square￥this time! But strangely, I￥don't feel frustrated at all."
+  },
+  {
+   "id": "0485:0063F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０２１It actually makes me want to￥work hard like you do!"
+  },
+  {
+   "id": "0485:00694",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０２２I wonder if... that's just the￥kind of person you are?"
+  },
+  {
+   "id": "0485:006E3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０２３You got me all fired up!￥Thanks!"
+  },
+  {
+   "id": "0485:00732",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８６＿０２４Sorry for barging in on your￥day off! See you in training!"
+  }
+ ]
+}

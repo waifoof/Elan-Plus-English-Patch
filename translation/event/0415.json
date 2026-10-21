@@ -1,0 +1,46 @@
+{
+ "entry": 415,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0415:00011",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿００４Good morning.＝＠１８７＿００５Um, I was thinking of￥going to the lab now...＝＠１８７＿００６If you don't mind,￥would you like to come with me?"
+  },
+  {
+   "id": "0415:000D9.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0415:000D9.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0415:00111.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0415:00111.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0415:0014D",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿００７Okay."
+  },
+  {
+   "id": "0415:0017A",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿００８Oh... I see."
+  },
+  {
+   "id": "0415:001AF",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８７＿００９I understand.＝＠１８７＿０１０If there's another chance,￥please let me join you then."
+  }
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "entry": 452,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0452:0001A",
+   "end": "818400",
+   "en": "－　Yoh is standing in front of￥　　the drink dispenser　－"
+  },
+  {
+   "id": "0452:0005B",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿００１Oh, hey, good work today!＝＠１９８＿００２Did you come to get something￥to drink too?"
+  },
+  {
+   "id": "0452:000C2",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿００３Did you know if you press two￥buttons on this dispenser at￥once, you can mix the drinks?"
+  },
+  {
+   "id": "0452:00135",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿００４What I'm drinking right now is￥sports drink mixed with soda,￥and it's pretty good."
+  },
+  {
+   "id": "0452:001AC",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿００５So for you, as a special treat,￥I'll mix you some cola and￥orange soda!"
+  },
+  {
+   "id": "0452:00214.0",
+   "choice": true,
+   "en": "Sure, let's try it."
+  },
+  {
+   "id": "0452:00214.1",
+   "choice": true,
+   "en": "You're kidding, right?"
+  },
+  {
+   "id": "0452:0023C.0",
+   "choice": true,
+   "en": "Sure, let's try it."
+  },
+  {
+   "id": "0452:0023C.1",
+   "choice": true,
+   "en": "Uh, I'll pass."
+  },
+  {
+   "id": "0452:00272",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿００６All right!￥No matter how it tastes, you￥have to drink it all!"
+  },
+  {
+   "id": "0452:002C8",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿００７Aww, really?￥It might taste great, though...￥Let's try it!"
+  },
+  {
+   "id": "0452:00325",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿００８Hmm, this might be turning￥into a disaster..."
+  },
+  {
+   "id": "0452:00368",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0452:00377",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿００９Cousiiin!"
+  },
+  {
+   "id": "0452:003A3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿００９Cousiiin!"
+  },
+  {
+   "id": "0452:003CC",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0452:003E5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０１０Oh, Yoh's here too..."
+  },
+  {
+   "id": "0452:00426",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０１１Listen, this is bad!＝＠１９８＿０１２Just now on the news, they were￥talking about our candidate￥selection exam!"
+  },
+  {
+   "id": "0452:004A7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０１３We're supposed to be kept secret￥from the press, right?＝＠１９８＿０１４Isn't this bad...?＝＠１９８＿０１５And Yoh, your parents were on￥there, talking about you."
+  },
+  {
+   "id": "0452:00580",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿０１６What?＝＠１９８＿０１７What were they like?!￥What did they say?!"
+  },
+  {
+   "id": "0452:005E5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０１８Huh?!￥Oh, um..."
+  },
+  {
+   "id": "0452:00620",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０１９They're your parents, right...?￥I thought they seemed like￥decent people..."
+  },
+  {
+   "id": "0452:00679",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿０２０So what did they say?!"
+  },
+  {
+   "id": "0452:006AA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０２１Yoh... what's wrong with you?￥You're kind of scaring me."
+  },
+  {
+   "id": "0452:006F9",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿０２２Just tell me! What did they say?"
+  },
+  {
+   "id": "0452:00732",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０２３Huh? Um... about you, they said￥\"We always knew he'd be chosen,\"￥and \"Of course, he's our child.\""
+  },
+  {
+   "id": "0452:007B7",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９８＿０２４I see... Got it..."
+  },
+  {
+   "id": "0452:007EE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０２５You're scary today, Yoh..."
+  },
+  {
+   "id": "0452:00831",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１９８＿０２６Oh, you three. Did any of you￥happen to see the news￥broadcast?"
+  },
+  {
+   "id": "0452:00890",
+   "end": "818400",
+   "en": "＊Kaname＊＠１９８＿０２７Oh, I saw it.￥Um... Isn't everything about us￥supposed to be classified?"
+  },
+  {
+   "id": "0452:00905",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１９８＿０２８Yes, it is. Most likely it￥leaked from someone connected to￥the project.＝＠１９８＿０２９We'll handle this news report￥properly, so don't worry."
+  },
+  {
+   "id": "0452:009C0",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１９８＿０３０I know it's hard in a situation￥like this, but please stay￥focused on your training."
+  },
+  {
+   "id": "0452:00A3B",
+   "end": "818400",
+   "en": "＊Kaname＊...＝＠１９９＿００１Well, I'm... going to head back.￥See you, Cousin."
+  },
+  {
+   "id": "0452:00A9B",
+   "end": "818400",
+   "en": "＊Kaname＊...＝＠１９９＿００１Well, I'm... going to head back.￥See you, Cousin."
+  },
+  {
+   "id": "0452:00B01",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0452:00B1C",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0452:00B40.0",
+   "choice": true,
+   "en": "What's wrong, Yoh?"
+  },
+  {
+   "id": "0452:00B40.1",
+   "choice": true,
+   "en": "So there was a leak..."
+  },
+  {
+   "id": "0452:00B74.0",
+   "choice": true,
+   "en": "Yoh? What's wrong?"
+  },
+  {
+   "id": "0452:00B74.1",
+   "choice": true,
+   "en": "So there was a leak..."
+  },
+  {
+   "id": "0452:00BA8",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿００３What are they playing at?!￥Butting in now, after all￥this time..."
+  },
+  {
+   "id": "0452:00C10",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿００４It had to be them!￥Why? Why butt in now, after￥all this time..."
+  },
+  {
+   "id": "0452:00C6B",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿００５Did the press dig it up?"
+  },
+  {
+   "id": "0452:00CA4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿００６No, knowing them, they must have￥come forward on their own..."
+  },
+  {
+   "id": "0452:00D10.0",
+   "choice": true,
+   "en": "Yoh! What do you mean?"
+  },
+  {
+   "id": "0452:00D10.1",
+   "choice": true,
+   "en": "Listen to me!"
+  },
+  {
+   "id": "0452:00D48.0",
+   "choice": true,
+   "en": "Yoh! What do you mean?"
+  },
+  {
+   "id": "0452:00D48.1",
+   "choice": true,
+   "en": "Listen to me!"
+  },
+  {
+   "id": "0452:00D8B",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿００７Huh?!￥Oh, uh, sorry..."
+  },
+  {
+   "id": "0452:00DD4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿００８Huh, oh...￥It's just..."
+  },
+  {
+   "id": "0452:00E11",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿００９Thinking the secret might have￥leaked through people connected￥to me...＝＠１９９＿０１０doesn't feel great..."
+  },
+  {
+   "id": "0452:00EA2",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿０１１I see... So word about me got￥back to them too.＝＠１９９＿０１２I didn't think they knew..."
+  },
+  {
+   "id": "0452:00F34.0",
+   "choice": true,
+   "en": "They're your parents."
+  },
+  {
+   "id": "0452:00F34.1",
+   "choice": true,
+   "en": "Of course parents know."
+  },
+  {
+   "id": "0452:00F66.0",
+   "choice": true,
+   "en": "They're your parents."
+  },
+  {
+   "id": "0452:00F66.1",
+   "choice": true,
+   "en": "Of course parents know."
+  },
+  {
+   "id": "0452:00F9E",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿０１３Parents?"
+  },
+  {
+   "id": "0452:00FC1",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿０１４Oh... well,￥I guess that's true."
+  },
+  {
+   "id": "0452:01007",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿０１５Yeah, well,￥that's true, but...＝＠１９９＿０１６It's complicated."
+  },
+  {
+   "id": "0452:01079",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿０１７Looks like I showed you￥a weird side of me..."
+  },
+  {
+   "id": "0452:010C0",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９９＿０１８Sorry. See you!"
+  }
+ ]
+}

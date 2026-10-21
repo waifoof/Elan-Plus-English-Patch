@@ -1,0 +1,301 @@
+{
+ "entry": 431,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0431:0001A",
+   "end": "818400",
+   "en": "＊＊－　Maintenance Room　－"
+  },
+  {
+   "id": "0431:00035",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０２０!!￥I knew you'd be here...!"
+  },
+  {
+   "id": "0431:00072",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０２１Um... please, run!!￥You can't stay here..."
+  },
+  {
+   "id": "0431:000CE.0",
+   "choice": true,
+   "en": "Huh? Why?"
+  },
+  {
+   "id": "0431:000CE.1",
+   "choice": true,
+   "en": "What do you mean?"
+  },
+  {
+   "id": "0431:000F6.0",
+   "choice": true,
+   "en": "Huh? Why?"
+  },
+  {
+   "id": "0431:000F6.1",
+   "choice": true,
+   "en": "What do you mean?"
+  },
+  {
+   "id": "0431:0011E",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０２２Just hurry!￥I have a bad... a really￥bad feeling!!"
+  },
+  {
+   "id": "0431:00178",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０２３Even if it turns out I'm just￥imagining things..."
+  },
+  {
+   "id": "0431:001BD",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０２４Please...￥trust me!!"
+  },
+  {
+   "id": "0431:00203",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０２５?!￥There's no time...!!"
+  },
+  {
+   "id": "0431:00243",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０２６I'm sorry!!"
+  },
+  {
+   "id": "0431:00274",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0431:00288",
+   "end": "818400",
+   "en": "＊＊－　Tomoe shoved you down!　－"
+  },
+  {
+   "id": "0431:002DD",
+   "end": "818400",
+   "en": "＊＊－　Medical Room　－＝－　You must have passed out...　－"
+  },
+  {
+   "id": "0431:00325",
+   "end": "818400",
+   "en": "＊＊－　Medical Room　－＝－　Looks like you passed out...　－"
+  },
+  {
+   "id": "0431:0036C",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿００１Oh... are you awake?"
+  },
+  {
+   "id": "0431:003AB",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿００２Are you all right?￥Does anything hurt?"
+  },
+  {
+   "id": "0431:003EE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿００３Hm? Could it be...＝＠１８１＿００４you don't remember￥what happened...?"
+  },
+  {
+   "id": "0431:0045D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿００５Tomoe saved you,￥you know."
+  },
+  {
+   "id": "0431:004A6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿００６The straps on the materials in￥the Maintenance Room wore out,￥and the steel beams came down.＝＠１８１＿００７I never dreamed this could￥happen... We supervisors are￥fully to blame. I'm truly sorry.＝＠１８１＿００９One wrong move, and we could￥have lost two precious￥candidates..."
+  },
+  {
+   "id": "0431:005C2.0",
+   "choice": true,
+   "en": "What a scary thought..."
+  },
+  {
+   "id": "0431:005C2.1",
+   "choice": true,
+   "en": "Is Tomoe all right?!"
+  },
+  {
+   "id": "0431:005FC.0",
+   "choice": true,
+   "en": "That's terrifying..."
+  },
+  {
+   "id": "0431:005FC.1",
+   "choice": true,
+   "en": "Is Tomoe okay?!"
+  },
+  {
+   "id": "0431:00640",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿００８I really am sorry."
+  },
+  {
+   "id": "0431:00675",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿０１０The one saving grace is that￥neither you nor Tomoe￥was hurt."
+  },
+  {
+   "id": "0431:006D9",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿０１１Don't worry.￥Tomoe wasn't hurt either."
+  },
+  {
+   "id": "0431:00725",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿０１２Anyway, I'm glad you're￥both safe...＝＠１８１＿０１３You should make sure to thank￥Tomoe properly later."
+  },
+  {
+   "id": "0431:007B8",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿０１４For now... look."
+  },
+  {
+   "id": "0431:007E7",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0431:007F9",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿０１５She was looking after you until￥just now, but she seems to have￥worn herself out...＝＠１８１＿０１６Still, I'm relieved. Until now,￥she seemed to see nothing but￥her own problems...＝＠１８１＿０１７Caring for and helping others...￥it's a sign she's starting to￥see the people around her.＝＠１８１＿０１８Could it be...￥that you've rubbed off on her?"
+  },
+  {
+   "id": "0431:00950",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８１＿０１９Mm... mmm..."
+  },
+  {
+   "id": "0431:00981",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿０２０When she wakes up,￥walk her back, all right?＝＠１８１＿０２１I'm going to check on the￥Maintenance Room."
+  },
+  {
+   "id": "0431:009FE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿０２２We have to make sure this never￥happens again... I'm so sorry."
+  },
+  {
+   "id": "0431:00A69",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１８１＿０２３Well then, take care..."
+  },
+  {
+   "id": "0431:00AA3",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0431:00AB7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８１＿０２４Oh... thank goodness...￥Are you feeling all right now?"
+  },
+  {
+   "id": "0431:00B02",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８１＿０２５When I shoved you out of the￥way, um... you hit your head on￥the wall..."
+  },
+  {
+   "id": "0431:00B73",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８１＿０２６So it's my fault you were￥knocked out... I'm sorry."
+  },
+  {
+   "id": "0431:00BD5.0",
+   "choice": true,
+   "en": "Ha ha... thank you."
+  },
+  {
+   "id": "0431:00BD5.1",
+   "choice": true,
+   "en": "Are you okay?"
+  },
+  {
+   "id": "0431:00BFF.0",
+   "choice": true,
+   "en": "Hehe... thank you."
+  },
+  {
+   "id": "0431:00BFF.1",
+   "choice": true,
+   "en": "What about you? Okay?"
+  },
+  {
+   "id": "0431:00C31",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８１＿０２７Oh, no, it's nothing...＝＠１８１＿０２８But I was surprised. I didn't￥know even I could do something￥like that on the spot..."
+  },
+  {
+   "id": "0431:00CC5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８１＿０２９Oh, I'm fine.＝＠１８１＿０３０Sakaki already checked me￥over, and I actually feel￥pretty good..."
+  },
+  {
+   "id": "0431:00D58",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８１＿０３１Now that I know you're safe..."
+  },
+  {
+   "id": "0431:00D95",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0431:00DB2",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠１８２＿００１I just had this strange,￥uneasy feeling."
+  },
+  {
+   "id": "0431:00E07",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿００２My hunches... tend to be￥right, so...＝..."
+  },
+  {
+   "id": "0431:00E5C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿００３Honestly, I'm still scared to￥tell people about my power.＝＠１８２＿００４Being able to sense the￥future... of course people find￥it creepy.＝...＝＠１８２＿００５But I knew you might be in￥danger, and I couldn't just stay￥quiet."
+  },
+  {
+   "id": "0431:00F88.0",
+   "choice": true,
+   "en": "You really saved me."
+  },
+  {
+   "id": "0431:00F88.1",
+   "choice": true,
+   "en": "That's a great gift."
+  },
+  {
+   "id": "0431:00FAE.0",
+   "choice": true,
+   "en": "You really saved me."
+  },
+  {
+   "id": "0431:00FAE.1",
+   "choice": true,
+   "en": "What a wonderful gift."
+  },
+  {
+   "id": "0431:00FD4",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿００６Oh... thank you.￥You're very kind."
+  },
+  {
+   "id": "0431:0101E",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿００７You'd... really say that?￥I'm so happy..."
+  },
+  {
+   "id": "0431:01071",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿００８I'm glad my power could be￥of some use to you."
+  },
+  {
+   "id": "0431:010CE",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿００９For the first time... I think I￥might be able to like my own￥power..."
+  }
+ ]
+}

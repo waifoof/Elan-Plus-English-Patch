@@ -1,0 +1,306 @@
+{
+ "entry": 380,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0380:0001B",
+   "end": "818400",
+   "en": "－　Indoor Gym　－"
+  },
+  {
+   "id": "0380:00038",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿０１Yoh!￥I'm totally gonna win next time!"
+  },
+  {
+   "id": "0380:0007D",
+   "end": "818400",
+   "en": "＊Yoh＊＠０３５＿０２Whoa, don't get so worked up."
+  },
+  {
+   "id": "0380:000B8",
+   "end": "818400",
+   "en": "＊Yoh＊＠０３５＿０３Well, if you want a rematch,￥I'm up for it anytime.＝＠０３５＿０４But I'll pass for today.￥See you."
+  },
+  {
+   "id": "0380:00133",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0380:00143",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿０５Hey! Hold on a sec, Yoh!"
+  },
+  {
+   "id": "0380:0017E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿０６What's with that guy..."
+  },
+  {
+   "id": "0380:001B6.0",
+   "choice": true,
+   "en": "What were you doing?"
+  },
+  {
+   "id": "0380:001B6.1",
+   "choice": true,
+   "en": "Why so irritated?"
+  },
+  {
+   "id": "0380:001E2.0",
+   "choice": true,
+   "en": "What were you doing?"
+  },
+  {
+   "id": "0380:001E2.1",
+   "choice": true,
+   "en": "Why so irritated?"
+  },
+  {
+   "id": "0380:0020C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿０７Oh, it's you. I was just having￥a match with Yoh.＝＠０３５＿０８Well, when I say match,￥I mean arm wrestling."
+  },
+  {
+   "id": "0380:0028C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿０９Oh, it's you."
+  },
+  {
+   "id": "0380:002B9",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿１０So, I was arm wrestling￥Yoh, right..."
+  },
+  {
+   "id": "0380:0030A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿１１and he quit while he was ahead!￥That's so cheap!"
+  },
+  {
+   "id": "0380:00357",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿１２He's always so laid-back and￥goofy, I figured I could take￥him, but...＝＠０３５＿１３he's crazy strong."
+  },
+  {
+   "id": "0380:003E0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿１４Back on Sophia, I used to enter￥a lot of track meets and stuff.＝＠０３５＿１５And a few times, I heard￥rumors about him there.＝＠０３５＿１６About some guy who posted great￥times but never showed his face￥at official events."
+  },
+  {
+   "id": "0380:004D1",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿１７I always wanted to meet him, and￥turns out he got picked as a￥candidate too!＝＠０３５＿１８Figured it was a good chance."
+  },
+  {
+   "id": "0380:00563.0",
+   "choice": true,
+   "en": "So you challenged him."
+  },
+  {
+   "id": "0380:00563.1",
+   "choice": true,
+   "en": "And then you lost."
+  },
+  {
+   "id": "0380:0058F.0",
+   "choice": true,
+   "en": "So you challenged him."
+  },
+  {
+   "id": "0380:0058F.1",
+   "choice": true,
+   "en": "And then you lost, huh."
+  },
+  {
+   "id": "0380:005C3",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿１９Yeah.￥He put up a real fight.￥It was a blast!"
+  },
+  {
+   "id": "0380:00617",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿２０Hey, shut up!￥If we'd gone a little longer,￥I totally would've won!!"
+  },
+  {
+   "id": "0380:0067E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿２１That guy's seriously strong."
+  },
+  {
+   "id": "0380:006B9",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿２２It really hit me. The candidates￥here are true experts.＝＠０３５＿２３We're living surrounded by some￥seriously amazing people."
+  },
+  {
+   "id": "0380:00769.0",
+   "choice": true,
+   "en": "That's for sure."
+  },
+  {
+   "id": "0380:00769.1",
+   "choice": true,
+   "en": "We're candidates too!"
+  },
+  {
+   "id": "0380:00793.0",
+   "choice": true,
+   "en": "That's for sure."
+  },
+  {
+   "id": "0380:00793.1",
+   "choice": true,
+   "en": "We're candidates too!"
+  },
+  {
+   "id": "0380:007BD",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿２４Guess that just shows how huge￥this project is.＝＠０３５＿２５They gathered all these people￥just to pick a few."
+  },
+  {
+   "id": "0380:00864",
+   "end": "818400",
+   "en": "＊Eiji＊...￥＠０３５＿２６You're one of those candidates￥too, huh..."
+  },
+  {
+   "id": "0380:008B8",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３５＿２７Right!￥That's exactly it.＝＠０３５＿２８We're those \"amazing candidates\"￥too, you know!"
+  },
+  {
+   "id": "0380:00931",
+   "end": "818400",
+   "en": "＊Eiji＊...￥＠０３５＿２９You're one of the candidates￥too, huh..."
+  },
+  {
+   "id": "0380:00986",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿０１Hey, let's have a match!"
+  },
+  {
+   "id": "0380:009B7.0",
+   "choice": true,
+   "en": "All right! You're on."
+  },
+  {
+   "id": "0380:009B7.1",
+   "choice": true,
+   "en": "What, out of nowhere?"
+  },
+  {
+   "id": "0380:009E3",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿０２That's what I like to hear!!"
+  },
+  {
+   "id": "0380:00A1B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿０３Why not? You're a candidate￥too, right? I'll see what￥you're made of."
+  },
+  {
+   "id": "0380:00A8D",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿０４Whoa, you...￥You look pretty confident.＝＠０３６＿０５Forget it! Guys and girls have￥different arm strength.￥It wouldn't be a fair fight!＝＠０３６＿０６You still wanna take me on?"
+  },
+  {
+   "id": "0380:00B54.0",
+   "choice": true,
+   "en": "With two hands, I'd win."
+  },
+  {
+   "id": "0380:00B54.1",
+   "choice": true,
+   "en": "Can't know till we try."
+  },
+  {
+   "id": "0380:00B98",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿０７You think you can win￥with a handicap?￥Dream on!!"
+  },
+  {
+   "id": "0380:00BEC",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿０８Oh?!￥So that's how it is."
+  },
+  {
+   "id": "0380:00C21",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿０９All right!!￥Then let's do this!＝＠０３６＿１０You're a girl and all, so I'll￥give you a proper handicap."
+  },
+  {
+   "id": "0380:00CAF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿１１Okay, here we go.＝＠０３６＿１２Ready... GO!!"
+  },
+  {
+   "id": "0380:00D18",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿１３Ngh... Grr...!!"
+  },
+  {
+   "id": "0380:00D4F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿１４Raaah!!"
+  },
+  {
+   "id": "0380:00D82",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿１５Yes! I won!!"
+  },
+  {
+   "id": "0380:00DBB",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿１６That was way too close!!￥You're not bad at all."
+  },
+  {
+   "id": "0380:00E08",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿１７But, well,￥I'm still better than you."
+  },
+  {
+   "id": "0380:00E54.0",
+   "choice": true,
+   "en": "Yeah, I got crushed."
+  },
+  {
+   "id": "0380:00E54.1",
+   "choice": true,
+   "en": "Quit bragging."
+  },
+  {
+   "id": "0380:00E76.0",
+   "choice": true,
+   "en": "Yes, I got crushed."
+  },
+  {
+   "id": "0380:00E76.1",
+   "choice": true,
+   "en": "Don't get cocky."
+  },
+  {
+   "id": "0380:00E9C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿１８Hey, don't feel bad.￥You put up a pretty￥good fight."
+  },
+  {
+   "id": "0380:00F04",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿１９Winning feels good. What do￥you want from me?＝＠０３６＿２０Anyway, don't sulk about it.￥You put up a pretty￥good fight."
+  },
+  {
+   "id": "0380:00FB1",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿２１Let's have another match￥sometime.＝＠０３６＿２２With enough training, the￥outcome could change."
+  },
+  {
+   "id": "0380:0103C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３６＿２３See ya!!"
+  },
+  {
+   "id": "0380:01069",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

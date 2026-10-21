@@ -1,0 +1,371 @@
+{
+ "entry": 425,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0425:00016",
+   "end": "818400",
+   "en": "－　Common Floor　－"
+  },
+  {
+   "id": "0425:00031",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿００５So tired..."
+  },
+  {
+   "id": "0425:00062",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿００６Oh!￥Why, hello there!＝＠１５４＿００７How long were you watching?￥Did you see something￥embarrassing?"
+  },
+  {
+   "id": "0425:000E4.0",
+   "choice": true,
+   "en": "I just got here."
+  },
+  {
+   "id": "0425:000E4.1",
+   "choice": true,
+   "en": "You were yawning."
+  },
+  {
+   "id": "0425:0010C.0",
+   "choice": true,
+   "en": "I just got here."
+  },
+  {
+   "id": "0425:0010C.1",
+   "choice": true,
+   "en": "You were yawning, huh?"
+  },
+  {
+   "id": "0425:00138",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿００８Oh, good."
+  },
+  {
+   "id": "0425:0016E",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿００９Ah, you saw that...?"
+  },
+  {
+   "id": "0425:001AA",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１０Just kidding."
+  },
+  {
+   "id": "0425:001D4",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１１Kidding! If it's you,￥I don't mind at all!"
+  },
+  {
+   "id": "0425:00217",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１２Huh? Wait, you've already￥finished training, haven't you?￥Which means..."
+  },
+  {
+   "id": "0425:00282",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１３Oh no!￥Look at the time...!!￥I have to hurry back!"
+  },
+  {
+   "id": "0425:002DC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１４I'm only halfway through￥sorting everything!"
+  },
+  {
+   "id": "0425:00329",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１５Oh!"
+  },
+  {
+   "id": "0425:00356",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１６No point if I forget￥the data disks."
+  },
+  {
+   "id": "0425:003A3",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１７There, that's 32. All here."
+  },
+  {
+   "id": "0425:003E7",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０１８Hup... whoa, whoa, whoa...＝＠１５４＿０１９Ah!"
+  },
+  {
+   "id": "0425:0043A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0425:00447",
+   "end": "818400",
+   "en": "＊＊－　Sakaki dropped the disk case,￥　　which broke on the floor!!　－"
+  },
+  {
+   "id": "0425:0049C",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２０Oh no, now I've done it..."
+  },
+  {
+   "id": "0425:004DA.0",
+   "choice": true,
+   "en": "I'll help too."
+  },
+  {
+   "id": "0425:004DA.1",
+   "choice": true,
+   "en": "So you're a klutz, huh?"
+  },
+  {
+   "id": "0425:00506.0",
+   "choice": true,
+   "en": "I'll help too."
+  },
+  {
+   "id": "0425:00506.1",
+   "choice": true,
+   "en": "So you're a klutz, huh?"
+  },
+  {
+   "id": "0425:00535",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２１Oh, the case is broken,￥so be careful!"
+  },
+  {
+   "id": "0425:00578",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0425:00585",
+   "end": "818400",
+   "en": "－　Ow!!￥　　You cut your hand...－"
+  },
+  {
+   "id": "0425:005B6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２２Oh!￥Oh no! You cut your hand?!"
+  },
+  {
+   "id": "0425:005F5",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0425:00603",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２３That's not true...!"
+  },
+  {
+   "id": "0425:0063A",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２４Though saying that right now￥isn't very convincing...＝＠１５４＿０２５Anyway, I'd better hurry￥and clean this up."
+  },
+  {
+   "id": "0425:006C5",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0425:006D5",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２６There... see you, then..."
+  },
+  {
+   "id": "0425:00716",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２７Eek!!"
+  },
+  {
+   "id": "0425:00743",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿０２８Maybe I should've let you￥help me after all..."
+  },
+  {
+   "id": "0425:007A0",
+   "end": "818400",
+   "en": "＊＊－　Medical Room　－"
+  },
+  {
+   "id": "0425:007C5",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿００１Thank goodness.￥It's just your fingertip."
+  },
+  {
+   "id": "0425:00813",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿００２I'm so sorry.￥You were helping me, and I￥got you hurt..."
+  },
+  {
+   "id": "0425:00877",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿００３I can't believe I let a girl￥get hurt..."
+  },
+  {
+   "id": "0425:008BE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿００４I'm really sorry.＝＠１５５＿００５I've been worn out lately,￥and my focus has been slipping."
+  },
+  {
+   "id": "0425:0093D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿００６Maybe it's my workload...￥Back when I was just a comms￥officer, this never happened.＝＠１５５＿００７Since becoming a supervisor￥here, on top of managing￥communications..."
+  },
+  {
+   "id": "0425:009FE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿００８Revising new documents, and￥organizing and sorting old data."
+  },
+  {
+   "id": "0425:00A57",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿００９Checking the candidates'￥training.＝＠１５５＿０１０We're short-handed, so I also￥help Narusawa patrol￥the facility..."
+  },
+  {
+   "id": "0425:00AF6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０１１Now that I think about it,￥that's quite a lot..."
+  },
+  {
+   "id": "0425:00B42.0",
+   "choice": true,
+   "en": "You had that much work?"
+  },
+  {
+   "id": "0425:00B42.1",
+   "choice": true,
+   "en": "Sorry it's all for us."
+  },
+  {
+   "id": "0425:00B7E.0",
+   "choice": true,
+   "en": "You had that much work?"
+  },
+  {
+   "id": "0425:00B7E.1",
+   "choice": true,
+   "en": "Sorry it's all for us."
+  },
+  {
+   "id": "0425:00BBC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０１２Yes, well..."
+  },
+  {
+   "id": "0425:00BEF",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０１３Oh, I'm sorry.￥Telling you all this...＝＠１５５＿０１４Complaining to a candidate...￥I'm a failure as a supervisor."
+  },
+  {
+   "id": "0425:00C8B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０１５Huh? Oh, I'm sorry!￥Griping about my job to￥a candidate, of all people..."
+  },
+  {
+   "id": "0425:00CF4",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０１６Some supervisor I am."
+  },
+  {
+   "id": "0425:00D2B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０１７I thought it was just because￥I'm tired, but it's not only￥that."
+  },
+  {
+   "id": "0425:00D82",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０１８I wonder why...￥You're just so easy to talk to.＝＠１５５＿０１９I know you're a candidate,￥but I just can't help it..."
+  },
+  {
+   "id": "0425:00E1E.0",
+   "choice": true,
+   "en": "That makes me happy."
+  },
+  {
+   "id": "0425:00E1E.1",
+   "choice": true,
+   "en": "Don't dump this on me."
+  },
+  {
+   "id": "0425:00E4E.0",
+   "choice": true,
+   "en": "That makes me so happy."
+  },
+  {
+   "id": "0425:00E4E.1",
+   "choice": true,
+   "en": "Why tell me, though..."
+  },
+  {
+   "id": "0425:00E84",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０２０Really?￥Hearing that makes me￥feel a little better..."
+  },
+  {
+   "id": "0425:00EE2",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０２１You're right.￥I should know better..."
+  },
+  {
+   "id": "0425:00F20",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５５＿０２２Well,￥I should get back to work.￥I'm not done yet..."
+  },
+  {
+   "id": "0425:00F86",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿００１Oh, I wonder if this is￥what talking with a little￥brother is like?"
+  },
+  {
+   "id": "0425:00FDF",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿００２I'm an only child, so I've￥always kind of wanted￥a brother."
+  },
+  {
+   "id": "0425:0103E",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿００３Talking with you, I keep￥thinking a little brother might￥be like this... Isn't that odd?"
+  },
+  {
+   "id": "0425:010A8",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿００４Oh, I wonder if this is￥what talking with a little￥sister is like?"
+  },
+  {
+   "id": "0425:01101",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿００５I'm an only child, so I've￥always kind of wanted￥a sister."
+  },
+  {
+   "id": "0425:01160",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿００６Talking with you, I keep￥thinking a little sister might￥be like this... Isn't that odd?"
+  },
+  {
+   "id": "0425:011C7",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿００７I've complained a lot, but this￥job has plenty of fun parts too.＝＠１５６＿００８We get the very latest￥information on Elan here,￥you know?"
+  },
+  {
+   "id": "0425:01278",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿００９Thanks to that, I've learned￥much more about Elan than￥before.＝＠１５６＿０１０And there are things I never￥would have known as just a￥comms officer."
+  },
+  {
+   "id": "0425:01317",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿０１１Like the satisfaction of￥knowing my work directly￥helps someone.＝＠１５６＿０１２That makes it all￥really worthwhile."
+  },
+  {
+   "id": "0425:013B2",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿０１３Oh no!￥I left those disks I dropped￥all over the floor!＝＠１５６＿０１４I'm going back to clean up,￥so you head back to your room."
+  },
+  {
+   "id": "0425:01455",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５６＿０１５I'm really sorry￥you got hurt."
+  }
+ ]
+}

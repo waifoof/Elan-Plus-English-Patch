@@ -1,0 +1,326 @@
+{
+ "entry": 376,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0376:00019",
+   "end": "818400",
+   "en": "－　Maintenance Room　－"
+  },
+  {
+   "id": "0376:00034",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿００１What should I do... Maybe it's￥none of my business..."
+  },
+  {
+   "id": "0376:0008A.0",
+   "choice": true,
+   "en": "What's wrong?"
+  },
+  {
+   "id": "0376:0008A.1",
+   "choice": true,
+   "en": "Did something happen?"
+  },
+  {
+   "id": "0376:000B0.0",
+   "choice": true,
+   "en": "What's the matter?"
+  },
+  {
+   "id": "0376:000B0.1",
+   "choice": true,
+   "en": "Something happen?"
+  },
+  {
+   "id": "0376:000D4",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿００２Oh, it's you...￥Um, well...￥what should I do..."
+  },
+  {
+   "id": "0376:0012E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿００３Oh... um, see.￥I can't really figure out￥what I should do on my own..."
+  },
+  {
+   "id": "0376:00197",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿００４I was watching the mechanics￥work, and I got an idea, so I￥tried writing a program."
+  },
+  {
+   "id": "0376:0020E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿００５I think it's a pretty good￥idea, but..."
+  },
+  {
+   "id": "0376:00257",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿００６Is it... okay for me to tell￥them about it...?"
+  },
+  {
+   "id": "0376:002A6",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿００７Or would it just be butting in,￥like the other day...?"
+  },
+  {
+   "id": "0376:00304.0",
+   "choice": true,
+   "en": "That's not true."
+  },
+  {
+   "id": "0376:00304.1",
+   "choice": true,
+   "en": "Don't worry, just go."
+  },
+  {
+   "id": "0376:00330.0",
+   "choice": true,
+   "en": "Of course not."
+  },
+  {
+   "id": "0376:00330.1",
+   "choice": true,
+   "en": "Don't worry, it's fine."
+  },
+  {
+   "id": "0376:0035E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿００８Really...?￥You think it'll be okay...?＝＠０１９＿００９You really don't think￥it'll be a bother...?"
+  },
+  {
+   "id": "0376:003E0",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０１０O-okay...￥If you say so..."
+  },
+  {
+   "id": "0376:00431",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０１１I... I'll go try!"
+  },
+  {
+   "id": "0376:00470",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0376:00486",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０１２Um, excuse me!＝＠０１９＿０１３It's just a personal idea, but￥could you hear me out,￥just for a bit?"
+  },
+  {
+   "id": "0376:00513",
+   "end": "818400",
+   "en": "＊Mechanic＊＠０１９＿０１４Sure, what is it?"
+  },
+  {
+   "id": "0376:00546",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0376:0055B",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０１５I-I think it'd help whenever a￥Worker has a simple breakdown...＝＠０１９＿０１６What if Workers had a built-in￥self-check program so candidates￥could fix them on their own?＝＠０１９＿０１７I went ahead and made one,￥but..."
+  },
+  {
+   "id": "0376:00662",
+   "end": "818400",
+   "en": "＊Mechanic＊＠０１９＿０１８Oh...?"
+  },
+  {
+   "id": "0376:0068B",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０１９With this, anyone who's bad at￥maintenance could see at a￥glance where the problem is...＝＠０１９＿０２０It'd improve everyone's skills,￥and on top of that, it'd save￥you mechanics a lot of work too!"
+  },
+  {
+   "id": "0376:00760",
+   "end": "818400",
+   "en": "＊Mechanic＊＠０１９＿０２１I see...!"
+  },
+  {
+   "id": "0376:0078F",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０２２B-but this is just my own￥personal idea...＝＠０１９＿０２３So if it's no use, that's￥totally fine..."
+  },
+  {
+   "id": "0376:0082E",
+   "end": "818400",
+   "en": "＊Mechanic＊＠０１９＿０２４No, I think it's a fine system.＝＠０１９＿０２５We'll look it over, but￥a system like this will￥probably be adopted, no problem."
+  },
+  {
+   "id": "0376:008CE",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０２６R-really?"
+  },
+  {
+   "id": "0376:00903",
+   "end": "818400",
+   "en": "＊Mechanic＊＠０１９＿０２７Thank you for such a valuable￥idea!"
+  },
+  {
+   "id": "0376:0094C",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０２８No, thank you!￥Sorry for bothering you at work!"
+  },
+  {
+   "id": "0376:0099D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0376:009BC.0",
+   "choice": true,
+   "en": "That's great!"
+  },
+  {
+   "id": "0376:009BC.1",
+   "choice": true,
+   "en": "See? It worked out."
+  },
+  {
+   "id": "0376:009E6.0",
+   "choice": true,
+   "en": "I'm so glad!"
+  },
+  {
+   "id": "0376:009E6.1",
+   "choice": true,
+   "en": "See? It worked out."
+  },
+  {
+   "id": "0376:00A18",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０２９Yeah... yeah!! I'm so happy!￥Working up the courage...￥it wasn't for nothing!!"
+  },
+  {
+   "id": "0376:00A8A",
+   "end": "818400",
+   "en": "＊Amane＊＠０１９＿０３０Yeah!￥I'm so glad I did what￥you said!"
+  },
+  {
+   "id": "0376:00ADB",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿００１I think I figured out something￥important."
+  },
+  {
+   "id": "0376:00B28",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿００２If you don't push your opinions￥on people, and you think about￥their feelings and position..."
+  },
+  {
+   "id": "0376:00BA3",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿００３then they'll really listen￥to you, won't they?"
+  },
+  {
+   "id": "0376:00BF5.0",
+   "choice": true,
+   "en": "Yes, that's what counts."
+  },
+  {
+   "id": "0376:00BF5.1",
+   "choice": true,
+   "en": "You finally get it, huh."
+  },
+  {
+   "id": "0376:00C2B.0",
+   "choice": true,
+   "en": "Right, that's the key."
+  },
+  {
+   "id": "0376:00C2B.1",
+   "choice": true,
+   "en": "So you finally get it."
+  },
+  {
+   "id": "0376:00C62",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿００４Yeah! From now on, I'm sure I￥can get along with the mechanics￥and the engineers!!"
+  },
+  {
+   "id": "0376:00CDD",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿００５Yeah. Until now... there were￥probably lots of people who got￥mad at the way I acted."
+  },
+  {
+   "id": "0376:00D50",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿００６But from now on, I'll be fine!!￥I'll never make the same￥mistake again!!"
+  },
+  {
+   "id": "0376:00DBB",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿００７I get it now!＝＠０２０＿００８\"Put yourself in other people's￥shoes, and do what they most￥want you to do for them...\"＝＠０２０＿００９That's what my mom meant when￥she told me that!"
+  },
+  {
+   "id": "0376:00EA6",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１０And I bet I only realized it￥because you gave me a push!"
+  },
+  {
+   "id": "0376:00F10.0",
+   "choice": true,
+   "en": "That was all you, Amane."
+  },
+  {
+   "id": "0376:00F10.1",
+   "choice": true,
+   "en": "Come on, you flatter me."
+  },
+  {
+   "id": "0376:00F46.0",
+   "choice": true,
+   "en": "That was all you, Amane."
+  },
+  {
+   "id": "0376:00F46.1",
+   "choice": true,
+   "en": "Oh, you're too kind."
+  },
+  {
+   "id": "0376:00F7C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１１Maybe a little,￥but...￥still!!"
+  },
+  {
+   "id": "0376:00FD5",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１２Who knows what would've happened￥if you weren't here?!"
+  },
+  {
+   "id": "0376:0102B",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１３Nope, I mean every word."
+  },
+  {
+   "id": "0376:01064",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１４Geez!!￥Just accept my thanks￥already!"
+  },
+  {
+   "id": "0376:010B7",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１５Really... really,￥thank you!!"
+  },
+  {
+   "id": "0376:01102",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１６You're always the one helping me￥out. It's kind of frustrating..."
+  },
+  {
+   "id": "0376:0115D",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１７One of these days I'll have to￥show you my cooler side, huh?!"
+  },
+  {
+   "id": "0376:011B0",
+   "end": "818400",
+   "en": "＊Amane＊＠０２０＿０１８Well, I'm gonna go look at the￥sunflowers! See ya!!"
+  },
+  {
+   "id": "0376:01209",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

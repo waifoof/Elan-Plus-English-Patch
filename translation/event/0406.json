@@ -1,0 +1,41 @@
+{
+ "entry": 406,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0406:0000E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿００２Morning.￥I'm on my way to the Archives...＝＠０６５＿００３Want to come along?"
+  },
+  {
+   "id": "0406:00084.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0406:00084.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0406:000BC.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0406:000BC.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0406:000F8",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿００４All right...￥Then let's go."
+  },
+  {
+   "id": "0406:0013B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿００５I see...￥Sorry for asking."
+  }
+ ]
+}

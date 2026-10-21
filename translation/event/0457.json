@@ -1,0 +1,436 @@
+{
+ "entry": 457,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0457:0001A",
+   "end": "818400",
+   "en": "－　Hangar　－"
+  },
+  {
+   "id": "0457:00031",
+   "end": "818400",
+   "en": "－Natsuno and Amane are￥　　　talking about something－"
+  },
+  {
+   "id": "0457:00065",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿００１Like I said, Amane,￥we'll do that another time."
+  },
+  {
+   "id": "0457:000AC",
+   "end": "818400",
+   "en": "＊Amane＊＠０７３＿００２Oh, fiiine.￥But don't forget your promise!"
+  },
+  {
+   "id": "0457:000F9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿００３Okay!"
+  },
+  {
+   "id": "0457:00125",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿００４Oh... it's you!"
+  },
+  {
+   "id": "0457:00154",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿００５Good work today!￥Are you done with￥training already?"
+  },
+  {
+   "id": "0457:001A9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿００６I've finished my quota of￥training for today, too.＝＠０７３＿００７Right now I'm checking the fine￥motion response patterns￥on my Worker."
+  },
+  {
+   "id": "0457:00260",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿００８When I'm always the one￥piloting, it's hard to see it￥objectively, you know?"
+  },
+  {
+   "id": "0457:002BF",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿００９So if you could...＝＠０７３＿０１０I was hoping you'd pilot my￥Worker while I monitor it..."
+  },
+  {
+   "id": "0457:0034A",
+   "end": "818400",
+   "en": "＊Amane＊＠０７３＿０１１I told Natsuno I'd do it￥for her, but..."
+  },
+  {
+   "id": "0457:003A5",
+   "end": "818400",
+   "en": "＊Amane＊＠０７３＿０１２she said she wanted you, and￥waited around just for that!"
+  },
+  {
+   "id": "0457:003FE",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０１３W-well...＝＠０７３＿０１４Last time I asked you, Amane,￥you went off and finished it all￥before I could take any samples!"
+  },
+  {
+   "id": "0457:0049D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０１５So I thought I could ask you...￥Would you mind?"
+  },
+  {
+   "id": "0457:004F5.0",
+   "choice": true,
+   "en": "Sure, if I can help."
+  },
+  {
+   "id": "0457:004F5.1",
+   "choice": true,
+   "en": "Fine, I'll do it."
+  },
+  {
+   "id": "0457:00529.0",
+   "choice": true,
+   "en": "Sure, if I can help."
+  },
+  {
+   "id": "0457:00529.1",
+   "choice": true,
+   "en": "Fine, I'll do it."
+  },
+  {
+   "id": "0457:00563",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０１６Thanks!＝＠０７３＿０１７Then let's get right to it!"
+  },
+  {
+   "id": "0457:005C1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０１８Sorry, sorry!￥I'll make it up to you￥sometime, okay?"
+  },
+  {
+   "id": "0457:0061D",
+   "end": "818400",
+   "en": "＊Amane＊＠０７３＿０１９Hmph!￥Next time let me do it,￥okay? Promise!"
+  },
+  {
+   "id": "0457:00672",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０２０Yes, yes."
+  },
+  {
+   "id": "0457:0069D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０２１Okay, then...￥The Worker's all set up.￥Are you ready?"
+  },
+  {
+   "id": "0457:00704",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０２２Let's start with the basic￥movements.＝＠０７３＿０２３If you notice anything, don't be￥shy about telling me.￥Sound good for now?"
+  },
+  {
+   "id": "0457:007AC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０２４Here we go."
+  },
+  {
+   "id": "0457:007DE",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:007E7",
+   "end": "818400",
+   "en": "－　； boards the Worker　－"
+  },
+  {
+   "id": "0457:00810",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０２５\"Let's start with walking!\""
+  },
+  {
+   "id": "0457:00843",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:00882",
+   "end": "818400",
+   "en": "－　The Worker's acting strange!　－"
+  },
+  {
+   "id": "0457:008CB",
+   "end": "818400",
+   "en": "＊Amane＊＠０７３＿０２６Huh?!￥Hey, Natsuno, isn't that Worker￥moving kind of funny?"
+  },
+  {
+   "id": "0457:00928",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０２７Yeah...￥It was fine when I￥piloted it earlier..."
+  },
+  {
+   "id": "0457:00980",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:00989",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０２８\"Are you okay?￥　Something looked off just now.￥　Can you stop it for a sec?\""
+  },
+  {
+   "id": "0457:009F2",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:00A29",
+   "end": "818400",
+   "en": "－　The Worker's out of control!　－"
+  },
+  {
+   "id": "0457:00A54",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０２９It's not responding...?!￥This is bad!!"
+  },
+  {
+   "id": "0457:00A94",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:00AA2.0",
+   "choice": true,
+   "en": "Wh-what's happening?!"
+  },
+  {
+   "id": "0457:00AA2.1",
+   "choice": true,
+   "en": "What's with this thing?!"
+  },
+  {
+   "id": "0457:00AE2.0",
+   "choice": true,
+   "en": "Wh-what's happening?!"
+  },
+  {
+   "id": "0457:00AE2.1",
+   "choice": true,
+   "en": "What's with this thing?!"
+  },
+  {
+   "id": "0457:00B1E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０３０\"I don't know... but don't￥　force it to move!!\""
+  },
+  {
+   "id": "0457:00B74",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７３＿０３１\"Stay calm!￥　I'll try to stop it!\""
+  },
+  {
+   "id": "0457:00BC5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿００１The Worker should have an￥emergency stop switch on its￥back...!"
+  },
+  {
+   "id": "0457:00C18",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿００２Hang on!￥I'm coming!!"
+  },
+  {
+   "id": "0457:00C55",
+   "end": "818400",
+   "en": "＊Amane＊＠０７４＿００３Ah!!￥It's smoking!"
+  },
+  {
+   "id": "0457:00C8E",
+   "end": "818400",
+   "en": "＊Amane＊＠０７４＿００４Natsuno, it's dangerous!￥I'll go get someone!!"
+  },
+  {
+   "id": "0457:00CDF",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:00CEF",
+   "end": "818400",
+   "en": "＊Natsuno＊!!"
+  },
+  {
+   "id": "0457:00D02",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿００５There's no time to wait!"
+  },
+  {
+   "id": "0457:00D3E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:00D49",
+   "end": "818400",
+   "en": "－　Natsuno clings to￥　　　the Worker!!!　－"
+  },
+  {
+   "id": "0457:00D91.0",
+   "choice": true,
+   "en": "Don't! You'll get hurt!"
+  },
+  {
+   "id": "0457:00D91.1",
+   "choice": true,
+   "en": "Whoa! It won't respond!!"
+  },
+  {
+   "id": "0457:00DCF.0",
+   "choice": true,
+   "en": "Don't! You'll get hurt!"
+  },
+  {
+   "id": "0457:00DCF.1",
+   "choice": true,
+   "en": "Eek! It won't respond!!"
+  },
+  {
+   "id": "0457:00E0F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿００６\"Almost... I can almost￥　reach it...!!\"＝＠０７４＿００７\"Ngh...!\""
+  },
+  {
+   "id": "0457:00E7C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:00E8F",
+   "end": "818400",
+   "en": "＊＊－　The hatch opens!!　－"
+  },
+  {
+   "id": "0457:00EB5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿００８Come on, we have to get away!"
+  },
+  {
+   "id": "0457:00EF4",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:00F0C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿００９Whew..."
+  },
+  {
+   "id": "0457:00F37",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０１０Thank goodness...￥I thought my heart would stop.＝＠０７４＿０１１Are you hurt anywhere?"
+  },
+  {
+   "id": "0457:00FAF.0",
+   "choice": true,
+   "en": "Are YOU okay?!"
+  },
+  {
+   "id": "0457:00FAF.1",
+   "choice": true,
+   "en": "Your hand got burned..."
+  },
+  {
+   "id": "0457:00FE7.0",
+   "choice": true,
+   "en": "Are YOU okay?!"
+  },
+  {
+   "id": "0457:00FE7.1",
+   "choice": true,
+   "en": "Your hand got burned..."
+  },
+  {
+   "id": "0457:01027",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０１２I'm fine.￥My glove got burned, but￥it's nothing serious."
+  },
+  {
+   "id": "0457:0107E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０１３I'm just glad you're safe."
+  },
+  {
+   "id": "0457:010B9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０１４I guess you noticed?￥My prosthetic hand..."
+  },
+  {
+   "id": "0457:01107",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０１５No, I'm fine.￥Only my glove got burned."
+  },
+  {
+   "id": "0457:01152",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０１６I'm okay. My right hand is...￥a prosthetic, you see."
+  },
+  {
+   "id": "0457:0119B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０１７More importantly...￥I'm so, so glad you￥didn't get hurt..."
+  },
+  {
+   "id": "0457:011FC",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:01209",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０７４＿０１８Hey! Are you all right?"
+  },
+  {
+   "id": "0457:0123A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:01244",
+   "end": "818400",
+   "en": "＊＊－　Narusawa comes running over　－"
+  },
+  {
+   "id": "0457:01275",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０７４＿０１９Move it! Put that fire out!"
+  },
+  {
+   "id": "0457:012AF",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:012BE",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０２０I'll go explain what happened."
+  },
+  {
+   "id": "0457:012FB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７４＿０２１I'm really sorry about today.￥Get some rest in your room.￥Take care..."
+  },
+  {
+   "id": "0457:0135C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0457:0136E",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０７４＿０２２Are you okay too?!＝＠０７４＿０２３Amane told me more or￥less what happened.￥That was rough luck."
+  },
+  {
+   "id": "0457:013E9",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０７４＿０２４That's enough for today.￥Go back to your room and rest."
+  },
+  {
+   "id": "0457:01438",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０７４＿０２５I'll want the details later."
+  }
+ ]
+}

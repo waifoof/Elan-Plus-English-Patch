@@ -1,0 +1,346 @@
+{
+ "entry": 445,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0445:0001A",
+   "end": "818400",
+   "en": "－　Common Floor　－＝－　Riko's at the drink machine　－"
+  },
+  {
+   "id": "0445:00061",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿００１Hot, hot, hot!!｝￥＠０９６＿００２What's with this dispenser?!￥Is it broken or something?!"
+  },
+  {
+   "id": "0445:000D6",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿００３Ugh,￥it splashed all over my knee!"
+  },
+  {
+   "id": "0445:0011D",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿００４That does it!＝＠０９６＿００５You've got some nerve,￥splashing scalding coffee￥on ME!!"
+  },
+  {
+   "id": "0445:001A6",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿００６I am SO turning you￥into scrap metal!!"
+  },
+  {
+   "id": "0445:001F1",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿００７Ow, ow, ow..."
+  },
+  {
+   "id": "0445:00223.0",
+   "choice": true,
+   "en": "Go to the Medical Room."
+  },
+  {
+   "id": "0445:00223.1",
+   "choice": true,
+   "en": "Shouldn't you ice it?"
+  },
+  {
+   "id": "0445:00263.0",
+   "choice": true,
+   "en": "Go to the Medical Room."
+  },
+  {
+   "id": "0445:00263.1",
+   "choice": true,
+   "en": "Shouldn't you ice it?"
+  },
+  {
+   "id": "0445:002A9",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿００８Oh... how long have￥you been here?"
+  },
+  {
+   "id": "0445:002E8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿００９The Medical Room?￥Hmm...￥W-well, maybe I'll go."
+  },
+  {
+   "id": "0445:00345",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１０After all, it'd be awful if￥these lovely legs got scarred."
+  },
+  {
+   "id": "0445:0039C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0445:003AC",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１１Oh... how long have￥you been here?"
+  },
+  {
+   "id": "0445:003EB",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１２I should ice it, you say?￥Do you really think so?"
+  },
+  {
+   "id": "0445:0043A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１３Then take me to the￥Medical Room!"
+  },
+  {
+   "id": "0445:00485",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１４That is, if you have any￥consideration at all￥for an injured lady!"
+  },
+  {
+   "id": "0445:004F6",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0445:00506",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１１Oh... how long have￥you been here?"
+  },
+  {
+   "id": "0445:00545",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１２I should ice it, you say?￥Do you really think so?＝＠０９６＿０１３Then take me to the￥Medical Room!"
+  },
+  {
+   "id": "0445:005D2",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１５That is, if you have￥any consideration￥in that heart of yours!"
+  },
+  {
+   "id": "0445:0062F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0445:00643",
+   "end": "818400",
+   "en": "－　Medical Room　－"
+  },
+  {
+   "id": "0445:00674",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１６Huh...＝＠０９６＿０１７You're pretty good￥at first aid!"
+  },
+  {
+   "id": "0445:006D6",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１８Didn't you secretly want to￥be a nurse?"
+  },
+  {
+   "id": "0445:00723.0",
+   "choice": true,
+   "en": "Hope that won't scar."
+  },
+  {
+   "id": "0445:00723.1",
+   "choice": true,
+   "en": "I was worried, you know."
+  },
+  {
+   "id": "0445:00763",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０１９Wouldn't you be better suited￥to being a nurse?＝＠０９６＿０２０Just kidding! Heh,￥I'm only joking."
+  },
+  {
+   "id": "0445:007E6.0",
+   "choice": true,
+   "en": "Hope that won't scar."
+  },
+  {
+   "id": "0445:007E6.1",
+   "choice": true,
+   "en": "I was worried, you know."
+  },
+  {
+   "id": "0445:00829",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０２１W-well,￥you treated it fast...￥so I think it'll be fine."
+  },
+  {
+   "id": "0445:00882",
+   "end": "818400",
+   "en": "＊Riko＊...＝＠０９６＿０２２You mean it?"
+  },
+  {
+   "id": "0445:008BF",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０２３I never thought...￥you'd actually￥come with me."
+  },
+  {
+   "id": "0445:00912",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０２４If it were me, I'd probably￥have just left you there."
+  },
+  {
+   "id": "0445:00959",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０２５I mean, it's a hassle, right?＝＠０９６＿０２６Doing something for someone else￥doesn't get you anything back..."
+  },
+  {
+   "id": "0445:009E0",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０２７And yet...＝＠０９６＿０２８you act all worried￥about me...＝＠０９６＿０２９Why...?"
+  },
+  {
+   "id": "0445:00A73.0",
+   "choice": true,
+   "en": "Anyone would worry."
+  },
+  {
+   "id": "0445:00A73.1",
+   "choice": true,
+   "en": "Not an act. I'm worried."
+  },
+  {
+   "id": "0445:00AB5.0",
+   "choice": true,
+   "en": "Anyone would worry."
+  },
+  {
+   "id": "0445:00AB5.1",
+   "choice": true,
+   "en": "Of course I'm worried."
+  },
+  {
+   "id": "0445:00AF5",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０３０Anyone...?＝＠０９６＿０３１There's nobody who'd ever￥worry about me!"
+  },
+  {
+   "id": "0445:00B5E",
+   "end": "818400",
+   "en": "＊Riko＊＠０９６＿０３２You don't know anything,￥so don't talk like you do!!"
+  },
+  {
+   "id": "0445:00BAE",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿００１Worried...?!"
+  },
+  {
+   "id": "0445:00BDB",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿００２Liar!＝＠０９７＿００３There's nobody who'd ever￥worry about me!"
+  },
+  {
+   "id": "0445:00C46",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿００４People only ever think￥about themselves!＝＠０９７＿００５They only pretend to care,￥or act friendly, when there's￥something in it for them.＝＠０９７＿００６There's not a single person￥who'd worry about me from the￥heart, with nothing to gain."
+  },
+  {
+   "id": "0445:00D3F",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿００７I hate other people.＝＠０９７＿００８Other people are...￥...scary."
+  },
+  {
+   "id": "0445:00DB5.0",
+   "choice": true,
+   "en": "Why do you think that?"
+  },
+  {
+   "id": "0445:00DB5.1",
+   "choice": true,
+   "en": "That's not true."
+  },
+  {
+   "id": "0445:00DE1.0",
+   "choice": true,
+   "en": "Why do you think that?"
+  },
+  {
+   "id": "0445:00DE1.1",
+   "choice": true,
+   "en": "That's not true."
+  },
+  {
+   "id": "0445:00E0F",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿００９What else can I do?!￥That's just the world￥I grew up in!"
+  },
+  {
+   "id": "0445:00E6C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１０If you were in my shoes,￥you'd feel exactly the same!"
+  },
+  {
+   "id": "0445:00EC8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１１You'd never understand!"
+  },
+  {
+   "id": "0445:00F01",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１２Not you, always surrounded by￥friends, living all snug where￥you never had to doubt anyone!"
+  },
+  {
+   "id": "0445:00F70",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１３People get so blinded by whether￥you're from a good family, or if￥your parents are famous."
+  },
+  {
+   "id": "0445:00FE1",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１４And I've never once gotten￥anything good out of it..."
+  },
+  {
+   "id": "0445:01036",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１５If people judge my worth by my￥family name alone, then what￥am I supposed to do?!"
+  },
+  {
+   "id": "0445:010AB",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１６It's the same with the￥candidates here."
+  },
+  {
+   "id": "0445:010E8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１７Even an old...￥friend I was really close to￥turned out that way..."
+  },
+  {
+   "id": "0445:0114E.0",
+   "choice": true,
+   "en": "Then don't be like them."
+  },
+  {
+   "id": "0445:0114E.1",
+   "choice": true,
+   "en": "Not everyone's the same."
+  },
+  {
+   "id": "0445:01192.0",
+   "choice": true,
+   "en": "Then don't be like them."
+  },
+  {
+   "id": "0445:01192.1",
+   "choice": true,
+   "en": "Not everyone's the same."
+  },
+  {
+   "id": "0445:011D8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１８Don't make it sound so easy.￥So what, are you saying you're￥not like everyone else?"
+  },
+  {
+   "id": "0445:0124A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０１９You think so...?＝＠０９７＿０２０I just don't know what to￥do anymore..."
+  },
+  {
+   "id": "0445:012B8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０２１I've said too much to you.＝＠０９７＿０２２Forget everything I said,￥right here and now!"
+  },
+  {
+   "id": "0445:0132D",
+   "end": "818400",
+   "en": "＊Riko＊＠０９７＿０２３If you tell anyone,￥you're going to pay!"
+  }
+ ]
+}

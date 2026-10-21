@@ -1,0 +1,226 @@
+{
+ "entry": 478,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0478:0001F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００３How are you feeling, Cousin?￥You really scared me..."
+  },
+  {
+   "id": "0478:00074",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００４You're the type who overdoes it￥even on a good day, Cousin.＝＠１３７＿００５You've gotta look after your￥health, okay?"
+  },
+  {
+   "id": "0478:00107",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００６Is there anything you want?￥Something you'd like to eat?"
+  },
+  {
+   "id": "0478:00156",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００７You don't have to hold back with￥me, okay?"
+  },
+  {
+   "id": "0478:001A5.0",
+   "choice": true,
+   "en": "Thanks, Kaname."
+  },
+  {
+   "id": "0478:001A5.1",
+   "choice": true,
+   "en": "You're family. I won't."
+  },
+  {
+   "id": "0478:001DB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００８G-geez...￥If you thank me so formally,￥I'll get embarrassed!"
+  },
+  {
+   "id": "0478:0023E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００９I just wanted to be￥useful to you, Cousin,￥that's all..."
+  },
+  {
+   "id": "0478:0029C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１０That's right!＝＠１３７＿０１１When we were little, we even￥took baths together."
+  },
+  {
+   "id": "0478:00317",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１２We're basically brother and￥sister. So... at least with me,￥don't put on a brave face, okay?"
+  },
+  {
+   "id": "0478:0038E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１４You know, Cousin... the human￥body is more fragile than you'd￥think."
+  },
+  {
+   "id": "0478:003E5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１５You don't really notice it￥when you're healthy, but..."
+  },
+  {
+   "id": "0478:00434",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１６So today, forget about training￥and rest up, even just a little."
+  },
+  {
+   "id": "0478:00495.0",
+   "choice": true,
+   "en": "Yeah, that's the plan."
+  },
+  {
+   "id": "0478:00495.1",
+   "choice": true,
+   "en": "I can't afford to rest."
+  },
+  {
+   "id": "0478:004CB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１７You always work way too hard,￥Cousin, so taking a little break￥won't hurt!"
+  },
+  {
+   "id": "0478:0053D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１８What are you saying?￥You just collapsed!"
+  },
+  {
+   "id": "0478:00586",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１９I didn't think you could be￥so childish, Cousin!"
+  },
+  {
+   "id": "0478:005D3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０２０Nobody wants to trust the future￥of humanity to someone who can't￥take care of themselves, right?"
+  },
+  {
+   "id": "0478:00644",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０２１Cousin, right now your job is to￥get better as fast as you can!"
+  },
+  {
+   "id": "0478:00697",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０２２Besides, once you're well, you￥can catch up on anything you￥missed, easy!"
+  },
+  {
+   "id": "0478:006F8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０２３Well, I'll get going... Get some￥good rest, okay, Cousin?"
+  },
+  {
+   "id": "0478:00762",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００３How are you feeling, Cousin?￥You really scared me..."
+  },
+  {
+   "id": "0478:007B7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００４You're the type who overdoes it￥even on a good day, Cousin.＝＠１３７＿００５You've gotta look after your￥health, okay?"
+  },
+  {
+   "id": "0478:0084A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００６Is there anything you want?￥Something you'd like to eat?"
+  },
+  {
+   "id": "0478:00899",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００７You don't have to hold back with￥me, okay?"
+  },
+  {
+   "id": "0478:008E8.0",
+   "choice": true,
+   "en": "Thanks, Kaname."
+  },
+  {
+   "id": "0478:008E8.1",
+   "choice": true,
+   "en": "You're family. I won't."
+  },
+  {
+   "id": "0478:0091E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００８G-geez...￥If you thank me so formally,￥I'll get embarrassed!"
+  },
+  {
+   "id": "0478:00981",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿００９I just wanted to be￥useful to you, Cousin,￥that's all..."
+  },
+  {
+   "id": "0478:009DF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１０That's right!＝＠１３７＿０１１When we were little, we even￥took baths together."
+  },
+  {
+   "id": "0478:00A5A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１３We're practically sisters. So...￥at least with me, don't put on a￥brave face, okay?"
+  },
+  {
+   "id": "0478:00AD1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１４You know, Cousin... the human￥body is more fragile than you'd￥think."
+  },
+  {
+   "id": "0478:00B28",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１５You don't really notice it￥when you're healthy, but..."
+  },
+  {
+   "id": "0478:00B77",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１６So today, forget about training￥and rest up, even just a little."
+  },
+  {
+   "id": "0478:00BD8.0",
+   "choice": true,
+   "en": "Yeah, that's the plan."
+  },
+  {
+   "id": "0478:00BD8.1",
+   "choice": true,
+   "en": "I can't afford to rest."
+  },
+  {
+   "id": "0478:00C0C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１７You always work way too hard,￥Cousin, so taking a little break￥won't hurt!"
+  },
+  {
+   "id": "0478:00C7E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１８What are you saying?￥You just collapsed!"
+  },
+  {
+   "id": "0478:00CC7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０１９I didn't think you could be￥so childish, Cousin!"
+  },
+  {
+   "id": "0478:00D14",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０２０Nobody wants to trust the future￥of humanity to someone who can't￥take care of themselves, right?"
+  },
+  {
+   "id": "0478:00D85",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０２１Cousin, right now your job is to￥get better as fast as you can!"
+  },
+  {
+   "id": "0478:00DD8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０２２Besides, once you're well, you￥can catch up on anything you￥missed, easy!"
+  },
+  {
+   "id": "0478:00E39",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３７＿０２３Well, I'll get going... Get some￥good rest, okay, Cousin?"
+  }
+ ]
+}

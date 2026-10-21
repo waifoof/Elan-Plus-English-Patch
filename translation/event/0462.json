@@ -1,0 +1,141 @@
+{
+ "entry": 462,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0462:0001F",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿００１Helloooo! How's it going?￥Sorry for just barging in!￥What were you up to?"
+  },
+  {
+   "id": "0462:00088",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿００２Your scores last time￥were super good, huh?"
+  },
+  {
+   "id": "0462:000D1",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿００３I was totally shocked!￥That's amazing!"
+  },
+  {
+   "id": "0462:0011E",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿００４Have you been doing some￥kind of secret training?"
+  },
+  {
+   "id": "0462:0016A.0",
+   "choice": true,
+   "en": "Yeah, I've worked hard."
+  },
+  {
+   "id": "0462:0016A.1",
+   "choice": true,
+   "en": "Nope, nothing special."
+  },
+  {
+   "id": "0462:001A4.0",
+   "choice": true,
+   "en": "Yes, I've worked hard."
+  },
+  {
+   "id": "0462:001A4.1",
+   "choice": true,
+   "en": "No, nothing special."
+  },
+  {
+   "id": "0462:001E0",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿００５I knew it!"
+  },
+  {
+   "id": "0462:0020B",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿００６Geez, when did you find￥the time to do all that?!"
+  },
+  {
+   "id": "0462:0025C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿００７Maybe I've been slacking￥off lately.＝＠０２６＿００８All right! From now on,￥I'm gonna get fired up!!"
+  },
+  {
+   "id": "0462:002E2",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿００９Seriously?￥Then that's even￥more amazing!＝＠０２６＿０１０I've gotta work harder!!"
+  },
+  {
+   "id": "0462:00367",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０１１You can't just do the training￥you're good at, you know?"
+  },
+  {
+   "id": "0462:003CC",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０１２That's the tricky part!"
+  },
+  {
+   "id": "0462:00411",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０１３But you're seriously amazing!＝＠０２６＿０１４Everyone here is an expert from￥all over the world, and you￥got past them...＝＠０２６＿０１５That's not easy to do!"
+  },
+  {
+   "id": "0462:004DC",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０１６Really, you should be￥proud of yourself!"
+  },
+  {
+   "id": "0462:0052A.0",
+   "choice": true,
+   "en": "I didn't know that."
+  },
+  {
+   "id": "0462:0052A.1",
+   "choice": true,
+   "en": "Huh, that's impressive."
+  },
+  {
+   "id": "0462:00558.0",
+   "choice": true,
+   "en": "I didn't know that."
+  },
+  {
+   "id": "0462:00558.1",
+   "choice": true,
+   "en": "Huh, that's impressive."
+  },
+  {
+   "id": "0462:00580",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０１７\"Didn't know\"...? Wait, you￥seriously didn't realize?!＝＠０２６＿０１８Unbelievable!＝＠０２６＿０１９No wonder you seemed￥so calm about it!"
+  },
+  {
+   "id": "0462:0063A",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０２０Uh, the impressive one￥is YOU..."
+  },
+  {
+   "id": "0462:00687",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０２１Geez, you're way too laid-back!"
+  },
+  {
+   "id": "0462:006D8",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０２２Huh...?￥Now I can't remember what I￥came here for!"
+  },
+  {
+   "id": "0462:00741",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０２３Oh, right!￥I actually came to￥say congratulations!"
+  },
+  {
+   "id": "0462:0079C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０２４I'm gonna follow your example￥and work even harder!!"
+  },
+  {
+   "id": "0462:007F1",
+   "end": "818400",
+   "en": "＊Amane＊＠０２６＿０２５Well, sorry for bugging you￥on your day off.＝＠０２６＿０２６Let's train together￥sometime!!"
+  }
+ ]
+}

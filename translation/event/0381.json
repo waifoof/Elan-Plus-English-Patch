@@ -1,0 +1,296 @@
+{
+ "entry": 381,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0381:00016",
+   "end": "818400",
+   "en": "－　Indoor Gym　－"
+  },
+  {
+   "id": "0381:00033",
+   "end": "818400",
+   "en": "＊Amane＊＠０３７＿０１Oh!! Hey, hey, you!￥Did you hear yet?＝＠０３７＿０２Eiji collapsed!"
+  },
+  {
+   "id": "0381:000AF.0",
+   "choice": true,
+   "en": "Eiji collapsed?"
+  },
+  {
+   "id": "0381:000AF.1",
+   "choice": true,
+   "en": "That's a surprise."
+  },
+  {
+   "id": "0381:000DB.0",
+   "choice": true,
+   "en": "Eiji collapsed?"
+  },
+  {
+   "id": "0381:000DB.1",
+   "choice": true,
+   "en": "That's a surprise."
+  },
+  {
+   "id": "0381:00109",
+   "end": "818400",
+   "en": "＊Amane＊＠０３７＿０３Yeah, he did!￥I couldn't believe it!"
+  },
+  {
+   "id": "0381:00154",
+   "end": "818400",
+   "en": "＊Amane＊＠０３７＿０４He's in the Medical Room now.￥If you can, you should go￥visit him too."
+  },
+  {
+   "id": "0381:001C4",
+   "end": "818400",
+   "en": "＊Amane＊＠０３７＿０５I know, right?￥But he did seem kind of￥out of sorts, so..."
+  },
+  {
+   "id": "0381:0021D",
+   "end": "818400",
+   "en": "＊Amane＊＠０３７＿０６Oh, I know!￥Why don't you go check on him?＝＠０３７＿０７Eiji's in the￥Medical Room right now!"
+  },
+  {
+   "id": "0381:0029A",
+   "end": "818400",
+   "en": "＊Amane＊＠０３７＿０８I bet seeing you will￥cheer him right up!"
+  },
+  {
+   "id": "0381:002DB",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0381:002F0",
+   "end": "818400",
+   "en": "－　Medical Room　－"
+  },
+  {
+   "id": "0381:00313",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿０９Huh?￥What're you doing here?￥You feeling sick or something?"
+  },
+  {
+   "id": "0381:0036B.0",
+   "choice": true,
+   "en": "You're the sick one."
+  },
+  {
+   "id": "0381:0036B.1",
+   "choice": true,
+   "en": "I heard you collapsed."
+  },
+  {
+   "id": "0381:003A9.0",
+   "choice": true,
+   "en": "You're the sick one."
+  },
+  {
+   "id": "0381:003A9.1",
+   "choice": true,
+   "en": "I heard you collapsed."
+  },
+  {
+   "id": "0381:003F1",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１０Oh, that.￥So you heard too, huh?￥About me keeling over."
+  },
+  {
+   "id": "0381:00448",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１１I'm fine now.￥Man...￥That was so lame of me."
+  },
+  {
+   "id": "0381:004A0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１２Yeah, I'm okay now."
+  },
+  {
+   "id": "0381:004D5",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１３Dropping flat in the middle￥of training like that.￥So lame."
+  },
+  {
+   "id": "0381:00538",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１４I didn't think I was worn down￥enough to pass out.￥Surprised myself, honestly."
+  },
+  {
+   "id": "0381:00597",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１５I had a really awful dream this￥morning, and I figured that's￥why I felt so crummy."
+  },
+  {
+   "id": "0381:00602",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１６I thought if I just kept￥running, I could forget it, but￥it didn't work out that way.＝＠０３７＿１７Why'd I have to dream about￥that now, of all times..."
+  },
+  {
+   "id": "0381:006B8.0",
+   "choice": true,
+   "en": "What kind of dream?"
+  },
+  {
+   "id": "0381:006B8.1",
+   "choice": true,
+   "en": "Dream about what?"
+  },
+  {
+   "id": "0381:006E4.0",
+   "choice": true,
+   "en": "What kind of dream?"
+  },
+  {
+   "id": "0381:006E4.1",
+   "choice": true,
+   "en": "Dream about what?"
+  },
+  {
+   "id": "0381:00710",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１８Oh...￥It was a long time ago, but..."
+  },
+  {
+   "id": "0381:00755",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿１９Eh, why not.￥I guess I can tell you."
+  },
+  {
+   "id": "0381:00799",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿２０Hmm..."
+  },
+  {
+   "id": "0381:007C4",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿２１Eh, why not. It's you.￥Sometimes it helps to get￥stuff off your chest."
+  },
+  {
+   "id": "0381:00830",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿２２Believe it or not, back on￥Sophia I was a pretty well-known￥sprinter."
+  },
+  {
+   "id": "0381:008A7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿２３I'd never lost. Not once.￥No matter who I raced, winning￥was just a given."
+  },
+  {
+   "id": "0381:00912",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0381:00927",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿２４But... at a big track meet six￥months ago, someone passed me￥for the first time...＝＠０３７＿２５The second I realized I was￥running behind someone,￥I got scared...＝＠０３７＿２６And I fell flat on my face.￥It was so... pathetic."
+  },
+  {
+   "id": "0381:00A32",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿２７And now, after all this time,￥I dreamed about it. I thought￥I'd put all that behind me."
+  },
+  {
+   "id": "0381:00AA4.0",
+   "choice": true,
+   "en": "That must've hurt."
+  },
+  {
+   "id": "0381:00AA4.1",
+   "choice": true,
+   "en": "Are you over it now?"
+  },
+  {
+   "id": "0381:00AD8.0",
+   "choice": true,
+   "en": "That must've hurt."
+  },
+  {
+   "id": "0381:00AD8.1",
+   "choice": true,
+   "en": "Are you over it now?"
+  },
+  {
+   "id": "0381:00B0E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿２８Well, yeah."
+  },
+  {
+   "id": "0381:00B3B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３７＿２９But looking back, maybe it was￥a good thing it happened.＝＠０３７＿３０It made me realize I'd gotten￥way too full of myself."
+  },
+  {
+   "id": "0381:00BDB",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３８＿０１Yeah, kinda..."
+  },
+  {
+   "id": "0381:00C0A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３８＿０２Thanks to that race, I￥realized I'd gotten way too￥full of myself."
+  },
+  {
+   "id": "0381:00C6B",
+   "end": "818400",
+   "en": "＊Eiji＊...＝＠０３８＿０３Right after that race, I heard￥I'd been picked as a candidate.￥I thought it was a joke.＝＠０３８＿０４Me, the guy who lost, making￥the cut?"
+  },
+  {
+   "id": "0381:00D33.0",
+   "choice": true,
+   "en": "Good thing you got in."
+  },
+  {
+   "id": "0381:00D33.1",
+   "choice": true,
+   "en": "It was just one loss!"
+  },
+  {
+   "id": "0381:00D6B.0",
+   "choice": true,
+   "en": "Good thing you got in."
+  },
+  {
+   "id": "0381:00D6B.1",
+   "choice": true,
+   "en": "It was just one loss!"
+  },
+  {
+   "id": "0381:00DA5",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３８＿０５Yeah.￥I'm really glad I made it here."
+  },
+  {
+   "id": "0381:00DF7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３８＿０６You're right.￥Everybody loses sometimes, huh."
+  },
+  {
+   "id": "0381:00E52",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３８＿０７It was a shock back then, but￥in the end... I just can't￥give up running.＝＠０３８＿０８It's too much fun."
+  },
+  {
+   "id": "0381:00EDD",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３８＿０９Y'know, I feel better now￥that I've talked about it."
+  },
+  {
+   "id": "0381:00F24",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３８＿１０Thanks for listening!"
+  },
+  {
+   "id": "0381:00F5D",
+   "end": "818400",
+   "en": "＊Eiji＊＠０３８＿１１Guess I'd better head back￥to my room.＝＠０３８＿１２See you at training!"
+  },
+  {
+   "id": "0381:00FCE",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

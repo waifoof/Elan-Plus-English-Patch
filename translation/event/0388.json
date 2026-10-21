@@ -1,0 +1,391 @@
+{
+ "entry": 388,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0388:0001C",
+   "end": "818400",
+   "en": "－　Corridor　－＝－　Kairi looks for something　－"
+  },
+  {
+   "id": "0388:00055",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿００１It's not here...￥Where could I have dropped it..."
+  },
+  {
+   "id": "0388:000A2",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿００２Ah, it's you... Have you seen￥a disk with Earth hologram￥data anywhere?"
+  },
+  {
+   "id": "0388:00111",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿００３I took it to the Archives, but￥where did I put it after that..."
+  },
+  {
+   "id": "0388:00171.0",
+   "choice": true,
+   "en": "You don't know where?"
+  },
+  {
+   "id": "0388:00171.1",
+   "choice": true,
+   "en": "Sorry, no idea."
+  },
+  {
+   "id": "0388:001A7.0",
+   "choice": true,
+   "en": "You don't know where?"
+  },
+  {
+   "id": "0388:001A7.1",
+   "choice": true,
+   "en": "Sorry, haven't seen it."
+  },
+  {
+   "id": "0388:001E5",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿００４I'm afraid not..."
+  },
+  {
+   "id": "0388:00213",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿００５I see..."
+  },
+  {
+   "id": "0388:00240",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿００６I've searched all over...＝＠０５８＿００７I suppose I shouldn't have￥brought it all the way to this￥station."
+  },
+  {
+   "id": "0388:002C1",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿００８It's my own fault for losing it,￥and what's lost is lost.￥Nothing to be done..."
+  },
+  {
+   "id": "0388:0032C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿００９I suppose I'll have to give up."
+  },
+  {
+   "id": "0388:0035A.0",
+   "choice": true,
+   "en": "Giving up that easily?"
+  },
+  {
+   "id": "0388:0035A.1",
+   "choice": true,
+   "en": "Isn't it important?"
+  },
+  {
+   "id": "0388:00390.0",
+   "choice": true,
+   "en": "You'll just give up?"
+  },
+  {
+   "id": "0388:00390.1",
+   "choice": true,
+   "en": "Isn't it important?"
+  },
+  {
+   "id": "0388:003CC",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿０１０It's not that I want to￥give up..."
+  },
+  {
+   "id": "0388:0040A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿０１１Huh...?＝＠０５８＿０１２Well, yes, it is, but..."
+  },
+  {
+   "id": "0388:0045D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿０１３But if I can't find it,￥there's nothing I can do..."
+  },
+  {
+   "id": "0388:004AD.0",
+   "choice": true,
+   "en": "Let's split up and look."
+  },
+  {
+   "id": "0388:004AD.1",
+   "choice": true,
+   "en": "I'll help. Don't quit!"
+  },
+  {
+   "id": "0388:004EB.0",
+   "choice": true,
+   "en": "Let's split up and look."
+  },
+  {
+   "id": "0388:004EB.1",
+   "choice": true,
+   "en": "I'll help. Don't quit!"
+  },
+  {
+   "id": "0388:00533",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿０１４Huh?＝＠０５８＿０１５Ah, hey!"
+  },
+  {
+   "id": "0388:00576",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:0057F",
+   "end": "818400",
+   "en": "＊＊－　； dashes off to find￥　　　　the hologram data　－"
+  },
+  {
+   "id": "0388:005C7",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿０１６...Gone, just like that."
+  },
+  {
+   "id": "0388:005FC",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:0060A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿０１７Huh? You'd help...?＝＠０５８＿０１８Ah, hey!"
+  },
+  {
+   "id": "0388:00659",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:00662",
+   "end": "818400",
+   "en": "＊＊－　； dashes off to find￥　　　　the hologram data　－"
+  },
+  {
+   "id": "0388:006AA",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５８＿０１９...Gone, just like that."
+  },
+  {
+   "id": "0388:006DF",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:006F2",
+   "end": "818400",
+   "en": "－　Archives　－＝－　Tomoe is here　－"
+  },
+  {
+   "id": "0388:0071D",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０５８＿０２０Huh? A hologram￥data disk...?＝＠０５８＿０２１No, I haven't seen one...＝＠０５８＿０２２Um, well... I think it might￥be a good idea to ask one￥of the supervisors."
+  },
+  {
+   "id": "0388:007F0",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:00807",
+   "end": "818400",
+   "en": "－　Common Floor　－＝－　Sakaki is here　－"
+  },
+  {
+   "id": "0388:0083A",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０５８＿０２３Oh, do you mean this disk?＝＠０５８＿０２４It was left in the terminal in￥the Archives, so I took it out."
+  },
+  {
+   "id": "0388:008D5",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０５８＿０２５Then give it back to him, and￥tell him not to forget it again."
+  },
+  {
+   "id": "0388:00930",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:00947",
+   "end": "818400",
+   "en": "－　Corridor　－＝－　； returns to Kairi　－"
+  },
+  {
+   "id": "0388:0097E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿００１Where did you go?￥You ran off so suddenly..."
+  },
+  {
+   "id": "0388:009D3",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:009E6",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿００２Huh? ...You found it?"
+  },
+  {
+   "id": "0388:00A23",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿００３After all that searching, and I￥couldn't find it...＝...＝＠０５９＿００４Even I had already given up.￥Why go so far for something that￥has nothing to do with you?"
+  },
+  {
+   "id": "0388:00AD7.0",
+   "choice": true,
+   "en": "But it matters to you."
+  },
+  {
+   "id": "0388:00AD7.1",
+   "choice": true,
+   "en": "Was I a bother?"
+  },
+  {
+   "id": "0388:00B09.0",
+   "choice": true,
+   "en": "But it matters to you."
+  },
+  {
+   "id": "0388:00B09.1",
+   "choice": true,
+   "en": "Was I a bother...?"
+  },
+  {
+   "id": "0388:00B3F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿００５Yes, it does...＝＠０５９＿００６Come to think of it, you've￥seen this hologram before."
+  },
+  {
+   "id": "0388:00BBB",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿００７You looked because it's￥important to me?"
+  },
+  {
+   "id": "0388:00BFA",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:00C06",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿００８No, not at all.￥I'm just surprised."
+  },
+  {
+   "id": "0388:00C56",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿００９It's not even yours, and yet￥you went to the trouble of￥looking for it..."
+  },
+  {
+   "id": "0388:00CAB",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0388:00CB6",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０１０This hologram data is the￥original. I never made a copy."
+  },
+  {
+   "id": "0388:00D25",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０１１If I'd lost it, it would have￥set my research back."
+  },
+  {
+   "id": "0388:00D84",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０１２And also...＝＠０５９＿０１３Losing it made me realize how￥important this hologram￥was to me..."
+  },
+  {
+   "id": "0388:00E02",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０１４Thanks. You saved me."
+  },
+  {
+   "id": "0388:00E2F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０１５But I'm impressed you found it.￥I searched pretty hard myself...＝＠０５９＿０１６How on earth did you find it?"
+  },
+  {
+   "id": "0388:00EBF.0",
+   "choice": true,
+   "en": "I asked a supervisor."
+  },
+  {
+   "id": "0388:00EBF.1",
+   "choice": true,
+   "en": "I asked around."
+  },
+  {
+   "id": "0388:00EF5.0",
+   "choice": true,
+   "en": "I asked a supervisor."
+  },
+  {
+   "id": "0388:00EF5.1",
+   "choice": true,
+   "en": "I asked around."
+  },
+  {
+   "id": "0388:00F2B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０１７I see...＝＠０５９＿０１８It's true, it never occurred to￥me to make use of other people."
+  },
+  {
+   "id": "0388:00FA5",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０１９I see...＝＠０５９＿０２０It's true, it never occurred to￥me to make use of other people."
+  },
+  {
+   "id": "0388:0101E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０２１I see... If you use people well,￥you can gain quite a lot￥for yourself..."
+  },
+  {
+   "id": "0388:01088.0",
+   "choice": true,
+   "en": "It's not about gain."
+  },
+  {
+   "id": "0388:01088.1",
+   "choice": true,
+   "en": "People aren't tools!"
+  },
+  {
+   "id": "0388:010C2.0",
+   "choice": true,
+   "en": "It's not about gain."
+  },
+  {
+   "id": "0388:010C2.1",
+   "choice": true,
+   "en": "Don't think that way!"
+  },
+  {
+   "id": "0388:01100",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０２２Isn't that what you gain from￥getting involved with people?"
+  },
+  {
+   "id": "0388:01162",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０２３But isn't that what's good about￥getting involved with people?"
+  },
+  {
+   "id": "0388:011C7",
+   "end": "818400",
+   "en": "＊Kairi＊...＝＠０５９＿０２４Is there something good in it,￥besides making use of them...?＝＠０５９＿０２５And what would that be...?"
+  },
+  {
+   "id": "0388:0124A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０２６I don't quite understand. But￥since it's you saying it...＝＠０５９＿０２７I'll think about it more."
+  },
+  {
+   "id": "0388:012BD",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

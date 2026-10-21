@@ -1,0 +1,306 @@
+{
+ "entry": 424,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0424:00015",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0424:00029",
+   "end": "818400",
+   "en": "－　Voices from the Comm Room　－"
+  },
+  {
+   "id": "0424:0004E",
+   "end": "818400",
+   "en": "＊Command＊＠１５２＿０１８Make sure everything is in place￥so the candidates can train￥efficiently every day."
+  },
+  {
+   "id": "0424:000C7",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０１９Yes. I'll do my best."
+  },
+  {
+   "id": "0424:000FA",
+   "end": "818400",
+   "en": "＊Command＊＠１５２＿０２０They carry the future of￥all humanity on their￥shoulders, after all..."
+  },
+  {
+   "id": "0424:00163",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０２１Command sure is diligent...＝＠１５２＿０２２Now that these calls￥come in so often...＝＠１５２＿０２３I think I get the pressure the￥candidates are under.＝＠１５２＿０２４It's hard on those kids, too..."
+  },
+  {
+   "id": "0424:00246",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０２５Huh?￥Oh, h-how long have you￥been there?＝＠１５２＿０２６Don't tell me... you heard￥all that just now...?"
+  },
+  {
+   "id": "0424:002D2.0",
+   "choice": true,
+   "en": "Sorry, I overheard."
+  },
+  {
+   "id": "0424:002D2.1",
+   "choice": true,
+   "en": "I heard nothing at all!"
+  },
+  {
+   "id": "0424:00316.0",
+   "choice": true,
+   "en": "Sorry, I overheard."
+  },
+  {
+   "id": "0424:00316.1",
+   "choice": true,
+   "en": "I heard nothing at all!"
+  },
+  {
+   "id": "0424:0035D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０２７I knew it...￥Eavesdropping isn't nice."
+  },
+  {
+   "id": "0424:003AB",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０２８I see... Lying isn't good.＝＠１５２＿０２９If you overheard, I'd rather￥you just be honest about it."
+  },
+  {
+   "id": "0424:0042A",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５２＿０３０Go back to your room for today."
+  },
+  {
+   "id": "0424:00471",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００１Lately, Command has been￥contacting us supervisors￥very often."
+  },
+  {
+   "id": "0424:004CC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００２And every time, I can see￥the responsibility and hopes￥they've placed on you all..."
+  },
+  {
+   "id": "0424:00533",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００３It worries me."
+  },
+  {
+   "id": "0424:00562",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００４I wonder if all those voices￥are weighing on you all..."
+  },
+  {
+   "id": "0424:005C0.0",
+   "choice": true,
+   "en": "I like being counted on."
+  },
+  {
+   "id": "0424:005C0.1",
+   "choice": true,
+   "en": "I do feel the pressure."
+  },
+  {
+   "id": "0424:00600.0",
+   "choice": true,
+   "en": "Expectations drive me."
+  },
+  {
+   "id": "0424:00600.1",
+   "choice": true,
+   "en": "I do feel the pressure."
+  },
+  {
+   "id": "0424:00642",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００５I see. That's certainly one way￥to look at it."
+  },
+  {
+   "id": "0424:00697",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００６It seems I was trying to fit￥all of you into my own way￥of thinking."
+  },
+  {
+   "id": "0424:00705",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００７I'm sorry for burdening you￥with all this..."
+  },
+  {
+   "id": "0424:00755.0",
+   "choice": true,
+   "en": "Don't worry about it."
+  },
+  {
+   "id": "0424:00755.1",
+   "choice": true,
+   "en": "Ease up on us a little."
+  },
+  {
+   "id": "0424:00789.0",
+   "choice": true,
+   "en": "It's okay, don't worry."
+  },
+  {
+   "id": "0424:00789.1",
+   "choice": true,
+   "en": "Ease up on us a little."
+  },
+  {
+   "id": "0424:007C5",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００８Thank you.￥Hearing that takes a load off."
+  },
+  {
+   "id": "0424:00817",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿００９I'm sorry we're falling short..."
+  },
+  {
+   "id": "0424:00862",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０１０But you also need to get￥stronger yourself.＝＠１５３＿０１１Once you qualify, you'll face￥even more mental and physical￥pressure."
+  },
+  {
+   "id": "0424:00903",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０１２In the end,￥you'll have to overcome￥all of it...＝＠１５３＿０１３So stay strong!"
+  },
+  {
+   "id": "0424:00988",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０１４Truth is, I've always dreamed￥of going to Elan myself.＝＠１５３＿０１５So watching all the candidates,￥I was a little envious."
+  },
+  {
+   "id": "0424:00A21",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０１６But you know...＝＠１５３＿０１７Bit by bit, I've come to see how￥heavy those hopes are, and how￥scary an unknown planet is..."
+  },
+  {
+   "id": "0424:00AB1.0",
+   "choice": true,
+   "en": "How do you feel now?"
+  },
+  {
+   "id": "0424:00AB1.1",
+   "choice": true,
+   "en": "Glad you weren't chosen?"
+  },
+  {
+   "id": "0424:00AF9.0",
+   "choice": true,
+   "en": "How do you feel now?"
+  },
+  {
+   "id": "0424:00AF9.1",
+   "choice": true,
+   "en": "Glad you weren't chosen?"
+  },
+  {
+   "id": "0424:00B43",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０１８Well... let me see...＝＠１５３＿０１９The more I learned about that￥unknown planet, and going there,￥the more \"fear\" I felt."
+  },
+  {
+   "id": "0424:00BE5",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０２０Maybe so."
+  },
+  {
+   "id": "0424:00C1C",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０２１But hearing it from a candidate￥doesn't feel very nice."
+  },
+  {
+   "id": "0424:00C79",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０２２I had my own reasons for￥changing my mind.＝＠１５３＿０２３Well, I'll get back to work."
+  },
+  {
+   "id": "0424:00CFA",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０２４What about you?￥Don't you ever feel￥that kind of \"fear\"?"
+  },
+  {
+   "id": "0424:00D5A.0",
+   "choice": true,
+   "en": "I'm really scared."
+  },
+  {
+   "id": "0424:00D5A.1",
+   "choice": true,
+   "en": "My curiosity wins out."
+  },
+  {
+   "id": "0424:00D8C.0",
+   "choice": true,
+   "en": "I'm really scared."
+  },
+  {
+   "id": "0424:00D8C.1",
+   "choice": true,
+   "en": "My curiosity wins out."
+  },
+  {
+   "id": "0424:00DC0",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０２５Silly question, huh? Somehow you￥don't look worried at all!"
+  },
+  {
+   "id": "0424:00E1E",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０２６You're fearless, aren't you?￥That's refreshing!＝＠１５３＿０２７Seems I worried for nothing."
+  },
+  {
+   "id": "0424:00E9D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０２８You can bounce back from￥any pressure, I'm sure."
+  },
+  {
+   "id": "0424:00EEB.0",
+   "choice": true,
+   "en": "Yes, leave it to me!"
+  },
+  {
+   "id": "0424:00EEB.1",
+   "choice": true,
+   "en": "That's asking a lot..."
+  },
+  {
+   "id": "0424:00F21.0",
+   "choice": true,
+   "en": "Yes, leave it to me!"
+  },
+  {
+   "id": "0424:00F21.1",
+   "choice": true,
+   "en": "That's way too much..."
+  },
+  {
+   "id": "0424:00F64",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０２９Really?!"
+  },
+  {
+   "id": "0424:00F91",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５３＿０３０Just kidding!"
+  },
+  {
+   "id": "0424:00FBE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿００１Talking with you has somehow￥cheered me up.＝＠１５４＿００２It's like you shared some of￥your energy with me."
+  },
+  {
+   "id": "0424:01049",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿００３Oh, I've been chatting too long.￥And I'm still on the clock.￥See you!"
+  },
+  {
+   "id": "0424:010AE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１５４＿００４Oh, and from now on,￥no more eavesdropping."
+  }
+ ]
+}

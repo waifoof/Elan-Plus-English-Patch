@@ -1,0 +1,321 @@
+{
+ "entry": 393,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0393:00016",
+   "end": "818400",
+   "en": "－　Outside the Comm Center　－"
+  },
+  {
+   "id": "0393:00033",
+   "end": "818400",
+   "en": "－　Narusawa's voice comes from￥　　inside the Comm Center　－"
+  },
+  {
+   "id": "0393:00076",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０１３Really? You passed!＝＠１４５＿０１４That job's pretty tough, but￥give it your all!＝＠１４５＿０１５Take care!!"
+  },
+  {
+   "id": "0393:00113",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０１６I see...￥So he's all grown up now..."
+  },
+  {
+   "id": "0393:00162",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０１７Oh! You... How long have you￥been standing there...＝＠１４５＿０１８Don't tell me you heard that?"
+  },
+  {
+   "id": "0393:001D8.0",
+   "choice": true,
+   "en": "Sorry, just a little..."
+  },
+  {
+   "id": "0393:001D8.1",
+   "choice": true,
+   "en": "Not a thing! Not a word!"
+  },
+  {
+   "id": "0393:0021A.0",
+   "choice": true,
+   "en": "Sorry, just a little..."
+  },
+  {
+   "id": "0393:0021A.1",
+   "choice": true,
+   "en": "Not a thing! Not a word!"
+  },
+  {
+   "id": "0393:0025E",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０１９I-I see... This is awkward..."
+  },
+  {
+   "id": "0393:002A8",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０２０You didn't?!￥...Well, good, then."
+  },
+  {
+   "id": "0393:002EB",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０２１You're done with today's￥training, aren't you?"
+  },
+  {
+   "id": "0393:00342",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０２２Then quit wandering around and￥get back to your room."
+  },
+  {
+   "id": "0393:0039B",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０２３I hardly ever get calls out￥here, but...＝＠１４５＿０２４Seems my kid brother passed the￥space traffic controller exam."
+  },
+  {
+   "id": "0393:0043E",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０２５For once, he was the one who￥called me."
+  },
+  {
+   "id": "0393:0048B",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０２６Lucky I finished work early￥today. Normally I'd still be on￥the job at this hour."
+  },
+  {
+   "id": "0393:004FA",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０２７He ought to know there's a time￥and place for calls like that..."
+  },
+  {
+   "id": "0393:00550.0",
+   "choice": true,
+   "en": "He shouldn't call, huh?"
+  },
+  {
+   "id": "0393:00550.1",
+   "choice": true,
+   "en": "You look happy, though."
+  },
+  {
+   "id": "0393:00598.0",
+   "choice": true,
+   "en": "He shouldn't call, huh?"
+  },
+  {
+   "id": "0393:00598.1",
+   "choice": true,
+   "en": "You seem happy, though."
+  },
+  {
+   "id": "0393:005EA",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０２８Right. I'll have to talk to him.＝＠１４５＿０２９Now, you should head back to￥your room and get some rest."
+  },
+  {
+   "id": "0393:0066F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０３０Huh! Ah..."
+  },
+  {
+   "id": "0393:006A2",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４５＿０３１Can you tell?＝＠１４５＿０３２Well... I'd been worried about￥him for a long time..."
+  },
+  {
+   "id": "0393:00714",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿００１My brother wanted the same job￥I used to do."
+  },
+  {
+   "id": "0393:0076D",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿００２I talked about my work so often,￥I guess he got interested."
+  },
+  {
+   "id": "0393:007D3.0",
+   "choice": true,
+   "en": "You two must be close."
+  },
+  {
+   "id": "0393:007D3.1",
+   "choice": true,
+   "en": "What kind of job is it?"
+  },
+  {
+   "id": "0393:00807.0",
+   "choice": true,
+   "en": "You must be very close."
+  },
+  {
+   "id": "0393:00807.1",
+   "choice": true,
+   "en": "What kind of job is it?"
+  },
+  {
+   "id": "0393:00841",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿００３I suppose we are.＝＠１４６＿００４He's the youngest. We're about￥seven years apart, so I was the￥one who looked after him.＝＠１４６＿００５He was never very dependable, so￥I was always fussing over him￥one way or another."
+  },
+  {
+   "id": "0393:00925.0",
+   "choice": true,
+   "en": "What a good big brother."
+  },
+  {
+   "id": "0393:00925.1",
+   "choice": true,
+   "en": "Got a bro complex?"
+  },
+  {
+   "id": "0393:0095F.0",
+   "choice": true,
+   "en": "What a good big brother."
+  },
+  {
+   "id": "0393:0095F.1",
+   "choice": true,
+   "en": "Got a bro complex?"
+  },
+  {
+   "id": "0393:0099B",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿００６You think? To me it was just￥normal, so I never really￥thought about it."
+  },
+  {
+   "id": "0393:00A0C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿００７Still, he's really grown up.＝＠１４６＿００８To think he'll be doing the same￥work I used to do..."
+  },
+  {
+   "id": "0393:00AA0",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿００９A what...?￥Don't go abbreviating things!"
+  },
+  {
+   "id": "0393:00AEB",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０１０Anyway, I ended up talking way￥too long today.＝＠１４６＿０１１I need to get back to work. You￥should head back too, and rest￥up for tomorrow."
+  },
+  {
+   "id": "0393:00BA0",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０１２It's at Sophia's Space Traffic￥Control Center. They manage the￥Gates around Sophia.＝＠１４６＿０１３They also track space debris,￥meteorite movements and so on...＝＠１４６＿０１４It's important work. It keeps￥the shuttles' Gate transits￥safe, and Sophia too."
+  },
+  {
+   "id": "0393:00CB7",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０１５It's pretty demanding, but he's￥a hard worker. He'll manage."
+  },
+  {
+   "id": "0393:00D24",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０１６It's my middle brother who's the￥problem... Not that worrying￥about it does me any good...＝＠１４６＿０１７Wonder who he takes after..."
+  },
+  {
+   "id": "0393:00DB9",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０１８He's irresponsible, he gets￥carried away, and he's always￥reckless..."
+  },
+  {
+   "id": "0393:00E12",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０１９He just drifts around from one￥odd job to another."
+  },
+  {
+   "id": "0393:00E69",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０２０Honestly, what a headache..."
+  },
+  {
+   "id": "0393:00EA9.0",
+   "choice": true,
+   "en": "You sound like a dad."
+  },
+  {
+   "id": "0393:00EA9.1",
+   "choice": true,
+   "en": "Lots of brothers, then?"
+  },
+  {
+   "id": "0393:00EE1.0",
+   "choice": true,
+   "en": "You sound like a dad."
+  },
+  {
+   "id": "0393:00EE1.1",
+   "choice": true,
+   "en": "Lots of brothers, then?"
+  },
+  {
+   "id": "0393:00F1B",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０２１We're far apart in age, and I'm￥the eldest.＝＠１４６＿０２２I suppose from the outside it￥might look that way."
+  },
+  {
+   "id": "0393:00FA9",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０２３Yeah, there are three of us.￥Pretty rare, huh?!＝＠１４６＿０２４These days there are even fewer￥kids than in my generation."
+  },
+  {
+   "id": "0393:0103A",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０２５With lots of siblings, it's￥noisy every single day!"
+  },
+  {
+   "id": "0393:01088.0",
+   "choice": true,
+   "en": "Sounds fun."
+  },
+  {
+   "id": "0393:01088.1",
+   "choice": true,
+   "en": "Sounds noisy."
+  },
+  {
+   "id": "0393:010AE.0",
+   "choice": true,
+   "en": "Sounds fun."
+  },
+  {
+   "id": "0393:010AE.1",
+   "choice": true,
+   "en": "Sounds noisy."
+  },
+  {
+   "id": "0393:010D6",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０２６Well, having lots of siblings￥has its ups and downs."
+  },
+  {
+   "id": "0393:01124",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０２７That's true. Still, that can be￥kind of fun too..."
+  },
+  {
+   "id": "0393:0117D",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０２８You probably wouldn't get that."
+  },
+  {
+   "id": "0393:011C4",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４６＿０２９Now then, off to your room.＝＠１４６＿０３０Don't go hanging around the￥facility too late."
+  },
+  {
+   "id": "0393:01257",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿００１Ah, look at that. I got to￥talking too long again."
+  },
+  {
+   "id": "0393:012A9",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿００２Somehow, whenever I talk with￥you, I end up saying too much."
+  },
+  {
+   "id": "0393:012FE",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１４７＿００３Get some rest for tomorrow."
+  }
+ ]
+}

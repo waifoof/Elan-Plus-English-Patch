@@ -1,0 +1,46 @@
+{
+ "module": "OUTPUT:0925",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "OUTPUT_0925:00004",
+   "max": 102,
+   "en": "＊Kaname＊I'd love to talk more, Cousin,￥but we can't do that forever.￥So, let's start training!＞"
+  },
+  {
+   "id": "OUTPUT_0925:0006C",
+   "max": 104,
+   "en": "＊Kaname＊Seems I've been getting in the￥way of your training, Cousin.￥We really must train now...＞"
+  },
+  {
+   "id": "OUTPUT_0925:000D8",
+   "max": 78,
+   "en": "＊Kaname＊Cousin, this talk is going￥nowhere! We have to￥start training!＞"
+  },
+  {
+   "id": "OUTPUT_0925:00128",
+   "max": 66,
+   "en": "＊Kaname＊Okay, Cousin,￥let's do our best￥and train today!＞"
+  },
+  {
+   "id": "OUTPUT_0925:0016C",
+   "max": 102,
+   "en": "＊Kaname＊I'd love to talk more, Cousin,￥but we can't do that forever.￥So, let's start training!＞"
+  },
+  {
+   "id": "OUTPUT_0925:001D4",
+   "max": 78,
+   "en": "＊Kaname＊Cousin, this talk is going￥nowhere! We have to￥start training!＞"
+  },
+  {
+   "id": "OUTPUT_0925:00224",
+   "max": 78,
+   "en": "＊Kaname＊Cousin, this talk is going￥nowhere! We have to￥start training!＞"
+  },
+  {
+   "id": "OUTPUT_0925:00274",
+   "max": 66,
+   "en": "＊Kaname＊Okay, Cousin,￥let's do our best￥and train today!＞"
+  }
+ ]
+}

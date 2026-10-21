@@ -1,0 +1,376 @@
+{
+ "entry": 447,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0447:00017",
+   "end": "818400",
+   "en": "－　Flight Training Room　－"
+  },
+  {
+   "id": "0447:00032",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１４Hey, hold on a second!"
+  },
+  {
+   "id": "0447:00065",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１５Um, well... There's something I￥want to say..."
+  },
+  {
+   "id": "0447:000AD.0",
+   "choice": true,
+   "en": "You're awfully quiet."
+  },
+  {
+   "id": "0447:000AD.1",
+   "choice": true,
+   "en": "This quiet is creepy."
+  },
+  {
+   "id": "0447:000E9.0",
+   "choice": true,
+   "en": "You're awfully quiet."
+  },
+  {
+   "id": "0447:000E9.1",
+   "choice": true,
+   "en": "This quiet is creepy."
+  },
+  {
+   "id": "0447:00127",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１６\"Awfully\"? What's that supposed￥to mean? That really rubs me￥the wrong way!!"
+  },
+  {
+   "id": "0447:00185",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１７Creepy?! Did you just call￥me creepy?! And here I was..."
+  },
+  {
+   "id": "0447:001D6",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１８Ugh, that's the first time in￥my whole life anyone's ever￥said that to me!"
+  },
+  {
+   "id": "0447:0022F",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０１９You're always saying rude things￥to me, you know that?! You've￥been like this from the start!"
+  },
+  {
+   "id": "0447:0029C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２０And on top of that, you keep￥seeing me at moments I'd rather￥nobody saw..."
+  },
+  {
+   "id": "0447:00305",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２１Aaargh!￥Now I'm getting all worked up!!"
+  },
+  {
+   "id": "0447:00350",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２２You're done training for today,￥aren't you?!"
+  },
+  {
+   "id": "0447:00397",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２３Then you can spare me a little￥of your time!"
+  },
+  {
+   "id": "0447:003DC",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２４That does it. I won't be￥satisfied until we settle￥this once and for all!!"
+  },
+  {
+   "id": "0447:0043B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２５I challenge you!!"
+  },
+  {
+   "id": "0447:00468",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２６Hey...￥What's with that sour face?!"
+  },
+  {
+   "id": "0447:004B8.0",
+   "choice": true,
+   "en": "Fine. You're on."
+  },
+  {
+   "id": "0447:004B8.1",
+   "choice": true,
+   "en": "Nah, too much hassle."
+  },
+  {
+   "id": "0447:004E8.0",
+   "choice": true,
+   "en": "Fine. You're on."
+  },
+  {
+   "id": "0447:004E8.1",
+   "choice": true,
+   "en": "Nah, too much hassle."
+  },
+  {
+   "id": "0447:00520",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２７Hmph!￥With this, my record will top￥100 wins!!"
+  },
+  {
+   "id": "0447:00579",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２８Prepare yourself!!"
+  },
+  {
+   "id": "0447:005AD",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０２９Listen, you! Getting to go up￥against me is a rare chance,￥you know!!"
+  },
+  {
+   "id": "0447:0060C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９９＿０３０If you turn me down, you'll￥regret it for the rest of￥your life!!"
+  },
+  {
+   "id": "0447:00666",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿００１Choosing flight training, my￥best event, might be a little￥unfair..."
+  },
+  {
+   "id": "0447:006DB",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿００２But you're not good at anything,￥so it can't be helped."
+  },
+  {
+   "id": "0447:00731",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿００３All right! Here I come!!"
+  },
+  {
+   "id": "0447:00766",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0447:0077F",
+   "end": "818400",
+   "en": "＊＊－　It's a heated, close match!!　－"
+  },
+  {
+   "id": "0447:007B6",
+   "end": "818400",
+   "en": "＊＊－　...But,＝　　Riko wins by a hair　－"
+  },
+  {
+   "id": "0447:007FD",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿００４I did it!!￥Of course I won!"
+  },
+  {
+   "id": "0447:00845",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿００５Well? Do you finally get￥how good I am?"
+  },
+  {
+   "id": "0447:00895.0",
+   "choice": true,
+   "en": "You're a true expert."
+  },
+  {
+   "id": "0447:00895.1",
+   "choice": true,
+   "en": "No need to brag..."
+  },
+  {
+   "id": "0447:008CF.0",
+   "choice": true,
+   "en": "You're a true expert."
+  },
+  {
+   "id": "0447:008CF.1",
+   "choice": true,
+   "en": "No need to brag..."
+  },
+  {
+   "id": "0447:00909",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿００６Took you long enough! I haven't￥been training since I was three￥for nothing, you know!!"
+  },
+  {
+   "id": "0447:0097B",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿００７Ugh, sulking just because￥you lost.＝＠１００＿００８You shouldn't be such a sore￥loser!"
+  },
+  {
+   "id": "0447:009FE",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿００９But... honestly, for a second￥I thought you'd catch me!"
+  },
+  {
+   "id": "0447:00A51",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０１０You're pretty good, you know!"
+  },
+  {
+   "id": "0447:00A88",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０１１Other than top-ranked active￥pilots, nobody's ever made me￥sweat like that...＝＠１００＿０１２You might be the first!"
+  },
+  {
+   "id": "0447:00B1A.0",
+   "choice": true,
+   "en": "Nah, I'm not that good."
+  },
+  {
+   "id": "0447:00B1A.1",
+   "choice": true,
+   "en": "I'll work harder, then."
+  },
+  {
+   "id": "0447:00B52.0",
+   "choice": true,
+   "en": "No, I'm not that good."
+  },
+  {
+   "id": "0447:00B52.1",
+   "choice": true,
+   "en": "I'll work harder, then."
+  },
+  {
+   "id": "0447:00B8E",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０１３Ugh, false modesty is￥so annoying!"
+  },
+  {
+   "id": "0447:00BC5",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０１４When someone praises you, just￥be happy about it, okay?!＝＠１００＿０１５Honestly..."
+  },
+  {
+   "id": "0447:00C33",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０１６Hey!￥You're a million light-years￥away from beating me!＝＠１００＿０１７Honestly..."
+  },
+  {
+   "id": "0447:00CAC",
+   "end": "818400",
+   "en": "＊Riko＊..."
+  },
+  {
+   "id": "0447:00CC5",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０１８That was a good match...￥And I could tell how seriously￥you take being a candidate!"
+  },
+  {
+   "id": "0447:00D38",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０１９To me, being a candidate was￥just something to brag about."
+  },
+  {
+   "id": "0447:00DA3",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０２０I didn't care at all about what￥would come after we got to￥Elan...＝＠１００＿０２１In that sense... the old me￥didn't even deserve to try to￥qualify."
+  },
+  {
+   "id": "0447:00E5C",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０２２But I think I understand now.＝＠１００＿０２３What an amazing thing it is to￥take the first step onto Elan as￥a representative of humanity."
+  },
+  {
+   "id": "0447:00EF9",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０２４I really, truly want to go now!!"
+  },
+  {
+   "id": "0447:00F4D.0",
+   "choice": true,
+   "en": "That's a good attitude."
+  },
+  {
+   "id": "0447:00F4D.1",
+   "choice": true,
+   "en": "What changed your mind?"
+  },
+  {
+   "id": "0447:00F91.0",
+   "choice": true,
+   "en": "That's a good attitude."
+  },
+  {
+   "id": "0447:00F91.1",
+   "choice": true,
+   "en": "What changed your mind?"
+  },
+  {
+   "id": "0447:00FD3",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０２５Yeah. I'm really glad I realized￥it before the final exam."
+  },
+  {
+   "id": "0447:0102C",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０２６...Wait, why am I getting all￥sentimental with you of all￥people?!"
+  },
+  {
+   "id": "0447:01090",
+   "end": "818400",
+   "en": "＊Riko＊＠１００＿０２７O-oh, be quiet!￥It's not like it's thanks to￥you or anything!!＝＠１００＿０２８What does it matter anyway?!"
+  },
+  {
+   "id": "0447:0111D",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿００１Listen! Just because I praised￥you a teeny bit, don't let it go￥to your head!!"
+  },
+  {
+   "id": "0447:01184",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿００２You've still got a long￥way to go!!＝＠１０１＿００３Your landing timing is off, your￥turning angles are sloppy, your￥speed control is okay, but...＝＠１０１＿００４A-anyway, you've got plenty of￥weak spots!!"
+  },
+  {
+   "id": "0447:01277",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿００５Oh, fine! Starting tomorrow,￥I'll teach you personally!!"
+  },
+  {
+   "id": "0447:012DB.0",
+   "choice": true,
+   "en": "Thanks, that'd help."
+  },
+  {
+   "id": "0447:012DB.1",
+   "choice": true,
+   "en": "Sorry, I'll pass."
+  },
+  {
+   "id": "0447:01311.0",
+   "choice": true,
+   "en": "Thanks, that'd help."
+  },
+  {
+   "id": "0447:01311.1",
+   "choice": true,
+   "en": "Sorry, I'll pass."
+  },
+  {
+   "id": "0447:01347",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿００６Hmph, what a commendable answer!"
+  },
+  {
+   "id": "0447:0138E",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿００７So you really do want to￥go to Elan!"
+  },
+  {
+   "id": "0447:013D8",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿００８There's no need to hold back￥with me!!"
+  },
+  {
+   "id": "0447:01421",
+   "end": "818400",
+   "en": "＊Riko＊＠１０１＿００９But!!￥I'm going to work you hard!￥Prepare yourself!!"
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "entry": 460,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0460:00016",
+   "end": "818400",
+   "en": "－　Hangar　－＝－　Natsuno talks to an engineer　－"
+  },
+  {
+   "id": "0460:0004D",
+   "end": "818400",
+   "en": "＊Engineer＊＠０６９＿００１Why go out of your way to￥recommend an older model?"
+  },
+  {
+   "id": "0460:0009A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿００２I'm not saying the newest￥model is bad or anything.￥It's just..."
+  },
+  {
+   "id": "0460:000F9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿００３With Workers, how used to the￥machine the pilot is makes more￥difference than you'd think."
+  },
+  {
+   "id": "0460:0016E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿００４So I don't think newer is￥always better."
+  },
+  {
+   "id": "0460:001C7",
+   "end": "818400",
+   "en": "＊Engineer＊＠０６９＿００５You may have a point there."
+  },
+  {
+   "id": "0460:00208",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿００６Personally, I think...＝＠０６９＿００７the D-208R is the better choice￥long-term. A good pilot can get￥nearly twice the performance."
+  },
+  {
+   "id": "0460:002B1",
+   "end": "818400",
+   "en": "＊Engineer＊＠０６９＿００８Understood. I'll pass that￥along to my superiors as input￥for the procurement decision."
+  },
+  {
+   "id": "0460:00318",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿００９Great. Thanks so much."
+  },
+  {
+   "id": "0460:00358.0",
+   "choice": true,
+   "en": "What was that about?"
+  },
+  {
+   "id": "0460:00358.1",
+   "choice": true,
+   "en": "Is he an engineer here?"
+  },
+  {
+   "id": "0460:0038A.0",
+   "choice": true,
+   "en": "What was that about?"
+  },
+  {
+   "id": "0460:0038A.1",
+   "choice": true,
+   "en": "Is he an engineer here?"
+  },
+  {
+   "id": "0460:003BC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１０Huh?!￥Oh, it's you!"
+  },
+  {
+   "id": "0460:003EF",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１１We were talking about the￥new Workers they're bringing in."
+  },
+  {
+   "id": "0460:00449",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１２Oh... yeah, that's right.￥We were talking about the new￥Workers they're bringing in."
+  },
+  {
+   "id": "0460:004B4",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１３But it sounds like they still￥haven't decided which model."
+  },
+  {
+   "id": "0460:00509",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１４So I was giving them￥my two cents."
+  },
+  {
+   "id": "0460:00557.0",
+   "choice": true,
+   "en": "You really know a lot!"
+  },
+  {
+   "id": "0460:00557.1",
+   "choice": true,
+   "en": "Leave it to the experts."
+  },
+  {
+   "id": "0460:0058F.0",
+   "choice": true,
+   "en": "You really know a lot!"
+  },
+  {
+   "id": "0460:0058F.1",
+   "choice": true,
+   "en": "Leave it to the experts."
+  },
+  {
+   "id": "0460:005C9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１５You think so?￥When you ride them every day,￥you just pick it up."
+  },
+  {
+   "id": "0460:00626",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１６I love Workers, so somehow I￥never get bored, no matter￥how long I'm in one!"
+  },
+  {
+   "id": "0460:0068C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１７I know, I know. But when it￥comes to Workers, I just can't￥help butting in."
+  },
+  {
+   "id": "0460:006F1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１８You know, I really, really￥love piloting Workers."
+  },
+  {
+   "id": "0460:0073E",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０１９So even during training, I end￥up wandering over to the￥Hangar, but..."
+  },
+  {
+   "id": "0460:007A5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０２０Really, I should work harder￥at the other training too."
+  },
+  {
+   "id": "0460:00807.0",
+   "choice": true,
+   "en": "But I get how you feel."
+  },
+  {
+   "id": "0460:00807.1",
+   "choice": true,
+   "en": "The rest matters too."
+  },
+  {
+   "id": "0460:0083F.0",
+   "choice": true,
+   "en": "But I get how you feel."
+  },
+  {
+   "id": "0460:0083F.1",
+   "choice": true,
+   "en": "The rest matters too."
+  },
+  {
+   "id": "0460:00879",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０２１Oh, really?￥I'm so happy you understand!"
+  },
+  {
+   "id": "0460:008C4",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０２２Hey, I know I can count on you,￥so... can I ask you a favor?"
+  },
+  {
+   "id": "0460:0092A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０２３You're right."
+  },
+  {
+   "id": "0460:00957",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０２４I know that, but...￥here I am again, aren't I?"
+  },
+  {
+   "id": "0460:009A8",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０２５But Workers are something￥special to me."
+  },
+  {
+   "id": "0460:009FE",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０２６My training Worker is a￥custom build, but...＝＠０６９＿０２７no matter how many times they￥adjust the right arm, it never￥feels quite right.＝＠０６９＿０２８So I figured I'd just do it￥myself, but it looks like I￥can't manage it alone."
+  },
+  {
+   "id": "0460:00B23",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０２９If you don't mind,￥could you give me a hand?"
+  },
+  {
+   "id": "0460:00B75.0",
+   "choice": true,
+   "en": "I'll help however I can."
+  },
+  {
+   "id": "0460:00B75.1",
+   "choice": true,
+   "en": "Sounds like a pain."
+  },
+  {
+   "id": "0460:00B9F.0",
+   "choice": true,
+   "en": "I'll help however I can."
+  },
+  {
+   "id": "0460:00B9F.1",
+   "choice": true,
+   "en": "Sounds like a pain."
+  },
+  {
+   "id": "0460:00BC9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０３０Really?￥Thank you!!"
+  },
+  {
+   "id": "0460:00C05",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０３１It's fine! It's fine!!￥It's really easy, I promise!"
+  },
+  {
+   "id": "0460:00C54",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６９＿０３２Please!!"
+  },
+  {
+   "id": "0460:00C82",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿００１Okay, I'll get in the Worker￥and line up the arm mount..."
+  },
+  {
+   "id": "0460:00CE1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿００２When I give the signal, can you￥open up the joint coupling?"
+  },
+  {
+   "id": "0460:00D38",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿００３No need to rush. Thanks!"
+  },
+  {
+   "id": "0460:00D7A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0460:00D96",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿００４Now!!"
+  },
+  {
+   "id": "0460:00DCE",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿００５It's in!＝＠０７０＿００６Okay!!￥Perfect!!"
+  },
+  {
+   "id": "0460:00E33",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿００７Whew. Thanks!"
+  },
+  {
+   "id": "0460:00E64",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿００８Sorry for taking up￥your time!"
+  },
+  {
+   "id": "0460:00EAB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿００９I'd been racking my brain￥trying to figure out how to￥do it by myself..."
+  },
+  {
+   "id": "0460:00F15.0",
+   "choice": true,
+   "en": "You could've just asked."
+  },
+  {
+   "id": "0460:00F15.1",
+   "choice": true,
+   "en": "Teamwork made it quick."
+  },
+  {
+   "id": "0460:00F4B.0",
+   "choice": true,
+   "en": "You could've just asked."
+  },
+  {
+   "id": "0460:00F4B.1",
+   "choice": true,
+   "en": "Teamwork made it quick."
+  },
+  {
+   "id": "0460:00F85",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１０But everyone's probably busy.＝＠０７０＿０１１Besides, around this time,￥people are worn out from￥training..."
+  },
+  {
+   "id": "0460:01018",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１２Listen to me, saying that after￥I just asked you for help!￥What am I even talking about?"
+  },
+  {
+   "id": "0460:0108A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１３I know, right?￥With your help, we got it￥on the first try!!"
+  },
+  {
+   "id": "0460:010E1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１４You know, for someone about my￥sister's age, you're really￥calm and collected."
+  },
+  {
+   "id": "0460:0114A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１５Oh, sorry, I didn't mean it￥in a bad way! I just thought￥you seemed really mature."
+  },
+  {
+   "id": "0460:011BC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１６Thanks so much for today.￥You really helped me out!"
+  },
+  {
+   "id": "0460:01207",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１７If you ever need help￥with anything,￥just come talk to me."
+  },
+  {
+   "id": "0460:0125C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１８If it's Worker-related,￥I might be of some use."
+  },
+  {
+   "id": "0460:012B3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７０＿０１９See you later!"
+  }
+ ]
+}

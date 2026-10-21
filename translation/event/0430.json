@@ -1,0 +1,376 @@
+{
+ "entry": 430,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0430:00023",
+   "end": "818400",
+   "en": "＊＊－　Corridor Outside the Lab　－"
+  },
+  {
+   "id": "0430:00052",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７８＿００１That startled me...￥You heard that noise too, right?"
+  },
+  {
+   "id": "0430:000A1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７８＿００２It came from inside the lab,￥didn't it?"
+  },
+  {
+   "id": "0430:000DF",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７８＿００３Hey, is someone in there?＝＠１７８＿００４Oh..."
+  },
+  {
+   "id": "0430:0012C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0430:00145",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７８＿０２３!!"
+  },
+  {
+   "id": "0430:0016F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0430:00182",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７８＿００５I just went to look, and...＝＠１７８＿００６it looks like Tomoe broke￥the data panel that shows￥the scores."
+  },
+  {
+   "id": "0430:00215.0",
+   "choice": true,
+   "en": "Why would she do that?"
+  },
+  {
+   "id": "0430:00215.1",
+   "choice": true,
+   "en": "She'd never do that..."
+  },
+  {
+   "id": "0430:00253",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７８＿００７Hmm... well, you see.＝＠１７８＿００８Tomoe's results were still up on￥the broken panel. Not really...￥what you'd expect from her.＝＠１７８＿００９She tends to brood over things,￥doesn't she? I've been worried￥about her for a while...＝＠１７８＿０１０For Tomoe of all people to￥take it out on things...￥it must be serious."
+  },
+  {
+   "id": "0430:0039F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７８＿０１１I know. Hard to believe, but...＝＠１７８＿０１２Tomoe's results were still on￥the panel. Bad ones, not like￥her at all.＝＠１７８＿０１３Taking it out on things isn't￥great, but...＝＠１７８＿０１４Failing at her best subject...￥Even I'd be crushed, I bet."
+  },
+  {
+   "id": "0430:004D2",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７８＿０１５I'm glad you were the one here."
+  },
+  {
+   "id": "0430:00513",
+   "end": "818400",
+   "en": "＊Natsuno＊＠１７８＿０１６Hey, please.￥Be there for Tomoe.＝＠１７８＿０１７I think she'd...￥open up to you.＝＠１７８＿０１８I'll clean up here."
+  },
+  {
+   "id": "0430:005CD",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0430:005F7",
+   "end": "818400",
+   "en": "＊＊－　Corridor Outside the Lab　－"
+  },
+  {
+   "id": "0430:00624",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７８＿０１９Wh-what was that?!"
+  },
+  {
+   "id": "0430:00653",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７８＿０２０Oh, Cousin.＝＠１７８＿０２１Did you just hear a weird noise?￥I think it came from the lab..."
+  },
+  {
+   "id": "0430:006CF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７８＿０２２Is somebody in there...?￥Huh? Tomoe?"
+  },
+  {
+   "id": "0430:0071C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0430:00735",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７８＿０２３!!"
+  },
+  {
+   "id": "0430:0075F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0430:00774",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７８＿０２４Hey...￥Did Tomoe look like she was￥crying just now...?"
+  },
+  {
+   "id": "0430:007CD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７８＿０２５Huh?!￥The data panel's broken!!"
+  },
+  {
+   "id": "0430:00812",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７８＿０２６Wait, that noise... No way,￥did Tomoe...?!"
+  },
+  {
+   "id": "0430:0086B.0",
+   "choice": true,
+   "en": "I can't believe it."
+  },
+  {
+   "id": "0430:0086B.1",
+   "choice": true,
+   "en": "Tomoe did this...?"
+  },
+  {
+   "id": "0430:008A3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７８＿０２７Me neither, Cousin.￥But..."
+  },
+  {
+   "id": "0430:008E6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７８＿０２８Tomoe's results are still up￥on the broken panel.＝＠１７８＿０２９They looked... pretty bad.￥And it's her best subject...＝＠１７８＿０３０That's gotta hurt. Even I might￥not bounce back for a while."
+  },
+  {
+   "id": "0430:009E0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７９＿００１Her results... were pretty bad.￥I could see them through the￥broken panel...＝＠１７９＿００２I'm not trying to pity her, but￥it's just too sad..."
+  },
+  {
+   "id": "0430:00A87",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７９＿００３Tomoe always tried so hard￥it almost hurt to watch..."
+  },
+  {
+   "id": "0430:00AEC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７９＿００４Hey... Cousin.￥Let's go cheer Tomoe up.＝＠１７９＿００５I can't just leave her alone."
+  },
+  {
+   "id": "0430:00B69",
+   "end": "818400",
+   "en": "＊Kaname＊＠１７９＿００６Come on, let's do it!＝＠１７９＿００７We should split up and look￥for her...＝＠１７９＿００８Okay, I'll check over this way!!"
+  },
+  {
+   "id": "0430:00C0D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0430:00C1F",
+   "end": "818400",
+   "en": "＊＊－　No sign of Tomoe　－"
+  },
+  {
+   "id": "0430:00C4E",
+   "end": "818400",
+   "en": "＊＊－　Tomoe's not here either　－"
+  },
+  {
+   "id": "0430:00C81",
+   "end": "818400",
+   "en": "＊＊－　Tomoe is in the corridor!　－"
+  },
+  {
+   "id": "0430:00CA7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿００９Leave me alone...!"
+  },
+  {
+   "id": "0430:00CE3",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０１０Just leave me alone!￥I knew I couldn't do it!＝＠１７９＿０１１Someone like me...￥could never go to Elan!＝＠１７９＿０１２I can never do anything right!＝＠１７９＿０１３I can't carry everyone's hopes!＝＠１７９＿０１４No matter how hard you try...￥some dreams never come true!"
+  },
+  {
+   "id": "0430:00E13.0",
+   "choice": true,
+   "en": "Tomoe, calm down!"
+  },
+  {
+   "id": "0430:00E13.1",
+   "choice": true,
+   "en": "Don't talk nonsense!"
+  },
+  {
+   "id": "0430:00E49.0",
+   "choice": true,
+   "en": "Tomoe, calm down!"
+  },
+  {
+   "id": "0430:00E49.1",
+   "choice": true,
+   "en": "Don't talk nonsense!"
+  },
+  {
+   "id": "0430:00E88",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０１５!!"
+  },
+  {
+   "id": "0430:00EAD",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０１６But... I just can't do it...!"
+  },
+  {
+   "id": "0430:00EF6",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０１７I don't deserve...￥to go to Elan."
+  },
+  {
+   "id": "0430:00F47",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０１８Because... because...＝＠１７９＿０１９No matter what I do, I never￥get it right..."
+  },
+  {
+   "id": "0430:00FAE",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０２０I don't deserve...￥to go to Elan."
+  },
+  {
+   "id": "0430:00FFC",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０２１The people who get to go to Elan￥are the ones with real talent￥who can actually use it...＝＠１７９＿０２２Strong people...￥like you."
+  },
+  {
+   "id": "0430:010B1",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０２３I'm just someone who can't do￥anything..."
+  },
+  {
+   "id": "0430:010F0",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０２４There's no way someone like me￥could go to Elan..."
+  },
+  {
+   "id": "0430:0113C.0",
+   "choice": true,
+   "en": "That's not true."
+  },
+  {
+   "id": "0430:0113C.1",
+   "choice": true,
+   "en": "It's just one failure!"
+  },
+  {
+   "id": "0430:0116E.0",
+   "choice": true,
+   "en": "That's not true."
+  },
+  {
+   "id": "0430:0116E.1",
+   "choice": true,
+   "en": "So what? It's one slip."
+  },
+  {
+   "id": "0430:011A6",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０２５How can you say that?￥I... I..."
+  },
+  {
+   "id": "0430:011F7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０２６I was chosen. I came this far￥with everyone counting on me.＝＠１７９＿０２７If I can't go to Elan..."
+  },
+  {
+   "id": "0430:01275",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７９＿０２８Because...! I came all this way￥with everyone counting on me!＝＠１７９＿０２９If I can't go to Elan..."
+  },
+  {
+   "id": "0430:012FB",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿００１I'm... scared of people being￥disappointed in me...＝＠１８０＿００２I really can't do anything...!"
+  },
+  {
+   "id": "0430:0137D.0",
+   "choice": true,
+   "en": "Believe in yourself!"
+  },
+  {
+   "id": "0430:0137D.1",
+   "choice": true,
+   "en": "Don't let fear win."
+  },
+  {
+   "id": "0430:013B3.0",
+   "choice": true,
+   "en": "Believe in yourself."
+  },
+  {
+   "id": "0430:013B3.1",
+   "choice": true,
+   "en": "Don't let fear win."
+  },
+  {
+   "id": "0430:013E8",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿００３Believe...＝＠１８０＿００４in myself...?"
+  },
+  {
+   "id": "0430:01435",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0430:01452",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿００５I see... That's it...＝＠１８０＿００６It's because I... can't believe￥in myself. Not all the way..."
+  },
+  {
+   "id": "0430:014DB",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0430:014F8",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿００７I see... That's it...＝＠１８０＿００８Maybe I... still don't really￥understand my own ability...＝＠１８０＿００９And that's why I get so anxious.＝＠１８０＿０１０Yes... I'm sure that's it..."
+  },
+  {
+   "id": "0430:015F1",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０１１I never really understood￥this power of mine, and it's￥always frightened me...＝＠１８０＿０１２So I resented it... and I've￥never been confident in myself￥or my power..."
+  },
+  {
+   "id": "0430:016AE",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０１３But you're right...＝＠１８０＿０１４Of course I can't understand my￥power if I keep looking away￥from it like this.＝＠１８０＿０１５If I really face this ability,￥then someday, surely..."
+  },
+  {
+   "id": "0430:01799",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０１６Oh... I-I'm sorry.￥You had to see me￥at my worst..."
+  },
+  {
+   "id": "0430:01806",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０１７Well then... um...＝＠１８０＿０１８Thank you...￥for worrying about me."
+  },
+  {
+   "id": "0430:01873",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８０＿０１９I won't forget today..."
+  },
+  {
+   "id": "0430:018B8",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

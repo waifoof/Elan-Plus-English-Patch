@@ -1,0 +1,106 @@
+{
+ "entry": 475,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0475:0001C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿００７Good morning... There's￥something I'd like to ask.＝＠０６５＿００８How do you approach your￥training?"
+  },
+  {
+   "id": "0475:000B1",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿００９There must be some reason you￥so easily surpassed an expert￥like me."
+  },
+  {
+   "id": "0475:00129.0",
+   "choice": true,
+   "en": "I just trained hard."
+  },
+  {
+   "id": "0475:00129.1",
+   "choice": true,
+   "en": "Maybe you slacked off?"
+  },
+  {
+   "id": "0475:0016D.0",
+   "choice": true,
+   "en": "I just trained hard."
+  },
+  {
+   "id": "0475:0016D.1",
+   "choice": true,
+   "en": "Maybe you slacked off?"
+  },
+  {
+   "id": "0475:001B1",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０１０I see.￥You must have great focus.＝＠０６５＿０１１And it's not as if I've been￥skipping training either..."
+  },
+  {
+   "id": "0475:0023A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０１２In the same amount of time,￥you achieve enough to surpass￥an expert."
+  },
+  {
+   "id": "0475:002A4",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０１３Me...?￥I don't recall slacking off..."
+  },
+  {
+   "id": "0475:002F1",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０１４Though it's true I don't devote￥myself to just one discipline.＝＠０６５＿０１５I didn't slack off, but perhaps￥I neglected building up my￥knowledge somewhat..."
+  },
+  {
+   "id": "0475:003B2",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０１６Being well-rounded and able￥to handle anything,￥like you...＝＠０６５＿０１７must be very important for￥getting good scores."
+  },
+  {
+   "id": "0475:0045F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０１８In my specialty, the training￥sticks without fail, but...＝＠０６５＿０１９the moment it's something I'm￥weak at, results come slowly."
+  },
+  {
+   "id": "0475:004FB.0",
+   "choice": true,
+   "en": "It can't be helped."
+  },
+  {
+   "id": "0475:004FB.1",
+   "choice": true,
+   "en": "Then focus harder."
+  },
+  {
+   "id": "0475:00523.0",
+   "choice": true,
+   "en": "It can't be helped."
+  },
+  {
+   "id": "0475:00523.1",
+   "choice": true,
+   "en": "Why not focus harder?"
+  },
+  {
+   "id": "0475:00551",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０２０Perhaps so. But that doesn't￥mean I can just leave it￥at that."
+  },
+  {
+   "id": "0475:005C4",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０２１I intend to work at it."
+  },
+  {
+   "id": "0475:005FA",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０２２You're right. I'll work at it."
+  },
+  {
+   "id": "0475:0062F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６５＿０２３Thanks to you surpassing me,￥I think I can focus on training￥more than ever before.＝＠０６５＿０２４Sorry to bother you on your￥day off..."
+  }
+ ]
+}

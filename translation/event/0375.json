@@ -1,0 +1,326 @@
+{
+ "entry": 375,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0375:0001C",
+   "end": "818400",
+   "en": "－　Flight Training Room　－"
+  },
+  {
+   "id": "0375:0003C",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿００１That's not it! I'm saying it for￥everyone's sake!"
+  },
+  {
+   "id": "0375:00085",
+   "end": "818400",
+   "en": "＊Engineer＊＠０１７＿００２But..."
+  },
+  {
+   "id": "0375:000B0",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿００３Set up like this, it's no good￥for training at all!!"
+  },
+  {
+   "id": "0375:0010D",
+   "end": "818400",
+   "en": "＊Engineer＊＠０１７＿００４I'm afraid I can't agree..."
+  },
+  {
+   "id": "0375:00144",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿００５Whaaat?! Why not?!"
+  },
+  {
+   "id": "0375:00179",
+   "end": "818400",
+   "en": "＊Engineer＊＠０１７＿００６I'm sorry, but I still have￥work to finish.￥If you'll excuse me."
+  },
+  {
+   "id": "0375:001D8",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0375:001E7",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿００７Geez..."
+  },
+  {
+   "id": "0375:00214",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０１７＿００８Listen, Amane, that's..."
+  },
+  {
+   "id": "0375:00251",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿００９Why won't anyone understand?!＝＠０１７＿０１０If you won't understand,￥then forget it!!"
+  },
+  {
+   "id": "0375:002DA",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0375:002EA",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０１７＿０１１Ah! Amane,￥wait a minute...!"
+  },
+  {
+   "id": "0375:00335",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0375:00350",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０１２Oh... it's you..."
+  },
+  {
+   "id": "0375:00383",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０１３Ugh, listen to this!!￥Everyone's being so mean!!"
+  },
+  {
+   "id": "0375:003DF.0",
+   "choice": true,
+   "en": "Mean how?"
+  },
+  {
+   "id": "0375:003DF.1",
+   "choice": true,
+   "en": "Who's \"everyone\"?"
+  },
+  {
+   "id": "0375:0040B.0",
+   "choice": true,
+   "en": "What's so mean?"
+  },
+  {
+   "id": "0375:0040B.1",
+   "choice": true,
+   "en": "Who do you mean?"
+  },
+  {
+   "id": "0375:00441",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０１４Everyone treats me like a kid!￥Sakaki, the engineer..."
+  },
+  {
+   "id": "0375:004A7",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０１５Sakaki and the engineer!!￥They all treat me like a kid!"
+  },
+  {
+   "id": "0375:0050A",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０１６I was thinking of everyone when￥I spoke up...! It's about the￥simulator levels!＝＠０１７＿０１７I've been thinking for a while--￥if we stay at the current level,￥we won't improve much..."
+  },
+  {
+   "id": "0375:005DF",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０１８So I asked them to change the￥level to match each candidate's￥ability.＝＠０１７＿０１９And then..."
+  },
+  {
+   "id": "0375:0066C",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２０The engineer... and even Sakaki￥treated me like a kid! They￥wouldn't listen at all!"
+  },
+  {
+   "id": "0375:006E5",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２１I'm a candidate too, you know!＝＠０１７＿０２２Besides, what I'm saying would￥be good for everyone!!"
+  },
+  {
+   "id": "0375:00771.0",
+   "choice": true,
+   "en": "Set it for each person?"
+  },
+  {
+   "id": "0375:00771.1",
+   "choice": true,
+   "en": "Would it help everyone?"
+  },
+  {
+   "id": "0375:007B1.0",
+   "choice": true,
+   "en": "Change it per person?"
+  },
+  {
+   "id": "0375:007B1.1",
+   "choice": true,
+   "en": "Would it help everyone?"
+  },
+  {
+   "id": "0375:007F9",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２３Yeah! Obviously everyone would￥have an easier time that way!"
+  },
+  {
+   "id": "0375:00863",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２４It would! Deep down, I bet￥everyone wants it that way!"
+  },
+  {
+   "id": "0375:008C0",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２５What's wrong with what￥I'm saying?"
+  },
+  {
+   "id": "0375:0090F",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２６Why won't anyone listen to me?!"
+  },
+  {
+   "id": "0375:00960",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２７Why... is it wrong to change￥the level for each person?"
+  },
+  {
+   "id": "0375:009C4.0",
+   "choice": true,
+   "en": "A test has to be fair."
+  },
+  {
+   "id": "0375:009C4.1",
+   "choice": true,
+   "en": "They must have a reason."
+  },
+  {
+   "id": "0375:00A08.0",
+   "choice": true,
+   "en": "Tests need to be fair."
+  },
+  {
+   "id": "0375:00A08.1",
+   "choice": true,
+   "en": "They must have a reason."
+  },
+  {
+   "id": "0375:00A4D",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２８Because it's a test...?￥You mean everyone has to have￥the same conditions?"
+  },
+  {
+   "id": "0375:00AB2",
+   "end": "818400",
+   "en": "＊Amane＊＠０１７＿０２９A reason...? What reason...＝＠０１７＿０３０You mean the engineer is￥keeping the level the same￥on purpose...?"
+  },
+  {
+   "id": "0375:00B41",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿００１The engineer, Sakaki, and you￥too... What are you all trying￥to say?"
+  },
+  {
+   "id": "0375:00B9E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿００２You mean if the settings create￥gaps in skill, that's bad?￥...But..."
+  },
+  {
+   "id": "0375:00C18.0",
+   "choice": true,
+   "en": "Isn't that unfair?"
+  },
+  {
+   "id": "0375:00C18.1",
+   "choice": true,
+   "en": "That's why they don't."
+  },
+  {
+   "id": "0375:00C52.0",
+   "choice": true,
+   "en": "Wouldn't that be unfair?"
+  },
+  {
+   "id": "0375:00C52.1",
+   "choice": true,
+   "en": "So they leave it as is."
+  },
+  {
+   "id": "0375:00C8E",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿００３Well...￥maybe a little..."
+  },
+  {
+   "id": "0375:00CD8",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿００４I see... So that's why the￥engineer didn't like my idea..."
+  },
+  {
+   "id": "0375:00D47",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿００５Unfair, huh... Right. Without￥the same conditions, the test￥would be pointless.＝＠０１８＿００６I thought it'd be a great way to￥help everyone build on their￥strengths, though..."
+  },
+  {
+   "id": "0375:00E06",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿００７I see...＝＠０１８＿００８Was I... was I just being￥selfish...?"
+  },
+  {
+   "id": "0375:00E7D",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿００９Going on about \"everyone's￥sake\"... when I didn't get￥a thing. I feel so stupid..."
+  },
+  {
+   "id": "0375:00EEA",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿０１０I'm sorry..."
+  },
+  {
+   "id": "0375:00F21.0",
+   "choice": true,
+   "en": "Don't apologize to me..."
+  },
+  {
+   "id": "0375:00F21.1",
+   "choice": true,
+   "en": "Forgetting someone else?"
+  },
+  {
+   "id": "0375:00F61.0",
+   "choice": true,
+   "en": "Don't apologize to me..."
+  },
+  {
+   "id": "0375:00F61.1",
+   "choice": true,
+   "en": "Forgetting someone else?"
+  },
+  {
+   "id": "0375:00FA5",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿０１１Yeah... oh!"
+  },
+  {
+   "id": "0375:00FD4",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿０１２I forgot something important!￥I have to go apologize to the￥engineer and Sakaki!!"
+  },
+  {
+   "id": "0375:01046",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿０１３Someone else...? Oh!"
+  },
+  {
+   "id": "0375:01079",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿０１４The engineer!! Sakaki!!￥What do I do?!￥I-I'm going right now!!"
+  },
+  {
+   "id": "0375:010E4",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿０１５Okay, I'm off!"
+  },
+  {
+   "id": "0375:0111B",
+   "end": "818400",
+   "en": "＊Amane＊＠０１８＿０１６Sorry for all the trouble.￥Thanks a bunch!!"
+  },
+  {
+   "id": "0375:0116E",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

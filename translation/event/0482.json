@@ -1,0 +1,106 @@
+{
+ "entry": 482,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0482:00025",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿００１Hi! I was passing by,￥so I thought I'd drop in￥and see if you were home."
+  },
+  {
+   "id": "0482:00092",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿００２Say, something good happened to￥you lately, didn't it? You seem￥to be doing so well!"
+  },
+  {
+   "id": "0482:00103",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿００３Hey! Tell your big sister￥what's going on!!"
+  },
+  {
+   "id": "0482:0014F.0",
+   "choice": true,
+   "en": "Nothing, really."
+  },
+  {
+   "id": "0482:0014F.1",
+   "choice": true,
+   "en": "If so, I'm not telling."
+  },
+  {
+   "id": "0482:0017D.0",
+   "choice": true,
+   "en": "Nothing, really."
+  },
+  {
+   "id": "0482:0017D.1",
+   "choice": true,
+   "en": "If so, I'm not telling."
+  },
+  {
+   "id": "0482:001AF",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿００４I see. Then all your hard work￥must be paying off!"
+  },
+  {
+   "id": "0482:00219",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿００５Aww, what's that about?＝＠０８４＿００６That's mean. I only asked￥because I honestly thought it￥was amazing."
+  },
+  {
+   "id": "0482:0029C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿００７But after doing that well this￥time, the hard part comes next.＝＠０８４＿００８Frankly, I think keeping the￥same rank next time will be￥really tough..."
+  },
+  {
+   "id": "0482:00364.0",
+   "choice": true,
+   "en": "I'll manage somehow."
+  },
+  {
+   "id": "0482:00364.1",
+   "choice": true,
+   "en": "That's what worries me."
+  },
+  {
+   "id": "0482:00390.0",
+   "choice": true,
+   "en": "I'll manage somehow."
+  },
+  {
+   "id": "0482:00390.1",
+   "choice": true,
+   "en": "That's what worries me."
+  },
+  {
+   "id": "0482:003C0",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿００９True. I'd say it's impossible￥for anyone else... but you might￥just pull it off!"
+  },
+  {
+   "id": "0482:00432",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１０I know how you feel.￥But... this is when you have￥to dig in!"
+  },
+  {
+   "id": "0482:00487",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１１If you can't hold your place,￥then... you either climb higher,￥or you start to slip!"
+  },
+  {
+   "id": "0482:004F8",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１２As a fellow candidate, I can't￥say this too openly, but I'm￥rooting for you!"
+  },
+  {
+   "id": "0482:00565",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１３Let's both give it our best￥next time too, okay?"
+  },
+  {
+   "id": "0482:005BC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８４＿０１４Sorry to bother you while you're￥resting. See you in the￥training room!"
+  }
+ ]
+}

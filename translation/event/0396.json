@@ -1,0 +1,386 @@
+{
+ "entry": 396,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0396:0001E",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿００１Hello...＝＠１６２＿００２Um, sorry to ask out of￥nowhere... but where am I?"
+  },
+  {
+   "id": "0396:00094.0",
+   "choice": true,
+   "en": "Huh? What do you mean?"
+  },
+  {
+   "id": "0396:00094.1",
+   "choice": true,
+   "en": "This place is Alpha."
+  },
+  {
+   "id": "0396:000CE.0",
+   "choice": true,
+   "en": "Where'd that come from?"
+  },
+  {
+   "id": "0396:000CE.1",
+   "choice": true,
+   "en": "This place is Alpha."
+  },
+  {
+   "id": "0396:00106",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿００３Did I say something funny?＝...＝＠１６２＿００４Should I have said \"What is this￥place called?\"＝＠１６２＿００５Or maybe￥\"Might I ask where here is?\"￥would be better..."
+  },
+  {
+   "id": "0396:001D4.0",
+   "choice": true,
+   "en": "This place is Alpha."
+  },
+  {
+   "id": "0396:001D4.1",
+   "choice": true,
+   "en": "What a weird guy..."
+  },
+  {
+   "id": "0396:0020A.0",
+   "choice": true,
+   "en": "This place is Alpha."
+  },
+  {
+   "id": "0396:0020A.1",
+   "choice": true,
+   "en": "What a strange boy..."
+  },
+  {
+   "id": "0396:0023C",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿００６Oh, is that right...＝＠１６２＿００７So this place...￥is called Alpha..."
+  },
+  {
+   "id": "0396:002BB",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿００８Thank you very much for￥telling me."
+  },
+  {
+   "id": "0396:0030B",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿００９Am I...?＝＠１６２＿０１０I don't know anything except￥my own name."
+  },
+  {
+   "id": "0396:00383",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿０１１Oh, is that right...＝＠１６２＿００７So this place...￥is called Alpha..."
+  },
+  {
+   "id": "0396:00402",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿０１３Thank you very much for￥telling me."
+  },
+  {
+   "id": "0396:00452.0",
+   "choice": true,
+   "en": "Um... who are you?"
+  },
+  {
+   "id": "0396:00452.1",
+   "choice": true,
+   "en": "You seem kind of shady."
+  },
+  {
+   "id": "0396:00484.0",
+   "choice": true,
+   "en": "Um... who are you?"
+  },
+  {
+   "id": "0396:00484.1",
+   "choice": true,
+   "en": "You seem kind of shady."
+  },
+  {
+   "id": "0396:004B6",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿０１４Me?＝＠１６２＿０１５My name is Sarai.￥Nice to meet you."
+  },
+  {
+   "id": "0396:00518",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿０１６Me?＝＠１６２＿０１７Am I shady?￥I'm not really sure..."
+  },
+  {
+   "id": "0396:00592.0",
+   "choice": true,
+   "en": "Yeah, pretty shady."
+  },
+  {
+   "id": "0396:00592.1",
+   "choice": true,
+   "en": "Maybe just a bit odd..."
+  },
+  {
+   "id": "0396:005C8.0",
+   "choice": true,
+   "en": "Yes, quite shady."
+  },
+  {
+   "id": "0396:005C8.1",
+   "choice": true,
+   "en": "Maybe just a bit odd..."
+  },
+  {
+   "id": "0396:00600",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿０１８I see...￥I'm sorry."
+  },
+  {
+   "id": "0396:0063D",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿０１９Thank you for talking to someone￥as shady as me."
+  },
+  {
+   "id": "0396:0069E",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿０２０Oh..."
+  },
+  {
+   "id": "0396:006C9",
+   "end": "818400",
+   "en": "＊Boy＊＠１６２＿０２１My name is Sarai.￥Nice to meet you."
+  },
+  {
+   "id": "0396:00710",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６２＿０２２Why am I here, I wonder?＝＠１６２＿０２３When I woke up just now, I was￥sleeping in some kind of...￥storeroom...＝＠１６２＿０２４And I don't know why..."
+  },
+  {
+   "id": "0396:007E2.0",
+   "choice": true,
+   "en": "Do you have amnesia?"
+  },
+  {
+   "id": "0396:007E2.1",
+   "choice": true,
+   "en": "You don't remember?"
+  },
+  {
+   "id": "0396:0081A.0",
+   "choice": true,
+   "en": "Could it be amnesia?"
+  },
+  {
+   "id": "0396:0081A.1",
+   "choice": true,
+   "en": "You don't remember?"
+  },
+  {
+   "id": "0396:00850",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６２＿０２５Amnesia?＝..."
+  },
+  {
+   "id": "0396:0088F",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６２＿０２６Maybe so..."
+  },
+  {
+   "id": "0396:008CB",
+   "end": "818400",
+   "en": "＊Sarai＊...＝＠１６２＿０２７No...￥I can't remember anything..."
+  },
+  {
+   "id": "0396:00924",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６２＿０２８Um... Do you know who I am?＝＠１６２＿０２９Did I used to live here?"
+  },
+  {
+   "id": "0396:009A4.0",
+   "choice": true,
+   "en": "You don't remember that?"
+  },
+  {
+   "id": "0396:009A4.1",
+   "choice": true,
+   "en": "Don't ask me. No idea."
+  },
+  {
+   "id": "0396:009E0.0",
+   "choice": true,
+   "en": "You can't remember that?"
+  },
+  {
+   "id": "0396:009E0.1",
+   "choice": true,
+   "en": "I wouldn't know."
+  },
+  {
+   "id": "0396:00A1E",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿００１No...￥All I know right now is...＝＠１６３＿００２my name, and that I was asleep￥in some kind of storeroom until￥a little while ago."
+  },
+  {
+   "id": "0396:00AC0",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿００３I see...＝＠１６３＿００４You're right, how could you know￥something like that?＝＠１６３＿００５I'm very sorry."
+  },
+  {
+   "id": "0396:00B59",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿００６I didn't know where I was, so I￥was walking around all over.＝＠１６３＿００７And then I ran into you..."
+  },
+  {
+   "id": "0396:00BEA",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿００８Can I ask about you?＝＠１６３＿００９Why are you here?"
+  },
+  {
+   "id": "0396:00C64.0",
+   "choice": true,
+   "en": "I came here to train."
+  },
+  {
+   "id": "0396:00C64.1",
+   "choice": true,
+   "en": "For the Elan expedition."
+  },
+  {
+   "id": "0396:00CA2.0",
+   "choice": true,
+   "en": "I came here to train."
+  },
+  {
+   "id": "0396:00CA2.1",
+   "choice": true,
+   "en": "For the Elan expedition."
+  },
+  {
+   "id": "0396:00CE2",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０１０Training...?＝＠１６３＿０１１Why are you training?"
+  },
+  {
+   "id": "0396:00D54.0",
+   "choice": true,
+   "en": "I need it to go to Elan."
+  },
+  {
+   "id": "0396:00D54.1",
+   "choice": true,
+   "en": "None of your business."
+  },
+  {
+   "id": "0396:00D94.0",
+   "choice": true,
+   "en": "I need it to go to Elan."
+  },
+  {
+   "id": "0396:00D94.1",
+   "choice": true,
+   "en": "None of your business."
+  },
+  {
+   "id": "0396:00DDA",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０１２Elan...?"
+  },
+  {
+   "id": "0396:00E0C",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０１３You're right.￥I'm sorry for all these￥strange questions."
+  },
+  {
+   "id": "0396:00E6B",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０１４I'll try asking someone else."
+  },
+  {
+   "id": "0396:00EAC",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０１５Elan expedition...?"
+  },
+  {
+   "id": "0396:00EDF",
+   "end": "818400",
+   "en": "＊Sarai＊...＝＠１６３＿０１６What's Elan?￥I feel like I've heard of it...?"
+  },
+  {
+   "id": "0396:00F45.0",
+   "choice": true,
+   "en": "A planet we can settle."
+  },
+  {
+   "id": "0396:00F45.1",
+   "choice": true,
+   "en": "How do you not know?"
+  },
+  {
+   "id": "0396:00F7F.0",
+   "choice": true,
+   "en": "A world we could settle."
+  },
+  {
+   "id": "0396:00F7F.1",
+   "choice": true,
+   "en": "Why don't you know?"
+  },
+  {
+   "id": "0396:00FB7",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０１７Is that so...＝＠１６３＿０１８Somehow, it sounds familiar..."
+  },
+  {
+   "id": "0396:01025",
+   "end": "818400",
+   "en": "＊Sarai＊...＝＠１６３＿０１９Is it... something everyone's￥supposed to know...?"
+  },
+  {
+   "id": "0396:0108C",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０２０I just don't know...＝＠１６３＿０２１I'm sorry for all these￥strange questions..."
+  },
+  {
+   "id": "0396:01111",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０２２Something about it bothers me.￥The name Elan...＝＠１６３＿０２３Maybe I'll remember something..."
+  },
+  {
+   "id": "0396:01191.0",
+   "choice": true,
+   "en": "Hope it comes back."
+  },
+  {
+   "id": "0396:01191.1",
+   "choice": true,
+   "en": "Try looking up Elan?"
+  },
+  {
+   "id": "0396:011C7.0",
+   "choice": true,
+   "en": "I hope it comes back."
+  },
+  {
+   "id": "0396:011C7.1",
+   "choice": true,
+   "en": "Why not look up Elan?"
+  },
+  {
+   "id": "0396:01205",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０２４Thank you.＝＠１６３＿０２５I'll try looking into Elan.＝＠１６３＿０２６Maybe that'll help me￥remember something."
+  },
+  {
+   "id": "0396:012C9",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０２７That's a good idea.￥I'll look into Elan.＝＠１６３＿０２８Maybe that'll help me￥remember something."
+  },
+  {
+   "id": "0396:01362",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０２９Talking with you, I feel like I￥understand a little more.＝＠１６３＿０３０And maybe I'll even remember￥who I am..."
+  },
+  {
+   "id": "0396:013F3",
+   "end": "818400",
+   "en": "＊Sarai＊＠１６３＿０３１Thank you for explaining￥so many things."
+  }
+ ]
+}

@@ -1,0 +1,2121 @@
+{
+ "module": "GAME/GAME.BIN",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "GAME_BIN:00758",
+   "max": 2,
+   "en": "Mo"
+  },
+  {
+   "id": "GAME_BIN:0075B",
+   "max": 2,
+   "en": "Tu"
+  },
+  {
+   "id": "GAME_BIN:0075E",
+   "max": 2,
+   "en": "We"
+  },
+  {
+   "id": "GAME_BIN:00761",
+   "max": 2,
+   "en": "Th"
+  },
+  {
+   "id": "GAME_BIN:00764",
+   "max": 2,
+   "en": "Fr"
+  },
+  {
+   "id": "GAME_BIN:00767",
+   "max": 2,
+   "en": "Sa"
+  },
+  {
+   "id": "GAME_BIN:0076A",
+   "max": 2,
+   "en": "Su"
+  },
+  {
+   "id": "GAME_BIN:00770",
+   "max": 20,
+   "en": "＜Player Profile＞"
+  },
+  {
+   "id": "GAME_BIN:00788",
+   "max": 2,
+   "en": "Wk"
+  },
+  {
+   "id": "GAME_BIN:0078C",
+   "max": 2,
+   "en": " "
+  },
+  {
+   "id": "GAME_BIN:00798",
+   "max": 4,
+   "en": " Day"
+  },
+  {
+   "id": "GAME_BIN:007A0",
+   "max": 4,
+   "en": "Left"
+  },
+  {
+   "id": "GAME_BIN:007A8",
+   "max": 2,
+   "en": "d "
+  },
+  {
+   "id": "GAME_BIN:007AC",
+   "max": 4,
+   "en": "Rank"
+  },
+  {
+   "id": "GAME_BIN:007B4",
+   "max": 4,
+   "en": " "
+  },
+  {
+   "id": "GAME_BIN:007BC",
+   "max": 2,
+   "en": "/9"
+  },
+  {
+   "id": "GAME_BIN:007C0",
+   "max": 6,
+   "en": "--/9"
+  },
+  {
+   "id": "GAME_BIN:00948",
+   "max": 10,
+   "en": "Rescue"
+  },
+  {
+   "id": "GAME_BIN:00967",
+   "max": 8,
+   "en": "EVA"
+  },
+  {
+   "id": "GAME_BIN:00986",
+   "max": 12,
+   "en": "Sample Study"
+  },
+  {
+   "id": "GAME_BIN:009A5",
+   "max": 18,
+   "en": "Worker Assembly"
+  },
+  {
+   "id": "GAME_BIN:009C4",
+   "max": 8,
+   "en": "Geology"
+  },
+  {
+   "id": "GAME_BIN:009E3",
+   "max": 10,
+   "en": "Bio Catch"
+  },
+  {
+   "id": "GAME_BIN:00A02",
+   "max": 14,
+   "en": "SL Gate Flight"
+  },
+  {
+   "id": "GAME_BIN:00A21",
+   "max": 14,
+   "en": "SL Atmo Entry"
+  },
+  {
+   "id": "GAME_BIN:00A40",
+   "max": 8,
+   "en": "Finals"
+  },
+  {
+   "id": "GAME_BIN:00A60",
+   "max": 4,
+   "en": "Stam"
+  },
+  {
+   "id": "GAME_BIN:00A68",
+   "max": 4,
+   "en": "Str"
+  },
+  {
+   "id": "GAME_BIN:00A70",
+   "max": 4,
+   "en": "Int"
+  },
+  {
+   "id": "GAME_BIN:00A78",
+   "max": 6,
+   "en": "Tech"
+  },
+  {
+   "id": "GAME_BIN:00A80",
+   "max": 6,
+   "en": "Pilot"
+  },
+  {
+   "id": "GAME_BIN:00A88",
+   "max": 6,
+   "en": "Sense"
+  },
+  {
+   "id": "GAME_BIN:00A90",
+   "max": 6,
+   "en": "Judge"
+  },
+  {
+   "id": "GAME_BIN:00A98",
+   "max": 4,
+   "en": "Grit"
+  },
+  {
+   "id": "GAME_BIN:00AB0",
+   "max": 18,
+   "en": "＜Monthly Exam＞"
+  },
+  {
+   "id": "GAME_BIN:00AC4",
+   "max": 2,
+   "en": "Wk"
+  },
+  {
+   "id": "GAME_BIN:00AC8",
+   "max": 16,
+   "en": ", Saturday"
+  },
+  {
+   "id": "GAME_BIN:00ADC",
+   "max": 6,
+   "en": "Exam: "
+  },
+  {
+   "id": "GAME_BIN:00AE4",
+   "max": 16,
+   "en": "Required Stats:"
+  },
+  {
+   "id": "GAME_BIN:00AF8",
+   "max": 4,
+   "en": "All"
+  },
+  {
+   "id": "GAME_BIN:00DB0",
+   "max": 14,
+   "en": "Elan Plus"
+  },
+  {
+   "id": "GAME_BIN:00E50",
+   "max": 38,
+   "en": "＜Accessing Memory Card...＞"
+  },
+  {
+   "id": "GAME_BIN:00E78",
+   "max": 42,
+   "en": "Do not remove the Memory Card."
+  },
+  {
+   "id": "GAME_BIN:00EA4",
+   "max": 16,
+   "en": "＜Saving...＞"
+  },
+  {
+   "id": "GAME_BIN:00EB8",
+   "max": 26,
+   "en": "Overwrite this data?"
+  },
+  {
+   "id": "GAME_BIN:00ED4",
+   "max": 4,
+   "en": "Yes"
+  },
+  {
+   "id": "GAME_BIN:00EDC",
+   "max": 6,
+   "en": "No"
+  },
+  {
+   "id": "GAME_BIN:00EE4",
+   "max": 38,
+   "en": "Not enough free space to save."
+  },
+  {
+   "id": "GAME_BIN:00F0C",
+   "max": 20,
+   "en": "Save failed."
+  },
+  {
+   "id": "GAME_BIN:00F24",
+   "max": 34,
+   "en": "The data may be corrupted."
+  },
+  {
+   "id": "GAME_BIN:00F48",
+   "max": 28,
+   "en": "An error occurred."
+  },
+  {
+   "id": "GAME_BIN:00F68",
+   "max": 36,
+   "en": "The Memory Card is not formatted."
+  },
+  {
+   "id": "GAME_BIN:00F90",
+   "max": 16,
+   "en": "Format it?"
+  },
+  {
+   "id": "GAME_BIN:00FA4",
+   "max": 36,
+   "en": " Do not remove the Memory Card."
+  },
+  {
+   "id": "GAME_BIN:00FCC",
+   "max": 26,
+   "en": "Format failed."
+  },
+  {
+   "id": "GAME_BIN:00FE8",
+   "max": 24,
+   "en": "There is no Memory Card"
+  },
+  {
+   "id": "GAME_BIN:01004",
+   "max": 32,
+   "en": "inserted in slot 1."
+  },
+  {
+   "id": "GAME_BIN:010C8",
+   "max": 2,
+   "en": "Mo"
+  },
+  {
+   "id": "GAME_BIN:010CB",
+   "max": 2,
+   "en": "Tu"
+  },
+  {
+   "id": "GAME_BIN:010CE",
+   "max": 2,
+   "en": "We"
+  },
+  {
+   "id": "GAME_BIN:010D1",
+   "max": 2,
+   "en": "Th"
+  },
+  {
+   "id": "GAME_BIN:010D4",
+   "max": 2,
+   "en": "Fr"
+  },
+  {
+   "id": "GAME_BIN:010D7",
+   "max": 2,
+   "en": "Sa"
+  },
+  {
+   "id": "GAME_BIN:010DA",
+   "max": 2,
+   "en": "Su"
+  },
+  {
+   "id": "GAME_BIN:01160",
+   "max": 44,
+   "en": "＜Select a file to save it to.＞"
+  },
+  {
+   "id": "GAME_BIN:01190",
+   "max": 4,
+   "en": " Wk"
+  },
+  {
+   "id": "GAME_BIN:01198",
+   "max": 4,
+   "en": " ("
+  },
+  {
+   "id": "GAME_BIN:011A0",
+   "max": 4,
+   "en": ")"
+  },
+  {
+   "id": "GAME_BIN:011A8",
+   "max": 4,
+   "en": " Day"
+  },
+  {
+   "id": "GAME_BIN:011B0",
+   "max": 8,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:011BC",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:011C8",
+   "max": 6,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:014BC",
+   "max": 2,
+   "en": "Mo"
+  },
+  {
+   "id": "GAME_BIN:014BF",
+   "max": 2,
+   "en": "Tu"
+  },
+  {
+   "id": "GAME_BIN:014C2",
+   "max": 2,
+   "en": "We"
+  },
+  {
+   "id": "GAME_BIN:014C5",
+   "max": 2,
+   "en": "Th"
+  },
+  {
+   "id": "GAME_BIN:014C8",
+   "max": 2,
+   "en": "Fr"
+  },
+  {
+   "id": "GAME_BIN:014CB",
+   "max": 2,
+   "en": "Sa"
+  },
+  {
+   "id": "GAME_BIN:014CE",
+   "max": 2,
+   "en": "Su"
+  },
+  {
+   "id": "GAME_BIN:014D4",
+   "max": 4,
+   "en": " Wk"
+  },
+  {
+   "id": "GAME_BIN:014DC",
+   "max": 4,
+   "en": " ("
+  },
+  {
+   "id": "GAME_BIN:014E4",
+   "max": 4,
+   "en": ")"
+  },
+  {
+   "id": "GAME_BIN:014EC",
+   "max": 4,
+   "en": " Day"
+  },
+  {
+   "id": "GAME_BIN:014F4",
+   "max": 8,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:01500",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:0150C",
+   "max": 6,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:01514",
+   "max": 24,
+   "en": "There is no Memory Card"
+  },
+  {
+   "id": "GAME_BIN:01530",
+   "max": 32,
+   "en": "inserted in slot 1."
+  },
+  {
+   "id": "GAME_BIN:01554",
+   "max": 38,
+   "en": "＜Accessing Memory Card...＞"
+  },
+  {
+   "id": "GAME_BIN:0157C",
+   "max": 42,
+   "en": "Do not remove the Memory Card."
+  },
+  {
+   "id": "GAME_BIN:015A8",
+   "max": 20,
+   "en": "No data."
+  },
+  {
+   "id": "GAME_BIN:015C0",
+   "max": 28,
+   "en": "An error occurred."
+  },
+  {
+   "id": "GAME_BIN:015E0",
+   "max": 36,
+   "en": "The Memory Card is not formatted."
+  },
+  {
+   "id": "GAME_BIN:01608",
+   "max": 44,
+   "en": "＜Select a file to load.＞"
+  },
+  {
+   "id": "GAME_BIN:01638",
+   "max": 20,
+   "en": "Loading data..."
+  },
+  {
+   "id": "GAME_BIN:01650",
+   "max": 22,
+   "en": "Data loaded."
+  },
+  {
+   "id": "GAME_BIN:0591E",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:14E4A",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:178D9",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:19454",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:2960E",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:29756",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:297FA",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:2987E",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:2991A",
+   "max": 4,
+   "en": "",
+   "skip": true
+  },
+  {
+   "id": "GAME_BIN:307E8",
+   "max": 4,
+   "en": "Hate"
+  },
+  {
+   "id": "GAME_BIN:307F2",
+   "max": 6,
+   "en": "Aloof"
+  },
+  {
+   "id": "GAME_BIN:307FC",
+   "max": 4,
+   "en": "Okay"
+  },
+  {
+   "id": "GAME_BIN:30806",
+   "max": 8,
+   "en": "Curious"
+  },
+  {
+   "id": "GAME_BIN:30810",
+   "max": 4,
+   "en": "Fond"
+  },
+  {
+   "id": "GAME_BIN:3081A",
+   "max": 4,
+   "en": "Love"
+  },
+  {
+   "id": "GAME_BIN:30AC8",
+   "max": 30,
+   "en": "Eiji got extra training.＞"
+  },
+  {
+   "id": "GAME_BIN:30AE8",
+   "max": 28,
+   "en": "Yoh got extra training.＞"
+  },
+  {
+   "id": "GAME_BIN:30B08",
+   "max": 30,
+   "en": "Kairi got extra training.＞"
+  },
+  {
+   "id": "GAME_BIN:30B28",
+   "max": 30,
+   "en": "Amane got extra training.＞"
+  },
+  {
+   "id": "GAME_BIN:30B48",
+   "max": 30,
+   "en": "Natsuno got extra training.＞"
+  },
+  {
+   "id": "GAME_BIN:30B68",
+   "max": 30,
+   "en": "Tomoe got extra training.＞"
+  },
+  {
+   "id": "GAME_BIN:30B88",
+   "max": 28,
+   "en": "Riko got extra training.＞"
+  },
+  {
+   "id": "GAME_BIN:30BA8",
+   "max": 30,
+   "en": "Kaname got extra training.＞"
+  },
+  {
+   "id": "GAME_BIN:33A44",
+   "max": 410,
+   "en": "＊Eiji＊＠０４６＿００１”０Yo! You're a candidate too?￥I'm Eiji! Nice to meet ya!＝”３＠０４６＿００２Glad there's a normal￥person like you around.＝＠０４６＿００３Everyone else here is￥kind of a weirdo, right?＝＠０４６＿００４Guess that's what experts￥are like...＝”８＠０４６＿００５Eh, whatever.￥I think we'll get along.＝＠０４６＿００６See ya around!＞"
+  },
+  {
+   "id": "GAME_BIN:33BE0",
+   "max": 116,
+   "en": "＠０４６＿０１９＊Eiji＊Hey! Whenever I wake up feeling￥great, I run into you.￥Today's gonna be a good day!＞"
+  },
+  {
+   "id": "GAME_BIN:33C58",
+   "max": 72,
+   "en": "＠０４６＿００８＊Eiji＊Yo.￥You're training here too, huh?＞"
+  },
+  {
+   "id": "GAME_BIN:33CA4",
+   "max": 76,
+   "en": "＠０４６＿００７＊Eiji＊Oh, you. We think alike.￥Same training today?＞"
+  },
+  {
+   "id": "GAME_BIN:33CF4",
+   "max": 66,
+   "en": "＠０４６＿０１０＊Eiji＊Yo.￥I keep running into you, huh.＞"
+  },
+  {
+   "id": "GAME_BIN:33D38",
+   "max": 60,
+   "en": "＠０４６＿００９＊Eiji＊Hey!￥Let's give it our all today.＞"
+  },
+  {
+   "id": "GAME_BIN:33D78",
+   "max": 68,
+   "en": "＠０４６＿０１２＊Eiji＊What, I'm stuck with you today?￥Hmph.＞"
+  },
+  {
+   "id": "GAME_BIN:33DC0",
+   "max": 64,
+   "en": "＠０４６＿０１１＊Eiji＊Hey! You good?￥Let's do our best!＞"
+  },
+  {
+   "id": "GAME_BIN:33E04",
+   "max": 74,
+   "en": "＠０４６＿０１４＊Eiji＊You again?￥We keep crossing paths lately.＞"
+  },
+  {
+   "id": "GAME_BIN:33E50",
+   "max": 80,
+   "en": "＠０４６＿０１３＊Eiji＊Hey!￥You look lively today.￥That's a good thing!＞"
+  },
+  {
+   "id": "GAME_BIN:33EA4",
+   "max": 92,
+   "en": "＠０４６＿０１６＊Eiji＊Not my lucky day.￥Running into you￥first thing in the morning.＞"
+  },
+  {
+   "id": "GAME_BIN:33F04",
+   "max": 80,
+   "en": "＠０４６＿０１５＊Eiji＊Yo! How's it going?￥Let's go all out today!＞"
+  },
+  {
+   "id": "GAME_BIN:33F58",
+   "max": 88,
+   "en": "＠０４６＿０１８＊Eiji＊You're here too today?￥Geez...￥Guess we're stuck together?＞"
+  },
+  {
+   "id": "GAME_BIN:33FB4",
+   "max": 90,
+   "en": "＠０４６＿０１７＊Eiji＊Hey! I had a feeling￥I'd see you today.￥Called it!＞"
+  },
+  {
+   "id": "GAME_BIN:34010",
+   "max": 26,
+   "en": "＊Eiji＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:3402C",
+   "max": 26,
+   "en": "＊Eiji＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34048",
+   "max": 26,
+   "en": "＊Eiji＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34064",
+   "max": 22,
+   "en": "＊Eiji＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:3407C",
+   "max": 26,
+   "en": "＊Eiji＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34098",
+   "max": 22,
+   "en": "＊Eiji＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:340B0",
+   "max": 26,
+   "en": "＊Eiji＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:340CC",
+   "max": 22,
+   "en": "＊Eiji＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:340E4",
+   "max": 26,
+   "en": "＊Eiji＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34100",
+   "max": 22,
+   "en": "＊Eiji＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:34118",
+   "max": 26,
+   "en": "＊Eiji＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34134",
+   "max": 22,
+   "en": "＊Eiji＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:3414C",
+   "max": 26,
+   "en": "＊Eiji＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34168",
+   "max": 22,
+   "en": "＊Eiji＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:341F0",
+   "max": 404,
+   "en": "＊Yoh＊＠２０３＿００１”３Hey! You're a candidate, right?￥”２I'm Yoh. Nice to meet you!＝＠２０３＿００２Since the first time I saw you,￥”４I've thought you were cute~＝”２＠２０３＿００３But I never got the chance￥to talk to you.＝”４＠２０３＿００４So I'm glad you came over￥to talk to me~＝”３＠２０３＿００５Let's get along, fellow￥candidate!＞"
+  },
+  {
+   "id": "GAME_BIN:34388",
+   "max": 70,
+   "en": "＠２０３＿０１８＊Yoh＊Morning!￥I've been waiting for you...＞"
+  },
+  {
+   "id": "GAME_BIN:343D0",
+   "max": 62,
+   "en": "＠２０３＿００７＊Yoh＊Morning.￥Gotta work hard today too.＞"
+  },
+  {
+   "id": "GAME_BIN:34410",
+   "max": 86,
+   "en": "＠２０３＿００６＊Yoh＊Hey, morning!￥Same training as you?￥What a coincidence!＞"
+  },
+  {
+   "id": "GAME_BIN:34468",
+   "max": 70,
+   "en": "＠２０３＿００９＊Yoh＊Oh, morning.￥So you're here today too.＞"
+  },
+  {
+   "id": "GAME_BIN:344B0",
+   "max": 92,
+   "en": "＠２０３＿００８＊Yoh＊Morning!￥Same training as you?￥Maybe today's my lucky day.＞"
+  },
+  {
+   "id": "GAME_BIN:34510",
+   "max": 86,
+   "en": "＠２０３＿０１１＊Yoh＊Oh, morning.￥We end up training together￥a lot lately...＞"
+  },
+  {
+   "id": "GAME_BIN:34568",
+   "max": 82,
+   "en": "＠２０３＿０１０＊Yoh＊Hey!￥Training here today?￥We really click, huh!＞"
+  },
+  {
+   "id": "GAME_BIN:345BC",
+   "max": 82,
+   "en": "＠２０３＿０１３＊Yoh＊Oh, morning.￥Somehow I keep￥running into you.＞"
+  },
+  {
+   "id": "GAME_BIN:34610",
+   "max": 92,
+   "en": "＠２０３＿０１２＊Yoh＊Morning!￥So you came here too.￥Today might be a great day.＞"
+  },
+  {
+   "id": "GAME_BIN:34670",
+   "max": 80,
+   "en": "＠２０３＿０１５＊Yoh＊Oh, morning.￥Training again?￥You're dedicated.＞"
+  },
+  {
+   "id": "GAME_BIN:346C4",
+   "max": 90,
+   "en": "＠２０３＿０１４＊Yoh＊Morning.￥I knew you'd come here.￥Glad my hunch was right!＞"
+  },
+  {
+   "id": "GAME_BIN:34720",
+   "max": 82,
+   "en": "＠２０３＿０１７＊Yoh＊Oh... morning.￥You again, huh?￥Well, whatever.＞"
+  },
+  {
+   "id": "GAME_BIN:34774",
+   "max": 74,
+   "en": "＠２０３＿０１６＊Yoh＊Morning!￥I had a feeling￥you'd come today~＞"
+  },
+  {
+   "id": "GAME_BIN:347C0",
+   "max": 24,
+   "en": "＊Yoh＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:347DC",
+   "max": 24,
+   "en": "＊Yoh＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:347F8",
+   "max": 24,
+   "en": "＊Yoh＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34814",
+   "max": 20,
+   "en": "＊Yoh＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:3482C",
+   "max": 24,
+   "en": "＊Yoh＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34848",
+   "max": 20,
+   "en": "＊Yoh＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:34860",
+   "max": 24,
+   "en": "＊Yoh＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:3487C",
+   "max": 20,
+   "en": "＊Yoh＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:34894",
+   "max": 24,
+   "en": "＊Yoh＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:348B0",
+   "max": 20,
+   "en": "＊Yoh＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:348C8",
+   "max": 24,
+   "en": "＊Yoh＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:348E4",
+   "max": 20,
+   "en": "＊Yoh＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:348FC",
+   "max": 24,
+   "en": "＊Yoh＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34918",
+   "max": 20,
+   "en": "＊Yoh＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:349A0",
+   "max": 296,
+   "en": "＊Kairi＊＠０６３＿００１”１What? Who are you...￥That uniform means￥you're a candidate too.＝”２＠０６３＿００２Seems there are more of us￥than I expected...＝＠０６３＿００３As a candidate, you're a￥rival, but I'll introduce￥myself anyway.＝”３＠０６３＿００４I'm Kairi...＞"
+  },
+  {
+   "id": "GAME_BIN:34ACC",
+   "max": 106,
+   "en": "＠０６３＿０１６＊Kairi＊Morning. So you came here.￥I had a feeling you would,￥so I waited.＞"
+  },
+  {
+   "id": "GAME_BIN:34B38",
+   "max": 26,
+   "en": "＊Kairi＊...＞"
+  },
+  {
+   "id": "GAME_BIN:34B54",
+   "max": 34,
+   "en": "＠０６３＿００５＊Kairi＊What?＞"
+  },
+  {
+   "id": "GAME_BIN:34B78",
+   "max": 38,
+   "en": "＠０６３＿００７＊Kairi＊Need me?＞"
+  },
+  {
+   "id": "GAME_BIN:34BA0",
+   "max": 56,
+   "en": "＠０６３＿００６＊Kairi＊Oh, it's you...￥Morning.＞"
+  },
+  {
+   "id": "GAME_BIN:34BDC",
+   "max": 48,
+   "en": "＠０６３＿００９＊Kairi＊Ah, morning...＞"
+  },
+  {
+   "id": "GAME_BIN:34C10",
+   "max": 62,
+   "en": "＠０６３＿００８＊Kairi＊You. Morning.￥So you came here.＞"
+  },
+  {
+   "id": "GAME_BIN:34C50",
+   "max": 84,
+   "en": "＠０６３＿０１１＊Kairi＊We seem to meet often lately.￥Or is that just me...?＞"
+  },
+  {
+   "id": "GAME_BIN:34CA8",
+   "max": 70,
+   "en": "＠０６３＿０１０＊Kairi＊Morning.￥We often train together lately.＞"
+  },
+  {
+   "id": "GAME_BIN:34CF0",
+   "max": 52,
+   "en": "＠０６３＿０１３＊Kairi＊You're here too...＞"
+  },
+  {
+   "id": "GAME_BIN:34D28",
+   "max": 80,
+   "en": "＠０６３＿０１２＊Kairi＊Ah, it's you. Morning.￥Same training today.＞"
+  },
+  {
+   "id": "GAME_BIN:34D7C",
+   "max": 68,
+   "en": "＠０６３＿０１５＊Kairi＊Same training as you...?￥How tiring.＞"
+  },
+  {
+   "id": "GAME_BIN:34DC4",
+   "max": 88,
+   "en": "＠０６３＿０１４＊Kairi＊Ah, morning.￥I was thinking￥you might come.＞"
+  },
+  {
+   "id": "GAME_BIN:34E20",
+   "max": 26,
+   "en": "＊Kairi＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34E3C",
+   "max": 26,
+   "en": "＊Kairi＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34E58",
+   "max": 26,
+   "en": "＊Kairi＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34E74",
+   "max": 22,
+   "en": "＊Kairi＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:34E8C",
+   "max": 26,
+   "en": "＊Kairi＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34EA8",
+   "max": 22,
+   "en": "＊Kairi＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:34EC0",
+   "max": 26,
+   "en": "＊Kairi＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34EDC",
+   "max": 22,
+   "en": "＊Kairi＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:34EF4",
+   "max": 26,
+   "en": "＊Kairi＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34F10",
+   "max": 22,
+   "en": "＊Kairi＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:34F28",
+   "max": 26,
+   "en": "＊Kairi＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34F44",
+   "max": 22,
+   "en": "＊Kairi＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:34F5C",
+   "max": 26,
+   "en": "＊Kairi＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:34F78",
+   "max": 22,
+   "en": "＊Kairi＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:35000",
+   "max": 420,
+   "en": "＊Amane＊”７＠０２５＿００１Oh, thank goodness!＝＠０２５＿００２I haven't talked to most people￥yet, so I was nervous. I hoped￥someone would say hi!＝”６＠０２５＿００３You're a candidate too, right?￥Nice to meet you! I'm Amane!＝”３＠０２５＿００４Lots of the others seem hard￥to approach, so ”６I'm glad￥you're here!＝”７＠０２５＿００５Let's be friends, okay?＞"
+  },
+  {
+   "id": "GAME_BIN:351A8",
+   "max": 110,
+   "en": "＠０２５＿０１８＊Amane＊Morning! I dreamed of you￥last night! Yay, seeing you￥twice in one day...＞"
+  },
+  {
+   "id": "GAME_BIN:35218",
+   "max": 86,
+   "en": "＠０２５＿００７＊Amane＊Morning.￥You're here today too?￥Better work hard, huh.＞"
+  },
+  {
+   "id": "GAME_BIN:35270",
+   "max": 88,
+   "en": "＠０２５＿００６＊Amane＊Oh, morning!￥Let's give training￥our all today!＞"
+  },
+  {
+   "id": "GAME_BIN:352CC",
+   "max": 92,
+   "en": "＠０２５＿００９＊Amane＊Morning. You're here too?￥Oh well,￥it happens sometimes.＞"
+  },
+  {
+   "id": "GAME_BIN:3532C",
+   "max": 100,
+   "en": "＠０２５＿００８＊Amane＊Oh, morning!￥We're training together today!￥Let's have a good day!＞"
+  },
+  {
+   "id": "GAME_BIN:35394",
+   "max": 90,
+   "en": "＠０２５＿０１１＊Amane＊Morning.￥We meet a lot lately.￥Working hard at training?＞"
+  },
+  {
+   "id": "GAME_BIN:353F0",
+   "max": 98,
+   "en": "＠０２５＿０１０＊Amane＊Morning!￥Same place again today?￥We totally click, don't we!＞"
+  },
+  {
+   "id": "GAME_BIN:35454",
+   "max": 88,
+   "en": "＠０２５＿０１３＊Amane＊Morning! Feeling good?￥You're always so lively, huh.＞"
+  },
+  {
+   "id": "GAME_BIN:354B0",
+   "max": 102,
+   "en": "＠０２５＿０１２＊Amane＊Morning! Yay!￥With you again today!￥It's gonna be a great day!＞"
+  },
+  {
+   "id": "GAME_BIN:35518",
+   "max": 106,
+   "en": "＠０２５＿０１５＊Amane＊Mornin'. You look￥really fired up today.￥I like that kinda thing...＞"
+  },
+  {
+   "id": "GAME_BIN:35584",
+   "max": 118,
+   "en": "＠０２５＿０１４＊Amane＊Morning! Hehe, I just had￥a feeling we'd have the same￥training today!＞"
+  },
+  {
+   "id": "GAME_BIN:355FC",
+   "max": 98,
+   "en": "＠０２５＿０１７＊Amane＊Morning. Huh?￥Same as you again?￥Maybe we're fated or something?＞"
+  },
+  {
+   "id": "GAME_BIN:35660",
+   "max": 118,
+   "en": "＠０２５＿０１６＊Amane＊Mornin'!! Yay! I was wishing￥we'd get the same training!＞"
+  },
+  {
+   "id": "GAME_BIN:356D8",
+   "max": 26,
+   "en": "＊Amane＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:356F4",
+   "max": 26,
+   "en": "＊Amane＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:35710",
+   "max": 26,
+   "en": "＊Amane＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:3572C",
+   "max": 22,
+   "en": "＊Amane＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:35744",
+   "max": 26,
+   "en": "＊Amane＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:35760",
+   "max": 22,
+   "en": "＊Amane＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:35778",
+   "max": 26,
+   "en": "＊Amane＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:35794",
+   "max": 22,
+   "en": "＊Amane＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:357AC",
+   "max": 26,
+   "en": "＊Amane＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:357C8",
+   "max": 22,
+   "en": "＊Amane＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:357E0",
+   "max": 26,
+   "en": "＊Amane＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:357FC",
+   "max": 22,
+   "en": "＊Amane＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:35814",
+   "max": 26,
+   "en": "＊Amane＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:35830",
+   "max": 22,
+   "en": "＊Amane＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:358B8",
+   "max": 466,
+   "en": "＊Natsuno＊＠０８３＿００１”０You... I saw you at the￥briefing, didn't I? ”４So that￥makes us teammates!＝”２＠０８３＿００２Nice to meet you!￥I'm Natsuno.￥I hope we get along!＝”１＠０８３＿００３Some people here are much￥younger than me. I was surprised￥when we all met.＝”２＠０８３＿００４But someone like you seems easy￥to talk to, so I'm happy!＝”３＠０８３＿００５Feel free to come chat￥anytime, just like now,￥”４okay?!＞"
+  },
+  {
+   "id": "GAME_BIN:35A8C",
+   "max": 80,
+   "en": "＠０８３＿０１８＊Natsuno＊Morning!￥I was just thinking￥about you...＞"
+  },
+  {
+   "id": "GAME_BIN:35AE0",
+   "max": 90,
+   "en": "＠０８３＿００７＊Natsuno＊Morning.￥Let's really buckle down￥on training today.＞"
+  },
+  {
+   "id": "GAME_BIN:35B3C",
+   "max": 84,
+   "en": "＠０８３＿００６＊Natsuno＊Morning!￥Let's give training￥our all today!＞"
+  },
+  {
+   "id": "GAME_BIN:35B94",
+   "max": 98,
+   "en": "＠０８３＿００９＊Natsuno＊Morning.￥Don't make such a gloomy face.￥Let's do our best today.＞"
+  },
+  {
+   "id": "GAME_BIN:35BF8",
+   "max": 88,
+   "en": "＠０８３＿００８＊Natsuno＊Morning! How are you?￥Let's go all out!＞"
+  },
+  {
+   "id": "GAME_BIN:35C54",
+   "max": 94,
+   "en": "＠０８３＿０１１＊Natsuno＊Morning. You okay?￥Don't push yourself￥too hard, all right?＞"
+  },
+  {
+   "id": "GAME_BIN:35CB4",
+   "max": 94,
+   "en": "＠０８３＿０１０＊Natsuno＊Morning!￥You look totally fired up!￥I can't fall behind!＞"
+  },
+  {
+   "id": "GAME_BIN:35D14",
+   "max": 90,
+   "en": "＠０８３＿０１３＊Natsuno＊Morning.￥We sure do meet a lot...￥Or is it just me?＞"
+  },
+  {
+   "id": "GAME_BIN:35D70",
+   "max": 84,
+   "en": "＠０８３＿０１２＊Natsuno＊Morning!￥Same training as you?￥I'm so glad!＞"
+  },
+  {
+   "id": "GAME_BIN:35DC8",
+   "max": 88,
+   "en": "＠０８３＿０１５＊Natsuno＊Morning.￥Oh, looks like we picked￥the same training.＞"
+  },
+  {
+   "id": "GAME_BIN:35E24",
+   "max": 106,
+   "en": "＠０８３＿０１４＊Natsuno＊Morning! You seem in top form!￥With you around,￥I might do well too!＞"
+  },
+  {
+   "id": "GAME_BIN:35E90",
+   "max": 92,
+   "en": "＠０８３＿０１７＊Natsuno＊Morning...￥We really do meet a lot.￥I wonder why?＞"
+  },
+  {
+   "id": "GAME_BIN:35EF0",
+   "max": 84,
+   "en": "＠０８３＿０１６＊Natsuno＊Morning!￥I've got a feeling￥today's gonna be great!＞"
+  },
+  {
+   "id": "GAME_BIN:35F48",
+   "max": 26,
+   "en": "＊Natsuno＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:35F64",
+   "max": 26,
+   "en": "＊Natsuno＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:35F80",
+   "max": 26,
+   "en": "＊Natsuno＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:35F9C",
+   "max": 22,
+   "en": "＊Natsuno＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:35FB4",
+   "max": 26,
+   "en": "＊Natsuno＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:35FD0",
+   "max": 22,
+   "en": "＊Natsuno＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:35FE8",
+   "max": 26,
+   "en": "＊Natsuno＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36004",
+   "max": 22,
+   "en": "＊Natsuno＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:3601C",
+   "max": 26,
+   "en": "＊Natsuno＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36038",
+   "max": 22,
+   "en": "＊Natsuno＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:36050",
+   "max": 26,
+   "en": "＊Natsuno＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:3606C",
+   "max": 22,
+   "en": "＊Natsuno＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:36084",
+   "max": 26,
+   "en": "＊Natsuno＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:360A0",
+   "max": 22,
+   "en": "＊Natsuno＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:36128",
+   "max": 370,
+   "en": "”３＊Tomoe＊＠１８５＿００１Um... excuse me...￥Are you a candidate too?＝”４＠１８５＿００２It's nice to meet you.￥My name is Tomoe.＝”３＠１８５＿００３Um... I've never lived with￥other people before, so...＝＠１８５＿００４I may cause you some￥trouble, but...＝”５＠１８５＿００５I'll do my best, so I hope￥we can get along.＞"
+  },
+  {
+   "id": "GAME_BIN:3629C",
+   "max": 112,
+   "en": "＠１８５＿０１８＊Tomoe＊Good morning.￥I was hoping I'd see you today.￥I'm glad.＞"
+  },
+  {
+   "id": "GAME_BIN:36310",
+   "max": 62,
+   "en": "＠１８５＿００７＊Tomoe＊Oh...￥G-good morning...＞"
+  },
+  {
+   "id": "GAME_BIN:36350",
+   "max": 100,
+   "en": "＠１８５＿００６＊Tomoe＊Oh... good morning.￥So today we're...￥in the same training.＞"
+  },
+  {
+   "id": "GAME_BIN:363B8",
+   "max": 80,
+   "en": "＠１８５＿００９＊Tomoe＊Good morning.￥What a coincidence to see you.＞"
+  },
+  {
+   "id": "GAME_BIN:3640C",
+   "max": 82,
+   "en": "＠１８５＿００８＊Tomoe＊Good morning.￥Are you training here today?＞"
+  },
+  {
+   "id": "GAME_BIN:36460",
+   "max": 76,
+   "en": "＠１８５＿０１１＊Tomoe＊Good morning.￥You're here today too?＞"
+  },
+  {
+   "id": "GAME_BIN:364B0",
+   "max": 74,
+   "en": "＠１８５＿０１０＊Tomoe＊Good morning.￥Let's do our best today.＞"
+  },
+  {
+   "id": "GAME_BIN:364FC",
+   "max": 74,
+   "en": "＠１８５＿０１３＊Tomoe＊Good morning.￥How have you been lately?＞"
+  },
+  {
+   "id": "GAME_BIN:36548",
+   "max": 80,
+   "en": "＠１８５＿０１２＊Tomoe＊Good morning.￥We seem to meet often lately.＞"
+  },
+  {
+   "id": "GAME_BIN:3659C",
+   "max": 84,
+   "en": "＠１８５＿０１５＊Tomoe＊Oh... good morning.￥We meet often lately, don't we?＞"
+  },
+  {
+   "id": "GAME_BIN:365F4",
+   "max": 78,
+   "en": "＠１８５＿０１４＊Tomoe＊Good morning.￥Let's do our best again today.＞"
+  },
+  {
+   "id": "GAME_BIN:36644",
+   "max": 100,
+   "en": "＠１８５＿０１７＊Tomoe＊Good morning.￥So you're training￥here today too...＞"
+  },
+  {
+   "id": "GAME_BIN:366AC",
+   "max": 84,
+   "en": "＠１８５＿０１６＊Tomoe＊Oh, good morning.￥So we're together today.＞"
+  },
+  {
+   "id": "GAME_BIN:36704",
+   "max": 26,
+   "en": "＊Tomoe＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36720",
+   "max": 26,
+   "en": "＊Tomoe＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:3673C",
+   "max": 26,
+   "en": "＊Tomoe＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36758",
+   "max": 22,
+   "en": "＊Tomoe＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:36770",
+   "max": 26,
+   "en": "＊Tomoe＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:3678C",
+   "max": 22,
+   "en": "＊Tomoe＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:367A4",
+   "max": 26,
+   "en": "＊Tomoe＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:367C0",
+   "max": 22,
+   "en": "＊Tomoe＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:367D8",
+   "max": 26,
+   "en": "＊Tomoe＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:367F4",
+   "max": 22,
+   "en": "＊Tomoe＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:3680C",
+   "max": 26,
+   "en": "＊Tomoe＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36828",
+   "max": 22,
+   "en": "＊Tomoe＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:36840",
+   "max": 26,
+   "en": "＊Tomoe＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:3685C",
+   "max": 22,
+   "en": "＊Tomoe＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:368E4",
+   "max": 534,
+   "en": "＊Riko＊＠１０４＿００１”０Oh? You're a candidate?￥Huh. Could've fooled me.＝”１＠１０４＿００２I'm Riko.￥You'd better remember that.＝”２＠１０４＿００３As a candidate, all I'm going￥to do is keep moving forward!＝”１＠１０４＿００４While I'm at it, let me make￥one thing clear...＝＠１０４＿００５I have no intention of￥getting chummy with you people!￥Don't get the wrong idea!＝”０＠１０４＿００６Sorry, but if you talk to me￥that casually again,￥I won't answer!＝＠１０４＿００７Bye!＞"
+  },
+  {
+   "id": "GAME_BIN:36AFC",
+   "max": 106,
+   "en": "＠１０４＿０２０＊Riko＊Oh, morning! Thank goodness.￥I was hoping you'd￥come here...＞"
+  },
+  {
+   "id": "GAME_BIN:36B68",
+   "max": 90,
+   "en": "＠１０４＿００９＊Riko＊What? Don't go staring￥at my face so early￥in the morning!＞"
+  },
+  {
+   "id": "GAME_BIN:36BC4",
+   "max": 68,
+   "en": "＠１０４＿００８＊Riko＊Oh, it's you.￥Same place today, I see.＞"
+  },
+  {
+   "id": "GAME_BIN:36C0C",
+   "max": 94,
+   "en": "＠１０４＿０１１＊Riko＊Oh. Looks like I'm stuck￥training with you today.＞"
+  },
+  {
+   "id": "GAME_BIN:36C6C",
+   "max": 82,
+   "en": "＠１０４＿０１０＊Riko＊Oh, you're here too?￥Hmph, well, better work hard.＞"
+  },
+  {
+   "id": "GAME_BIN:36CC0",
+   "max": 68,
+   "en": "＠１０４＿０１３＊Riko＊Morning.￥Why are you here today too?＞"
+  },
+  {
+   "id": "GAME_BIN:36D08",
+   "max": 92,
+   "en": "＠１０４＿０１２＊Riko＊Oh, morning.￥Picking the same training?￥What a coincidence!＞"
+  },
+  {
+   "id": "GAME_BIN:36D68",
+   "max": 78,
+   "en": "＠１０４＿０１５＊Riko＊You know,￥you shouldn't push￥yourself too hard.＞"
+  },
+  {
+   "id": "GAME_BIN:36DB8",
+   "max": 96,
+   "en": "＠１０４＿０１４＊Riko＊Oh, morning!￥Same training all day.￥Let's both do our best!＞"
+  },
+  {
+   "id": "GAME_BIN:36E1C",
+   "max": 74,
+   "en": "＠１０４＿０１７＊Riko＊You sure keep at it.￥Well, do your best-ish!＞"
+  },
+  {
+   "id": "GAME_BIN:36E68",
+   "max": 84,
+   "en": "＠１０４＿０１６＊Riko＊Morning!￥I feel like today's￥gonna be a good day!＞"
+  },
+  {
+   "id": "GAME_BIN:36EC0",
+   "max": 64,
+   "en": "＠１０４＿０１９＊Riko＊Get fired up and￥work hard today!＞"
+  },
+  {
+   "id": "GAME_BIN:36F04",
+   "max": 106,
+   "en": "＠１０４＿０１８＊Riko＊Morning! I had a feeling￥we'd have the same training!￥My hunch was right!＞"
+  },
+  {
+   "id": "GAME_BIN:36F70",
+   "max": 24,
+   "en": "＊Riko＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36F8C",
+   "max": 24,
+   "en": "＊Riko＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36FA8",
+   "max": 24,
+   "en": "＊Riko＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36FC4",
+   "max": 20,
+   "en": "＊Riko＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:36FDC",
+   "max": 24,
+   "en": "＊Riko＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:36FF8",
+   "max": 20,
+   "en": "＊Riko＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:37010",
+   "max": 24,
+   "en": "＊Riko＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:3702C",
+   "max": 20,
+   "en": "＊Riko＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:37044",
+   "max": 24,
+   "en": "＊Riko＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:37060",
+   "max": 20,
+   "en": "＊Riko＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:37078",
+   "max": 24,
+   "en": "＊Riko＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:37094",
+   "max": 20,
+   "en": "＊Riko＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:370AC",
+   "max": 24,
+   "en": "＊Riko＊\"Hey, ；.＞"
+  },
+  {
+   "id": "GAME_BIN:370C8",
+   "max": 20,
+   "en": "＊Riko＊\"Hey!＞"
+  },
+  {
+   "id": "GAME_BIN:37150",
+   "max": 526,
+   "en": "＊Kaname＊＠１３５＿００１”１Nice to meet you...＝”３＠１３５＿００２Just kidding! Hehe.￥Long time no see, Cousin.￥You do remember me, right?＝＠２１１＿０１２It's your cute cousin, Kaname!￥”１The last time we saw each other￥was eight whole years ago!＝＠１３５＿００４When I saw your name on the￥list, I was sooo happy!＝”４＠１３５＿００５Now I can see you anytime,￥just like old times...＝”２＠１３５＿００６And from now on, not just as￥cousins, but as fellow￥candidates! Let's get along!＞"
+  },
+  {
+   "id": "GAME_BIN:37360",
+   "max": 104,
+   "en": "＊Kaname＊＠１３５＿０２０Morning, Cousin!!￥Yay! I was just thinking￥I wanted to see you today!＞"
+  },
+  {
+   "id": "GAME_BIN:373CC",
+   "max": 98,
+   "en": "＠１３５＿００８＊Kaname＊Morning, Cousin.￥We're training together today.￥Better work hard!＞"
+  },
+  {
+   "id": "GAME_BIN:37430",
+   "max": 110,
+   "en": "＠１３５＿００７＊Kaname＊Morning, Cousin!!￥Seeing you first thing in the￥morning? I must be lucky!＞"
+  },
+  {
+   "id": "GAME_BIN:374A0",
+   "max": 86,
+   "en": "＠１３５＿０１０＊Kaname＊Morning, Cousin.￥Um...￥You've got bedhead...＞"
+  },
+  {
+   "id": "GAME_BIN:374F8",
+   "max": 104,
+   "en": "＠１３５＿００９＊Kaname＊Morning, Cousin!￥With you here, I feel like￥I can try even harder!＞"
+  },
+  {
+   "id": "GAME_BIN:37564",
+   "max": 76,
+   "en": "＠１３５＿０１２＊Kaname＊Morning, Cousin.￥We really do meet a lot.＞"
+  },
+  {
+   "id": "GAME_BIN:375B4",
+   "max": 98,
+   "en": "＠１３５＿０１１＊Kaname＊Morning, Cousin!￥Let's work hard together today!￥Let's go!!＞"
+  },
+  {
+   "id": "GAME_BIN:37618",
+   "max": 98,
+   "en": "＠１３５＿０１４＊Kaname＊Morning. We meet often, but￥are you doing your other￥training too?＞"
+  },
+  {
+   "id": "GAME_BIN:3767C",
+   "max": 104,
+   "en": "＠１３５＿０１３＊Kaname＊Morning! Thank goodness...￥I knew if I came here,￥I'd get to see you!＞"
+  },
+  {
+   "id": "GAME_BIN:376E8",
+   "max": 82,
+   "en": "＠１３５＿０１７＊Kaname＊Mornin', Cousin.￥Must be nice, always so peppy.＞"
+  },
+  {
+   "id": "GAME_BIN:3773C",
+   "max": 102,
+   "en": "＠１３５＿０１５＊Kaname＊Morning, Cousin!￥Today, for some reason, you￥look kinda cool to me!＞"
+  },
+  {
+   "id": "GAME_BIN:377A4",
+   "max": 110,
+   "en": "＠１３５＿０１９＊Kaname＊Mornin', Cousin...￥We sure meet a lot. Could it be￥you're following me around?＞"
+  },
+  {
+   "id": "GAME_BIN:37814",
+   "max": 108,
+   "en": "＠１３５＿０１８＊Kaname＊Morning, Cousin!!￥Your \"good morning\" is what￥gives me energy every day!＞"
+  },
+  {
+   "id": "GAME_BIN:37884",
+   "max": 526,
+   "en": "＊Kaname＊＠１３５＿００１”１Nice to meet you...＝”３＠１３５＿００２Just kidding! Hehe.￥Long time no see, Cousin.￥You do remember me, right?＝＠２１１＿０１２It's your cute cousin, Kaname!￥”１The last time we saw each other￥was eight whole years ago!＝＠１３５＿００４When I saw your name on the￥list, I was sooo happy!＝”４＠１３５＿００５Now I can see you anytime,￥just like old times...＝”２＠１３５＿００６And from now on, not just as￥cousins, but as fellow￥candidates! Let's get along!＞"
+  },
+  {
+   "id": "GAME_BIN:37A94",
+   "max": 104,
+   "en": "＊Kaname＊＠１３５＿０２０Morning, Cousin!!￥Yay! I was just thinking￥I wanted to see you today!＞"
+  },
+  {
+   "id": "GAME_BIN:37B00",
+   "max": 98,
+   "en": "＠１３５＿００８＊Kaname＊Morning, Cousin.￥We're training together today.￥Better work hard!＞"
+  },
+  {
+   "id": "GAME_BIN:37B64",
+   "max": 110,
+   "en": "＠１３５＿００７＊Kaname＊Morning, Cousin!!￥Seeing you first thing in the￥morning? I must be lucky!＞"
+  },
+  {
+   "id": "GAME_BIN:37BD4",
+   "max": 86,
+   "en": "＠１３５＿０１０＊Kaname＊Morning, Cousin.￥Um...￥You've got bedhead...＞"
+  },
+  {
+   "id": "GAME_BIN:37C2C",
+   "max": 104,
+   "en": "＠１３５＿００９＊Kaname＊Morning, Cousin!￥With you here, I feel like￥I can try even harder!＞"
+  },
+  {
+   "id": "GAME_BIN:37C98",
+   "max": 76,
+   "en": "＠１３５＿０１２＊Kaname＊Morning, Cousin.￥We really do meet a lot.＞"
+  },
+  {
+   "id": "GAME_BIN:37CE8",
+   "max": 98,
+   "en": "＠１３５＿０１１＊Kaname＊Morning, Cousin!￥Let's work hard together today!￥Let's go!!＞"
+  },
+  {
+   "id": "GAME_BIN:37D4C",
+   "max": 98,
+   "en": "＠１３５＿０１４＊Kaname＊Morning. We meet often, but￥are you doing your other￥training too?＞"
+  },
+  {
+   "id": "GAME_BIN:37DB0",
+   "max": 104,
+   "en": "＠１３５＿０１３＊Kaname＊Morning! Thank goodness...￥I knew if I came here,￥I'd get to see you!＞"
+  },
+  {
+   "id": "GAME_BIN:37E1C",
+   "max": 82,
+   "en": "＠１３５＿０１７＊Kaname＊Mornin', Cousin.￥Must be nice, always so peppy.＞"
+  },
+  {
+   "id": "GAME_BIN:37E70",
+   "max": 102,
+   "en": "＠１３５＿０１５＊Kaname＊Morning, Cousin!￥Today, for some reason, you￥look kinda cool to me!＞"
+  },
+  {
+   "id": "GAME_BIN:37ED8",
+   "max": 110,
+   "en": "＠１３５＿０１９＊Kaname＊Mornin', Cousin...￥We sure meet a lot. Could it be￥you're following me around?＞"
+  },
+  {
+   "id": "GAME_BIN:37F48",
+   "max": 108,
+   "en": "＠１３５＿０１８＊Kaname＊Morning, Cousin!!￥Your \"good morning\" is what￥gives me energy every day!＞"
+  },
+  {
+   "id": "GAME_BIN:38028",
+   "max": 488,
+   "en": "＊Narusawa＊”２＠１４９＿００１Ah, good morning.￥We've met, but this is our￥first real talk.＝”１＠１４９＿００２I'm Kazuya Narusawa.￥Good to meet you.＝”２＠１４９＿００３Used to life here yet?＝＠１４９＿００４Like I said, the facility￥has plenty of problems,＝＠１４９＿００５but we're fixing them,￥so bear with us.＝”３＠１４９＿００６Sorry...＝”２＠１４９＿００７Now then, you came to train,￥right? Get to it.＞"
+  },
+  {
+   "id": "GAME_BIN:38214",
+   "max": 90,
+   "en": "＠１４９＿２１＊Narusawa＊Quit wandering around and￥get started on your training!＞"
+  },
+  {
+   "id": "GAME_BIN:38270",
+   "max": 222,
+   "en": "＠１４９＿０８＊Narusawa＊Morning! You're doing well￥lately. Good sign!＝＠１４９＿０９Reaching the top of this group￥is no easy feat.＝＠１４９＿１０Work hard and set an example!＞"
+  },
+  {
+   "id": "GAME_BIN:38350",
+   "max": 174,
+   "en": "＠１４９＿１１＊Narusawa＊Ah, morning! Looks like you're￥getting some really good grades.＝＠１４９＿１２But don't let your guard down.￥Train even harder.＞"
+  },
+  {
+   "id": "GAME_BIN:38400",
+   "max": 200,
+   "en": "＠１４９＿１３＊Narusawa＊Morning.￥How's it going?＝＠１４９＿１４You seem to be working hard,￥but it's not showing￥in your results.＝＠１４９＿１５Make sure your effort pays off!＞"
+  },
+  {
+   "id": "GAME_BIN:384CC",
+   "max": 180,
+   "en": "＠１４９＿１６＊Narusawa＊Morning! Have you been￥training hard lately?＝＠１４９＿１７Slacking off just wastes￥your time.＝＠１４９＿１８Focus, and give it your all!＞"
+  },
+  {
+   "id": "GAME_BIN:38584",
+   "max": 140,
+   "en": "＠１４９＿１９＊Narusawa＊Ah, morning...￥Are you even motivated?＝＠１４９＿２０Get serious and put more￥into your training!＞"
+  },
+  {
+   "id": "GAME_BIN:38614",
+   "max": 342,
+   "en": "＊Narusawa＊Morning. I introduced myself,￥but we haven't really talked.＝I'm Kazuya Narusawa.￥Nice to meet you.＝Getting used to life here yet?＝As I said, the facility has￥plenty of problems...＝We're working on it,￥so bear with us.＝Now, you came here to train,￥right? Get to it.＞"
+  },
+  {
+   "id": "GAME_BIN:3876C",
+   "max": 76,
+   "en": "＊Narusawa＊Quit wandering around and￥get started on your training!＞"
+  },
+  {
+   "id": "GAME_BIN:387BC",
+   "max": 170,
+   "en": "＊Narusawa＊Morning! You're doing well￥lately. Good sign!＝Reaching the top of this group￥is no easy feat.＝Work hard and set an example!＞"
+  },
+  {
+   "id": "GAME_BIN:38868",
+   "max": 146,
+   "en": "＊Narusawa＊Ah, morning! Looks like you're￥getting some really good grades.＝But don't let your guard down.￥Train even harder.＞"
+  },
+  {
+   "id": "GAME_BIN:388FC",
+   "max": 158,
+   "en": "＊Narusawa＊Morning.￥How's it going?＝You seem to be working hard,￥but it's not showing￥in your results.＝Make sure your effort pays off!＞"
+  },
+  {
+   "id": "GAME_BIN:3899C",
+   "max": 138,
+   "en": "＊Narusawa＊Morning! Have you been￥training hard lately?＝Slacking off just wastes￥your time.＝Focus, and give it your all!＞"
+  },
+  {
+   "id": "GAME_BIN:38A28",
+   "max": 112,
+   "en": "＊Narusawa＊Ah, morning...￥Are you even motivated?＝Get serious and put more￥into your training!＞"
+  },
+  {
+   "id": "GAME_BIN:38AD4",
+   "max": 394,
+   "en": "＊Sakaki＊＠１５９＿００１”３Oh, good morning.￥We've met, but this is our￥first proper chat, isn't it?＝”４＠１５９＿００２I'm Yuri Sakaki.￥If anything bothers you about￥life here...＝＠１５９＿００３let me or the other supervisor￥know.＝”２＠１５９＿００４We supervisors are here￥to support your life￥on the station.＝”３＠１５９＿００５Well, do your best today too.＞"
+  },
+  {
+   "id": "GAME_BIN:38C60",
+   "max": 102,
+   "en": "＠１５９＿０２０＊Sakaki＊You can't chat forever.￥Time to get started on￥your training.＞"
+  },
+  {
+   "id": "GAME_BIN:38CC8",
+   "max": 222,
+   "en": "＠１５９＿００６＊Sakaki＊Oh, morning! Working hard￥as always, I see.＝＠１５９＿００７Even on top, you don't let up.￥Such ambition--I'm impressed!＝＠１５９＿００８But don't overdo it and￥wear yourself out!＞"
+  },
+  {
+   "id": "GAME_BIN:38DA8",
+   "max": 202,
+   "en": "＠１５９＿００９＊Sakaki＊Morning.￥You're doing well lately.＝＠１５９＿０１０Is your training balanced?＝＠１５９＿０１１A little more effort, and the￥top spot could be yours.￥Good luck!＞"
+  },
+  {
+   "id": "GAME_BIN:38E74",
+   "max": 184,
+   "en": "＠１５９＿０１２＊Sakaki＊Good morning.￥Do your best today.＝＠１５９＿０１３If you focus more, I think you￥could reach the upper ranks.￥And work with the others more.＞"
+  },
+  {
+   "id": "GAME_BIN:38F30",
+   "max": 286,
+   "en": "＠１５９＿０１４＊Sakaki＊Good morning.￥How are you doing?＝＠１５９＿０１５Do you plan your training with￥your condition each day in mind?＝＠１５９＿０１６If you plan to train￥efficiently, I think you'll see￥much better results.＝＠１５９＿０１７Good luck!＞"
+  },
+  {
+   "id": "GAME_BIN:39050",
+   "max": 166,
+   "en": "＠１５９＿０１８＊Sakaki＊Morning...￥Should you be chatting with me?＝＠１５９＿０１９Instead, I'd like you to put￥more effort into your training!＞"
+  },
+  {
+   "id": "GAME_BIN:390F8",
+   "max": 298,
+   "en": "＊Sakaki＊Oh, good morning.＝I introduced myself, but this is￥our first real talk, isn't it?＝I'm Yuri Sakaki.￥If you ever have trouble￥with life here...＝let me or the other supervisor￥know.＝We supervisors are here￥to support your life￥on the station.＝Well, do your best today.＞"
+  },
+  {
+   "id": "GAME_BIN:39224",
+   "max": 86,
+   "en": "＊Sakaki＊You can't chat forever.￥Time to get started on￥your training.＞"
+  },
+  {
+   "id": "GAME_BIN:3927C",
+   "max": 174,
+   "en": "＊Sakaki＊Oh, morning! Working hard￥as always, I see.＝Even on top, you don't let up.￥Such ambition--I'm impressed!＝But don't overdo it and￥wear yourself out!＞"
+  },
+  {
+   "id": "GAME_BIN:3932C",
+   "max": 154,
+   "en": "＊Sakaki＊Morning.￥You're doing well lately.＝Is your training balanced?＝A little more effort, and the￥top spot could be yours.￥Good luck!＞"
+  },
+  {
+   "id": "GAME_BIN:393C8",
+   "max": 152,
+   "en": "＊Sakaki＊Good morning.￥Do your best today.＝If you focus more, I think you￥could reach the upper ranks.￥And work with the others more.＞"
+  },
+  {
+   "id": "GAME_BIN:39464",
+   "max": 222,
+   "en": "＊Sakaki＊Good morning.￥How are you doing?＝Do you plan your training with￥your condition each day in mind?＝If you plan to train￥efficiently, I think you'll see￥much better results.＝Good luck!＞"
+  },
+  {
+   "id": "GAME_BIN:39544",
+   "max": 134,
+   "en": "＊Sakaki＊Morning...￥Should you be chatting with me?＝Instead, I'd like you to put￥more effort into your training!＞"
+  },
+  {
+   "id": "GAME_BIN:3AEF0",
+   "max": 126,
+   "en": "｛１－　Your Room　－｛０￥￥Each fixture has its own use.￥Move with the D-pad and press￥Circle to examine things.＞"
+  },
+  {
+   "id": "GAME_BIN:3AF70",
+   "max": 188,
+   "en": "｛１－　Training Facility　－｛０￥￥Use the facility's equipment￥to train.￥￥- It's also a place to talk with￥  the other candidates. Go ahead￥  and strike up a conversation.＞"
+  },
+  {
+   "id": "GAME_BIN:3B030",
+   "max": 164,
+   "en": "｛１－　Joint Training　－｛０￥￥The one with the higher stat￥\"coaches\" to close the gap.￥￥- Best with someone who￥  \"thinks well\" of you.＞"
+  },
+  {
+   "id": "GAME_BIN:3B0D8",
+   "max": 134,
+   "en": "｛１－　Training　－｛０￥￥Trains the stats assigned to￥each facility.￥￥- Results change depending on￥  your Stress level.＞"
+  },
+  {
+   "id": "GAME_BIN:3B160",
+   "max": 164,
+   "en": "｛１－　Talk　－｛０￥￥Talk with candidates to bond.￥Choices can change their \"mood\"￥and how much they like you.＞"
+  },
+  {
+   "id": "GAME_BIN:3B208",
+   "max": 174,
+   "en": "｛１－　Collapse　－｛０￥￥If you collapse, you're forced￥to \"Rest\" for several days...￥￥- Your Stress decides how easily￥  you collapse.￥  ...Take care!＞"
+  },
+  {
+   "id": "GAME_BIN:3B2B8",
+   "max": 162,
+   "en": "｛１－　Bed　－｛０￥￥\"Load\" and \"Save\" load or save￥your progress.￥\"Rest\" lowers your Stress.￥- Resting passes one day.＞"
+  },
+  {
+   "id": "GAME_BIN:3B35C",
+   "max": 148,
+   "en": "｛１－　Console　－｛０￥￥View the stats needed for the￥\"Exam\" held at month's end.￥￥The monthly exam is based on￥the 3 stats shown here.＞"
+  },
+  {
+   "id": "GAME_BIN:3B3F4",
+   "max": 182,
+   "en": "｛１－　Send Mail　－｛０￥￥There's a short lag, but it can￥greatly sway a candidate's mood.￥￥- Best for those you rarely see.￥￥- Sending mail uses up one day.＞"
+  },
+  {
+   "id": "GAME_BIN:3B4AC",
+   "max": 84,
+   "en": "｛１－　Window Monitor　－｛０￥￥Shows the date, days left,￥and your rank.＞"
+  },
+  {
+   "id": "GAME_BIN:3B504",
+   "max": 78,
+   "en": "｛１－　Terminal　－｛０￥￥Change message speed￥and volume settings.＞"
+  },
+  {
+   "id": "GAME_BIN:3B554",
+   "max": 142,
+   "en": "｛１－　Door　－｛０￥￥Go to a \"facility\" to train￥your stats.￥￥- After you go, you can't return￥  to your room until you train.＞"
+  },
+  {
+   "id": "GAME_BIN:3B5E4",
+   "max": 88,
+   "en": "｛１－　Talk　－｛０￥￥Press Left/Right to change￥your \"attitude.\"＞"
+  },
+  {
+   "id": "GAME_BIN:3B9F8",
+   "max": 64,
+   "en": "Project Elan files are￥lined up here.｝￥What a pile...＞"
+  },
+  {
+   "id": "GAME_BIN:3BA3C",
+   "max": 60,
+   "en": "A potted plant.￥Might be time to water it...＞"
+  },
+  {
+   "id": "GAME_BIN:3BA7C",
+   "max": 50,
+   "en": "My favorite stuffed toy~￥What should I name it?＞"
+  },
+  {
+   "id": "GAME_BIN:3BAB0",
+   "max": 40,
+   "en": "A hard bench.￥Too early to rest!＞"
+  },
+  {
+   "id": "GAME_BIN:3BADC",
+   "max": 68,
+   "en": "A sports drink cup.￥There's still a little left...＞"
+  },
+  {
+   "id": "GAME_BIN:3BB24",
+   "max": 60,
+   "en": "Poster graffiti...￥\"Calm mind builds Stamina!\"＞"
+  },
+  {
+   "id": "GAME_BIN:3BB64",
+   "max": 50,
+   "en": "A hologram projector.￥So this is nature...＞"
+  },
+  {
+   "id": "GAME_BIN:3BB98",
+   "max": 58,
+   "en": "A wireless scale.￥Says it reads height￥and weight...＞"
+  },
+  {
+   "id": "GAME_BIN:3BBD4",
+   "max": 54,
+   "en": "An old barbell.￥Looks like nobody uses it.＞"
+  },
+  {
+   "id": "GAME_BIN:3BC0C",
+   "max": 46,
+   "en": "A locker.￥I wonder what's inside...＞"
+  },
+  {
+   "id": "GAME_BIN:3BC3C",
+   "max": 86,
+   "en": "A memo on the sofa.￥\"When you're frustrated,￥  Strength training is best.\"＞"
+  },
+  {
+   "id": "GAME_BIN:3BC94",
+   "max": 68,
+   "en": "A memo on the floor.￥\"In a good mood,￥  studying goes better.\"＞"
+  },
+  {
+   "id": "GAME_BIN:3BCDC",
+   "max": 46,
+   "en": "An old map of Earth.￥What a weird shape...＞"
+  },
+  {
+   "id": "GAME_BIN:3BD0C",
+   "max": 56,
+   "en": "Something big is￥spinning.￥What on earth is it?＞"
+  },
+  {
+   "id": "GAME_BIN:3BD48",
+   "max": 60,
+   "en": "A potted plant.￥Who takes care￥of it, I wonder...＞"
+  },
+  {
+   "id": "GAME_BIN:3BD88",
+   "max": 50,
+   "en": "An old tank.￥Could be risky￥to touch...＞"
+  },
+  {
+   "id": "GAME_BIN:3BDBC",
+   "max": 58,
+   "en": "A toolbox.￥There's a well-worn￥wrench in it.＞"
+  },
+  {
+   "id": "GAME_BIN:3BDF8",
+   "max": 78,
+   "en": "Something's displayed.￥\"For precise maintenance,￥  first calm your mind!\"＞"
+  },
+  {
+   "id": "GAME_BIN:3BE48",
+   "max": 56,
+   "en": "A big container...￥Full of all kinds of supplies.＞"
+  },
+  {
+   "id": "GAME_BIN:3BE84",
+   "max": 44,
+   "en": "A fuel tank.￥No open flames...＞"
+  },
+  {
+   "id": "GAME_BIN:3BEB4",
+   "max": 70,
+   "en": "Looks like a fuel tank,￥but it's an extinguisher.￥Confusing...＞"
+  },
+  {
+   "id": "GAME_BIN:3BEFC",
+   "max": 78,
+   "en": "Carved on a toolbox:￥\"When irritated, nothing￥  beats piloting a Worker!\"＞"
+  },
+  {
+   "id": "GAME_BIN:3BF4C",
+   "max": 78,
+   "en": "Workers lined up￥under the lights.￥Their power units seem off now.＞"
+  },
+  {
+   "id": "GAME_BIN:3BF9C",
+   "max": 68,
+   "en": "Two plain beds.￥For when someone￥feels sick...?＞"
+  },
+  {
+   "id": "GAME_BIN:3BFE4",
+   "max": 62,
+   "en": "Medicines lined up.￥They seem to be locked￥up tight.＞"
+  },
+  {
+   "id": "GAME_BIN:3C024",
+   "max": 66,
+   "en": "An industrial cleaner.￥It's seen a lot of use...＞"
+  },
+  {
+   "id": "GAME_BIN:3C068",
+   "max": 82,
+   "en": "Data on display.￥\"When sad, one's Sense￥  is often sharper.\"＞"
+  },
+  {
+   "id": "GAME_BIN:3C0BC",
+   "max": 82,
+   "en": "A memo inside...￥\"A happy mood really￥  hones your Judgment!\"＞"
+  },
+  {
+   "id": "GAME_BIN:3C110",
+   "max": 66,
+   "en": "Simulator No. 1.￥A high score is saved...￥\"Riko\"＞"
+  },
+  {
+   "id": "GAME_BIN:3C154",
+   "max": 72,
+   "en": "Simulator No. 2.￥Each simulator seems to￥have its own quirks.＞"
+  },
+  {
+   "id": "GAME_BIN:3C1A0",
+   "max": 62,
+   "en": "A map of this system.￥The way to Elan￥isn't on it...＞"
+  },
+  {
+   "id": "GAME_BIN:3C1E0",
+   "max": 62,
+   "en": "Anti-G suits.￥Training is apparently￥done without them...＞"
+  },
+  {
+   "id": "GAME_BIN:3C220",
+   "max": 64,
+   "en": "A thick wall.￥Beyond it, gravity is￥many times stronger...＞"
+  },
+  {
+   "id": "GAME_BIN:3C264",
+   "max": 58,
+   "en": "A gravity control console.￥－Current gravity: 4G－＞"
+  },
+  {
+   "id": "GAME_BIN:3C2A0",
+   "max": 92,
+   "en": "Words on the backrest.￥\"When you're sad, your Grit￥  really shows, right?\"＞"
+  },
+  {
+   "id": "GAME_BIN:3C300",
+   "max": 70,
+   "en": "A locker.￥About 20 spare ribbons￥and uniforms inside...＞"
+  }
+ ]
+}

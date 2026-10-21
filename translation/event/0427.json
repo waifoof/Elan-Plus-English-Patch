@@ -1,0 +1,376 @@
+{
+ "entry": 427,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0427:00014",
+   "end": "818400",
+   "en": "＊＊－　Corridor　－"
+  },
+  {
+   "id": "0427:0002D",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０１０Huh?￥So this is where you were.＝＠１８２＿０１１Tomoe was looking for you￥earlier. She seemed kind of￥desperate."
+  },
+  {
+   "id": "0427:000C4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０１２That shy girl... she's really￥gotten attached to you."
+  },
+  {
+   "id": "0427:0011D",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０１３She's seemed different￥lately, right? Like she's￥gotten stronger?"
+  },
+  {
+   "id": "0427:00184",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０１４Oh!｝￥＠１８２＿０１５Speak of the devil,￥it's Tomoe.＝＠１８２＿０１６Hey! Tomoe!￥Over here!"
+  },
+  {
+   "id": "0427:0020D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0427:00221",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０１７Hello.￥Oh, I'm so glad￥I ran into you here."
+  },
+  {
+   "id": "0427:00274",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０１８Oh... is now a good time?￥Weren't you two in the middle￥of talking...?"
+  },
+  {
+   "id": "0427:002D2.0",
+   "choice": true,
+   "en": "It's fine, right, Yoh?"
+  },
+  {
+   "id": "0427:002D2.1",
+   "choice": true,
+   "en": "We were discussing you."
+  },
+  {
+   "id": "0427:00300.0",
+   "choice": true,
+   "en": "It's fine, right, Yoh?"
+  },
+  {
+   "id": "0427:00300.1",
+   "choice": true,
+   "en": "We were discussing you."
+  },
+  {
+   "id": "0427:00336",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０１９Of course.￥Besides, we were just￥talking about you, Tomoe."
+  },
+  {
+   "id": "0427:00391",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０２０Huh...?￥R-really...?"
+  },
+  {
+   "id": "0427:003D8",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０２１You've changed lately,￥haven't you, Tomoe? We were￥saying it suits you."
+  },
+  {
+   "id": "0427:0043D",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０２２Oh...￥Thank you very much."
+  },
+  {
+   "id": "0427:00481",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０２３Oh...￥R-really...?"
+  },
+  {
+   "id": "0427:004C4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０２４About how you've gotten￥stronger. I think it's a really￥good look."
+  },
+  {
+   "id": "0427:00525",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０２５Do you think so...?＝..."
+  },
+  {
+   "id": "0427:00568",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０２６Being seen that way...￥it makes me happy."
+  },
+  {
+   "id": "0427:005B8",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０２７Tomoe, you wanted to talk￥to him, right?＝＠１８２＿０２９Well then,￥I'll get out of your way.￥See you, you two~"
+  },
+  {
+   "id": "0427:00656",
+   "end": "818400",
+   "en": "＊Yoh＊＠１８２＿０２８Tomoe, you wanted to talk￥to her, right?＝＠１８２＿０２９Well then,￥I'll get out of your way.￥See you, you two~"
+  },
+  {
+   "id": "0427:006EA",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0427:006F9",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０３０Yoh..."
+  },
+  {
+   "id": "0427:00728",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８２＿０３１Um, could you spare me￥a little time?＝＠１８２＿０３２There's something I want￥to talk to you about."
+  },
+  {
+   "id": "0427:007B1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0427:007C4",
+   "end": "818400",
+   "en": "－　Common Floor　－＝－　； and Tomoe are alone　－"
+  },
+  {
+   "id": "0427:00803",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠１８３＿００１We've been here on Alpha￥for quite a while now."
+  },
+  {
+   "id": "0427:00866",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿００２My reason for taking this exam￥was really simple at first.＝＠１８３＿００３I admired Elan, but going there￥never felt very real to me...＝＠１８３＿００４I think I joined more to find￥out what I was capable of."
+  },
+  {
+   "id": "0427:00983",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿００５What about you...?＝＠１８３＿００６What brought you￥all this way?"
+  },
+  {
+   "id": "0427:00A01.0",
+   "choice": true,
+   "en": "Elan has been my dream."
+  },
+  {
+   "id": "0427:00A01.1",
+   "choice": true,
+   "en": "Got picked, so why not?"
+  },
+  {
+   "id": "0427:00A3B.0",
+   "choice": true,
+   "en": "Elan has been my dream."
+  },
+  {
+   "id": "0427:00A3B.1",
+   "choice": true,
+   "en": "Got picked, so why not?"
+  },
+  {
+   "id": "0427:00A81",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０３１What a wonderful dream.＝＠１８３＿００７We're... closer to that dream￥right now than ever, aren't we?"
+  },
+  {
+   "id": "0427:00AFF",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿００８Is that so?"
+  },
+  {
+   "id": "0427:00B30",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿００９As long as you weren't pushed￥into this by the people around￥you...＝＠１８３＿０１０Carrying everyone's hopes on￥your own is hard, after all..."
+  },
+  {
+   "id": "0427:00BDB",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０１１My reasons were different, but￥my dream now is...＝＠１８３＿０１２to go to Elan, after all.＝＠１８３＿０１３Being here, I've really felt how￥much the planet Elan means..."
+  },
+  {
+   "id": "0427:00CB4",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０１４And through that, I came to￥truly want to go, not for anyone￥else, but for myself."
+  },
+  {
+   "id": "0427:00D27",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０１５I think coming to Alpha has￥changed me.＝＠１８３＿０１６I've learned to find courage,￥and to look at things more￥positively.＝＠１８３＿０１７And also..."
+  },
+  {
+   "id": "0427:00DFE",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０１８There's one thing...￥I've come to understand."
+  },
+  {
+   "id": "0427:00E48.0",
+   "choice": true,
+   "en": "What is it?"
+  },
+  {
+   "id": "0427:00E48.1",
+   "choice": true,
+   "en": "What did you figure out?"
+  },
+  {
+   "id": "0427:00E6E.0",
+   "choice": true,
+   "en": "What is it?"
+  },
+  {
+   "id": "0427:00E6E.1",
+   "choice": true,
+   "en": "What did you figure out?"
+  },
+  {
+   "id": "0427:00E94",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０１９It might be something￥obvious, but..."
+  },
+  {
+   "id": "0427:00EE2",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０２０Please don't laugh.￥It's probably something￥everyone knows..."
+  },
+  {
+   "id": "0427:00F45",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０２１That it's important to face￥things head-on.＝＠１８３＿０２２That if I'm scared and just shut￥myself away, nothing will ever￥begin."
+  },
+  {
+   "id": "0427:0100C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０２３I was able to realize that.＝＠１８３＿０２４And it's all thanks to you."
+  },
+  {
+   "id": "0427:01081",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０２５If I hadn't met someone￥like you...＝＠１８３＿０２６I don't think I could have￥made it this far."
+  },
+  {
+   "id": "0427:0111A",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０２７I'm so glad you're here..."
+  },
+  {
+   "id": "0427:01166.0",
+   "choice": true,
+   "en": "You're making me blush."
+  },
+  {
+   "id": "0427:01166.1",
+   "choice": true,
+   "en": "That was all you, Tomoe."
+  },
+  {
+   "id": "0427:01192.0",
+   "choice": true,
+   "en": "You're making me blush."
+  },
+  {
+   "id": "0427:01192.1",
+   "choice": true,
+   "en": "That was all you, Tomoe."
+  },
+  {
+   "id": "0427:011C6",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０２８It might not seem like much￥to you..."
+  },
+  {
+   "id": "0427:01227",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０２９But I... was happy."
+  },
+  {
+   "id": "0427:01267",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0427:01284",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８３＿０３０Because you were there￥by my side...￥I was able to grow stronger."
+  },
+  {
+   "id": "0427:012E7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８４＿００１I have a favor￥to ask you.￥...Will you hear me out?"
+  },
+  {
+   "id": "0427:01345",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８４＿００２I'd like you to hold on￥to this pendant for me."
+  },
+  {
+   "id": "0427:0139B.0",
+   "choice": true,
+   "en": "Why me?"
+  },
+  {
+   "id": "0427:0139B.1",
+   "choice": true,
+   "en": "But isn't it precious?"
+  },
+  {
+   "id": "0427:013CB.0",
+   "choice": true,
+   "en": "Why me?"
+  },
+  {
+   "id": "0427:013CB.1",
+   "choice": true,
+   "en": "But isn't it precious?"
+  },
+  {
+   "id": "0427:013FD",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0427:01412",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0427:01424",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８４＿００３All this time, I've￥relied completely on this￥pendant, but...＝＠１８４＿００４I don't think I need a place￥to run to anymore.＝＠１８４＿００５So I'd like you to keep it...￥you, who gave me the chance￥to change..."
+  },
+  {
+   "id": "0427:01547",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８４＿００６Yes...￥It holds so many memories.￥But...＝＠１８４＿００７That's exactly why I want￥you to keep it...＝＠１８４＿００８So I can let go of this￥pendant I've been hiding behind￥for so long..."
+  },
+  {
+   "id": "0427:0162A",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８４＿００９I'm going to be strong."
+  },
+  {
+   "id": "0427:01661",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８４＿０１０Until this exam is over,￥I'll give it everything I have.＝＠１８４＿０１１And someday, looking at￥that pendant...＝＠１８４＿０１２I want to be able to talk about￥the weak person I used to be￥as a fond memory..."
+  },
+  {
+   "id": "0427:0174A",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８４＿０１３So... if it's possible...＝＠１８４＿０１４I hope that I can go to￥Elan together with you."
+  },
+  {
+   "id": "0427:017D5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１８４＿０１５That's my... biggest dream￥right now."
+  },
+  {
+   "id": "0427:0181A",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

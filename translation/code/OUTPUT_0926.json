@@ -1,0 +1,26 @@
+{
+ "module": "OUTPUT:0926",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "OUTPUT_0926:00004",
+   "max": 98,
+   "en": "＊Natsuno＊I'd love to keep talking with￥you, but we can't, can we?￥Shall we start training?＞"
+  },
+  {
+   "id": "OUTPUT_0926:00068",
+   "max": 90,
+   "en": "＊Natsuno＊There's no point going on￥about this forever.￥Let's start training.＞"
+  },
+  {
+   "id": "OUTPUT_0926:000C4",
+   "max": 84,
+   "en": "＊Natsuno＊Sorry to cut this short,￥but I think we really￥ought to train now.＞"
+  },
+  {
+   "id": "OUTPUT_0926:0011C",
+   "max": 78,
+   "en": "＊Natsuno＊We could talk all day,￥but it's time we￥started training.＞"
+  }
+ ]
+}

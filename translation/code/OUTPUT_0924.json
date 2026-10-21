@@ -1,0 +1,26 @@
+{
+ "module": "OUTPUT:0924",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "OUTPUT_0924:00004",
+   "max": 82,
+   "en": "＊Kairi＊Talking with you is enjoyable,￥but it's time we began￥our training.＞"
+  },
+  {
+   "id": "OUTPUT_0924:00058",
+   "max": 80,
+   "en": "＊Kairi＊...Never mind that.￥Training is what matters.￥Let's get started.＞"
+  },
+  {
+   "id": "OUTPUT_0924:000AC",
+   "max": 80,
+   "en": "＊Kairi＊Idle chatter gets us nowhere.￥It's time we began training.＞"
+  },
+  {
+   "id": "OUTPUT_0924:00100",
+   "max": 72,
+   "en": "＊Kairi＊...Fine, then.￥I suppose it's time￥to start training...＞"
+  }
+ ]
+}

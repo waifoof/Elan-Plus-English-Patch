@@ -1,0 +1,131 @@
+{
+ "entry": 500,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0500:00022",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿００９Hey!￥Came by to hang out.＝＠２０６＿０１０So, you've been doing great￥lately. Did something happen?"
+  },
+  {
+   "id": "0500:000B8.0",
+   "choice": true,
+   "en": "Nope, same as always..."
+  },
+  {
+   "id": "0500:000B8.1",
+   "choice": true,
+   "en": "That's pure skill!"
+  },
+  {
+   "id": "0500:000E8.0",
+   "choice": true,
+   "en": "Nope, same as always."
+  },
+  {
+   "id": "0500:000E8.1",
+   "choice": true,
+   "en": "That's pure skill!"
+  },
+  {
+   "id": "0500:00118",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１１Really? So doing the same old￥thing, you still beat me at￥my specialty."
+  },
+  {
+   "id": "0500:0017B",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１２That's kind of embarrassing."
+  },
+  {
+   "id": "0500:001B2",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１３You must've had the talent all￥along. I'm jealous."
+  },
+  {
+   "id": "0500:00202",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１４That's some confidence!￥When you put it like that,￥I can't really argue."
+  },
+  {
+   "id": "0500:00265",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１５With that kind of drive, no￥wonder you beat me at my￥specialty."
+  },
+  {
+   "id": "0500:002B2",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１６If some jerk passed me I'd be￥mad, but losing to you doesn't￥feel so bad."
+  },
+  {
+   "id": "0500:0031F",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１７You're amazing.￥Strength was never your strong￥suit to begin with, right?"
+  },
+  {
+   "id": "0500:00382",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１８You must've thrown yourself￥into training way harder￥than I did."
+  },
+  {
+   "id": "0500:003DD",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０１９Coach me sometime! With how￥you're doing now, I bet I'd￥improve faster. Don't you think?"
+  },
+  {
+   "id": "0500:0044D.0",
+   "choice": true,
+   "en": "Leave it to me!"
+  },
+  {
+   "id": "0500:0044D.1",
+   "choice": true,
+   "en": "I couldn't do that."
+  },
+  {
+   "id": "0500:0046F.0",
+   "choice": true,
+   "en": "Sure, leave it to me!"
+  },
+  {
+   "id": "0500:0046F.1",
+   "choice": true,
+   "en": "I couldn't do that."
+  },
+  {
+   "id": "0500:00493",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０２０All right!￥I'm in your hands, Coach!"
+  },
+  {
+   "id": "0500:004DA",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０２１Yeah, and honestly, you seem￥like you'd be a good teacher."
+  },
+  {
+   "id": "0500:00530",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０２２Oh, come on, don't be modest!＝＠２０６＿０２３At least you look like you'd be￥a better teacher than me."
+  },
+  {
+   "id": "0500:005BD",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０２４And even if you're bad at it,￥I'd kind of like to see you￥get all flustered~"
+  },
+  {
+   "id": "0500:00624",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０２５Maybe I'll follow your example￥and put a little more effort￥into training."
+  },
+  {
+   "id": "0500:00683",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０２６If I let you keep pulling ahead,￥that'd be pretty pathetic for￥an expert like me."
+  },
+  {
+   "id": "0500:006F6",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０６＿０２７Next time, coach me in more￥than just Strength training.＝＠２０６＿０２８Well, sorry for barging in￥on your day off."
+  }
+ ]
+}

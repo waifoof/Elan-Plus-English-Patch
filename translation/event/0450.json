@@ -1,0 +1,501 @@
+{
+ "entry": 450,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0450:0001A",
+   "end": "818400",
+   "en": "－　Cafeteria　－"
+  },
+  {
+   "id": "0450:00031",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿００９Oh?￥You're just getting dinner now?＝＠１９３＿０１０I'm eating with Eiji and the￥others. Want to join us?"
+  },
+  {
+   "id": "0450:000C7.0",
+   "choice": true,
+   "en": "Sure, count me in."
+  },
+  {
+   "id": "0450:000C7.1",
+   "choice": true,
+   "en": "Nah, I'll eat alone."
+  },
+  {
+   "id": "0450:000F5.0",
+   "choice": true,
+   "en": "Sure, mind if I join?"
+  },
+  {
+   "id": "0450:000F5.1",
+   "choice": true,
+   "en": "I'll eat alone, thanks."
+  },
+  {
+   "id": "0450:00127",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０１１Okay, grab any open seat."
+  },
+  {
+   "id": "0450:0016A",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０１２This makes me kinda happy.＝＠１９３＿０１３With you here, even the awful￥food in this place might￥taste good."
+  },
+  {
+   "id": "0450:001EE",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０１４No? I won't force you, but I'd￥like to look at your face while￥I eat."
+  },
+  {
+   "id": "0450:00255",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０１５Food just tastes better when￥you've got someone cute to look￥at, right?"
+  },
+  {
+   "id": "0450:002B4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０１６Oh... do you not like it when￥I say stuff like this?"
+  },
+  {
+   "id": "0450:00306.0",
+   "choice": true,
+   "en": "It's not that, but..."
+  },
+  {
+   "id": "0450:00306.1",
+   "choice": true,
+   "en": "Fine, I'll eat with you."
+  },
+  {
+   "id": "0450:0033C.0",
+   "choice": true,
+   "en": "It's not that, but..."
+  },
+  {
+   "id": "0450:0033C.1",
+   "choice": true,
+   "en": "Okay, I'll join you."
+  },
+  {
+   "id": "0450:00378",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０１７Then what's the problem?￥Here... just grab any open seat￥over there."
+  },
+  {
+   "id": "0450:003E0",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０１８Really?￥Sorry for being pushy.＝＠１９３＿０１９But I really wanted to eat￥with you."
+  },
+  {
+   "id": "0450:00462",
+   "end": "818400",
+   "en": "＊Amane＊＠１９３＿０２０No way! Don't take it!"
+  },
+  {
+   "id": "0450:0049D",
+   "end": "818400",
+   "en": "＊Eiji＊＠１９３＿０２１What're you talking about?￥It's not yours!"
+  },
+  {
+   "id": "0450:004E6",
+   "end": "818400",
+   "en": "＊Amane＊＠１９３＿０２２It's not yours either!"
+  },
+  {
+   "id": "0450:00521",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０２３Oh, don't worry about it.＝＠１９３＿０２４I gave those two the pudding￥I didn't finish earlier.＝＠１９３＿０２５Turns out they both love it, so￥now they're fighting over it..."
+  },
+  {
+   "id": "0450:005F0",
+   "end": "818400",
+   "en": "＊Eiji＊＠１９３＿０２６He gave it to me!￥No calling dibs after the fact!"
+  },
+  {
+   "id": "0450:00639",
+   "end": "818400",
+   "en": "＊Amane＊＠１９３＿０２７Yoh never said he was giving￥it to you, Eiji!＝＠１９３＿０２８Right, Yoh? Tell him!"
+  },
+  {
+   "id": "0450:006B2",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９３＿０２９Eh, either way's fine."
+  },
+  {
+   "id": "0450:006E7",
+   "end": "818400",
+   "en": "＊Amane＊＠１９３＿０３０See! Just like I said!"
+  },
+  {
+   "id": "0450:00726",
+   "end": "818400",
+   "en": "＊Eiji＊＠１９３＿０３１But I grabbed it first,￥so it's my pudding!"
+  },
+  {
+   "id": "0450:0077A.0",
+   "choice": true,
+   "en": "Just split it in half."
+  },
+  {
+   "id": "0450:0077A.1",
+   "choice": true,
+   "en": "Stop! Take mine instead."
+  },
+  {
+   "id": "0450:007AE.0",
+   "choice": true,
+   "en": "Why not split it?"
+  },
+  {
+   "id": "0450:007AE.1",
+   "choice": true,
+   "en": "Stop! Take mine instead."
+  },
+  {
+   "id": "0450:007E8",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0450:00803",
+   "end": "818400",
+   "en": "＊Amane＊＠１９４＿００１No way!￥I want it all to myself!"
+  },
+  {
+   "id": "0450:00846",
+   "end": "818400",
+   "en": "＊Eiji＊＠１９４＿００２Now I'm eating it out of￥sheer spite!"
+  },
+  {
+   "id": "0450:0088B",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0450:008A6",
+   "end": "818400",
+   "en": "＊Amane＊＠１９４＿００３Stop it! Quit pulling!"
+  },
+  {
+   "id": "0450:008E1",
+   "end": "818400",
+   "en": "＊Eiji＊＠１９４＿００４You let go, Amane!"
+  },
+  {
+   "id": "0450:00918",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９４＿００５Good grief..."
+  },
+  {
+   "id": "0450:00943",
+   "end": "818400",
+   "en": "＊Amane＊＠１９４＿００６No way!"
+  },
+  {
+   "id": "0450:0096A",
+   "end": "818400",
+   "en": "＊Eiji＊＠１９４＿００７What?!"
+  },
+  {
+   "id": "0450:00992",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:009A2",
+   "end": "818400",
+   "en": "＊Amane＊＠１９４＿００８Really?"
+  },
+  {
+   "id": "0450:009CB",
+   "end": "818400",
+   "en": "＊Eiji＊＠１９４＿００９Score!"
+  },
+  {
+   "id": "0450:009F4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９４＿０１０You're sweet, you know.￥You could've just let them be..."
+  },
+  {
+   "id": "0450:00A39",
+   "end": "818400",
+   "en": "＊Both＊＠１９４＿０１１Then I'll take that one!"
+  },
+  {
+   "id": "0450:00A6E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:00A80",
+   "end": "818400",
+   "en": "＊All 3＊＠１９４＿０１４Ah! The pudding!!"
+  },
+  {
+   "id": "0450:00AAF",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:00AC1",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９４＿０１５Hey!! Are you okay?!"
+  },
+  {
+   "id": "0450:00AF2",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９４＿０１６You've got pudding all over your￥face and hair... Rough luck..."
+  },
+  {
+   "id": "0450:00B47",
+   "end": "818400",
+   "en": "＊Both＊＠１９４＿０１７We're sorry!"
+  },
+  {
+   "id": "0450:00B78",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９４＿０２０Oh man,￥you got caught in the crossfire."
+  },
+  {
+   "id": "0450:00BBB",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９４＿０２１Ugh! I got pudding on me too..."
+  },
+  {
+   "id": "0450:00BF2.0",
+   "choice": true,
+   "en": "Rough luck for you, Yoh."
+  },
+  {
+   "id": "0450:00BF2.1",
+   "choice": true,
+   "en": "Those two are gonna pay!"
+  },
+  {
+   "id": "0450:00C20",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９４＿０２２Tell me about it.￥Anyway, I've gotta wash my hair."
+  },
+  {
+   "id": "0450:00C65",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:00C75",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９４＿０２３I get why you're mad, but...＝＠１９４＿０２４Shouldn't you wash your hair and￥face and change first?￥You're all sticky..."
+  },
+  {
+   "id": "0450:00D14",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:00D28",
+   "end": "818400",
+   "en": "－　Shower Room　－"
+  },
+  {
+   "id": "0450:00D45",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿００１Man, that was seriously awful."
+  },
+  {
+   "id": "0450:00D8E",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿００２Who knew one pudding could￥start a fight like that?"
+  },
+  {
+   "id": "0450:00DEA",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿００３But hey, thanks to them, you￥and I get to bare it all￥together. So I'm grateful~"
+  },
+  {
+   "id": "0450:00E5F.0",
+   "choice": true,
+   "en": "What are you saying?"
+  },
+  {
+   "id": "0450:00E5F.1",
+   "choice": true,
+   "en": "Yoh, are you...?"
+  },
+  {
+   "id": "0450:00E8F",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿００４I mean, if you get to see￥someone cute naked, even another￥guy, don't you feel kinda lucky?"
+  },
+  {
+   "id": "0450:00EF9",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿００５What, you mean you didn't￥know? That I'm...＝...＝＠１９５＿００８Heh, just kidding."
+  },
+  {
+   "id": "0450:00F78",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿００９I just mean a cute face is easy￥on the eyes, guy or girl.＝＠１９５＿０１０So?￥Is the pudding off yet?"
+  },
+  {
+   "id": "0450:0101C",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０１１Whew, that feels better..."
+  },
+  {
+   "id": "0450:01053",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０１２Today taught you a lesson, huh?＝＠１９５＿０１３It's better not to stick your￥nose into other people's fights."
+  },
+  {
+   "id": "0450:010DC",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０１４Butting in and getting caught￥in the crossfire is just dumb.＝＠１９５＿０１５Watching from a safe distance is￥way more fun than getting￥involved, don't you think?"
+  },
+  {
+   "id": "0450:01191",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０１６Next time we eat together, I'd￥like it to be a bit calmer.＝＠１９５＿０１７Well, see you.￥Thanks for the eye candy."
+  },
+  {
+   "id": "0450:0121C",
+   "end": "818400",
+   "en": "＊All 3＊＠１９４＿０１４Ah! The pudding!!"
+  },
+  {
+   "id": "0450:0124B",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:01262",
+   "end": "818400",
+   "en": "＊Yoh＊..."
+  },
+  {
+   "id": "0450:01279",
+   "end": "818400",
+   "en": "＊Both＊＠１９５＿０１８Yoh, we're sorry!"
+  },
+  {
+   "id": "0450:012AA",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:012B9",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０２１Oh man, that's what you get￥for butting in..."
+  },
+  {
+   "id": "0450:012EE",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０２２Why do I have to get pudding￥dumped on my head...￥Ugh! So sticky...＝＠１９５＿０２３Your hands are dirty too, huh?￥Oh well. I'm going to go take￥a shower."
+  },
+  {
+   "id": "0450:013BD.0",
+   "choice": true,
+   "en": "I'll go wash my hands."
+  },
+  {
+   "id": "0450:013BD.1",
+   "choice": true,
+   "en": "Rough luck, Yoh."
+  },
+  {
+   "id": "0450:013F1",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０２４Then let's walk part of the￥way together."
+  },
+  {
+   "id": "0450:01432",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０２５This is the worst... Hey, could￥you at least walk with me to the￥shower room?＝＠１９５＿０２６Walking around alone looking￥like this is way too lame."
+  },
+  {
+   "id": "0450:014DC",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:014ED",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０２７Man, what a nightmare.￥Who knew one pudding could￥start a fight like that?"
+  },
+  {
+   "id": "0450:01554",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０２８But thanks to them, I get to be￥alone with you. So maybe I'll￥forgive them."
+  },
+  {
+   "id": "0450:015B7.0",
+   "choice": true,
+   "en": "What are you saying?"
+  },
+  {
+   "id": "0450:015B7.1",
+   "choice": true,
+   "en": "You sure are smooth."
+  },
+  {
+   "id": "0450:015DD",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０２９Hey, I mean it, okay?"
+  },
+  {
+   "id": "0450:0160E",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿０３０Oh! I'll wash up real quick,￥so wait for me a sec~"
+  },
+  {
+   "id": "0450:01662",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿００６That's not flattery. I mean it."
+  },
+  {
+   "id": "0450:01699",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９５＿００７Oh, I'll wash up real quick,￥so wait for me a little bit~"
+  },
+  {
+   "id": "0450:016E8",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0450:016FF",
+   "end": "818400",
+   "en": "＊＊－　A few minutes later　－"
+  },
+  {
+   "id": "0450:0171A",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿００１Phew, finally got it off...￥Thanks for waiting for me."
+  },
+  {
+   "id": "0450:01771",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿００２It just wouldn't come off.￥What a pain.＝＠１９６＿００３Guess you really shouldn't butt￥into fights, huh?"
+  },
+  {
+   "id": "0450:017F4",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿００４Butting in and getting caught￥in the crossfire like today?￥Just dumb.＝＠１９６＿００５Watching from a safe distance is￥way better than getting￥involved. Trust me."
+  },
+  {
+   "id": "0450:018B7",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿００６Next time we eat together, I'd￥like it to be a bit calmer."
+  },
+  {
+   "id": "0450:0190A",
+   "end": "818400",
+   "en": "＊Yoh＊＠１９６＿００７Well... good night."
+  },
+  {
+   "id": "0450:01939",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

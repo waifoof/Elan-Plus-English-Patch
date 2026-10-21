@@ -1,0 +1,26 @@
+{
+ "module": "OUTPUT:0929",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "OUTPUT_0929:00004",
+   "max": 92,
+   "en": "＊Yoh＊I could talk with you forever,￥but we've gotta train too.￥Shall we get started?＞"
+  },
+  {
+   "id": "OUTPUT_0929:00064",
+   "max": 84,
+   "en": "＊Yoh＊Keep chatting and we'll cut￥into training time, y'know?￥Let's go.＞"
+  },
+  {
+   "id": "OUTPUT_0929:000BC",
+   "max": 84,
+   "en": "＊Yoh＊We came here to train, so￥no more sitting around talking.￥Let's start.＞"
+  },
+  {
+   "id": "OUTPUT_0929:00114",
+   "max": 76,
+   "en": "＊Yoh＊Shall we start today's￥training?￥Let's both give it our all!＞"
+  }
+ ]
+}

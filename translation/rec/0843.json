@@ -1,0 +1,24 @@
+{
+ "entry": 843,
+ "kind": "rec",
+ "header": 63,
+ "rows": [
+  {
+   "id": "0843:r000",
+   "en": "<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: Rescue￥￥Tests whether you can act quickly￥in a disaster.￥￥Main: Stamina to outrun hazards.￥Also Tech to fix jammed doors and￥Strength to dig out survivors.￥Be sure to train up for it!{00}{00}<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: EVA￥￥You'll repair a damaged section of￥a ship during an emergency.￥￥Mainly Strength, to get outside a￥powerless ship; plus Grit, to leap￥into vacuum on a single lifeline,￥and Tech, to make the repairs.￥Be sure to train up for it!{00}{00}<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: Sample Analysis￥￥Next, you'll analyze minerals￥and plants from a new planet.￥￥The focus is Intellect, with￥Sense for the analysis and￥Grit for mountains of data.￥Be sure to train up for it!{00}{00}<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: Worker Assembly￥￥You'll assemble a Worker from its￥parts and start it up.￥￥Mainly Tech, to put it together;￥plus Stamina, to haul the parts,￥and Piloting, to move the result.￥Be sure to train up for it!{00}{00}<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: Geological Survey￥￥A simulated survey outside the￥dome, wearing a Worker.￥￥Mainly Worker Piloting, plus￥Judgment and Sense to pick￥out what's worth surveying.￥Be sure to train up for it!"
+  },
+  {
+   "id": "0843:r001",
+   "en": "<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: Wildlife Capture￥￥A simulation of capturing and￥studying life on an alien world.￥￥Mainly Sense for hunting, plus￥Intellect to know its habits and￥Judgment for a precise capture.￥Be sure to train up for it!"
+  },
+  {
+   "id": "0843:r002",
+   "en": "<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: SL Gate Navigation￥￥We'll check your helm skills￥during Gate Glide navigation.￥￥Mainly Judgment to secure a safe￥course, Piloting in manual mode,￥and Intellect for basic￥navigation know-how.￥Be sure to train up for it!{00}{00}<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: SL Atmospheric Entry￥￥The first step of the crewed￥survey of Elan: a simulated￥atmospheric entry.￥￥Mainly Grit to endure free-fall￥acceleration, then Strength and￥Stamina to bear the g-forces.￥Be sure to train up for it!"
+  },
+  {
+   "id": "0843:r003",
+   "en": "<Monthly Exam Notice>￥Wk　　 weekend exam￥Subject: All areas￥￥At last: the final exam.￥Bring all the knowledge and￥skills you've gained so far.￥￥Train as hard as you can, so￥you'll have no regrets.",
+   "tail_len": 128
+  }
+ ]
+}

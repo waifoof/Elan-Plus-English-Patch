@@ -1,0 +1,196 @@
+{
+ "entry": 501,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0501:0001C",
+   "end": "818400",
+   "en": "－　Eve of the final exam...　－＝－　Monitor Room　－"
+  },
+  {
+   "id": "0501:00059",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００５＿００１Final check complete. Elan Ship￥construction is at 99 percent.＝＠００５＿００２Now all that's left is some￥fine-tuning... and choosing￥the crew."
+  },
+  {
+   "id": "0501:00108",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿００３Yeah.￥We're in the home stretch now."
+  },
+  {
+   "id": "0501:00147",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００５＿００４What's wrong?￥＠００５＿００５You've got bags under your eyes."
+  },
+  {
+   "id": "0501:001A0",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００５＿００６You haven't been sleeping￥lately, have you?"
+  },
+  {
+   "id": "0501:001E7",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿００７I'm not even the one going...￥but I'm too wound up to sleep."
+  },
+  {
+   "id": "0501:0023C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿００８I'm like a little kid..."
+  },
+  {
+   "id": "0501:00273",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００５＿００９I know how you feel."
+  },
+  {
+   "id": "0501:002AC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００５＿０１０So, how about it?￥What's your impression?"
+  },
+  {
+   "id": "0501:002F3",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０１１They've shown me better results￥than I ever expected.＝＠００５＿０１２Who makes the cut tomorrow￥doesn't really matter."
+  },
+  {
+   "id": "0501:0038E",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０１３We lost our home planet, but￥humanity survived this far...＝＠００５＿０１４Those chosen, and those left￥behind... I believe they all￥share the same hope.＝＠００５＿０１５No... maybe it's more accurate￥to say I want to believe it..."
+  },
+  {
+   "id": "0501:00479",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０１６Well, tomorrow's a big day.￥Let's get some rest."
+  },
+  {
+   "id": "0501:004C2",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０１７It won't look good if we're￥half asleep."
+  },
+  {
+   "id": "0501:0050D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0501:0051E",
+   "end": "818400",
+   "en": "－　The next day　－"
+  },
+  {
+   "id": "0501:00546",
+   "end": "818400",
+   "en": "＊＊－　The Elan Ship...?!　－"
+  },
+  {
+   "id": "0501:00582",
+   "end": "818400",
+   "en": "＊＊－　It's exploding!!　－"
+  },
+  {
+   "id": "0501:005BD",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０１８What's the situation?! Report!!"
+  },
+  {
+   "id": "0501:005F6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００５＿０１９15 percent damage to the Elan￥Ship's engine control room!＝＠００５＿０２０And... there's a fire spreading!￥The whole crew is working on￥repairs."
+  },
+  {
+   "id": "0501:006A9",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０２１Damn it!￥I can't believe they did it!"
+  },
+  {
+   "id": "0501:006EE",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００５＿０２２What?"
+  },
+  {
+   "id": "0501:00715",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０２３The truth is, we'd gotten word￥of a sabotage plot."
+  },
+  {
+   "id": "0501:00760",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０２４Jealousy from those left behind,￥or thugs who profit from the￥way things are...＝＠００５＿０２５Either way...￥this is my fault!!"
+  },
+  {
+   "id": "0501:00809",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００５＿０２６I'm joining the repair effort!!￥You make sure the candidates￥are safe!!"
+  },
+  {
+   "id": "0501:0086E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0501:0087E",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００５＿０２７Ah! Where are you going?!￥Wait a minute!"
+  },
+  {
+   "id": "0501:008C5",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0501:008D8",
+   "end": "818400",
+   "en": "＊Sakaki＊...＝＠００６＿００１He's gone..."
+  },
+  {
+   "id": "0501:0091B",
+   "end": "818400",
+   "en": "＊Sakaki＊...＝＠００６＿００２Honestly... he always jumps￥the gun."
+  },
+  {
+   "id": "0501:00971",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００６＿００３This is Sakaki. There's been a￥change of plans..."
+  },
+  {
+   "id": "0501:009C2",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0501:009D5",
+   "end": "818400",
+   "en": "－　Meeting Room　－"
+  },
+  {
+   "id": "0501:009F6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００６＿００４That's where things stand.＝＠００６＿００５The work crews are doing repairs￥right now, but things aren't￥looking good."
+  },
+  {
+   "id": "0501:00A8D",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００６＿００６To turn this around, we need￥staff with specialized skills.＝＠００６＿００７You understand what I'm saying,￥don't you?"
+  },
+  {
+   "id": "0501:00B26",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００６＿００８..."
+  },
+  {
+   "id": "0501:00B51",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００６＿００９Putting candidates in danger...￥I'm a failure as a supervisor..."
+  },
+  {
+   "id": "0501:00BA6",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００６＿０１０but on behalf of humanity...￥of everyone left behind,￥I'm asking all of you."
+  },
+  {
+   "id": "0501:00C09",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００６＿０１１Please save the ship to Elan...￥Save our \"hope\"..."
+  }
+ ]
+}

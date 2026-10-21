@@ -1,0 +1,106 @@
+{
+ "entry": 484,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0484:0001F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿００１Hello. Could I bother you for￥a moment? It won't take long."
+  },
+  {
+   "id": "0484:00082",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿００２It's about your ranking...￥If you just leave it alone, I￥think it can only end badly..."
+  },
+  {
+   "id": "0484:000F9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿００３Of course, I imagine you feel at￥least a little worried about￥where you stand, too..."
+  },
+  {
+   "id": "0484:00163.0",
+   "choice": true,
+   "en": "Of course I do."
+  },
+  {
+   "id": "0484:00163.1",
+   "choice": true,
+   "en": "No, not really."
+  },
+  {
+   "id": "0484:00195.0",
+   "choice": true,
+   "en": "Of course I do."
+  },
+  {
+   "id": "0484:00195.1",
+   "choice": true,
+   "en": "No, not really."
+  },
+  {
+   "id": "0484:001C9",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿００４I see. Well, that's good, then."
+  },
+  {
+   "id": "0484:00206",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿００５But if you feel that way, you￥should've tried harder from the￥start..."
+  },
+  {
+   "id": "0484:00272",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿００６I can't believe you'd say that￥with a straight face!"
+  },
+  {
+   "id": "0484:002CD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿００７Do you have a clear purpose--￥\"something you want to do\"￥once you get to Elan?"
+  },
+  {
+   "id": "0484:00337.0",
+   "choice": true,
+   "en": "Of course I do."
+  },
+  {
+   "id": "0484:00337.1",
+   "choice": true,
+   "en": "I haven't decided yet."
+  },
+  {
+   "id": "0484:00369.0",
+   "choice": true,
+   "en": "Of course I do."
+  },
+  {
+   "id": "0484:00369.1",
+   "choice": true,
+   "en": "I haven't decided yet."
+  },
+  {
+   "id": "0484:0039B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿００８Saying it is the easy part.＝＠０８５＿００９But I just don't see you working￥hard toward that goal."
+  },
+  {
+   "id": "0484:00437",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０１０Then what exactly are you here￥for? This isn't a playground,￥you know!"
+  },
+  {
+   "id": "0484:004A0",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０１１You've really disappointed me...￥If you still have enough pride￥left to get angry at my words..."
+  },
+  {
+   "id": "0484:0051D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０１２...then I'd have thought you￥could still start over.＝＠０８５＿０１３Well, maybe that's beyond you.＝＠０８５＿０１４We'll all be watching to see￥what you do next."
+  },
+  {
+   "id": "0484:005E8",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０８５＿０１５Well, sorry to have bothered￥you. Goodbye..."
+  }
+ ]
+}

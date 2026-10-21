@@ -1,0 +1,121 @@
+{
+ "entry": 497,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0497:0001F",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿００１Hey! I was curious about you,￥so I came over.＝＠２０７＿００２You don't seem all that driven,￥but somehow you've ended up near￥the top of the rankings."
+  },
+  {
+   "id": "0497:000CC",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿００３I figured you had some secret,￥so I came to snoop around!"
+  },
+  {
+   "id": "0497:00122.0",
+   "choice": true,
+   "en": "There's no secret."
+  },
+  {
+   "id": "0497:00122.1",
+   "choice": true,
+   "en": "Not telling."
+  },
+  {
+   "id": "0497:00148.0",
+   "choice": true,
+   "en": "There's no secret."
+  },
+  {
+   "id": "0497:00148.1",
+   "choice": true,
+   "en": "Not telling."
+  },
+  {
+   "id": "0497:00174",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿００４Really?￥Then those scores are all￥real talent."
+  },
+  {
+   "id": "0497:001C3",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿００５Pulling top scores in a crowd￥full of experts? That's￥amazing!"
+  },
+  {
+   "id": "0497:00235",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿００６Aw, don't be like that! Come on,￥happiness is for sharing!"
+  },
+  {
+   "id": "0497:0028E",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿００７Joking aside, getting top￥scores among all these experts￥is seriously impressive."
+  },
+  {
+   "id": "0497:00303",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿００８Maybe I'll start following￥you around from now on.＝＠２０７＿００９Then maybe my training would￥start going better too!"
+  },
+  {
+   "id": "0497:0038C",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１０Best of all, I'd get to look￥at you all day long!"
+  },
+  {
+   "id": "0497:003D8.0",
+   "choice": true,
+   "en": "Don't be stupid."
+  },
+  {
+   "id": "0497:003D8.1",
+   "choice": true,
+   "en": "Sure, go ahead."
+  },
+  {
+   "id": "0497:0040A.0",
+   "choice": true,
+   "en": "Don't be stupid."
+  },
+  {
+   "id": "0497:0040A.1",
+   "choice": true,
+   "en": "Sure, I don't mind."
+  },
+  {
+   "id": "0497:0043E",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１１It's not stupid, you know?￥I'm being totally serious."
+  },
+  {
+   "id": "0497:00493",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１２Who wouldn't want to look at￥someone as cute as you?"
+  },
+  {
+   "id": "0497:004E1",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１３Really?￥Does that mean you're￥into me..."
+  },
+  {
+   "id": "0497:00532",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１４Nah, probably not!"
+  },
+  {
+   "id": "0497:00567",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１５But keep saying stuff like that￥and I might take you seriously."
+  },
+  {
+   "id": "0497:005B6",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１６Honestly though, I couldn't￥stick to you all day even if I￥wanted to."
+  },
+  {
+   "id": "0497:00611",
+   "end": "818400",
+   "en": "＊Yoh＊＠２０７＿０１７Maybe I'll just copy the way￥you train from now on.＝＠２０７＿０１８See ya. Sorry for barging in￥on your day off."
+  }
+ ]
+}

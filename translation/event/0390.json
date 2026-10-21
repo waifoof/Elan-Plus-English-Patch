@@ -1,0 +1,261 @@
+{
+ "entry": 390,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0390:00019",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0390:00032",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿００１Yo! Headin' back? Let's walk￥together for a bit.＝＠０５３＿００２Hey, hey! You know that Kairi￥guy, one of the candidates,￥right?"
+  },
+  {
+   "id": "0390:000CF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿００３He's gotta be THE Kairi, the￥famous one, right?＝＠０５３＿００４Guess when you're picking people￥to go to Elan, you get famous￥folks like him too."
+  },
+  {
+   "id": "0390:00181.0",
+   "choice": true,
+   "en": "Yeah, I was surprised."
+  },
+  {
+   "id": "0390:00181.1",
+   "choice": true,
+   "en": "Kairi's famous?"
+  },
+  {
+   "id": "0390:001B1.0",
+   "choice": true,
+   "en": "Yes, I was surprised."
+  },
+  {
+   "id": "0390:001B1.1",
+   "choice": true,
+   "en": "Is Kairi that amazing?"
+  },
+  {
+   "id": "0390:001E9",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿００５Right?￥Not many scientists get￥that much buzz."
+  },
+  {
+   "id": "0390:00246",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿００６He's the youngest ever to win￥that whatchamacallit￥biology prize."
+  },
+  {
+   "id": "0390:002A0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿００７Whaaat? Seriously, you don't￥know? He's super famous!"
+  },
+  {
+   "id": "0390:002F7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿００８He was the youngest ever to win￥that whatchamacallit￥biology prize."
+  },
+  {
+   "id": "0390:0034A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿００９I heard the news shows even did￥specials on him...＝＠０５３＿０１０And that magazine,￥\"Science Future\"..."
+  },
+  {
+   "id": "0390:003E8",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿０１１Oh! It's Kairi!￥Speak of the devil."
+  },
+  {
+   "id": "0390:00437",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0390:0044C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿０１２Yo! Kairi! We were just talkin'￥about you.＝＠０５３＿０１３You were on the cover of￥\"Science Future\" a while back,￥weren't you?"
+  },
+  {
+   "id": "0390:004F7",
+   "end": "818400",
+   "en": "＊Kairi＊...＝＠０５３＿０１４Was I...?￥I don't remember..."
+  },
+  {
+   "id": "0390:00546",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿０１５What kind of answer is that?￥We're talking about you!"
+  },
+  {
+   "id": "0390:00583",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿０１６Are you really THE Kairi?￥Weird guy..."
+  },
+  {
+   "id": "0390:005D4",
+   "end": "818400",
+   "en": "＊Eiji＊＠０５３＿０１７Forget it, you killed my buzz.￥See ya..."
+  },
+  {
+   "id": "0390:00623",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0390:00633",
+   "end": "818400",
+   "en": "－　Eiji leaves　－"
+  },
+  {
+   "id": "0390:00658",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０１８What was that about..."
+  },
+  {
+   "id": "0390:0068D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０１９Whatever.￥Do you want something?"
+  },
+  {
+   "id": "0390:006CD.0",
+   "choice": true,
+   "en": "So you're famous, huh?"
+  },
+  {
+   "id": "0390:006CD.1",
+   "choice": true,
+   "en": "Are you really famous?"
+  },
+  {
+   "id": "0390:0070B.0",
+   "choice": true,
+   "en": "So you're famous, Kairi."
+  },
+  {
+   "id": "0390:0070B.1",
+   "choice": true,
+   "en": "Are you really famous?"
+  },
+  {
+   "id": "0390:00749",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０２０Me, famous...?"
+  },
+  {
+   "id": "0390:0077E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０２１I did win the Norst Biology￥Prize, but whether that makes me￥well known, I couldn't say...＝＠０５３＿０２２I think I may have been on a￥magazine cover too... but it's￥not something I care about."
+  },
+  {
+   "id": "0390:0084C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０２３Me...?"
+  },
+  {
+   "id": "0390:00879",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０２４I did win the Norst Biology￥Prize, but whether that makes me￥well known, I couldn't say."
+  },
+  {
+   "id": "0390:008F0",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０２５That guy said something too, but￥I've never cared about that."
+  },
+  {
+   "id": "0390:0094F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０２６Same as when I got the prize...￥I wasn't aiming for anything.＝＠０５３＿０２７I was just looking into what￥interested me, and by chance it￥led me to a new bacterium."
+  },
+  {
+   "id": "0390:00A12",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０２８When I discover something,￥I want to find out exactly￥what it is.＝＠０５３＿０２９How others use the results is￥no concern of mine. My interest￥is in the findings alone."
+  },
+  {
+   "id": "0390:00ACA.0",
+   "choice": true,
+   "en": "You love research, huh?"
+  },
+  {
+   "id": "0390:00ACA.1",
+   "choice": true,
+   "en": "You don't care for fame?"
+  },
+  {
+   "id": "0390:00AFA.0",
+   "choice": true,
+   "en": "You love research, huh?"
+  },
+  {
+   "id": "0390:00AFA.1",
+   "choice": true,
+   "en": "So fame doesn't matter."
+  },
+  {
+   "id": "0390:00B2A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０３０Well, maybe so."
+  },
+  {
+   "id": "0390:00B66",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０３１It doesn't matter to me."
+  },
+  {
+   "id": "0390:00BA5",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５３＿０３２Whether the world recognizes me￥or not makes little difference."
+  },
+  {
+   "id": "0390:00C04",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿００１People are happiest when they're￥absorbed in what interests them.￥Isn't that obvious?"
+  },
+  {
+   "id": "0390:00C79",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿００２So, do you still need something?￥If not, move.＝＠０５４＿００３You're in my way."
+  },
+  {
+   "id": "0390:00CFB.0",
+   "choice": true,
+   "en": "Oh, sorry."
+  },
+  {
+   "id": "0390:00CFB.1",
+   "choice": true,
+   "en": "That's kinda rude..."
+  },
+  {
+   "id": "0390:00D27.0",
+   "choice": true,
+   "en": "Oh, I'm sorry."
+  },
+  {
+   "id": "0390:00D27.1",
+   "choice": true,
+   "en": "That's kind of rude..."
+  },
+  {
+   "id": "0390:00D5D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿００４It's fine..."
+  },
+  {
+   "id": "0390:00D8B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿００５The way I said it? I just said￥it normally.＝＠０５４＿００６Anyway, you're in my way...￥Move."
+  },
+  {
+   "id": "0390:00E02",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５４＿００７I need to get to the Archives.￥There's data I want to copy..."
+  },
+  {
+   "id": "0390:00E5F",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

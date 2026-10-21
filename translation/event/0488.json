@@ -1,0 +1,121 @@
+{
+ "entry": 488,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0488:00025",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０２０Hey!￥A-are you okay...?＝＠１０６＿０２１Geez...￥Don't scare me like that!"
+  },
+  {
+   "id": "0488:000A0",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０２２Collapsing out of nowhere...￥What were you thinking?!"
+  },
+  {
+   "id": "0488:000EF",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０２３This is what happens when you￥don't take care of yourself!"
+  },
+  {
+   "id": "0488:00141.0",
+   "choice": true,
+   "en": "No need to go that far."
+  },
+  {
+   "id": "0488:00141.1",
+   "choice": true,
+   "en": "I know that already."
+  },
+  {
+   "id": "0488:00181.0",
+   "choice": true,
+   "en": "That's a bit harsh."
+  },
+  {
+   "id": "0488:00181.1",
+   "choice": true,
+   "en": "I know that already."
+  },
+  {
+   "id": "0488:001C3",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０２４Then don't do things that make￥me say it!＝＠１０６＿０２５If you've got brains enough to￥talk back, use them to look￥after your own body!"
+  },
+  {
+   "id": "0488:00269",
+   "end": "818400",
+   "en": "＊Riko＊＠１０６＿０２６If you knew, you wouldn't have￥collapsed, would you?!＝＠１０６＿０２７You don't even know your own￥limits, so quit acting so cool!"
+  },
+  {
+   "id": "0488:0030C",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿００１Listen.￥Collapsing now is as good as￥giving up on going to Elan!"
+  },
+  {
+   "id": "0488:00363",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿００２Nobody's going to trust someone￥who can't even look after￥themselves...＝＠１０７＿００３with something as big as the￥mission to explore Elan!"
+  },
+  {
+   "id": "0488:00404",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿００４Overdoing it and wrecking your￥body only hurts you--as a￥candidate and as a person..."
+  },
+  {
+   "id": "0488:0048A.0",
+   "choice": true,
+   "en": "I'll be more careful."
+  },
+  {
+   "id": "0488:0048A.1",
+   "choice": true,
+   "en": "None of your business!"
+  },
+  {
+   "id": "0488:004BE.0",
+   "choice": true,
+   "en": "I'll be more careful."
+  },
+  {
+   "id": "0488:004BE.1",
+   "choice": true,
+   "en": "None of your business!"
+  },
+  {
+   "id": "0488:004F6",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿００５Rushing won't do you any good."
+  },
+  {
+   "id": "0488:0053D",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿００６Training won't stick unless you￥do it when you're in good shape!"
+  },
+  {
+   "id": "0488:005A9",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿００７You're such an idiot, I just￥couldn't keep my mouth shut!"
+  },
+  {
+   "id": "0488:00610",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿００８But if you can talk big like￥that, maybe you're fine now!"
+  },
+  {
+   "id": "0488:00663",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿００９Don't even think about training￥until you're completely better!"
+  },
+  {
+   "id": "0488:006CC",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿０１０I-it's not like I came because I￥was worried!＝＠１０７＿０１１Don't get the wrong idea, okay?!"
+  },
+  {
+   "id": "0488:00749",
+   "end": "818400",
+   "en": "＊Riko＊＠１０７＿０１２Well, get well soon!"
+  }
+ ]
+}

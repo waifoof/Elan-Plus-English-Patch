@@ -1,0 +1,76 @@
+{
+ "entry": 372,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0372:00020",
+   "end": "818400",
+   "en": "＠２１０＿０１２＊Narusawa＊Right... Everyone's here."
+  },
+  {
+   "id": "0372:0005D",
+   "end": "818400",
+   "en": "＠２１０＿０１３＊Narusawa＊Welcome to Station Alpha.＝＠２１０＿０１４Let's start with introductions."
+  },
+  {
+   "id": "0372:000D2",
+   "end": "818400",
+   "en": "＠２１０＿０１５＊Narusawa＊My name is Kazuya Narusawa.￥I'm the director in charge of￥this project."
+  },
+  {
+   "id": "0372:00133",
+   "end": "818400",
+   "en": "＊Sakaki＊＠２１０＿０１６I'm Yuri Sakaki. I'll also be￥overseeing all of you.＝＠２１０＿０１７Nice to meet you, everyone."
+  },
+  {
+   "id": "0372:001B4",
+   "end": "818400",
+   "en": "＠２１０＿０１８＊Narusawa＊Normally, this is where some￥bigwig would give a speech on￥behalf of all humanity, but..."
+  },
+  {
+   "id": "0372:0021D",
+   "end": "818400",
+   "en": "＠２１０＿０１９＊Narusawa＊Only a handful of people even￥know this project exists. It's￥strictly top secret.＝＠２１０＿０２０Until it's over, contact with￥anyone outside family and staff￥is strictly forbidden.＝＠２１０＿０２１And even if you get homesick,￥you won't be allowed to go home."
+  },
+  {
+   "id": "0372:0033A",
+   "end": "818400",
+   "en": "＠２１０＿０２２＊Sakaki＊This is partly about secrecy,￥and partly to keep you safe from￥things like terrorism.＝＠２１０＿０２３We're counting on your￥cooperation."
+  },
+  {
+   "id": "0372:003E1",
+   "end": "818400",
+   "en": "＠２１０＿０２４＊Narusawa＊Long ago... back when Earth was￥still blue, humanity built this￥place as a deep-space outpost.＝＠２１０＿０２５Faraway Elan... If you ask me,￥it's the perfect stepping stone￥for humanity's new beginning."
+  },
+  {
+   "id": "0372:004D6",
+   "end": "818400",
+   "en": "＠２１０＿０２６＊Narusawa＊Honestly, this thing belongs in￥a museum. So forgive the￥occasional inconvenience."
+  },
+  {
+   "id": "0372:00541",
+   "end": "818400",
+   "en": "＠２１０＿０２７＊Sakaki＊The starship comes first, so we￥haven't had much time to spare￥for this place.＝＠２１０＿０２８Sorry about that."
+  },
+  {
+   "id": "0372:005D4",
+   "end": "818400",
+   "en": "＠２１０＿０２９＊Narusawa＊Now then. Here on Alpha, you'll￥spend a while honing your￥abilities.＝＠２１０＿０３０Each subject has its own room,￥fully set up with the training￥equipment you'll need."
+  },
+  {
+   "id": "0372:006AB",
+   "end": "818400",
+   "en": "＠２１０＿０３１＊Narusawa＊There's no fixed schedule.￥Do things your own way."
+  },
+  {
+   "id": "0372:0070A",
+   "end": "818400",
+   "en": "＠２１０＿０３２＊Sakaki＊Your self-discipline and￥teamwork will also count toward￥whether you qualify.＝＠２１１＿００１Keep that in mind."
+  },
+  {
+   "id": "0372:007A7",
+   "end": "818400",
+   "en": "＠２１１＿００３＊Narusawa＊All right... dismissed!"
+  }
+ ]
+}

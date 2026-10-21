@@ -1,0 +1,556 @@
+{
+ "entry": 437,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0437:00017",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0437:0002F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００１Oh! Cousin!!"
+  },
+  {
+   "id": "0437:00060",
+   "end": "818400",
+   "en": "＊Riko＊＠１３３＿００２Ugh, here goes Kaname with her￥\"Cousin! Cousin!\" routine again."
+  },
+  {
+   "id": "0437:000BD",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:000CE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００３Guess what! The cherry blossoms￥in the Environmental Section are￥in full bloom...＝＠１３３＿００４They were so, so pretty!"
+  },
+  {
+   "id": "0437:00157",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００５Cousin! Wanna go see them￥with me right now?!"
+  },
+  {
+   "id": "0437:0019E.0",
+   "choice": true,
+   "en": "Sure. Let's go see them."
+  },
+  {
+   "id": "0437:0019E.1",
+   "choice": true,
+   "en": "But didn't you just go?"
+  },
+  {
+   "id": "0437:001D6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００６Yaaay!!￥I promise you won't regret it!"
+  },
+  {
+   "id": "0437:00226",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００７That doesn't matter at all!￥I wanted to show you, Cousin."
+  },
+  {
+   "id": "0437:00277",
+   "end": "818400",
+   "en": "＊Riko＊＠１３３＿００８Oh, Kaname... So the one person￥you're dying to show is...＝＠１３３＿００９Hmm. Figures!"
+  },
+  {
+   "id": "0437:002E4",
+   "end": "818400",
+   "en": "＊Riko＊＠１３３＿０１０Geez! I can't keep up with your￥big-brother complex.＝＠１３３＿０１２See ya!"
+  },
+  {
+   "id": "0437:0034F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:00361",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１３So what?! Besides, I do NOT have￥a brother complex!!"
+  },
+  {
+   "id": "0437:003B3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１５C'mon, let's go, Cousin!!"
+  },
+  {
+   "id": "0437:003E6",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:003F7",
+   "end": "818400",
+   "en": "－　Environmental Section　－"
+  },
+  {
+   "id": "0437:00412",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１６See? Aren't they just gorgeous?"
+  },
+  {
+   "id": "0437:00459",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１７Walking slowly among the flowers￥like this, all the bad stuff￥just seems to melt away, huh?"
+  },
+  {
+   "id": "0437:004D6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１８When we were little, we'd walk￥around looking at flowers￥together, remember?"
+  },
+  {
+   "id": "0437:0052F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１９Though all I ever did was chase￥after you, yelling \"Cousin!\"..."
+  },
+  {
+   "id": "0437:0059A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２０Hey... did that ever annoy you?"
+  },
+  {
+   "id": "0437:005EB.0",
+   "choice": true,
+   "en": "No, never."
+  },
+  {
+   "id": "0437:005EB.1",
+   "choice": true,
+   "en": "...Maybe a little."
+  },
+  {
+   "id": "0437:0061F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２１Whaaat! Is that really true?!"
+  },
+  {
+   "id": "0437:00656",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２２Well, I hope it's true!"
+  },
+  {
+   "id": "0437:00696",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２３Ahh! I knew it!＝＠１３３＿０２４That's so embarrassing."
+  },
+  {
+   "id": "0437:006FD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２５But I'm going to grow out of￥all that now!"
+  },
+  {
+   "id": "0437:00744",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２６Coming here, meeting you again￥after eight years, both of us￥candidates..."
+  },
+  {
+   "id": "0437:0079D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２７I was so happy."
+  },
+  {
+   "id": "0437:007CE.0",
+   "choice": true,
+   "en": "I was happy too."
+  },
+  {
+   "id": "0437:007CE.1",
+   "choice": true,
+   "en": "Were you?"
+  },
+  {
+   "id": "0437:007F0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２８Really?"
+  },
+  {
+   "id": "0437:0081E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２９Hey! Don't tease me!!￥I'm trying to be serious here!"
+  },
+  {
+   "id": "0437:0087C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００１You know, spending time with￥you here, I realized something."
+  },
+  {
+   "id": "0437:008D1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００２That I was really just a kid."
+  },
+  {
+   "id": "0437:00916",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００３When we met again, I was so busy￥chasing the you I remembered...＝＠１３４＿００４It never occurred to me that￥you'd changed and grown up￥since then."
+  },
+  {
+   "id": "0437:009BF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００５So I felt like I was the only￥one who'd been left behind.＝＠１３４＿００６But..."
+  },
+  {
+   "id": "0437:00A3C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００７People change as time goes by,￥don't they?"
+  },
+  {
+   "id": "0437:00A91",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００８Just like these flowers..."
+  },
+  {
+   "id": "0437:00ACC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００９...I want to change too, even if￥it's only little by little.＝＠１３４＿０１０I want to be able to accept￥myself for who I am."
+  },
+  {
+   "id": "0437:00B6D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１１Let's both do our best on the￥final exam, okay?"
+  },
+  {
+   "id": "0437:00BAC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１２Even if we don't make it... No.￥Whatever the result, we'll have￥grown up a little more, right?"
+  },
+  {
+   "id": "0437:00C21",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１３And... if we both qualify..."
+  },
+  {
+   "id": "0437:00C70",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１４When the day comes that we go to￥Elan, instead of chasing after￥you...＝＠１３４＿０１５I want to stand￥right beside you."
+  },
+  {
+   "id": "0437:00D11",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１６Is that okay?"
+  },
+  {
+   "id": "0437:00D3A.0",
+   "choice": true,
+   "en": "Hope we can go together."
+  },
+  {
+   "id": "0437:00D3A.1",
+   "choice": true,
+   "en": "With you? ...Fine, then."
+  },
+  {
+   "id": "0437:00D7E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１７Yeah!!"
+  },
+  {
+   "id": "0437:00DAA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１８Hey! That's so mean, Cousin!＝＠１３４＿０１９Fine! When you qualify and come￥asking me to go with you, don't￥expect me to say yes!"
+  },
+  {
+   "id": "0437:00E47",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０２０Oh!￥There it is! That cherry tree!"
+  },
+  {
+   "id": "0437:00E84",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:00E96",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０２１Hurry up!! Cousiiin!!"
+  },
+  {
+   "id": "0437:00ECD",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:00EE3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０２２I... I'm so glad I got￥to see you again!!"
+  },
+  {
+   "id": "0437:00F42",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００１Oh! Cousin!!"
+  },
+  {
+   "id": "0437:00F73",
+   "end": "818400",
+   "en": "＊Riko＊＠１３３＿００２Ugh, here goes Kaname with her￥\"Cousin! Cousin!\" routine again."
+  },
+  {
+   "id": "0437:00FD0",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:00FE1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００３Guess what! The cherry blossoms￥in the Environmental Section are￥in full bloom...＝＠１３３＿００４They were so, so pretty!"
+  },
+  {
+   "id": "0437:0106A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００５Cousin! Wanna go see them￥with me right now?!"
+  },
+  {
+   "id": "0437:010B1.0",
+   "choice": true,
+   "en": "Sure. Let's go."
+  },
+  {
+   "id": "0437:010B1.1",
+   "choice": true,
+   "en": "But didn't you just go?"
+  },
+  {
+   "id": "0437:010EF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００６Yaaay!!￥I promise you won't regret it!"
+  },
+  {
+   "id": "0437:0113F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿００７That doesn't matter at all!￥I wanted to show you, Cousin."
+  },
+  {
+   "id": "0437:01190",
+   "end": "818400",
+   "en": "＊Riko＊＠１３３＿００８Oh, Kaname... So the one person￥you're dying to show is...＝＠１３３＿００９Hmm. Figures!"
+  },
+  {
+   "id": "0437:011FD",
+   "end": "818400",
+   "en": "＊Riko＊＠１３３＿０１１Geez! I can't keep up with your￥big-sister complex.＝＠１３３＿０１２See ya!"
+  },
+  {
+   "id": "0437:01268",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:0127A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１４So what?! Besides, I do NOT have￥a sister complex!!"
+  },
+  {
+   "id": "0437:012CD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１５C'mon, let's go, Cousin!!"
+  },
+  {
+   "id": "0437:01300",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:01311",
+   "end": "818400",
+   "en": "－　Environmental Section　－"
+  },
+  {
+   "id": "0437:0132C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１６See? Aren't they just gorgeous?"
+  },
+  {
+   "id": "0437:01373",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１７Walking slowly among the flowers￥like this, all the bad stuff￥just seems to melt away, huh?"
+  },
+  {
+   "id": "0437:013F0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１８When we were little, we'd walk￥around looking at flowers￥together, remember?"
+  },
+  {
+   "id": "0437:01449",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０１９Though all I ever did was chase￥after you, yelling \"Cousin!\"..."
+  },
+  {
+   "id": "0437:014B4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２０Hey... did that ever annoy you?"
+  },
+  {
+   "id": "0437:01505.0",
+   "choice": true,
+   "en": "Not at all."
+  },
+  {
+   "id": "0437:01505.1",
+   "choice": true,
+   "en": "...Just a little."
+  },
+  {
+   "id": "0437:0152F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２１Whaaat! Is that really true?!"
+  },
+  {
+   "id": "0437:01566",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２２Well, I hope it's true!"
+  },
+  {
+   "id": "0437:015A6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２３Ahh! I knew it!＝＠１３３＿０２４That's so embarrassing."
+  },
+  {
+   "id": "0437:0160D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２５But I'm going to grow out of￥all that now!"
+  },
+  {
+   "id": "0437:01654",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２６Coming here, meeting you again￥after eight years, both of us￥candidates..."
+  },
+  {
+   "id": "0437:016AD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２７I was so happy."
+  },
+  {
+   "id": "0437:016DE.0",
+   "choice": true,
+   "en": "I was happy too."
+  },
+  {
+   "id": "0437:016DE.1",
+   "choice": true,
+   "en": "Were you?"
+  },
+  {
+   "id": "0437:016FE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２８Really?"
+  },
+  {
+   "id": "0437:0172C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３３＿０２９Hey! Don't tease me!!￥I'm trying to be serious here!"
+  },
+  {
+   "id": "0437:0178A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００１You know, spending time with￥you here, I realized something."
+  },
+  {
+   "id": "0437:017DF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００２That I was really just a kid."
+  },
+  {
+   "id": "0437:01824",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００３When we met again, I was so busy￥chasing the you I remembered...＝＠１３４＿００４It never occurred to me that￥you'd changed and grown up￥since then."
+  },
+  {
+   "id": "0437:018CD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００５So I felt like I was the only￥one who'd been left behind.＝＠１３４＿００６But..."
+  },
+  {
+   "id": "0437:0194A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００７People change as time goes by,￥don't they?"
+  },
+  {
+   "id": "0437:0199F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００８Just like these flowers..."
+  },
+  {
+   "id": "0437:019DA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿００９...I want to change too, even if￥it's only little by little.＝＠１３４＿０１０I want to be able to accept￥myself for who I am."
+  },
+  {
+   "id": "0437:01A7B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１１Let's both do our best on the￥final exam, okay?"
+  },
+  {
+   "id": "0437:01ABA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１２Even if we don't make it... No.￥Whatever the result, we'll have￥grown up a little more, right?"
+  },
+  {
+   "id": "0437:01B2F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１３And... if we both qualify..."
+  },
+  {
+   "id": "0437:01B7E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１４When the day comes that we go to￥Elan, instead of chasing after￥you...＝＠１３４＿０１５I want to stand￥right beside you."
+  },
+  {
+   "id": "0437:01C1F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１６Is that okay?"
+  },
+  {
+   "id": "0437:01C48.0",
+   "choice": true,
+   "en": "Hope we can go together."
+  },
+  {
+   "id": "0437:01C48.1",
+   "choice": true,
+   "en": "With you? ...If I must."
+  },
+  {
+   "id": "0437:01C84",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１７Yeah!!"
+  },
+  {
+   "id": "0437:01CB0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０１８Hey! That's so mean, Cousin!＝＠１３４＿０１９Fine! When you qualify and come￥asking me to go with you, don't￥expect me to say yes!"
+  },
+  {
+   "id": "0437:01D4D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０２０Oh!￥There it is! That cherry tree!"
+  },
+  {
+   "id": "0437:01D8A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:01D9C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０２１Hurry up!! Cousiiin!!"
+  },
+  {
+   "id": "0437:01DD3",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0437:01DE9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３４＿０２２I... I'm so glad I got￥to see you again!!"
+  },
+  {
+   "id": "0437:01E3E",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

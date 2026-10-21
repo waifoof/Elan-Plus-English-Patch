@@ -1,0 +1,26 @@
+{
+ "module": "OUTPUT:0922",
+ "kind": "code",
+ "rows": [
+  {
+   "id": "OUTPUT_0922:00004",
+   "max": 104,
+   "en": "＊Amane＊Talking with you is so fun,￥I almost forgot why I came!￥But we've got to train now!＞"
+  },
+  {
+   "id": "OUTPUT_0922:00070",
+   "max": 74,
+   "en": "＊Amane＊Let's leave it there for now.￥We came here to train, right?＞"
+  },
+  {
+   "id": "OUTPUT_0922:000BC",
+   "max": 86,
+   "en": "＊Amane＊This talk is going nowhere!￥Come on, we've got to￥start training.＞"
+  },
+  {
+   "id": "OUTPUT_0922:00114",
+   "max": 76,
+   "en": "＊Amane＊I want to talk more, but￥we should start￥training soon, huh?＞"
+  }
+ ]
+}

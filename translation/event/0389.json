@@ -1,0 +1,381 @@
+{
+ "entry": 389,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0389:0001C",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0389:00035",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０２８Ah, it's you.￥On your way back?＝＠０５９＿０２９I'm heading to get something to￥eat. Want to come along?"
+  },
+  {
+   "id": "0389:000B3.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0389:000B3.1",
+   "choice": true,
+   "en": "I'm not that hungry..."
+  },
+  {
+   "id": "0389:000E5.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0389:000E5.1",
+   "choice": true,
+   "en": "I'm not very hungry..."
+  },
+  {
+   "id": "0389:0011D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０３０Let's go, then."
+  },
+  {
+   "id": "0389:0014E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５９＿０３１Come to think of it, this is￥the first time I've gone to eat￥with someone."
+  },
+  {
+   "id": "0389:001A5",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0389:001B3",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿００１I see."
+  },
+  {
+   "id": "0389:001DC",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿００２Then let's walk part of the way."
+  },
+  {
+   "id": "0389:00219",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0389:0022C",
+   "end": "818400",
+   "en": "－　Cafeteria　－"
+  },
+  {
+   "id": "0389:00241",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿００３Hm?... Some of the other￥candidates are here too."
+  },
+  {
+   "id": "0389:00286",
+   "end": "818400",
+   "en": "－　Eiji, Yoh and Natsuno chat￥　　　　happily after the meal　－"
+  },
+  {
+   "id": "0389:002E1",
+   "end": "818400",
+   "en": "＊Eiji＊＠０６０＿００４Say, Elan's a lot like Earth and￥all, but are the animals really￥that similar too?"
+  },
+  {
+   "id": "0389:00348",
+   "end": "818400",
+   "en": "＊Yoh＊＠０６０＿００５That's what the survey reports￥say so far, anyway."
+  },
+  {
+   "id": "0389:00391",
+   "end": "818400",
+   "en": "＊Yoh＊＠０６０＿００６But when we actually see them,￥they might be quite different..."
+  },
+  {
+   "id": "0389:003EC",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６０＿００７True. With only the data we have￥now, it's still just guesswork."
+  },
+  {
+   "id": "0389:00451",
+   "end": "818400",
+   "en": "＊Kairi＊..."
+  },
+  {
+   "id": "0389:0046C",
+   "end": "818400",
+   "en": "－　； and Kairi watch the￥　　　three talking　－"
+  },
+  {
+   "id": "0389:004A7",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0389:004B7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０６０＿００８So I was thinkin'...＝＠０６０＿００９What if those lookalike animals￥are really camouflaged, and they￥transform at night or somethin'!"
+  },
+  {
+   "id": "0389:00552",
+   "end": "818400",
+   "en": "＊Yoh＊＠０６０＿０１０...Come on, man...￥No way."
+  },
+  {
+   "id": "0389:0059D",
+   "end": "818400",
+   "en": "＊Eiji＊＠０６０＿０１１What?! You don't know that!!"
+  },
+  {
+   "id": "0389:005D6",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0389:005EC",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿０１２Life forms on Elan, huh...＝＠０６０＿０１３The data confirms they closely￥resemble life on Earth.＝＠０６０＿０１４Deer, wolves, horses, and what￥seem to be small rodents."
+  },
+  {
+   "id": "0389:006B9",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿０１５But they're right. That can't￥possibly be all there is...＝＠０６０＿０１６An interesting topic..."
+  },
+  {
+   "id": "0389:00745.0",
+   "choice": true,
+   "en": "Let's join them."
+  },
+  {
+   "id": "0389:00745.1",
+   "choice": true,
+   "en": "Go tell them your idea."
+  },
+  {
+   "id": "0389:00779.0",
+   "choice": true,
+   "en": "Let's go join them."
+  },
+  {
+   "id": "0389:00779.1",
+   "choice": true,
+   "en": "Why not share your idea?"
+  },
+  {
+   "id": "0389:007B5",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿０１７Huh?! ...＝＠０６０＿０１８Ah, all right."
+  },
+  {
+   "id": "0389:0080B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿０１９Huh?! Ah, uh...￥I suppose... so..."
+  },
+  {
+   "id": "0389:00858",
+   "end": "818400",
+   "en": "＊Eiji＊＠０６０＿０２０But c'mon, wouldn't it be cool￥if there were some weird￥creatures out there?"
+  },
+  {
+   "id": "0389:008B4",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿０２１As everyone knows by now, Elan￥closely resembles Earth."
+  },
+  {
+   "id": "0389:0091A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿０２２If the data's that similar, then￥Elan's life forms will almost￥certainly resemble Earth's too.＝＠０６０＿０２３But nature can go beyond common￥sense, and beyond science.＝＠０６０＿０２４A detailed survey on site may￥well turn up creatures unlike￥anything we've ever seen."
+  },
+  {
+   "id": "0389:00A43",
+   "end": "818400",
+   "en": "＊Eiji＊＠０６０＿０２５Kairi...?!"
+  },
+  {
+   "id": "0389:00A72",
+   "end": "818400",
+   "en": "＊Yoh＊＠０６０＿０２６That's rare. Kairi joining in."
+  },
+  {
+   "id": "0389:00AB3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６０＿０２７Come to think of it, we've never￥really talked, have we?"
+  },
+  {
+   "id": "0389:00B06",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６０＿０２８That... may be true."
+  },
+  {
+   "id": "0389:00B43",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６１＿００１Oh, I know! Since Kairi's here,￥let's ask him.＝＠０６１＿００２You just said we might find￥creatures unlike anything we've￥ever seen, right?"
+  },
+  {
+   "id": "0389:00BF8",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６１＿００３If they really exist, what would￥they be like? Scientifically,￥what can you imagine?"
+  },
+  {
+   "id": "0389:00C61",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿００４Fantasy isn't science, but...＝＠０６１＿００５Given the stable, warm climate,￥there could be some very large￥land animals."
+  },
+  {
+   "id": "0389:00D00",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６１＿００６So there might be dinosaurs,￥like a Tyrannosaurus!"
+  },
+  {
+   "id": "0389:00D53",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿００７Ah, er, yes.￥That's certainly possible..."
+  },
+  {
+   "id": "0389:00D9A",
+   "end": "818400",
+   "en": "＊Yoh＊＠０６１＿００８So Kairi reacts like that too!｝￥＠０６１＿００９You seem a lot more laid-back￥than before."
+  },
+  {
+   "id": "0389:00E19",
+   "end": "818400",
+   "en": "＊Yoh＊＠０６１＿０１０Wonder who we have to thank~"
+  },
+  {
+   "id": "0389:00E4C",
+   "end": "818400",
+   "en": "＊Yoh＊＠０６１＿０１１Well, we're done eating,￥so we'll get going.＝＠０６１＿０１２That was fun, you two."
+  },
+  {
+   "id": "0389:00EC1",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０６１＿０１３See you! Next time,￥let's all eat together!"
+  },
+  {
+   "id": "0389:00F0E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０６１＿０１４Later!"
+  },
+  {
+   "id": "0389:00F37",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0389:00F47",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０１５Ah, yes...＝...＝＠０６１＿０１６I'm a little tired..."
+  },
+  {
+   "id": "0389:00FB1",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０１７But talking like this￥is interesting."
+  },
+  {
+   "id": "0389:00FFD.0",
+   "choice": true,
+   "en": "Yeah, it is!"
+  },
+  {
+   "id": "0389:00FFD.1",
+   "choice": true,
+   "en": "You didn't know that?"
+  },
+  {
+   "id": "0389:0102D.0",
+   "choice": true,
+   "en": "Yes, isn't it!"
+  },
+  {
+   "id": "0389:0102D.1",
+   "choice": true,
+   "en": "You didn't know that?"
+  },
+  {
+   "id": "0389:0105D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０１８People respond in ways I'd never￥expect. It's fascinating."
+  },
+  {
+   "id": "0389:010C5",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０１９No. I've never talked with￥people like this before."
+  },
+  {
+   "id": "0389:0111C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２０I've learned they see things￥from a different viewpoint than￥mine. It's fascinating."
+  },
+  {
+   "id": "0389:0117D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２１Except for you, I barely talked￥to anyone unless I had to.￥So I never knew."
+  },
+  {
+   "id": "0389:011E4",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２２You said talking with others was￥important, so I wanted to find￥out for myself."
+  },
+  {
+   "id": "0389:0124E.0",
+   "choice": true,
+   "en": "Because I said so...?"
+  },
+  {
+   "id": "0389:0124E.1",
+   "choice": true,
+   "en": "Why only now?"
+  },
+  {
+   "id": "0389:0128C.0",
+   "choice": true,
+   "en": "Because I said so...?"
+  },
+  {
+   "id": "0389:0128C.1",
+   "choice": true,
+   "en": "Why only now?"
+  },
+  {
+   "id": "0389:012CA",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２３Yes. Otherwise, I don't think it￥would have occurred to me to￥try to find out."
+  },
+  {
+   "id": "0389:01338",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２４Let's see... I suppose because I￥was only interested in research."
+  },
+  {
+   "id": "0389:01387",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２５Until now, I was in a place￥where focusing only on research￥was never a problem...＝＠０６１＿０２６And I was satisfied with that.￥But now..."
+  },
+  {
+   "id": "0389:0142A",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２７I've learned that hearing other￥people's ideas is full of￥discoveries. It's fun."
+  },
+  {
+   "id": "0389:0148F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２８People are so varied. When you￥engage them, they surprise you."
+  },
+  {
+   "id": "0389:014E6",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０２９Fascinating, just like nature...￥And I never knew it until now."
+  },
+  {
+   "id": "0389:0153D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６１＿０３０I've been missing out a bit..."
+  },
+  {
+   "id": "0389:01578",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

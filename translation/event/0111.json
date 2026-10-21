@@ -1,0 +1,41 @@
+{
+ "entry": 111,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0111:00016",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿００８Looks like you fell just short.￥...Too bad."
+  },
+  {
+   "id": "0111:00067",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００２＿００９Don't let it get you down. You￥still have an important job:￥supporting those who qualified."
+  },
+  {
+   "id": "0111:000E0",
+   "end": "818400",
+   "en": "＊Narusawa＊＠００２＿０１０Starting tomorrow, we'll be busy￥getting those who qualified￥ready to leave."
+  },
+  {
+   "id": "0111:0013B",
+   "end": "818400",
+   "en": "＊Sakaki＊＠００２＿０１１We'll need all of you to￥help out. We're counting on you."
+  },
+  {
+   "id": "0111:00192",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0111:001A8",
+   "end": "818400",
+   "en": "＊＊－　One Month Later: Launch Day　－"
+  },
+  {
+   "id": "0111:001ED",
+   "end": "818400",
+   "en": "－　The Qualified Depart　－"
+  }
+ ]
+}

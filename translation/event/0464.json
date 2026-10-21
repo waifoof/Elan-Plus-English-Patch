@@ -1,0 +1,121 @@
+{
+ "entry": 464,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0464:0001C",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿００１Oh, you're here...￥Sorry to bother you while you're￥resting, but got a sec?＝＠０２９＿００２I was shocked when I saw the￥results this time. I wondered￥what kind of magic you used."
+  },
+  {
+   "id": "0464:000DB",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿００３Never thought I'd get passed by￥YOU. I even started thinking￥maybe I'm all washed up."
+  },
+  {
+   "id": "0464:0014F.0",
+   "choice": true,
+   "en": "Hey, what's that mean?!"
+  },
+  {
+   "id": "0464:0014F.1",
+   "choice": true,
+   "en": "Hey, don't feel so down."
+  },
+  {
+   "id": "0464:00189.0",
+   "choice": true,
+   "en": "Hey, what's that mean?!"
+  },
+  {
+   "id": "0464:00189.1",
+   "choice": true,
+   "en": "Hey, don't feel so down."
+  },
+  {
+   "id": "0464:001C7",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿００４I meant just what I said.￥I've got my pride too, you know."
+  },
+  {
+   "id": "0464:00230",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿００５Losing to someone like you?￥I just can't accept that!"
+  },
+  {
+   "id": "0464:00292",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿００６Wow, you can't even tell when￥I'm being sarcastic?"
+  },
+  {
+   "id": "0464:002C9",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿００７Geez. Losing to someone like￥this makes me feel pathetic."
+  },
+  {
+   "id": "0464:00330",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿００８Anyone can get lucky once.＝＠０２９＿００９I wouldn't get too excited￥if I were you."
+  },
+  {
+   "id": "0464:003BD",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１０Well, that's IF these scores￥really reflect your ability."
+  },
+  {
+   "id": "0464:00419.0",
+   "choice": true,
+   "en": "Of course they are!"
+  },
+  {
+   "id": "0464:00419.1",
+   "choice": true,
+   "en": "What does that mean?"
+  },
+  {
+   "id": "0464:0044F.0",
+   "choice": true,
+   "en": "Of course they are!"
+  },
+  {
+   "id": "0464:0044F.1",
+   "choice": true,
+   "en": "What does that mean?"
+  },
+  {
+   "id": "0464:00487",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１１Sure, sure. But if people￥doubt you, I think that's your￥own fault."
+  },
+  {
+   "id": "0464:004F0",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１２The way you usually act makes￥people want to doubt you."
+  },
+  {
+   "id": "0464:00542",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１３Oh, nothing... But given your￥scores so far, you can't blame￥people for wondering, right?"
+  },
+  {
+   "id": "0464:005B5",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１４If this really is what you can￥do, then I guess it deserves￥some respect."
+  },
+  {
+   "id": "0464:00612",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１５Well, congrats on this one!＝＠０２９＿０１６I doubt it'll ever happen￥again, anyway!"
+  },
+  {
+   "id": "0464:00697",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１７All I can say is you got lucky.￥But luck's a kind of skill too."
+  },
+  {
+   "id": "0464:006F0",
+   "end": "818400",
+   "en": "＊Amane＊＠０２９＿０１８But next time, luck won't be￥enough to beat me! Remember￥that. See ya."
+  }
+ ]
+}

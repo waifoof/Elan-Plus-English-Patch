@@ -1,0 +1,101 @@
+{
+ "entry": 471,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0471:00019",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０１８It's you...＝＠０６４＿０１９I wondered how hard someone￥must train to beat me in my￥own specialty, but..."
+  },
+  {
+   "id": "0471:000AC",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２０I never imagined you'd be doing￥nothing at all. And someone like￥that beat me..."
+  },
+  {
+   "id": "0471:0010A.0",
+   "choice": true,
+   "en": "Where'd that come from?"
+  },
+  {
+   "id": "0471:0010A.1",
+   "choice": true,
+   "en": "Can't I take a break?"
+  },
+  {
+   "id": "0471:0013C.0",
+   "choice": true,
+   "en": "Where'd that come from?"
+  },
+  {
+   "id": "0471:0013C.1",
+   "choice": true,
+   "en": "Can't I take a break?"
+  },
+  {
+   "id": "0471:0016E",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２１I expected anyone who could beat￥an expert would be training hard￥even on their day off."
+  },
+  {
+   "id": "0471:001EB",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２２I thought there might be￥something to learn from that,￥but this was a wasted trip..."
+  },
+  {
+   "id": "0471:00257",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２３That's not it. I just thought￥someone who beats an expert￥would be worth learning from."
+  },
+  {
+   "id": "0471:002CC",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２４But... is there anything￥to learn here?"
+  },
+  {
+   "id": "0471:0030F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２５If your scores truly are￥higher than mine...＝＠０６４＿０２６then perhaps part of the reason￥is that my own training isn't￥paying off..."
+  },
+  {
+   "id": "0471:003BD.0",
+   "choice": true,
+   "en": "Do I look that dumb?"
+  },
+  {
+   "id": "0471:003BD.1",
+   "choice": true,
+   "en": "How rude!"
+  },
+  {
+   "id": "0471:003EF.0",
+   "choice": true,
+   "en": "Do I look that dumb?"
+  },
+  {
+   "id": "0471:003EF.1",
+   "choice": true,
+   "en": "How rude!"
+  },
+  {
+   "id": "0471:0041D",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２７I didn't say you look dumb.￥You simply didn't seem very￥dedicated to your training."
+  },
+  {
+   "id": "0471:0049F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２８Rude...?￥I see."
+  },
+  {
+   "id": "0471:004D4",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０２９I only said what I thought...￥but I apologize."
+  },
+  {
+   "id": "0471:00525",
+   "end": "818400",
+   "en": "＊Kairi＊＠０６４＿０３０Sorry to have disturbed you￥while you were relaxing."
+  }
+ ]
+}

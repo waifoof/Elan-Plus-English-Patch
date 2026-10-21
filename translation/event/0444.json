@@ -1,0 +1,456 @@
+{
+ "entry": 444,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0444:0001A",
+   "end": "818400",
+   "en": "－　Corridor　－＝－　Yoh and Eiji are talking￥　　　　down the corridor　－"
+  },
+  {
+   "id": "0444:0006E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０９３＿００１Hey Yoh, listen to this!￥Talk about harsh!＝＠０９３＿００２Riko snapped at me, like,￥\"Don't touch my shoulder so￥casually!\""
+  },
+  {
+   "id": "0444:00101",
+   "end": "818400",
+   "en": "＊Yoh＊＠０９３＿００３Ahh,￥yeah, Riko's pretty strict￥about that kind of thing."
+  },
+  {
+   "id": "0444:00156",
+   "end": "818400",
+   "en": "＊Eiji＊＠０９３＿００４She's way too headstrong.＝＠０９３＿００５Only daughter of some fancy￥family, dad's a big shot in￥Project Elan, whatever.＝＠０９３＿００６That attitude really ticks me￥off. Cute face or not, with a￥personality like that...＝＠０９３＿００７I bet she's not scared of￥anything, huh?"
+  },
+  {
+   "id": "0444:00298",
+   "end": "818400",
+   "en": "＊Yoh＊＠０９３＿００８Well, I don't think her family￥has anything to do with it, but￥you might have a point."
+  },
+  {
+   "id": "0444:002F1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0444:002FA",
+   "end": "818400",
+   "en": "－　The two of them wander off￥　　still chatting　－"
+  },
+  {
+   "id": "0444:0033D",
+   "end": "818400",
+   "en": "－　?!　－＝－　Riko is peering down￥　　　　　　the corridor　－"
+  },
+  {
+   "id": "0444:00387",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿００９Eek..."
+  },
+  {
+   "id": "0444:003BB.0",
+   "choice": true,
+   "en": "What are you doing?"
+  },
+  {
+   "id": "0444:003BB.1",
+   "choice": true,
+   "en": "Mind if I get by...?"
+  },
+  {
+   "id": "0444:003F1.0",
+   "choice": true,
+   "en": "What are you doing?"
+  },
+  {
+   "id": "0444:003F1.1",
+   "choice": true,
+   "en": "Mind if I get by...?"
+  },
+  {
+   "id": "0444:00424",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１０Eeeeeek!!"
+  },
+  {
+   "id": "0444:0045D",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１１Ahh, you scared me!￥Oh, it's just you.＝＠０９３＿０１２Don't startle me like that,￥geez!"
+  },
+  {
+   "id": "0444:004D0",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１３Be more careful when you￥call out to people!!"
+  },
+  {
+   "id": "0444:0051B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１４I thought my heart￥was going to stop!!"
+  },
+  {
+   "id": "0444:00564",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１５Huh?!"
+  },
+  {
+   "id": "0444:00593",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１６Oh, sorry about that.￥But I'm not just standing here￥for no reason, you know!"
+  },
+  {
+   "id": "0444:005FA",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１７Honestly!￥Be more careful when you￥call out to people!!"
+  },
+  {
+   "id": "0444:00651",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１８You startled me!!"
+  },
+  {
+   "id": "0444:0068B.0",
+   "choice": true,
+   "en": "Why are you so jumpy?"
+  },
+  {
+   "id": "0444:0068B.1",
+   "choice": true,
+   "en": "Don't yell at me!"
+  },
+  {
+   "id": "0444:006BD.0",
+   "choice": true,
+   "en": "Why are you so jumpy?"
+  },
+  {
+   "id": "0444:006BD.1",
+   "choice": true,
+   "en": "Don't yell at me!"
+  },
+  {
+   "id": "0444:006FB",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０１９H-how rude!￥I'm not jumpy at all!￥Don't treat me like a kid!"
+  },
+  {
+   "id": "0444:00765",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０２０I'm not yelling!￥How rude!＝＠０９３＿０２１You're the one who￥suddenly got mad!!"
+  },
+  {
+   "id": "0444:007E2",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０２２Wh-when I tried to turn the￥corner, I saw something white￥and blurry floating there."
+  },
+  {
+   "id": "0444:0084C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０２３It was just a split second, so I￥didn't get a good look... but it￥seemed to be moving..."
+  },
+  {
+   "id": "0444:008B7",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０２４Hey...!￥What do you think that white￥thing was?"
+  },
+  {
+   "id": "0444:0090B.0",
+   "choice": true,
+   "en": "Maybe it was a ghost."
+  },
+  {
+   "id": "0444:0090B.1",
+   "choice": true,
+   "en": "You must've imagined it."
+  },
+  {
+   "id": "0444:0092F.0",
+   "choice": true,
+   "en": "Maybe it was a ghost."
+  },
+  {
+   "id": "0444:0092F.1",
+   "choice": true,
+   "en": "You must've imagined it."
+  },
+  {
+   "id": "0444:00957",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０２５You think so too?￥There's a rumor that this area￥is haunted, you know.＝＠０９３＿０２６The ghost of someone who died in￥an accident wanders the halls￥every night..."
+  },
+  {
+   "id": "0444:009F8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０２７You might not have heard,￥but this place has tons￥of scary stories."
+  },
+  {
+   "id": "0444:00A64",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０２８You can only say that because￥you didn't see it!!"
+  },
+  {
+   "id": "0444:00AB5",
+   "end": "818400",
+   "en": "＊Riko＊＠０９３＿０２９There really, REALLY￥is something there!!￥I can tell!!"
+  },
+  {
+   "id": "0444:00B20",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００１Ugh, what do I do? I could take￥the long way back..."
+  },
+  {
+   "id": "0444:00B7B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００２I-it's not like I'm scared￥or anything!"
+  },
+  {
+   "id": "0444:00BC8",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００３I just don't like things I can't￥identify, or things I can't see￥clearly, that's all!"
+  },
+  {
+   "id": "0444:00C3D",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００４I know!!￥Why don't you go￥chase it off for me?"
+  },
+  {
+   "id": "0444:00C93",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００５You seem thick-skinned enough.￥Unlike delicate little me, you'd￥be fine if it possessed you!!"
+  },
+  {
+   "id": "0444:00CFC.0",
+   "choice": true,
+   "en": "You're kidding, right?"
+  },
+  {
+   "id": "0444:00CFC.1",
+   "choice": true,
+   "en": "Fine, if I have to."
+  },
+  {
+   "id": "0444:00D20",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００６That's so unmanly!￥Don't you have any urge￥to protect a lady?"
+  },
+  {
+   "id": "0444:00D87",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００７Ugh!￥Quit whining and￥just go already!!"
+  },
+  {
+   "id": "0444:00DE5",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００８Oh! You've got a pretty￥sweet side after all!￥I'm impressed!!"
+  },
+  {
+   "id": "0444:00E3C",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿００９See, I knew I was￥a good judge of character!"
+  },
+  {
+   "id": "0444:00E86",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０１０You look tough enough. Unlike￥delicate little me, you'd be￥fine if it possessed you!!"
+  },
+  {
+   "id": "0444:00EF3.0",
+   "choice": true,
+   "en": "You're kidding, right?"
+  },
+  {
+   "id": "0444:00EF3.1",
+   "choice": true,
+   "en": "Fine, if I have to."
+  },
+  {
+   "id": "0444:00F1B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０１１Does this sound like a joke?＝＠０９４＿０１２Come on, I'm in trouble here, so￥you could help me out a little,￥couldn't you?!＝＠０９４＿０１３Don't you have any compassion?"
+  },
+  {
+   "id": "0444:00FEA",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０１４Ugh!￥Quit whining and￥just go already!!"
+  },
+  {
+   "id": "0444:01048",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０１５Oh! You've got a pretty￥sweet side after all!￥I'm impressed!!"
+  },
+  {
+   "id": "0444:0109F",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０１６See, I knew I was￥a good judge of character!"
+  },
+  {
+   "id": "0444:010ED",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０１７Even if something happens to￥you, don't worry!"
+  },
+  {
+   "id": "0444:01132",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０１８I'll make sure to carry your￥bones to Elan, so go fight with￥no regrets!!"
+  },
+  {
+   "id": "0444:0119D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0444:011B0",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０１９W-wait!￥I'm coming too after all!!"
+  },
+  {
+   "id": "0444:011F9",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0444:01210",
+   "end": "818400",
+   "en": "＊＊－　； and Riko walk up to￥　　　the \"white thing\"　－"
+  },
+  {
+   "id": "0444:01259",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０２０Wha...?!"
+  },
+  {
+   "id": "0444:0128A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０２１N-no way... don't tell me..."
+  },
+  {
+   "id": "0444:012BD",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０２２It's just a towel hanging￥there...?￥You've got to be kidding me!"
+  },
+  {
+   "id": "0444:01322",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０２３I can't believe this!!￥What is this?! How misleading!!"
+  },
+  {
+   "id": "0444:0137E.0",
+   "choice": true,
+   "en": "I can't believe YOU!"
+  },
+  {
+   "id": "0444:0137E.1",
+   "choice": true,
+   "en": "It IS pretty misleading."
+  },
+  {
+   "id": "0444:013B6.0",
+   "choice": true,
+   "en": "I can't believe YOU!"
+  },
+  {
+   "id": "0444:013B6.1",
+   "choice": true,
+   "en": "It IS pretty misleading."
+  },
+  {
+   "id": "0444:013F2",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０２４You don't have to get￥so mad!!"
+  },
+  {
+   "id": "0444:01439",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０２５It really looked like a￥ghost, okay?!"
+  },
+  {
+   "id": "0444:01483",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０２６Right! Exactly!￥Honestly, who'd pull a prank￥like this here?"
+  },
+  {
+   "id": "0444:014EC",
+   "end": "818400",
+   "en": "＊Riko＊＠０９４＿０２７If it was one of the candidates,￥they're going to pay!"
+  },
+  {
+   "id": "0444:01544",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿００１Oh, and sorry for holding￥you up, too!"
+  },
+  {
+   "id": "0444:01591",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿００２But I never said \"help me\" to￥you, not even once!＝＠０９５＿００３So this was all your own￥idea, wasn't it?"
+  },
+  {
+   "id": "0444:01638",
+   "end": "818400",
+   "en": "＊Riko＊...｝￥＠０９５＿００４What's with that look?"
+  },
+  {
+   "id": "0444:0167B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿００５Aren't you thrilled to get to￥talk with me this much?!"
+  },
+  {
+   "id": "0444:016CF.0",
+   "choice": true,
+   "en": "Yes, yes, I'm thrilled."
+  },
+  {
+   "id": "0444:016CF.1",
+   "choice": true,
+   "en": "No, not really..."
+  },
+  {
+   "id": "0444:016FB.0",
+   "choice": true,
+   "en": "Yes, yes, I'm thrilled."
+  },
+  {
+   "id": "0444:016FB.1",
+   "choice": true,
+   "en": "No, not really..."
+  },
+  {
+   "id": "0444:0172B",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿００６What kind of lame￥answer is that?!"
+  },
+  {
+   "id": "0444:0176A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿００７If you take me lightly,￥you'll regret it later!!"
+  },
+  {
+   "id": "0444:017BA",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿００８What did you say?!"
+  },
+  {
+   "id": "0444:017EF",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿００９You can't even be honest￥about how you feel..."
+  },
+  {
+   "id": "0444:0183A",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿０１０Ugh, you're hopeless!＝＠０９５＿０１１I was an idiot to think better￥of you even once!"
+  },
+  {
+   "id": "0444:018C3",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿０１２But I didn't ask you to do￥any of this, right?"
+  },
+  {
+   "id": "0444:01910",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿０１３So don't you dare think I owe￥you one, got it?!"
+  },
+  {
+   "id": "0444:0196D",
+   "end": "818400",
+   "en": "＊Riko＊＠０９５＿０１４Well, see ya!!"
+  }
+ ]
+}

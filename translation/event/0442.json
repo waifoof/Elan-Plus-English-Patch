@@ -1,0 +1,751 @@
+{
+ "entry": 442,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0442:00017",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0442:0002F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００１Cousiiiiin!!"
+  },
+  {
+   "id": "0442:0006E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００２I spotted you from behind,￥so I chased after you."
+  },
+  {
+   "id": "0442:000BD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００３I mean, we never get￥a chance to really talk,￥Cousin!"
+  },
+  {
+   "id": "0442:00112",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００４Let's chat for a bit, okay?"
+  },
+  {
+   "id": "0442:0014B.0",
+   "choice": true,
+   "en": "I wanted to talk too."
+  },
+  {
+   "id": "0442:0014B.1",
+   "choice": true,
+   "en": "Hmm, if I have to..."
+  },
+  {
+   "id": "0442:00187",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００５Yay!￥That's my cousin!!"
+  },
+  {
+   "id": "0442:001C4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００６I'm so glad￥you're a candidate too, Cousin."
+  },
+  {
+   "id": "0442:0020B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００７Good thing I caught you!￥Ever since I got here, I've been￥wanting to talk to you, Cousin!"
+  },
+  {
+   "id": "0442:0027F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００８That's so mean!!￥What's wrong with that?!￥It's been eight years!＝＠１２１＿００９Before I moved away, you always￥listened to me and said￥\"there, there\"!"
+  },
+  {
+   "id": "0442:00334",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１０Ever since we met up here,￥I've been wanting to￥talk to you, Cousin."
+  },
+  {
+   "id": "0442:003A1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１１You know...￥I was actually really nervous!"
+  },
+  {
+   "id": "0442:003E8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１２This project is supposedly top￥secret, so I couldn't even tell￥my friends I'd been chosen."
+  },
+  {
+   "id": "0442:0045F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１３I know it's an important￥mission, but having to come all￥the way here and take tests..."
+  },
+  {
+   "id": "0442:004D6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１４I'm so relieved￥to have someone I know here...＝＠１２１＿０１５And on top of that..."
+  },
+  {
+   "id": "0442:0054F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１６...it's my dearly beloved￥Cousin!"
+  },
+  {
+   "id": "0442:00590",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１７Oh... sorry.￥Am I talking too much?"
+  },
+  {
+   "id": "0442:005E5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１８Was I being annoying...?"
+  },
+  {
+   "id": "0442:00618.0",
+   "choice": true,
+   "en": "No, not at all."
+  },
+  {
+   "id": "0442:00618.1",
+   "choice": true,
+   "en": "You're a bit hyper."
+  },
+  {
+   "id": "0442:0064E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１９Phew!￥I've wanted to see you for￥so long, I was just so happy..."
+  },
+  {
+   "id": "0442:006B3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２０I was scared you'd hate me￥for getting so worked up,￥Cousin!"
+  },
+  {
+   "id": "0442:00719",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２１Oh... I-I'm sorry.￥I was so happy to see you￥that I got carried away..."
+  },
+  {
+   "id": "0442:00786",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２２I haven't changed a bit￥that way since we were kids...＝＠１２１＿０２３I should work on that."
+  },
+  {
+   "id": "0442:007FB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２４Sorry, Cousin."
+  },
+  {
+   "id": "0442:0082E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２５Talking like this, it feels like￥we're little kids again."
+  },
+  {
+   "id": "0442:00887",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２６Hey, Cousin!￥I heard the latest data on Elan￥just came into the Monitor Room!"
+  },
+  {
+   "id": "0442:008F4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２７Since we have the chance,￥want to go see it together?"
+  },
+  {
+   "id": "0442:00935.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0442:00935.1",
+   "choice": true,
+   "en": "Sorry, I'll pass."
+  },
+  {
+   "id": "0442:0096D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２８Yay!￥Then let's hurry!"
+  },
+  {
+   "id": "0442:009B0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２９Actually, I've never properly￥seen footage of Elan!"
+  },
+  {
+   "id": "0442:00A0B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０３０I can't wait!"
+  },
+  {
+   "id": "0442:00A36",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0442:00A46",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００１Whoa! So cold!!￥Turning down an invitation from￥a cousin as cute as me!"
+  },
+  {
+   "id": "0442:00AB1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００２But it's a rare chance,￥so let's go see it."
+  },
+  {
+   "id": "0442:00AF6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００３Please! Pretty please?"
+  },
+  {
+   "id": "0442:00B25",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００４Come on!! Let's go, let's go!!"
+  },
+  {
+   "id": "0442:00B5A",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0442:00B6B",
+   "end": "818400",
+   "en": "－　Monitor Room　－＝－　No one is here　－"
+  },
+  {
+   "id": "0442:00B9E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００５Looks like nobody else is here."
+  },
+  {
+   "id": "0442:00BDB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００６Uh... um, this is...｝￥＠１２２＿００７Hmm... the controls are tough..."
+  },
+  {
+   "id": "0442:00C4C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００８Cousin! I want to see it on￥the big screen, so work the￥controls for me!"
+  },
+  {
+   "id": "0442:00CA1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0442:00CB9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００９Wow... it's beautiful...＝＠１２２＿０１０Such a...￥beautiful blue planet.＝＠１２２＿０１１It's so much bluer and prettier￥than Earth in the old footage...＝＠１２２＿０１２We were chosen￥to go to this planet.＝＠１２２＿０１３They say Elan has an environment￥really similar to Earth's..."
+  },
+  {
+   "id": "0442:00E0A.0",
+   "choice": true,
+   "en": "About Elan..."
+  },
+  {
+   "id": "0442:00E0A.1",
+   "choice": true,
+   "en": "About Earth..."
+  },
+  {
+   "id": "0442:00E30",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０１４Elan is the \"star of hope\" for￥a humanity that lost Earth.＝＠１２２＿０１５Whether people can settle on￥Elan for good... we're the key￥to that, aren't we?"
+  },
+  {
+   "id": "0442:00EE7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０１６Heh, not my words, though!￥I got all of that￥from Narusawa!"
+  },
+  {
+   "id": "0442:00F48",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０１７Anyway, out of the nine￥candidates here, only two￥get to go to Elan."
+  },
+  {
+   "id": "0442:00FBC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０１８Earth...￥Long ago, it was a beautiful￥blue planet like this too...＝＠１２２＿０１９And now it's a dead planet￥where not even microbes￥can survive...＝＠１２２＿０２０A planet we humans￥destroyed ourselves...＝＠１２２＿０２１Elan is the last hope given￥to sinful humanity..."
+  },
+  {
+   "id": "0442:010F3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０２２Heh, not my words, though!￥I got all of that from the￥training textbook."
+  },
+  {
+   "id": "0442:0115A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０２３I don't really get all￥that ancient history stuff..."
+  },
+  {
+   "id": "0442:011A5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０２４Anyway!＝＠１２２＿０２５If we candidates qualify,￥we get to go to Elan as a pair,￥right?"
+  },
+  {
+   "id": "0442:0122A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００１If I were with you, Cousin,￥I bet Elan would be fun."
+  },
+  {
+   "id": "0442:01281",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００２I mean, it'd be just the two of￥us, right? Kinda romantic, huh!"
+  },
+  {
+   "id": "0442:012E6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００３So that I won't hold you back￥when that time comes..."
+  },
+  {
+   "id": "0442:0133B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００４I've gotta work hard!!"
+  },
+  {
+   "id": "0442:01374.0",
+   "choice": true,
+   "en": "Let's both do our best."
+  },
+  {
+   "id": "0442:01374.1",
+   "choice": true,
+   "en": "Nothing's decided yet."
+  },
+  {
+   "id": "0442:013A8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００５Yeah! I'll do my best!!"
+  },
+  {
+   "id": "0442:013D9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００６Being with you is my number￥one reason for wanting￥to go to Elan!"
+  },
+  {
+   "id": "0442:01437",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００７I know that already!"
+  },
+  {
+   "id": "0442:01470",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００８But if you don't even want to￥go, you won't make it even when￥you could have!"
+  },
+  {
+   "id": "0442:014DF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００９It all starts with how you feel!"
+  },
+  {
+   "id": "0442:0151C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１０Back when I became a candidate,￥I had no confidence in myself￥and was really nervous..."
+  },
+  {
+   "id": "0442:01581",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１１This project is about￥humanity's future, after all..."
+  },
+  {
+   "id": "0442:015D8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１２I wondered if an ordinary girl￥like me should really be chosen￥for such an important role..."
+  },
+  {
+   "id": "0442:01647",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１３But hey, I did get chosen!"
+  },
+  {
+   "id": "0442:01686",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１４So I'm going to try￥as hard as I can!"
+  },
+  {
+   "id": "0442:016CD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１５It's a rare chance￥to test myself, after all!"
+  },
+  {
+   "id": "0442:0171A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１６Thanks for hanging out￥with me today!"
+  },
+  {
+   "id": "0442:0176B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１７Let's do our best tomorrow too!￥Good night."
+  },
+  {
+   "id": "0442:017AE",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0442:017BB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００１Cousiiiiin!!"
+  },
+  {
+   "id": "0442:017FA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００２I spotted you from behind,￥so I chased after you."
+  },
+  {
+   "id": "0442:01849",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００３I mean, we never get￥a chance to really talk,￥Cousin!"
+  },
+  {
+   "id": "0442:0189E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００４Let's chat for a bit, okay?"
+  },
+  {
+   "id": "0442:018D7.0",
+   "choice": true,
+   "en": "I wanted to talk too."
+  },
+  {
+   "id": "0442:018D7.1",
+   "choice": true,
+   "en": "Oh, all right."
+  },
+  {
+   "id": "0442:01907",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００５Yay!￥That's my cousin!!"
+  },
+  {
+   "id": "0442:01944",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００６I'm so glad￥you're a candidate too, Cousin."
+  },
+  {
+   "id": "0442:0198B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００７Good thing I caught you!￥Ever since I got here, I've been￥wanting to talk to you, Cousin!"
+  },
+  {
+   "id": "0442:019FF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿００８That's so mean!!￥What's wrong with that?!￥It's been eight years!＝＠１２１＿００９Before I moved away, you always￥listened to me and said￥\"there, there\"!"
+  },
+  {
+   "id": "0442:01AB4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１０Ever since we met up here,￥I've been wanting to￥talk to you, Cousin."
+  },
+  {
+   "id": "0442:01B21",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１１You know...￥I was actually really nervous!"
+  },
+  {
+   "id": "0442:01B68",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１２This project is supposedly top￥secret, so I couldn't even tell￥my friends I'd been chosen."
+  },
+  {
+   "id": "0442:01BDF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１３I know it's an important￥mission, but having to come all￥the way here and take tests..."
+  },
+  {
+   "id": "0442:01C56",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１４I'm so relieved￥to have someone I know here...＝＠１２１＿０１５And on top of that..."
+  },
+  {
+   "id": "0442:01CCF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１６...it's my dearly beloved￥Cousin!"
+  },
+  {
+   "id": "0442:01D10",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１７Oh... sorry.￥Am I talking too much?"
+  },
+  {
+   "id": "0442:01D65",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１８Was I being annoying...?"
+  },
+  {
+   "id": "0442:01D98.0",
+   "choice": true,
+   "en": "No, not at all."
+  },
+  {
+   "id": "0442:01D98.1",
+   "choice": true,
+   "en": "Just a little."
+  },
+  {
+   "id": "0442:01DC6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０１９Phew!￥I've wanted to see you for￥so long, I was just so happy..."
+  },
+  {
+   "id": "0442:01E2B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２０I was scared you'd hate me￥for getting so worked up,￥Cousin!"
+  },
+  {
+   "id": "0442:01E91",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２１Oh... I-I'm sorry.￥I was so happy to see you￥that I got carried away..."
+  },
+  {
+   "id": "0442:01EFE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２２I haven't changed a bit￥that way since we were kids...＝＠１２１＿０２３I should work on that."
+  },
+  {
+   "id": "0442:01F73",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２４Sorry, Cousin."
+  },
+  {
+   "id": "0442:01FA6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２５Talking like this, it feels like￥we're little kids again."
+  },
+  {
+   "id": "0442:01FFF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２６Hey, Cousin!￥I heard the latest data on Elan￥just came into the Monitor Room!"
+  },
+  {
+   "id": "0442:0206C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２７Since we have the chance,￥want to go see it together?"
+  },
+  {
+   "id": "0442:020AD.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0442:020AD.1",
+   "choice": true,
+   "en": "Sorry, I'll pass."
+  },
+  {
+   "id": "0442:020EF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２８Yay!￥Then let's hurry!"
+  },
+  {
+   "id": "0442:02132",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０２９Actually, I've never properly￥seen footage of Elan!"
+  },
+  {
+   "id": "0442:0218D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２１＿０３０I can't wait!"
+  },
+  {
+   "id": "0442:021B8",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0442:021C8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００１Whoa! So cold!!￥Turning down an invitation from￥a cousin as cute as me!"
+  },
+  {
+   "id": "0442:02233",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００２But it's a rare chance,￥so let's go see it."
+  },
+  {
+   "id": "0442:02278",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００３Please! Pretty please?"
+  },
+  {
+   "id": "0442:022A7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００４Come on!! Let's go, let's go!!"
+  },
+  {
+   "id": "0442:022DC",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0442:022ED",
+   "end": "818400",
+   "en": "－　Monitor Room　－＝－　No one is here　－"
+  },
+  {
+   "id": "0442:02320",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００５Looks like nobody else is here."
+  },
+  {
+   "id": "0442:0235D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００６Uh... um, this is...｝￥＠１２２＿００７Hmm... the controls are tough..."
+  },
+  {
+   "id": "0442:023CA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００８Cousin! I want to see it on￥the big screen, so work the￥controls for me!"
+  },
+  {
+   "id": "0442:0241F",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0442:02437",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿００９Wow... it's beautiful...＝＠１２２＿０１０Such a...￥beautiful blue planet.＝＠１２２＿０１１It's so much bluer and prettier￥than Earth in the old footage...＝＠１２２＿０１２We were chosen￥to go to this planet.＝＠１２２＿０１３They say Elan has an environment￥really similar to Earth's..."
+  },
+  {
+   "id": "0442:02588.0",
+   "choice": true,
+   "en": "About Elan..."
+  },
+  {
+   "id": "0442:02588.1",
+   "choice": true,
+   "en": "About Earth..."
+  },
+  {
+   "id": "0442:025AE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０１４Elan is the \"star of hope\" for￥a humanity that lost Earth.＝＠１２２＿０１５Whether people can settle on￥Elan for good... we're the key￥to that, aren't we?"
+  },
+  {
+   "id": "0442:02665",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０１６Heh, not my words, though!￥I got all of that￥from Narusawa!"
+  },
+  {
+   "id": "0442:026C6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０１７Anyway, out of the nine￥candidates here, only two￥get to go to Elan."
+  },
+  {
+   "id": "0442:0273A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０１８Earth...￥Long ago, it was a beautiful￥blue planet like this too...＝＠１２２＿０１９And now it's a dead planet￥where not even microbes￥can survive...＝＠１２２＿０２０A planet we humans￥destroyed ourselves...＝＠１２２＿０２１Elan is the last hope given￥to sinful humanity..."
+  },
+  {
+   "id": "0442:02871",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０２２Heh, not my words, though!￥I got all of that from the￥training textbook."
+  },
+  {
+   "id": "0442:028D8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０２３I don't really get all￥that ancient history stuff..."
+  },
+  {
+   "id": "0442:02923",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２２＿０２４Anyway!＝＠１２２＿０２５If we candidates qualify,￥we get to go to Elan as a pair,￥right?"
+  },
+  {
+   "id": "0442:029A8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００１If I were with you, Cousin,￥I bet Elan would be fun."
+  },
+  {
+   "id": "0442:029FF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００２I mean, it'd be just the two of￥us, right? Kinda romantic, huh!"
+  },
+  {
+   "id": "0442:02A64",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００３So that I won't hold you back￥when that time comes..."
+  },
+  {
+   "id": "0442:02AB9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００４I've gotta work hard!!"
+  },
+  {
+   "id": "0442:02AF2.0",
+   "choice": true,
+   "en": "Let's both do our best."
+  },
+  {
+   "id": "0442:02AF2.1",
+   "choice": true,
+   "en": "Nothing's decided yet."
+  },
+  {
+   "id": "0442:02B2A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００５Yeah! I'll do my best!!"
+  },
+  {
+   "id": "0442:02B5B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００６Being with you is my number￥one reason for wanting￥to go to Elan!"
+  },
+  {
+   "id": "0442:02BB9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００７I know that already!"
+  },
+  {
+   "id": "0442:02BF2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００８But if you don't even want to￥go, you won't make it even when￥you could have!"
+  },
+  {
+   "id": "0442:02C61",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿００９It all starts with how you feel!"
+  },
+  {
+   "id": "0442:02C9E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１０Back when I became a candidate,￥I had no confidence in myself￥and was really nervous..."
+  },
+  {
+   "id": "0442:02D03",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１１This project is about￥humanity's future, after all..."
+  },
+  {
+   "id": "0442:02D5A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１２I wondered if an ordinary girl￥like me should really be chosen￥for such an important role..."
+  },
+  {
+   "id": "0442:02DC9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１３But hey, I did get chosen!"
+  },
+  {
+   "id": "0442:02E08",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１４So I'm going to try￥as hard as I can!"
+  },
+  {
+   "id": "0442:02E4F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１５It's a rare chance￥to test myself, after all!"
+  },
+  {
+   "id": "0442:02E9C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１６Thanks for hanging out￥with me today!"
+  },
+  {
+   "id": "0442:02EED",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２３＿０１７Let's do our best tomorrow too!￥Good night."
+  },
+  {
+   "id": "0442:02F30",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

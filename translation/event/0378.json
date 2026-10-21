@@ -1,0 +1,291 @@
+{
+ "entry": 378,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0378:00016",
+   "end": "818400",
+   "en": "－　Common Floor　－"
+  },
+  {
+   "id": "0378:00035",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿００１Oh, there you are!￥I've been looking for you!＝＠０２３＿００２Hey, there's something I want￥to show you!"
+  },
+  {
+   "id": "0378:000B4",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿００３If you've got a minute,￥come with me, okay?"
+  },
+  {
+   "id": "0378:00108.0",
+   "choice": true,
+   "en": "Show me what?"
+  },
+  {
+   "id": "0378:00108.1",
+   "choice": true,
+   "en": "Geez, fine."
+  },
+  {
+   "id": "0378:0013A.0",
+   "choice": true,
+   "en": "Show me what?"
+  },
+  {
+   "id": "0378:0013A.1",
+   "choice": true,
+   "en": "Oh, all right."
+  },
+  {
+   "id": "0378:0016E",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿００４That's a surprise!!￥Come on, hurry, hurry!"
+  },
+  {
+   "id": "0378:001C1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0378:001D2",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿００５Keep saying stuff like that￥and you'll be sorry later!"
+  },
+  {
+   "id": "0378:0021F",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿００６Come on, if you dawdle,￥I'm leaving you behind!"
+  },
+  {
+   "id": "0378:00270",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0378:00284",
+   "end": "818400",
+   "en": "－　Environmental Section　－"
+  },
+  {
+   "id": "0378:002A8",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿００７Look, look!!￥Isn't it amazing?!＝＠０２３＿００８The sunflowers that were dying￥the other day recovered, and￥they've made these great seeds!"
+  },
+  {
+   "id": "0378:00356.0",
+   "choice": true,
+   "en": "Wow, that's great!"
+  },
+  {
+   "id": "0378:00356.1",
+   "choice": true,
+   "en": "...Yeah, nice ones."
+  },
+  {
+   "id": "0378:00388.0",
+   "choice": true,
+   "en": "That's great, Amane!"
+  },
+  {
+   "id": "0378:00388.1",
+   "choice": true,
+   "en": "...Yes, they're lovely."
+  },
+  {
+   "id": "0378:003BA",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿００９I know! I'm so glad! So what￥I've been doing wasn't wrong￥after all!!"
+  },
+  {
+   "id": "0378:00426",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０１０Aww, come on! Get excited!＝＠０２３＿０１１You had a lot to do with these￥sunflowers too, you know!"
+  },
+  {
+   "id": "0378:004A1",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０１２Life is amazing, isn't it?￥Even while I was worrying and￥feeling down...＝＠０２３＿０１３they were steadily building up￥strength, waiting for the day￥they'd come out!!＝＠０２３＿０１４You know how one big sunflower￥gives you tons of seeds?＝＠０２３＿０１５I hope the seeds we take to Elan￥grow into lots and lots of￥even bigger flowers.＝＠０２３＿０１６And to make that happen...￥we've gotta work hard, right?!"
+  },
+  {
+   "id": "0378:0063B.0",
+   "choice": true,
+   "en": "We've got to qualify."
+  },
+  {
+   "id": "0378:0063B.1",
+   "choice": true,
+   "en": "The final exam is close."
+  },
+  {
+   "id": "0378:00673.0",
+   "choice": true,
+   "en": "We've got to qualify."
+  },
+  {
+   "id": "0378:00673.1",
+   "choice": true,
+   "en": "The final exam is close."
+  },
+  {
+   "id": "0378:006AD",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０１７That's for sure!"
+  },
+  {
+   "id": "0378:006DC",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０１８But... even if I don't￥end up qualifying...＝＠０２３＿０１９I'll give these seeds to one of￥the qualified and say, \"Plant￥these on Elan.\""
+  },
+  {
+   "id": "0378:00789",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２０For all the people who'll be￥going to Elan from now on."
+  },
+  {
+   "id": "0378:007DB",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２１Yeah...￥It really went by in a flash."
+  },
+  {
+   "id": "0378:00826",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２２I can hardly believe our life￥here is almost over."
+  },
+  {
+   "id": "0378:0088D",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２３I wonder what beautiful￥sunflowers these seeds will grow￥into once they get to Elan..."
+  },
+  {
+   "id": "0378:00900",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２４Did you know? Sunflowers are￥named that because they bloom￥facing the sun.＝＠０２３＿０２５They say the flowers always turn￥toward wherever the sun is."
+  },
+  {
+   "id": "0378:009AD",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２６When I found that out,￥I was really moved."
+  },
+  {
+   "id": "0378:009F8",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２７Flowers are just like us!￥They long for the light of a￥real sun!"
+  },
+  {
+   "id": "0378:00A53",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２８So I bet once these sunflowers￥bloom in real sunlight, they'll￥all start turning their heads."
+  },
+  {
+   "id": "0378:00ACC",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０２９I'd love to see that...￥No, wait.￥I know we'll get to see it!"
+  },
+  {
+   "id": "0378:00B26.0",
+   "choice": true,
+   "en": "Wow, I'd love to see it."
+  },
+  {
+   "id": "0378:00B26.1",
+   "choice": true,
+   "en": "Huh, I never knew that."
+  },
+  {
+   "id": "0378:00B5E.0",
+   "choice": true,
+   "en": "Wow, I'd love to see it."
+  },
+  {
+   "id": "0378:00B5E.1",
+   "choice": true,
+   "en": "Huh, I never knew that."
+  },
+  {
+   "id": "0378:00B9A",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０３０Right? Right?!￥You want to see it too!!"
+  },
+  {
+   "id": "0378:00BDD",
+   "end": "818400",
+   "en": "＊Amane＊＠０２３＿０３１That's why￥I want to go to Elan!￥I really, truly mean it."
+  },
+  {
+   "id": "0378:00C39",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００１Yeah. I only learned it after I￥started growing them myself."
+  },
+  {
+   "id": "0378:00C82",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００２Under the lighting here, they￥can grow normally, but they￥never turn their heads, see?"
+  },
+  {
+   "id": "0378:00CEB",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００３Sunflowers turning their heads￥toward the sun... You want to￥see that too, right?!"
+  },
+  {
+   "id": "0378:00D48",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００４Right now, I really, truly￥want to go to Elan."
+  },
+  {
+   "id": "0378:00D97",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００５A lot has happened since￥we came here, huh..."
+  },
+  {
+   "id": "0378:00DE8",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００６Every time, I felt like I was￥about to give up... but you were￥always right there with me..."
+  },
+  {
+   "id": "0378:00E57",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００７That's how I realized it. My way￥of \"caring about people\" was￥really just self-centered..."
+  },
+  {
+   "id": "0378:00ECE",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００８I'm really, really glad￥you were with me."
+  },
+  {
+   "id": "0378:00F1F",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿００９When I talk with you, I think,￥\"I want to be a grown-up just￥like you.\""
+  },
+  {
+   "id": "0378:00F86",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿０１０So I'm gonna work hard, even in￥the stuff I'm bad at, and really￥earn my place on the mission!"
+  },
+  {
+   "id": "0378:00FF1",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿０１１Then I can carry the sunflowers￥there with my own hands!"
+  },
+  {
+   "id": "0378:01046",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿０１２So...￥if you don't mind...＝＠０２４＿０１３When we go to Elan,￥let's go together!"
+  },
+  {
+   "id": "0378:010C7",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿０１４Oh, but it's not decided yet￥that we'll get to go... Still,￥I'm gonna try my very best!!"
+  },
+  {
+   "id": "0378:0113E",
+   "end": "818400",
+   "en": "＊Amane＊＠０２４＿０１５Let's make the sunflowers bloom￥together!! Okay?"
+  },
+  {
+   "id": "0378:01183",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "entry": 441,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0441:0001C",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0441:00031",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１３０＿０１２Good work today. You were really￥giving it your all."
+  },
+  {
+   "id": "0441:00076",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１３０＿０１３Enthusiasm is good, but￥don't overdo it."
+  },
+  {
+   "id": "0441:000BD",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１３０＿０１４Don't let the stress pile up.￥Taking care of yourself￥matters too."
+  },
+  {
+   "id": "0441:00110",
+   "end": "818400",
+   "en": "＊Sakaki＊＠１３０＿０１５Well, keep it up."
+  },
+  {
+   "id": "0441:00143",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0441:00154",
+   "end": "818400",
+   "en": "＊???＊＠１３０＿０１６Hey!! Quit swooning!￥You're practically drooling!"
+  },
+  {
+   "id": "0441:001A7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０１７Surprised?!"
+  },
+  {
+   "id": "0441:001D8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０１８Now, now, don't be mad~"
+  },
+  {
+   "id": "0441:0020D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０１９Come to think of it,￥we had this same conversation￥during that blackout, didn't we?"
+  },
+  {
+   "id": "0441:00266",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０２０Speaking of blackouts,￥the control system here￥sure glitches a lot."
+  },
+  {
+   "id": "0441:002C1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０２１So the supervisors have it￥really rough.＝＠１３０＿０２２Yuri especially. She's so busy,￥yet she does twice the work of￥anyone else!"
+  },
+  {
+   "id": "0441:00352",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０２３Isn't she cool?"
+  },
+  {
+   "id": "0441:00381.0",
+   "choice": true,
+   "en": "Yeah, she's really cool."
+  },
+  {
+   "id": "0441:00381.1",
+   "choice": true,
+   "en": "Learn from her, Kaname."
+  },
+  {
+   "id": "0441:003B1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０２４Someday, I want to be￥a real grown-up woman￥just like Yuri!"
+  },
+  {
+   "id": "0441:00411",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０２５Yeah. I want to be like her."
+  },
+  {
+   "id": "0441:00448",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０２６And someday, I want to be￥a real grown-up woman￥just like Yuri!"
+  },
+  {
+   "id": "0441:004AB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿００１Oh, right!"
+  },
+  {
+   "id": "0441:004DA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿００２It's almost time to eat, so I￥came to get you, Cousin."
+  },
+  {
+   "id": "0441:00537",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿００３Let's go together~"
+  },
+  {
+   "id": "0441:00562.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0441:00562.1",
+   "choice": true,
+   "en": "Hmm, should I...?"
+  },
+  {
+   "id": "0441:00596",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿００４Great!￥I worked hard in training today,￥so I'm starving.＝＠１３１＿００５Come on! Let's hurry!!"
+  },
+  {
+   "id": "0441:0061E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿００６Aww! Quit playing hard to get!!＝＠１３１＿００７I'm starving, so￥let's hurry up and go!!"
+  },
+  {
+   "id": "0441:00695",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0441:006AA",
+   "end": "818400",
+   "en": "＊＊－　Cafeteria　－"
+  },
+  {
+   "id": "0441:006C3",
+   "end": "818400",
+   "en": "＊Riko＊＠１３１＿００８Oh! Kaname, Kaname!!＝＠１３１＿００９I heard it from Narusawa!＝＠１３１＿０１０You pulled off some insane￥training in no time at all!＝＠１３１＿０１１Narusawa was praising you!￥He said you've got guts!"
+  },
+  {
+   "id": "0441:007B4",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0441:007C5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０１２Whoa! Really?!￥That makes me so happy.＝＠１３１＿０１３So the harder you work, the more￥it pays off.＝＠１３１＿０１４Thanks for telling me, Riko!"
+  },
+  {
+   "id": "0441:00886",
+   "end": "818400",
+   "en": "＊Riko＊＠１３１＿０１５Hey, don't mention it!"
+  },
+  {
+   "id": "0441:008C1",
+   "end": "818400",
+   "en": "＊Riko＊＠１３１＿０１６Good for you, Kaname!＝＠１３１＿０１７Well, I already finished￥eating, so I'm heading out.￥See ya."
+  },
+  {
+   "id": "0441:00942",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0441:00954",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０１８Wow...￥He actually praised me..."
+  },
+  {
+   "id": "0441:0099B.0",
+   "choice": true,
+   "en": "That's amazing!"
+  },
+  {
+   "id": "0441:0099B.1",
+   "choice": true,
+   "en": "When'd you do all that?"
+  },
+  {
+   "id": "0441:009CB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０１９Thank you.＝＠１３１＿０２０Hearing that from you, Cousin,￥makes me happiest of all."
+  },
+  {
+   "id": "0441:00A43",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２１While you weren't looking,￥Cousin!"
+  },
+  {
+   "id": "0441:00A82",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２２But I'm really happy.＝＠１３１＿０２３I thought,￥\"I can't keep going like this,\"￥so...＝＠１３１＿０２４I've been training seriously."
+  },
+  {
+   "id": "0441:00B3B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２５I was always just￥chasing after you,￥Cousin..."
+  },
+  {
+   "id": "0441:00B9A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２６But I realized that's no good.＝＠１３１＿０２７I have to work hard so you'll￥choose me as your partner￥for who I am."
+  },
+  {
+   "id": "0441:00C33.0",
+   "choice": true,
+   "en": "I'm honored."
+  },
+  {
+   "id": "0441:00C33.1",
+   "choice": true,
+   "en": "That's exactly right."
+  },
+  {
+   "id": "0441:00C53",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２８You really mean that?!"
+  },
+  {
+   "id": "0441:00C92",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２９But even after saying that,￥I bet you'll end up picking￥someone else, Cousin!!"
+  },
+  {
+   "id": "0441:00D0C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０３０Yeah. I've gotta work hard."
+  },
+  {
+   "id": "0441:00D43",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０３１There's not much time left￥before the exams end, but..."
+  },
+  {
+   "id": "0441:00D8C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０３２I'll work my hardest, so that￥I can be the one who names you￥as my partner!"
+  },
+  {
+   "id": "0441:00E07",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0441:00E1C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１３２＿００１You worked hard again today.＝＠１３２＿００２The final exam's getting close.￥Time for the last push."
+  },
+  {
+   "id": "0441:00EA3",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１３２＿００３I think I've told you before...￥You kids carry the hopes￥of all humanity."
+  },
+  {
+   "id": "0441:00F10",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１３２＿００４I expect you to live up to them￥with good results."
+  },
+  {
+   "id": "0441:00F63",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１３２＿００５Hang in there."
+  },
+  {
+   "id": "0441:00F8E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0441:00FA3",
+   "end": "818400",
+   "en": "＊???＊＠１３２＿００６Guess who!!"
+  },
+  {
+   "id": "0441:00FCE.0",
+   "choice": true,
+   "en": "...Kaname?"
+  },
+  {
+   "id": "0441:00FCE.1",
+   "choice": true,
+   "en": "Quit fooling around."
+  },
+  {
+   "id": "0441:00FF8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿００７Wow! How'd you know?!"
+  },
+  {
+   "id": "0441:01033",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿００８Well, I guess it was obvious."
+  },
+  {
+   "id": "0441:01071",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿００９Surprised?!"
+  },
+  {
+   "id": "0441:010A2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿０１０Now, now, don't be mad~"
+  },
+  {
+   "id": "0441:010D7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿０１１Come to think of it,￥we had this same conversation￥during that blackout, didn't we?"
+  },
+  {
+   "id": "0441:01130",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿０１２Speaking of blackouts,￥the control system here￥glitches a lot, right?"
+  },
+  {
+   "id": "0441:0118D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿０１３So the supervisors￥have it really rough.＝＠１３２＿０１４Narusawa's so busy, but he does￥twice anyone's work.￥He's amazing, you know?"
+  },
+  {
+   "id": "0441:0122E.0",
+   "choice": true,
+   "en": "Yes, he's admirable."
+  },
+  {
+   "id": "0441:0122E.1",
+   "choice": true,
+   "en": "Didn't you dislike him?"
+  },
+  {
+   "id": "0441:0126E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿０１５Right?￥I just hadn't￥noticed before..."
+  },
+  {
+   "id": "0441:012CA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿０１６Ugh...￥B-back then, there was still a￥lot I couldn't see..."
+  },
+  {
+   "id": "0441:0132F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿０１７But now I feel like￥I finally get it!"
+  },
+  {
+   "id": "0441:01380",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３２＿０１８Hey, hey, Cousin!!￥It's almost time to eat,￥so I came to get you.＝＠１３２＿０１９Let's go together~"
+  },
+  {
+   "id": "0441:01403.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0441:01403.1",
+   "choice": true,
+   "en": "Hmm, should I...?"
+  },
+  {
+   "id": "0441:0143D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿００４Great!￥I worked hard in training today,￥so I'm starving.＝＠１３１＿００５Come on! Let's hurry!!"
+  },
+  {
+   "id": "0441:014C5",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿００６Aww! Quit playing hard to get!!＝＠１３１＿００７I'm starving, so￥let's hurry up and go!!"
+  },
+  {
+   "id": "0441:0153C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0441:01551",
+   "end": "818400",
+   "en": "－　Cafeteria　－"
+  },
+  {
+   "id": "0441:01566",
+   "end": "818400",
+   "en": "＊Riko＊＠１３１＿００８Oh! Kaname, Kaname!!＝＠１３１＿００９I heard it from Narusawa!＝＠１３１＿０１０You pulled off some insane￥training in no time at all!＝＠１３１＿０１１Narusawa was praising you!￥He said you've got guts!"
+  },
+  {
+   "id": "0441:01657",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0441:01668",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０１２Whoa! Really?!￥That makes me so happy.＝＠１３１＿０１３So the harder you work, the more￥it pays off.＝＠１３１＿０１４Thanks for telling me, Riko!"
+  },
+  {
+   "id": "0441:01729",
+   "end": "818400",
+   "en": "＊Riko＊＠１３１＿０１５Hey, don't mention it!"
+  },
+  {
+   "id": "0441:01764",
+   "end": "818400",
+   "en": "＊Riko＊＠１３１＿０１６Good for you, Kaname!＝＠１３１＿０１７Well, I already finished￥eating, so I'm heading out.￥See ya."
+  },
+  {
+   "id": "0441:017E5",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0441:017F7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０１８Wow...￥He actually praised me..."
+  },
+  {
+   "id": "0441:0183E.0",
+   "choice": true,
+   "en": "That's amazing!"
+  },
+  {
+   "id": "0441:0183E.1",
+   "choice": true,
+   "en": "When'd you do all that?"
+  },
+  {
+   "id": "0441:0186C",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０１９Thank you.＝＠１３１＿０２０Hearing that from you, Cousin,￥makes me happiest of all."
+  },
+  {
+   "id": "0441:018E4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２１While you weren't looking,￥Cousin!"
+  },
+  {
+   "id": "0441:01923",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２２But I'm really happy.＝＠１３１＿０２３I thought,￥\"I can't keep going like this,\"￥so...＝＠１３１＿０２４I've been training seriously."
+  },
+  {
+   "id": "0441:019DC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２５I was always just￥chasing after you,￥Cousin..."
+  },
+  {
+   "id": "0441:01A3B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２６But I realized that's no good.＝＠１３１＿０２７I have to work hard so you'll￥choose me as your partner￥for who I am."
+  },
+  {
+   "id": "0441:01AD4.0",
+   "choice": true,
+   "en": "I'm honored."
+  },
+  {
+   "id": "0441:01AD4.1",
+   "choice": true,
+   "en": "That's exactly right."
+  },
+  {
+   "id": "0441:01AF4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２８You really mean that?!"
+  },
+  {
+   "id": "0441:01B33",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０２９But even after saying that,￥I bet you'll end up picking￥someone else, Cousin!!"
+  },
+  {
+   "id": "0441:01BAD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０３０Yeah. I've gotta work hard."
+  },
+  {
+   "id": "0441:01BE4",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０３１There's not much time left￥before the exams end, but..."
+  },
+  {
+   "id": "0441:01C2D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３１＿０３２I'll work my hardest, so that￥I can be the one who names you￥as my partner!"
+  }
+ ]
+}

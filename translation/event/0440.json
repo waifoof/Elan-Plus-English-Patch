@@ -1,0 +1,611 @@
+{
+ "entry": 440,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0440:0001A",
+   "end": "818400",
+   "en": "－　High-G Room　－"
+  },
+  {
+   "id": "0440:00038",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２０Oh, Cousin, wait!"
+  },
+  {
+   "id": "0440:00071",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２１So, I've been thinking about a￥lot of things.＝＠１２８＿０２２I figured I'd start by working￥hard at what I'm good at.＝＠１２８＿０２３So lately I've been putting a￥lot into my High-G training."
+  },
+  {
+   "id": "0440:00138",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２４Anyway, I wanted to see what the￥gravity control block is like,￥so I borrowed the key...＝＠１２８＿０２５Will you come check it out￥with me?"
+  },
+  {
+   "id": "0440:001DF.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0440:001DF.1",
+   "choice": true,
+   "en": "Hmm, I'm not feeling it."
+  },
+  {
+   "id": "0440:0020F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２６Yay! Great!!＝＠１２８＿０２７Then let's go right now~"
+  },
+  {
+   "id": "0440:00268",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:00278",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２８Aww, c'mon,￥you really won't?!"
+  },
+  {
+   "id": "0440:002BB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２９Please! Pretty please?!"
+  },
+  {
+   "id": "0440:002F2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０３０I want to really understand￥things before I work at them!"
+  },
+  {
+   "id": "0440:00347",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:0035C",
+   "end": "818400",
+   "en": "－　Gravity Control Block　－"
+  },
+  {
+   "id": "0440:00383",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００１Whoa! It's so dark!!"
+  },
+  {
+   "id": "0440:003BA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００２Across this bridge, there's the￥gravity control room and stuff.＝＠１２９＿００３And down below is the gravity￥control machinery...＝＠１２９＿００４Hey, let's go check out the￥control room."
+  },
+  {
+   "id": "0440:0049F.0",
+   "choice": true,
+   "en": "It's dark, watch out."
+  },
+  {
+   "id": "0440:0049F.1",
+   "choice": true,
+   "en": "Careful, don't run."
+  },
+  {
+   "id": "0440:004D1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００５I'm fine, I'm fine!!"
+  },
+  {
+   "id": "0440:00504",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００６You worry too much, Cousin.￥C'mon, let's hurry!!"
+  },
+  {
+   "id": "0440:0055F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００７It's okay, it's okay!"
+  },
+  {
+   "id": "0440:00590",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００８Geez, you're such a worrywart.￥C'mon, let's hurry!!"
+  },
+  {
+   "id": "0440:005E7",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:005F0",
+   "end": "818400",
+   "en": "－　?!　－＝－　You lose your footing!!　－"
+  },
+  {
+   "id": "0440:0062E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００９Eeek!!"
+  },
+  {
+   "id": "0440:00659",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１０Cousin, you're gonna fall!!￥Grab my hand!!"
+  },
+  {
+   "id": "0440:0069C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:006B2",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１１C-Cousiiin!!"
+  },
+  {
+   "id": "0440:006E3.0",
+   "choice": true,
+   "en": "You can't hold me alone!"
+  },
+  {
+   "id": "0440:006E3.1",
+   "choice": true,
+   "en": "Go get help!"
+  },
+  {
+   "id": "0440:00719",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１２I've got you!￥Cousin... hang on!￥Don't let go of my hand!＝＠１２９＿０１３Somebody! Help!!"
+  },
+  {
+   "id": "0440:007A1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１４O-okay!!｝￥＠１２９＿０１５Somebody! Help!!＝＠１２９＿０１６Cousin... hang on!￥Don't let go of my hand!"
+  },
+  {
+   "id": "0440:00838",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１７Ngh!￥M-my arm...!!"
+  },
+  {
+   "id": "0440:00877.0",
+   "choice": true,
+   "en": "Let go! You'll fall too!"
+  },
+  {
+   "id": "0440:00877.1",
+   "choice": true,
+   "en": "Let me die, not you."
+  },
+  {
+   "id": "0440:008B1",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１８You idiot!!￥Like I could ever￥do that!!＝＠１２９＿０１９I'm NEVER letting go!!"
+  },
+  {
+   "id": "0440:00933",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２０You idiot!!￥What are you saying?!＝＠１２９＿０２１If you die, none of it￥means anything!!"
+  },
+  {
+   "id": "0440:009B7",
+   "end": "818400",
+   "en": "－　It seems the supervisors￥　　have noticed　－＝－　They're coming to help　－"
+  },
+  {
+   "id": "0440:00A14",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２９＿０２２Hey! Are you okay?!￥Hang on, I'm coming!!"
+  },
+  {
+   "id": "0440:00A55",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:00A61",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２９＿０２３Heave!!"
+  },
+  {
+   "id": "0440:00A8C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:00AA1",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２９＿０２４Are you two... all right?!"
+  },
+  {
+   "id": "0440:00ADA.0",
+   "choice": true,
+   "en": "Yes. I'm sorry."
+  },
+  {
+   "id": "0440:00ADA.1",
+   "choice": true,
+   "en": "I'm fine. How's Kaname?"
+  },
+  {
+   "id": "0440:00B12",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２５I'm okay too."
+  },
+  {
+   "id": "0440:00B47",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２６I'm sorry.￥I rushed us, and that's￥why this happened..."
+  },
+  {
+   "id": "0440:00BA7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２７I'm okay too..."
+  },
+  {
+   "id": "0440:00BDC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２８Narusawa...￥I'm really, truly sorry."
+  },
+  {
+   "id": "0440:00C27",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１３０＿００１What's done is done, but be￥very careful that nothing like￥this ever happens again!＝＠１３０＿００２That's enough for today.￥Both of you, back to your rooms."
+  },
+  {
+   "id": "0440:00CD0",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:00CE2",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１３０＿００３Oh, and you...￥Walk Kaname back."
+  },
+  {
+   "id": "0440:00D2D",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:00D46",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００４Earlier... I'm sorry￥for talking to you like that...＝＠１３０＿００５But I was so desperate to￥save you, Cousin..."
+  },
+  {
+   "id": "0440:00DDB.0",
+   "choice": true,
+   "en": "It's okay. Thank you."
+  },
+  {
+   "id": "0440:00DDB.1",
+   "choice": true,
+   "en": "I'd be dead without you."
+  },
+  {
+   "id": "0440:00E1A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００６You're thanking me...?"
+  },
+  {
+   "id": "0440:00E55",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００７I... was actually useful￥to you, Cousin..."
+  },
+  {
+   "id": "0440:00EA3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００８!!￥Don't say that..."
+  },
+  {
+   "id": "0440:00ED8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００９Me... saving you,￥Cousin...?"
+  },
+  {
+   "id": "0440:00F27",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０１０Ahh, but I'm so glad we're￥both okay..."
+  },
+  {
+   "id": "0440:00F78",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０１１Now we can stay together~"
+  },
+  {
+   "id": "0440:00FBA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２０Oh, Cousin, wait!"
+  },
+  {
+   "id": "0440:00FF3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２１So, I've been thinking about a￥lot of things.＝＠１２８＿０２２I figured I'd start by working￥hard at what I'm good at.＝＠１２８＿０２３So lately I've been putting a￥lot into my High-G training."
+  },
+  {
+   "id": "0440:010BA",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２４Anyway, I wanted to see what the￥gravity control block is like,￥so I borrowed the key...＝＠１２８＿０２５Will you come check it out￥with me?"
+  },
+  {
+   "id": "0440:01161.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0440:01161.1",
+   "choice": true,
+   "en": "Hmm, I'm not sure..."
+  },
+  {
+   "id": "0440:01197",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２６Yay! Great!!＝＠１２８＿０２７Then let's go right now~"
+  },
+  {
+   "id": "0440:011F0",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:01200",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２８Aww, c'mon,￥you really won't?!"
+  },
+  {
+   "id": "0440:01243",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０２９Please! Pretty please?!"
+  },
+  {
+   "id": "0440:0127A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２８＿０３０I want to really understand￥things before I work at them!"
+  },
+  {
+   "id": "0440:012CF",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:012E4",
+   "end": "818400",
+   "en": "－　Gravity Control Block　－"
+  },
+  {
+   "id": "0440:0130B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００１Whoa! It's so dark!!"
+  },
+  {
+   "id": "0440:01342",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００２Across this bridge, there's the￥gravity control room and stuff.＝＠１２９＿００３And down below is the gravity￥control machinery...＝＠１２９＿００４Hey, let's go check out the￥control room."
+  },
+  {
+   "id": "0440:01427.0",
+   "choice": true,
+   "en": "It's dark, watch out."
+  },
+  {
+   "id": "0440:01427.1",
+   "choice": true,
+   "en": "Careful, don't run."
+  },
+  {
+   "id": "0440:0145D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００５I'm fine, I'm fine!!"
+  },
+  {
+   "id": "0440:01490",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００６You worry too much, Cousin.￥C'mon, let's hurry!!"
+  },
+  {
+   "id": "0440:014ED",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００７It's okay, it's okay!"
+  },
+  {
+   "id": "0440:0151E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００８Geez, you're such a worrywart.￥C'mon, let's hurry!!"
+  },
+  {
+   "id": "0440:01577",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:01580",
+   "end": "818400",
+   "en": "－　?!　－＝－　You lose your footing!!　－"
+  },
+  {
+   "id": "0440:015BE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿００９Eeek!!"
+  },
+  {
+   "id": "0440:015E9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１０Cousin, you're gonna fall!!￥Grab my hand!!"
+  },
+  {
+   "id": "0440:0162C",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:01642",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１１C-Cousiiin!!"
+  },
+  {
+   "id": "0440:01673.0",
+   "choice": true,
+   "en": "You can't hold me alone!"
+  },
+  {
+   "id": "0440:01673.1",
+   "choice": true,
+   "en": "Call for help!"
+  },
+  {
+   "id": "0440:016A7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１２I've got you!￥Cousin... hang on!￥Don't let go of my hand!＝＠１２９＿０１３Somebody! Help!!"
+  },
+  {
+   "id": "0440:0172F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１４O-okay!!｝￥＠１２９＿０１５Somebody! Help!!＝＠１２９＿０１６Cousin... hang on!￥Don't let go of my hand!"
+  },
+  {
+   "id": "0440:017C6",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１７Ngh!￥M-my arm...!!"
+  },
+  {
+   "id": "0440:01805.0",
+   "choice": true,
+   "en": "Let go! You'll fall too!"
+  },
+  {
+   "id": "0440:01805.1",
+   "choice": true,
+   "en": "Am I going to die here?"
+  },
+  {
+   "id": "0440:01845",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０１８You idiot!!￥Like I could ever￥do that!!＝＠１２９＿０１９I'm NEVER letting go!!"
+  },
+  {
+   "id": "0440:018C7",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２０You idiot!!￥What are you saying?!＝＠１２９＿０２１If you die, none of it￥means anything!!"
+  },
+  {
+   "id": "0440:0194B",
+   "end": "818400",
+   "en": "－　It seems the supervisors￥　　have noticed　－＝－　They're coming to help　－"
+  },
+  {
+   "id": "0440:019A8",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２９＿０２２Hey! Are you okay?!￥Hang on, I'm coming!!"
+  },
+  {
+   "id": "0440:019E9",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:019F5",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２９＿０２３Heave!!"
+  },
+  {
+   "id": "0440:01A20",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:01A35",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１２９＿０２４Are you two... all right?!"
+  },
+  {
+   "id": "0440:01A6E.0",
+   "choice": true,
+   "en": "Yes. I'm sorry."
+  },
+  {
+   "id": "0440:01A6E.1",
+   "choice": true,
+   "en": "I'm okay. How's Kaname?"
+  },
+  {
+   "id": "0440:01AA8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２５I'm okay too."
+  },
+  {
+   "id": "0440:01ADD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２６I'm sorry.￥I rushed us, and that's￥why this happened..."
+  },
+  {
+   "id": "0440:01B3D",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２７I'm okay too..."
+  },
+  {
+   "id": "0440:01B72",
+   "end": "818400",
+   "en": "＊Kaname＊＠１２９＿０２８Narusawa...￥I'm really, truly sorry."
+  },
+  {
+   "id": "0440:01BBD",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１３０＿００１What's done is done, but be￥very careful that nothing like￥this ever happens again!＝＠１３０＿００２That's enough for today.￥Both of you, back to your rooms."
+  },
+  {
+   "id": "0440:01C66",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:01C78",
+   "end": "818400",
+   "en": "＊Narusawa＊＠１３０＿００３Oh, and you...￥Walk Kaname back."
+  },
+  {
+   "id": "0440:01CC3",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0440:01CDC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００４Earlier... I'm sorry￥for talking to you like that...＝＠１３０＿００５But I was so desperate to￥save you, Cousin..."
+  },
+  {
+   "id": "0440:01D71.0",
+   "choice": true,
+   "en": "It's okay. Thank you."
+  },
+  {
+   "id": "0440:01D71.1",
+   "choice": true,
+   "en": "You saved my life."
+  },
+  {
+   "id": "0440:01DB0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００６You're thanking me...?"
+  },
+  {
+   "id": "0440:01DEB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００７I... was actually useful￥to you, Cousin..."
+  },
+  {
+   "id": "0440:01E3A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００８!!￥Don't say that..."
+  },
+  {
+   "id": "0440:01E6F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿００９Me... saving you,￥Cousin...?"
+  },
+  {
+   "id": "0440:01EBE",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０１０Ahh, but I'm so glad we're￥both okay..."
+  },
+  {
+   "id": "0440:01F0F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３０＿０１１Now we can stay together~"
+  }
+ ]
+}

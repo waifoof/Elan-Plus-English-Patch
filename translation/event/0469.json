@@ -1,0 +1,101 @@
+{
+ "entry": 469,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0469:0001F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿０１Oh, come on... Just 'cause it's￥your day off doesn't mean you￥can laze around."
+  },
+  {
+   "id": "0469:00078",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿０２Isn't that why your scores￥aren't improving? Last time￥was awful, right?"
+  },
+  {
+   "id": "0469:000DC.0",
+   "choice": true,
+   "en": "Mind your own business!"
+  },
+  {
+   "id": "0469:000DC.1",
+   "choice": true,
+   "en": "Ugh... maybe so."
+  },
+  {
+   "id": "0469:0010C.0",
+   "choice": true,
+   "en": "Mind your own business!"
+  },
+  {
+   "id": "0469:0010C.1",
+   "choice": true,
+   "en": "W-well, maybe so."
+  },
+  {
+   "id": "0469:0013E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿０３Oh yeah? Fine.￥But it's the truth."
+  },
+  {
+   "id": "0469:00189",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿０４If you really want to go to￥Elan, you need to take training￥more seriously."
+  },
+  {
+   "id": "0469:001F7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿０５Right?￥You'd better put more effort￥into your training.＝＠０４９＿０６That is, if you really want￥to go to Elan."
+  },
+  {
+   "id": "0469:00284",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿０７Otherwise, you're just dragging￥down the other candidates who￥are working hard.＝＠０４９＿０８Everyone here seriously￥wants to go to Elan."
+  },
+  {
+   "id": "0469:00327",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿０９I thought you were the type to￥take that stuff seriously,￥but...＝＠０４９＿１０guess not. You're pretty￥half-assed, huh?"
+  },
+  {
+   "id": "0469:003CB.0",
+   "choice": true,
+   "en": "That's harsh."
+  },
+  {
+   "id": "0469:003CB.1",
+   "choice": true,
+   "en": "Sorry I'm half-assed."
+  },
+  {
+   "id": "0469:003EF.0",
+   "choice": true,
+   "en": "That's so mean."
+  },
+  {
+   "id": "0469:003EF.1",
+   "choice": true,
+   "en": "Sorry I'm half-assed."
+  },
+  {
+   "id": "0469:0041F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿１１If you don't want people￥thinking that, get serious.＝＠０４９＿１２Otherwise, whatever you say￥just sounds like sour grapes."
+  },
+  {
+   "id": "0469:004C5",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿１３Don't just shrug it off...￥You get it, right?￥You're a candidate!"
+  },
+  {
+   "id": "0469:00526",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿１４Can't you at least say￥\"I'll try harder\"?"
+  },
+  {
+   "id": "0469:0056B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４９＿１５Anyway, you know things look￥bad if you keep this up, right?＝＠０４９＿１６Better fix it before everyone￥gives up on you.＝＠０４９＿１７See ya."
+  }
+ ]
+}

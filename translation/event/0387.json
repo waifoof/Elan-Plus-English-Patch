@@ -1,0 +1,481 @@
+{
+ "entry": 387,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0387:0001C",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0387:0003A",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５５＿０２１Oh, Cousin!￥Perfect timing!!"
+  },
+  {
+   "id": "0387:00079",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５５＿０２２Hey, Cousin! I'm looking for￥Kairi. Have you seen him?"
+  },
+  {
+   "id": "0387:000D8.0",
+   "choice": true,
+   "en": "No, I haven't seen him."
+  },
+  {
+   "id": "0387:000D8.1",
+   "choice": true,
+   "en": "What's wrong?"
+  },
+  {
+   "id": "0387:00104",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５５＿０２３Oh, Cousin!￥Perfect timing!!"
+  },
+  {
+   "id": "0387:00143",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５５＿０２４Hey, Cousin! I'm looking for￥Kairi. Have you seen him?"
+  },
+  {
+   "id": "0387:001A2.0",
+   "choice": true,
+   "en": "No, I haven't seen him."
+  },
+  {
+   "id": "0387:001A2.1",
+   "choice": true,
+   "en": "Is something wrong?"
+  },
+  {
+   "id": "0387:001CE",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５５＿０２５I see... What do I do?"
+  },
+  {
+   "id": "0387:00207",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５５＿０２６The thing is, our supervisor,￥Yuri... She's collapsed with￥a high fever."
+  },
+  {
+   "id": "0387:0025B",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５５＿０２７Yeah, the thing is...￥Yuri, our supervisor, collapsed￥with a high fever."
+  },
+  {
+   "id": "0387:002B4",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５６＿００１They know it's bacteria, but￥it's a new strain, and￥there's no detailed data on it.＝＠０５６＿００２So nobody knows how￥to treat it..."
+  },
+  {
+   "id": "0387:00361",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５６＿００３But Kairi might be able to do￥something, so they asked me￥to find him..."
+  },
+  {
+   "id": "0387:003DB",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５６＿００４If you see Kairi, Cousin, tell￥him to go to the Medical Room.＝＠０５６＿００５Please!"
+  },
+  {
+   "id": "0387:00469",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５６＿００６If you see Kairi, Cousin, tell￥him to go to the Medical Room.＝＠０５６＿００７Please!"
+  },
+  {
+   "id": "0387:004F2",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:00500",
+   "end": "818400",
+   "en": "－　； goes to find Kairi　－"
+  },
+  {
+   "id": "0387:00533",
+   "end": "818400",
+   "en": "－　Kairi isn't here　－"
+  },
+  {
+   "id": "0387:0056A",
+   "end": "818400",
+   "en": "－　There's Kairi!!　－"
+  },
+  {
+   "id": "0387:0058B",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿００８Hm? Oh, it's you...￥Is something wrong?"
+  },
+  {
+   "id": "0387:005D7.0",
+   "choice": true,
+   "en": "Just come with me!"
+  },
+  {
+   "id": "0387:005D7.1",
+   "choice": true,
+   "en": "It's an emergency!"
+  },
+  {
+   "id": "0387:00601.0",
+   "choice": true,
+   "en": "Just come with me!"
+  },
+  {
+   "id": "0387:00601.1",
+   "choice": true,
+   "en": "It's an emergency!"
+  },
+  {
+   "id": "0387:00631",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿００９Huh? Ah..."
+  },
+  {
+   "id": "0387:00660",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:00672",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０１０What is this about?"
+  },
+  {
+   "id": "0387:006A1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:006AE",
+   "end": "818400",
+   "en": "－　Rushing to the Medical Room　－"
+  },
+  {
+   "id": "0387:006D9",
+   "end": "818400",
+   "en": "－　； fills Kairi in￥　　　　while running　－"
+  },
+  {
+   "id": "0387:00712",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０１１A new strain of bacteria...?＝...｝￥...｝￥＠０５６＿０１２I see."
+  },
+  {
+   "id": "0387:00787",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:00796",
+   "end": "818400",
+   "en": "－　Medical Room　－"
+  },
+  {
+   "id": "0387:007BC",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５６＿０１３Oh! Cousin!!￥You brought Kairi!"
+  },
+  {
+   "id": "0387:00818",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５６＿０１４Oh! Cousin!!￥You brought Kairi!"
+  },
+  {
+   "id": "0387:0086F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０５６＿０１５Ah, you found him!＝＠０５６＿０１６Sorry, Kairi. I need￥your help here..."
+  },
+  {
+   "id": "0387:008F0",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０１７So, what are the symptoms?"
+  },
+  {
+   "id": "0387:00927",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０５６＿０１８Her vital signs are up￥on that screen."
+  },
+  {
+   "id": "0387:00972",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０５６＿０１９Her fever keeps spiking and￥dropping, over and over.＝＠０５６＿０２０Right now she's got a high fever￥and trouble breathing. She's￥barely conscious. It's serious."
+  },
+  {
+   "id": "0387:00A25",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０５６＿０２１We know it's a new strain of￥bacteria, but beyond that..."
+  },
+  {
+   "id": "0387:00A8C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０２２The key to the medicine￥cabinet..."
+  },
+  {
+   "id": "0387:00ABD",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０５６＿０２３Right, I'll open it.￥Can you do something?"
+  },
+  {
+   "id": "0387:00B00",
+   "end": "818400",
+   "en": "＊Kairi＊..."
+  },
+  {
+   "id": "0387:00B19",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:00B29",
+   "end": "818400",
+   "en": "＊Kairi＊..."
+  },
+  {
+   "id": "0387:00B48",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０２４The medicine stocked here will￥do, if I recompound it.＝＠０５６＿０２５Draw some blood, and keep up￥the treatment as is..."
+  },
+  {
+   "id": "0387:00BD7",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０２６Here, help me out."
+  },
+  {
+   "id": "0387:00C08",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:00C28",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０２７Second shelf, fourth from right.￥And the blue bottle above it."
+  },
+  {
+   "id": "0387:00C79",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０２８Top shelf, on the left.￥Oh, the one next to it too."
+  },
+  {
+   "id": "0387:00CB8",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５６＿０２９Hand me that syringe.＝...＝＠０５６＿０３０Done. Disinfect the inside￥of her elbow."
+  },
+  {
+   "id": "0387:00D29",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:00D3F",
+   "end": "818400",
+   "en": "＊Kairi＊...＝＠０５７＿００１That should do it."
+  },
+  {
+   "id": "0387:00D84",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿００２This new strain is a nasty one.＝＠０５７＿００３It's rarely fatal, but the high￥fever it causes can leave￥lasting brain damage."
+  },
+  {
+   "id": "0387:00E25",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿００４This time, treatment came early.￥Her fever should break tonight.＝＠０５７＿００５This supervisor seems to have￥weak airways to begin with.＝＠０５７＿００６Airways don't usually constrict￥this much... but there's no need￥to worry about that now."
+  },
+  {
+   "id": "0387:00F28",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿００７I know how to make this drug,￥but I published the method just￥before I came. Few know it yet."
+  },
+  {
+   "id": "0387:00FA9",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０５７＿００８Thanks. You really saved us.￥And thanks on Sakaki's behalf."
+  },
+  {
+   "id": "0387:01006",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿００９I also made preventive doses for￥everyone on the station...＝＠０５７＿０１０Get one, just in case."
+  },
+  {
+   "id": "0387:01084.0",
+   "choice": true,
+   "en": "All that, so fast?!"
+  },
+  {
+   "id": "0387:01084.1",
+   "choice": true,
+   "en": "You're really something."
+  },
+  {
+   "id": "0387:010BA.0",
+   "choice": true,
+   "en": "All that, so fast?!"
+  },
+  {
+   "id": "0387:010BA.1",
+   "choice": true,
+   "en": "You're really amazing."
+  },
+  {
+   "id": "0387:010EC",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０１１It's just a byproduct of￥mixing the drug."
+  },
+  {
+   "id": "0387:0112C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０１２Not really..."
+  },
+  {
+   "id": "0387:01157",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５７＿０１３That's sooo amazing!￥Kairi, you can do anything,￥can't you!"
+  },
+  {
+   "id": "0387:011B2",
+   "end": "818400",
+   "en": "＊Kairi＊..."
+  },
+  {
+   "id": "0387:011C9",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５７＿０１４I really look up to you! You￥cured her in no time, and you￥even made preventive medicine!"
+  },
+  {
+   "id": "0387:0123E",
+   "end": "818400",
+   "en": "＊Kairi＊..."
+  },
+  {
+   "id": "0387:0125B",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:0126B",
+   "end": "818400",
+   "en": "＊Kaname＊＠０５７＿０１５Huh? Wait, Kairi,￥you're leaving already?"
+  },
+  {
+   "id": "0387:012B4",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0387:012C7.0",
+   "choice": true,
+   "en": "What's up, Kairi?"
+  },
+  {
+   "id": "0387:012C7.1",
+   "choice": true,
+   "en": "Hold on a sec!"
+  },
+  {
+   "id": "0387:012F5.0",
+   "choice": true,
+   "en": "Kairi! What's wrong?"
+  },
+  {
+   "id": "0387:012F5.1",
+   "choice": true,
+   "en": "Wait a second."
+  },
+  {
+   "id": "0387:0132C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０１６Hm? Nothing. It was a little￥noisy in there, so I left."
+  },
+  {
+   "id": "0387:0138F",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０１７What is it? I thought I'd￥done what I needed to..."
+  },
+  {
+   "id": "0387:013D4",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０１８Is something wrong?"
+  },
+  {
+   "id": "0387:01408.0",
+   "choice": true,
+   "en": "Everyone's grateful!"
+  },
+  {
+   "id": "0387:01408.1",
+   "choice": true,
+   "en": "Did we upset you?"
+  },
+  {
+   "id": "0387:01438.0",
+   "choice": true,
+   "en": "Everyone's grateful."
+  },
+  {
+   "id": "0387:01438.1",
+   "choice": true,
+   "en": "Did we upset you?"
+  },
+  {
+   "id": "0387:0146C",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０１９Grateful? I just did what I knew￥how to do. There's no reason￥to thank me..."
+  },
+  {
+   "id": "0387:014D8",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０２０Not really..."
+  },
+  {
+   "id": "0387:01503",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０２１Why do you ask?"
+  },
+  {
+   "id": "0387:01543.0",
+   "choice": true,
+   "en": "You seem to ignore us."
+  },
+  {
+   "id": "0387:01543.1",
+   "choice": true,
+   "en": "You seem out of place."
+  },
+  {
+   "id": "0387:01583.0",
+   "choice": true,
+   "en": "You seem to ignore us."
+  },
+  {
+   "id": "0387:01583.1",
+   "choice": true,
+   "en": "You seem out of place."
+  },
+  {
+   "id": "0387:015C9",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０２２Ignoring...?￥I didn't mean to...＝＠０５７＿０２３So that's how it looks￥to other people..."
+  },
+  {
+   "id": "0387:01653",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０２４Fit in, huh...￥Is that really necessary...?"
+  },
+  {
+   "id": "0387:016A2",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０２５I don't really understand...￥but if you say so, maybe it's￥important..."
+  },
+  {
+   "id": "0387:01707",
+   "end": "818400",
+   "en": "＊Kairi＊＠０５７＿０２６I'll think about it."
+  },
+  {
+   "id": "0387:01738",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

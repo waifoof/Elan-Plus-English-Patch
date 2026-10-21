@@ -1,0 +1,206 @@
+{
+ "entry": 476,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0476:00019",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００８Oh good, you're home! I suddenly￥felt like dropping by! Sorry for￥showing up out of nowhere."
+  },
+  {
+   "id": "0476:0008E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００９Cousin, you've been doing￥amazing lately!"
+  },
+  {
+   "id": "0476:000C9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１０Aha! I bet you've been doing￥secret training, haven't you?"
+  },
+  {
+   "id": "0476:00118.0",
+   "choice": true,
+   "en": "Yeah, secret training."
+  },
+  {
+   "id": "0476:00118.1",
+   "choice": true,
+   "en": "No, nothing like that."
+  },
+  {
+   "id": "0476:0014E",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１１Ohh, so that's it!￥You always work so hard, Cousin!￥I should follow your example!"
+  },
+  {
+   "id": "0476:001C8",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１２What? If you haven't been￥training, that's even more￥amazing!"
+  },
+  {
+   "id": "0476:00217",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１３Losing to you without any extra￥training? That's so humiliating!￥It's meant to be my specialty!"
+  },
+  {
+   "id": "0476:00290",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１４I'm really proud to be related￥to someone like you, Cousin."
+  },
+  {
+   "id": "0476:002F9",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１５So, Cousin! Next time, teach me￥your secret for boosting your￥scores, okay?"
+  },
+  {
+   "id": "0476:00358.0",
+   "choice": true,
+   "en": "Sure, but I'm strict!"
+  },
+  {
+   "id": "0476:00358.1",
+   "choice": true,
+   "en": "Figure it out yourself."
+  },
+  {
+   "id": "0476:00398",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１６Aww, that's mean!￥For your adorable cousin's sake,￥please go easy on me, okay?"
+  },
+  {
+   "id": "0476:00408",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１７Whaaat?! Come on!￥Would it kill you to teach me￥just a little?"
+  },
+  {
+   "id": "0476:00469",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１８If you're gonna be mean to me,￥I'll tell everyone embarrassing￥stories about you as a kid!"
+  },
+  {
+   "id": "0476:004E0",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１９Just kidding! I wouldn't really."
+  },
+  {
+   "id": "0476:0051F",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０２０I've been kind of slacking,￥haven't I?"
+  },
+  {
+   "id": "0476:00560",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０２１Only after you passed me did I￥realize how hard you'd been￥working, Cousin."
+  },
+  {
+   "id": "0476:005C3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０２２But I think I can still￥make up for it!＝＠１３８＿０２３So for the next exam,￥I'm gonna try even harder!"
+  },
+  {
+   "id": "0476:0064A",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０２４Just watch me, Cousin!"
+  },
+  {
+   "id": "0476:00686",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００８Oh good, you're home! I suddenly￥felt like dropping by! Sorry for￥showing up out of nowhere."
+  },
+  {
+   "id": "0476:006FB",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿００９Cousin, you've been doing￥amazing lately!"
+  },
+  {
+   "id": "0476:00736",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１０Aha! I bet you've been doing￥secret training, haven't you?"
+  },
+  {
+   "id": "0476:00785.0",
+   "choice": true,
+   "en": "Yes, I've been training."
+  },
+  {
+   "id": "0476:00785.1",
+   "choice": true,
+   "en": "No, nothing like that."
+  },
+  {
+   "id": "0476:007BD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１１Ohh, so that's it!￥You always work so hard, Cousin!￥I should follow your example!"
+  },
+  {
+   "id": "0476:00837",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１２What? If you haven't been￥training, that's even more￥amazing!"
+  },
+  {
+   "id": "0476:00886",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１３Losing to you without any extra￥training? That's so humiliating!￥It's meant to be my specialty!"
+  },
+  {
+   "id": "0476:008FF",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１４I'm really proud to be related￥to someone like you, Cousin."
+  },
+  {
+   "id": "0476:00968",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１５So, Cousin! Next time, teach me￥your secret for boosting your￥scores, okay?"
+  },
+  {
+   "id": "0476:009C7.0",
+   "choice": true,
+   "en": "Sure, but I'm strict!"
+  },
+  {
+   "id": "0476:009C7.1",
+   "choice": true,
+   "en": "Figure it out yourself."
+  },
+  {
+   "id": "0476:00A0B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１６Aww, that's mean!￥For your adorable cousin's sake,￥please go easy on me, okay?"
+  },
+  {
+   "id": "0476:00A7B",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１７Whaaat?! Come on!￥Would it kill you to teach me￥just a little?"
+  },
+  {
+   "id": "0476:00ADC",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１８If you're gonna be mean to me,￥I'll tell everyone embarrassing￥stories about you as a kid!"
+  },
+  {
+   "id": "0476:00B53",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０１９Just kidding! I wouldn't really."
+  },
+  {
+   "id": "0476:00B92",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０２０I've been kind of slacking,￥haven't I?"
+  },
+  {
+   "id": "0476:00BD3",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０２１Only after you passed me did I￥realize how hard you'd been￥working, Cousin."
+  },
+  {
+   "id": "0476:00C36",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０２２But I think I can still￥make up for it!＝＠１３８＿０２３So for the next exam,￥I'm gonna try even harder!"
+  },
+  {
+   "id": "0476:00CBD",
+   "end": "818400",
+   "en": "＊Kaname＊＠１３８＿０２４Just watch me, Cousin!"
+  }
+ ]
+}

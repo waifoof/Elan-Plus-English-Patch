@@ -1,0 +1,471 @@
+{
+ "entry": 373,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0373:0001C",
+   "end": "818400",
+   "en": "－　Common Floor　－"
+  },
+  {
+   "id": "0373:00039",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿０１Got a sec?"
+  },
+  {
+   "id": "0373:00066",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿０２There's something I want￥you to hear..."
+  },
+  {
+   "id": "0373:000B9",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿０３That time I dragged you around￥exploring the facility...￥You remember?"
+  },
+  {
+   "id": "0373:0012A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿０４Back then... the two supervisors￥were talking, right?＝＠０４１＿０５About some computer error￥when they picked this group￥of candidates."
+  },
+  {
+   "id": "0373:001B7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿０６That... might've been about me.＝＠０４１＿０７Maybe me getting picked was￥the mistake?＝＠０４１＿０８Maybe me being here as a￥candidate is all wrong..."
+  },
+  {
+   "id": "0373:0027F.0",
+   "choice": true,
+   "en": "Don't assume that."
+  },
+  {
+   "id": "0373:0027F.1",
+   "choice": true,
+   "en": "Why do you think that?"
+  },
+  {
+   "id": "0373:002A9.0",
+   "choice": true,
+   "en": "You're overthinking it."
+  },
+  {
+   "id": "0373:002A9.1",
+   "choice": true,
+   "en": "What makes you think so?"
+  },
+  {
+   "id": "0373:002D5",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿０９But... in that conversation,￥they mentioned the only guy￥who's ever beaten me...＝＠０４１＿１０Maybe he was supposed to be the￥candidate all along."
+  },
+  {
+   "id": "0373:0038B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿１１In that conversation, they￥mentioned the only guy who's￥ever beaten me, right?＝＠０４１＿１２Maybe he got picked as a￥candidate, and not me."
+  },
+  {
+   "id": "0373:0044A",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿１３Once I started thinking that...￥I couldn't tell anymore if I￥really belong here..."
+  },
+  {
+   "id": "0373:004BD",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿１４What am I supposed to do?＝＠０４１＿１５What if they tell me the￥selection itself was a mistake,￥and I've gotta step down..."
+  },
+  {
+   "id": "0373:00550",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿１６I've always wanted to go to￥Elan. I've worked hard for it.＝＠０４１＿１７And I finally made it this far."
+  },
+  {
+   "id": "0373:005E3",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿１８I thought I'd finally proven￥myself. I can't just give up￥that easily, not now."
+  },
+  {
+   "id": "0373:00651.0",
+   "choice": true,
+   "en": "Let's ask a supervisor."
+  },
+  {
+   "id": "0373:00651.1",
+   "choice": true,
+   "en": "It may not be a mistake."
+  },
+  {
+   "id": "0373:00691.0",
+   "choice": true,
+   "en": "Let's ask a supervisor."
+  },
+  {
+   "id": "0373:00691.1",
+   "choice": true,
+   "en": "It may not be a mistake."
+  },
+  {
+   "id": "0373:006D9",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿１９Uh, yeah...￥You're right."
+  },
+  {
+   "id": "0373:00717",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿２０Well... sure, but still."
+  },
+  {
+   "id": "0373:00753",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿２１Yeah, going and asking is the￥best way, huh..."
+  },
+  {
+   "id": "0373:0079E",
+   "end": "818400",
+   "en": "＊Eiji＊..."
+  },
+  {
+   "id": "0373:007BE.0",
+   "choice": true,
+   "en": "I'll come too. Let's go."
+  },
+  {
+   "id": "0373:007BE.1",
+   "choice": true,
+   "en": "Feeling a little scared?"
+  },
+  {
+   "id": "0373:007F6.0",
+   "choice": true,
+   "en": "I'll come along, okay?"
+  },
+  {
+   "id": "0373:007F6.1",
+   "choice": true,
+   "en": "Are you nervous...?"
+  },
+  {
+   "id": "0373:00838",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿２２Uh, yeah...￥Thanks."
+  },
+  {
+   "id": "0373:00878",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿２３It's not like that!"
+  },
+  {
+   "id": "0373:008AF",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿２４Forget it! I'll go by myself!!"
+  },
+  {
+   "id": "0373:008ED.0",
+   "choice": true,
+   "en": "Sorry. I'll go with you."
+  },
+  {
+   "id": "0373:008ED.1",
+   "choice": true,
+   "en": "Scared? Fine, I'll come."
+  },
+  {
+   "id": "0373:00927.0",
+   "choice": true,
+   "en": "Sorry, I'll go with you."
+  },
+  {
+   "id": "0373:00927.1",
+   "choice": true,
+   "en": "Nervous? Then I'll come."
+  },
+  {
+   "id": "0373:00969",
+   "end": "818400",
+   "en": "＊Eiji＊...＝＠０４１＿２５You should've just said so￥from the start."
+  },
+  {
+   "id": "0373:009C7",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿２６I told you, it's not like that!"
+  },
+  {
+   "id": "0373:00A04",
+   "end": "818400",
+   "en": "＊Eiji＊..."
+  },
+  {
+   "id": "0373:00A21",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４１＿２７Whatever.￥Let's just go."
+  },
+  {
+   "id": "0373:00A5E",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0373:00A71",
+   "end": "818400",
+   "en": "－　Outside Control Center　－"
+  },
+  {
+   "id": "0373:00A8F",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０４２＿０１Oh, Eiji. And company.￥What's the matter?"
+  },
+  {
+   "id": "0373:00AD0",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿０２There's something I wanted￥to ask you."
+  },
+  {
+   "id": "0373:00B0B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿０３Is it true there was a mistake￥when the candidates were picked?"
+  },
+  {
+   "id": "0373:00B58",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４２＿０４A mistake?￥Oh no, you heard about that?"
+  },
+  {
+   "id": "0373:00B93",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿０５So it's true...＝＠０４２＿０６I knew it. It wasn't me...￥Ryu was the one who got picked￥as a candidate..."
+  },
+  {
+   "id": "0373:00C1C",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０４２＿０７What are you talking about?￥There was a mistake, sure,￥but nothing like that."
+  },
+  {
+   "id": "0373:00C81",
+   "end": "818400",
+   "en": "＊Eiji＊...＝＠０４２＿０８Huh?"
+  },
+  {
+   "id": "0373:00CB2",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０４２＿０９Ah, I get it!￥You overheard us the other day."
+  },
+  {
+   "id": "0373:00CFA",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０４２＿１０Since you heard it, fine, but￥don't go spreading it around.＝＠０４２＿１１The truth is, in the old￥records, Eiji was registered as￥\"female.\""
+  },
+  {
+   "id": "0373:00DA2",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿１２Wha--?!"
+  },
+  {
+   "id": "0373:00DCE.0",
+   "choice": true,
+   "en": "Eiji's a girl?!"
+  },
+  {
+   "id": "0373:00DCE.1",
+   "choice": true,
+   "en": "That's the only mistake?"
+  },
+  {
+   "id": "0373:00DFE.0",
+   "choice": true,
+   "en": "Eiji is a girl?!"
+  },
+  {
+   "id": "0373:00DFE.1",
+   "choice": true,
+   "en": "That's the only mistake?"
+  },
+  {
+   "id": "0373:00E34",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿１３What's that supposed to mean?!"
+  },
+  {
+   "id": "0373:00E67",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿１４Then why did Ryu's￥name come up...?"
+  },
+  {
+   "id": "0373:00EB1",
+   "end": "818400",
+   "en": "＊Narusawa＊＠０４２＿１５Well, that's all it was, but the￥fact is, there was an error in￥an important record.＝＠０４２＿１６So don't go blabbing about this.＝＠０４２＿１７It's minor, but a computer error￥isn't exactly something we're￥happy about."
+  },
+  {
+   "id": "0373:00FA6",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿１８Then what about Ryu..."
+  },
+  {
+   "id": "0373:00FE1",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４２＿１９Oh, that...＝＠０４２＿２０When we noticed Eiji's data was￥wrong, we searched the records,￥and...＝＠０４２＿２１his info came up. Ryu's, I mean.＝＠０４２＿２２He used to be a sprinter on par￥with Eiji, and it seems that..."
+  },
+  {
+   "id": "0373:010F9",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４２＿２３he's made his debut in show biz."
+  },
+  {
+   "id": "0373:01136",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿２４D-debut?!"
+  },
+  {
+   "id": "0373:0116F",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４２＿２５Yes. Over on Sophia, he's quite￥popular for a new idol."
+  },
+  {
+   "id": "0373:011D0",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４２＿２６And he once ran in the same race￥as Eiji, didn't he?＝＠０４２＿２７Narusawa and I were just saying￥you never can tell with people."
+  },
+  {
+   "id": "0373:01273",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿２８Th-that's all it was?"
+  },
+  {
+   "id": "0373:012AC",
+   "end": "818400",
+   "en": "＊Sakaki＊＠０４２＿２９That's right."
+  },
+  {
+   "id": "0373:012D3",
+   "end": "818400",
+   "en": "＊Eiji＊..."
+  },
+  {
+   "id": "0373:012F7.0",
+   "choice": true,
+   "en": "Good for you, Eiji."
+  },
+  {
+   "id": "0373:012F7.1",
+   "choice": true,
+   "en": "I figured as much."
+  },
+  {
+   "id": "0373:0132F.0",
+   "choice": true,
+   "en": "I'm glad for you, Eiji."
+  },
+  {
+   "id": "0373:0132F.1",
+   "choice": true,
+   "en": "Just a misunderstanding."
+  },
+  {
+   "id": "0373:0135F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４２＿３０Uh, yeah...＝＠０４２＿３１Sorry...￥for all the fuss..."
+  },
+  {
+   "id": "0373:013BE",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0373:013D2",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿０１Sh-shut up, you!"
+  },
+  {
+   "id": "0373:01409",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿０２Um, uh...￥Sorry for all the fuss..."
+  },
+  {
+   "id": "0373:01454",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0373:01468",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿０３Ugh...￥Shut up...＝＠０４３＿０４Um, uh...￥Sorry for all the fuss..."
+  },
+  {
+   "id": "0373:014E1",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0373:014F8",
+   "end": "818400",
+   "en": "－　Cafeteria　－"
+  },
+  {
+   "id": "0373:0150F",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿０５Ahh, this is good.￥Nothing beats chowing down,￥that's for sure!"
+  },
+  {
+   "id": "0373:0156E",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿０６That worry that kept nagging me￥is finally gone, so now I can￥really dig in!"
+  },
+  {
+   "id": "0373:015E3",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿０７Man, who'd have thought he'd￥become an idol?"
+  },
+  {
+   "id": "0373:01634",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿０８You never know what life's￥gonna throw at you."
+  },
+  {
+   "id": "0373:0167E.0",
+   "choice": true,
+   "en": "You said it."
+  },
+  {
+   "id": "0373:0167E.1",
+   "choice": true,
+   "en": "Glad that's sorted out."
+  },
+  {
+   "id": "0373:016AC.0",
+   "choice": true,
+   "en": "Isn't that the truth."
+  },
+  {
+   "id": "0373:016AC.1",
+   "choice": true,
+   "en": "Glad your worry's gone."
+  },
+  {
+   "id": "0373:016DC",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿０９I'm glad you were there for me.＝＠０４３＿１０If I'd been alone, I'd probably￥still be going around in circles￥about it.＝＠０４３＿１１Thanks."
+  },
+  {
+   "id": "0373:01782",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿１２Yeah.￥Turns out I just jumped the gun."
+  },
+  {
+   "id": "0373:017CB",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿１３Feels like all you ever see is￥me looking uncool."
+  },
+  {
+   "id": "0373:01822",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿１４Sorry about that."
+  },
+  {
+   "id": "0373:0184B",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４３＿１５But seriously, thanks for this!￥You really saved me!"
+  },
+  {
+   "id": "0373:0189A",
+   "end": "819000",
+   "en": "＊＊"
+  }
+ ]
+}

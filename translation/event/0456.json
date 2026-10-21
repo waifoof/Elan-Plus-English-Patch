@@ -1,0 +1,416 @@
+{
+ "entry": 456,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0456:0001A",
+   "end": "818400",
+   "en": "－　Corridor　－"
+  },
+  {
+   "id": "0456:00031",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿００１Good work out there today!"
+  },
+  {
+   "id": "0456:00068",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿００２You're sure putting in the￥hours, working this late!"
+  },
+  {
+   "id": "0456:000AF",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿００３I'm on my way to get dinner.￥Want to come with me?"
+  },
+  {
+   "id": "0456:0010F.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0456:0010F.1",
+   "choice": true,
+   "en": "I guess, whatever..."
+  },
+  {
+   "id": "0456:0013B.0",
+   "choice": true,
+   "en": "Sure, let's go."
+  },
+  {
+   "id": "0456:0013B.1",
+   "choice": true,
+   "en": "I guess, whatever..."
+  },
+  {
+   "id": "0456:0016F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿００４Oh, really? Great!￥I'm absolutely starving!＝＠０７１＿００５Come on, let's go!"
+  },
+  {
+   "id": "0456:001E7",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿００６Geez! A young person like you￥giving such a lame answer!"
+  },
+  {
+   "id": "0456:00232",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿００７You need to perk up￥a little, okay?"
+  },
+  {
+   "id": "0456:00277",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿００８Come on, let's go!"
+  },
+  {
+   "id": "0456:002A4",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0456:002BA",
+   "end": "818400",
+   "en": "＊＊－　Cafeteria　－"
+  },
+  {
+   "id": "0456:002D3",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0456:002EE",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0456:00302",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿００９Oh! It's Tomoe!￥I haven't really talked with her￥much yet..."
+  },
+  {
+   "id": "0456:0036F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０１０Hey, why don't we invite her?￥Don't you think food tastes￥better with three of us?"
+  },
+  {
+   "id": "0456:003D5.0",
+   "choice": true,
+   "en": "Yeah, let's do that."
+  },
+  {
+   "id": "0456:003D5.1",
+   "choice": true,
+   "en": "Whatever works."
+  },
+  {
+   "id": "0456:00405.0",
+   "choice": true,
+   "en": "Yes, let's do that."
+  },
+  {
+   "id": "0456:00405.1",
+   "choice": true,
+   "en": "Whatever works."
+  },
+  {
+   "id": "0456:0043B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０１１I knew you'd say that!＝＠０７１＿０１２Let's go ask her!"
+  },
+  {
+   "id": "0456:004AD",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０１３Okay..."
+  },
+  {
+   "id": "0456:004DA",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０１４Then I'll invite her!￥Food always tastes better when￥you eat together!"
+  },
+  {
+   "id": "0456:0053B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０１５Tomoooe!￥Want to have dinner with us?"
+  },
+  {
+   "id": "0456:00590",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０１６Oh, but only if￥you'd like to, Tomoe."
+  },
+  {
+   "id": "0456:005E5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０７１＿０１７Oh... but are you sure?￥With someone like me...?"
+  },
+  {
+   "id": "0456:00634",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０１８I want to eat with you!"
+  },
+  {
+   "id": "0456:0066F",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０１９I mean, oops, sorry! All three￥of us, of course--you too!"
+  },
+  {
+   "id": "0456:006C2",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０７１＿０２０Oh... okay..."
+  },
+  {
+   "id": "0456:006F3",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0456:006FE",
+   "end": "818400",
+   "en": "－　The three share a table　－"
+  },
+  {
+   "id": "0456:00733",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０２１The food here may look good,￥but it's not very tasty, huh?"
+  },
+  {
+   "id": "0456:00790",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０２２But it's funny... when we eat￥together, it starts to feel a￥little more edible."
+  },
+  {
+   "id": "0456:00803",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０２３Oh, by the way...＝＠０７１＿０２４Looking at you, Tomoe, I can't￥help thinking of my little￥sister..."
+  },
+  {
+   "id": "0456:00893.0",
+   "choice": true,
+   "en": "Is she like Tomoe?"
+  },
+  {
+   "id": "0456:00893.1",
+   "choice": true,
+   "en": "You have a sister?"
+  },
+  {
+   "id": "0456:008C1.0",
+   "choice": true,
+   "en": "Is she like Tomoe?"
+  },
+  {
+   "id": "0456:008C1.1",
+   "choice": true,
+   "en": "You have a sister?"
+  },
+  {
+   "id": "0456:008F3",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０２５Yeah. Not in looks, though..."
+  },
+  {
+   "id": "0456:00947",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７１＿０２６Yeah, I do.￥She's a sweet girl."
+  },
+  {
+   "id": "0456:00994",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿００１It's hard to say... the little￥things you do, Tomoe, your whole￥vibe... they're just so alike...＝＠０７２＿００２Sometimes I almost call you by￥her name without thinking...＝＠０７２＿００３\"Haruka\"..."
+  },
+  {
+   "id": "0456:00A63",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０７２＿００４Your sister...￥She must be very dear to you..."
+  },
+  {
+   "id": "0456:00AAE",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿００５Yes, she means the world to me.￥She's my pride and joy...＝＠０７２＿００６...Oh, sorry, I've just been￥going on about myself."
+  },
+  {
+   "id": "0456:00B45",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０７２＿００７No, not at all...￥I'm enjoying it..."
+  },
+  {
+   "id": "0456:00B93",
+   "end": "818400",
+   "en": "＊PA＊＠０７２＿００８Whoever just used the Archives!￥You left your data lying around!￥Come take care of it right now!!"
+  },
+  {
+   "id": "0456:00C08",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0456:00C1B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿００９Oh no!!￥That's me!"
+  },
+  {
+   "id": "0456:00C5C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０１０I was looking up medical data￥earlier, and I forgot to￥clean up!"
+  },
+  {
+   "id": "0456:00CB5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０１１Sorry, I'll be right back!"
+  },
+  {
+   "id": "0456:00CF7.0",
+   "choice": true,
+   "en": "Sure, go ahead."
+  },
+  {
+   "id": "0456:00CF7.1",
+   "choice": true,
+   "en": "Geez, you scatterbrain."
+  },
+  {
+   "id": "0456:00D29.0",
+   "choice": true,
+   "en": "Sure, go ahead."
+  },
+  {
+   "id": "0456:00D29.1",
+   "choice": true,
+   "en": "Geez, you klutz."
+  },
+  {
+   "id": "0456:00D57",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０１２Thanks!"
+  },
+  {
+   "id": "0456:00D80",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０１３Save my food for me!￥Be right back!"
+  },
+  {
+   "id": "0456:00DC8",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0456:00DD6",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０１４H-hey, come on.￥This is a one-time thing!"
+  },
+  {
+   "id": "0456:00E1B",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０１５Okay, be right back!"
+  },
+  {
+   "id": "0456:00E53",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0456:00E63",
+   "end": "818400",
+   "en": "＊＊－　Natsuno rushes off　－"
+  },
+  {
+   "id": "0456:00E94",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０７２＿０１６Natsuno usually seems so cool,￥like a big sister...＝＠０７２＿０１７But she has a cute side￥like that, too."
+  },
+  {
+   "id": "0456:00F37",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０７２＿０１８And she's so kind to me...￥She really is a wonderful woman,￥isn't she?"
+  },
+  {
+   "id": "0456:00F9A",
+   "end": "818400",
+   "en": "＊Tomoe＊..."
+  },
+  {
+   "id": "0456:00FB9",
+   "end": "818400",
+   "en": "＊Tomoe＊＠０７２＿０１９Oh...￥I'm talking too much,￥aren't I...＝＠０７２＿０２０I'm sorry. I'll be going now..."
+  },
+  {
+   "id": "0456:01039",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0456:0104C",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２１Huh?!￥Tomoe already left?"
+  },
+  {
+   "id": "0456:01097",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２２Can't blame her!￥Sorry for running off mid-meal!"
+  },
+  {
+   "id": "0456:010D8",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２３Narusawa really chewed me out."
+  },
+  {
+   "id": "0456:0111D",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２４I'm hopeless.￥When I focus on one thing,￥I forget about everything else."
+  },
+  {
+   "id": "0456:01182",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２５Ugh, but of all people,￥why did it have to be Narusawa￥who caught me..."
+  },
+  {
+   "id": "0456:011EC.0",
+   "choice": true,
+   "en": "Should you say that?"
+  },
+  {
+   "id": "0456:011EC.1",
+   "choice": true,
+   "en": "Just bad luck, I guess."
+  },
+  {
+   "id": "0456:01224.0",
+   "choice": true,
+   "en": "Should you say that?"
+  },
+  {
+   "id": "0456:01224.1",
+   "choice": true,
+   "en": "Just bad luck, I guess."
+  },
+  {
+   "id": "0456:01260",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２６You're right! I shouldn't blame￥other people for my own mistake.￥Sorry."
+  },
+  {
+   "id": "0456:012CB",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２７Getting scolded is actually good￥for me, after all."
+  },
+  {
+   "id": "0456:01329",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２８I really shouldn't be saying￥that, though."
+  },
+  {
+   "id": "0456:0137A",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０２９I've got to be careful not to￥slip up again!"
+  },
+  {
+   "id": "0456:013C5",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０３０Sorry about today.￥That was a pretty hectic dinner."
+  },
+  {
+   "id": "0456:01416",
+   "end": "818400",
+   "en": "＊Natsuno＊＠０７２＿０３１Next time, let's take our time!"
+  }
+ ]
+}

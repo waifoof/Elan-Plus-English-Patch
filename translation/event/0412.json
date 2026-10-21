@@ -1,0 +1,46 @@
+{
+ "entry": 412,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0412:00011",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿００３Oh, morning!￥Are you on your way￥to training right now?"
+  },
+  {
+   "id": "0412:00070",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿００４I'm thinking of the Flight￥Training Room today. Why don't￥you come there too?"
+  },
+  {
+   "id": "0412:000DE.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0412:000DE.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0412:00116.0",
+   "choice": true,
+   "en": "Sure, let's go together."
+  },
+  {
+   "id": "0412:00116.1",
+   "choice": true,
+   "en": "No, not today."
+  },
+  {
+   "id": "0412:00152",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿００５Heh, with me around, we'll￥get tons done, you know?!￥Come on, let's go!"
+  },
+  {
+   "id": "0412:001C3",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿００６Oh... Well, everyone has￥days like that!￥I'll just go by myself, then..."
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "entry": 466,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0466:0001C",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿１７Yo! ...Huh?￥You're not training?"
+  },
+  {
+   "id": "0466:00069",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿１９I figured you'd be training on￥your own, even on your day off.＝＠０４８＿２０Guess not. So how the heck did￥you pull off scores like that?"
+  },
+  {
+   "id": "0466:0011F.0",
+   "choice": true,
+   "en": "I just trained normally."
+  },
+  {
+   "id": "0466:0011F.1",
+   "choice": true,
+   "en": "Maybe you got careless?"
+  },
+  {
+   "id": "0466:00165.0",
+   "choice": true,
+   "en": "I just trained normally."
+  },
+  {
+   "id": "0466:00165.1",
+   "choice": true,
+   "en": "Maybe you got careless?"
+  },
+  {
+   "id": "0466:001AB",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿２１That's really all?＝＠０４８＿２２Well... you don't exactly look￥like you're training in secret."
+  },
+  {
+   "id": "0466:00235",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿２３Yeah, maybe I did get a￥little careless...＝＠０４８＿２４I didn't think I was￥slacking, though."
+  },
+  {
+   "id": "0466:002B8",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿２５Losing in your best event￥stings way worse than losing￥at anything else.＝＠０４８＿２６Dammit!!￥Next time, I'm beating you!"
+  },
+  {
+   "id": "0466:00358.0",
+   "choice": true,
+   "en": "Yeah, good luck."
+  },
+  {
+   "id": "0466:00358.1",
+   "choice": true,
+   "en": "Not gonna happen."
+  },
+  {
+   "id": "0466:00380.0",
+   "choice": true,
+   "en": "Okay, good luck."
+  },
+  {
+   "id": "0466:00380.1",
+   "choice": true,
+   "en": "Not gonna happen."
+  },
+  {
+   "id": "0466:003AC",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿２７You don't have to tell me!"
+  },
+  {
+   "id": "0466:003F4",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿２８What'd you say?!￥Dammit!!￥I'm SO gonna beat you!!"
+  },
+  {
+   "id": "0466:0044D",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿２９I won't lose next time!￥You'd better be ready!"
+  },
+  {
+   "id": "0466:00496",
+   "end": "818400",
+   "en": "＊Eiji＊＠０４８＿３０Later!"
+  }
+ ]
+}

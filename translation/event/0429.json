@@ -1,0 +1,271 @@
+{
+ "entry": 429,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0429:0001A",
+   "end": "818400",
+   "en": "＊＊－　Corridor　－"
+  },
+  {
+   "id": "0429:00035",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿０１６Um... I'm sorry to bother you￥when you're tired.＝＠１７５＿０１７Could I... talk to you for￥a little bit?"
+  },
+  {
+   "id": "0429:000B9.0",
+   "choice": true,
+   "en": "Sure... what is it?"
+  },
+  {
+   "id": "0429:000B9.1",
+   "choice": true,
+   "en": "Want to go elsewhere?"
+  },
+  {
+   "id": "0429:000E7.0",
+   "choice": true,
+   "en": "Sure, go ahead."
+  },
+  {
+   "id": "0429:000E7.1",
+   "choice": true,
+   "en": "Talk somewhere else?"
+  },
+  {
+   "id": "0429:0011B",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿０１８Thank goodness... I'm sorry for￥asking so suddenly."
+  },
+  {
+   "id": "0429:0016D",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿０１９Oh, yes.￥Thank you."
+  },
+  {
+   "id": "0429:001B2",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７５＿０２０Um, could we go to the￥Common Floor?＝＠１７５＿０２１It should be quiet￥at this hour..."
+  },
+  {
+   "id": "0429:0022B",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0429:0023C",
+   "end": "818400",
+   "en": "＊＊－　Common Floor　－"
+  },
+  {
+   "id": "0429:00259",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿００１The stars are beautiful...￥A starry sky is so lovely..."
+  },
+  {
+   "id": "0429:002A6",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿００２This is the first time I've ever￥seen the stars this close.＝＠１７６＿００３Sophia, where we lived, was an￥inward-facing sphere colony,￥right?＝＠１７６＿００４So unless you went out to the￥hull or near the port, you￥couldn't see the stars..."
+  },
+  {
+   "id": "0429:003AB",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿００５And besides... I didn't really￥leave the house much..."
+  },
+  {
+   "id": "0429:00415.0",
+   "choice": true,
+   "en": "Oh, I didn't know that."
+  },
+  {
+   "id": "0429:00415.1",
+   "choice": true,
+   "en": "So what's on your mind?"
+  },
+  {
+   "id": "0429:0043F.0",
+   "choice": true,
+   "en": "Oh, I see..."
+  },
+  {
+   "id": "0429:0043F.1",
+   "choice": true,
+   "en": "So... what did you want?"
+  },
+  {
+   "id": "0429:00473",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿００６Yes. To think I'd never seen￥anything this beautiful...＝＠１７６＿００７I really missed out on￥so much, didn't I?"
+  },
+  {
+   "id": "0429:00517",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿００８Oh! ...I'm sorry.￥Right, of course."
+  },
+  {
+   "id": "0429:00560",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿００９Um... please don't laugh, okay?"
+  },
+  {
+   "id": "0429:0059F",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０１０It still doesn't feel real to me￥that I'm here as a candidate..."
+  },
+  {
+   "id": "0429:0060C",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０１１Me, someone who'd never even￥seen the stars up close...＝＠１７６＿０１２Far from home and from Sophia,￥looking at the stars out here...￥It feels so strange."
+  },
+  {
+   "id": "0429:006B5",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０１３The candidates gathered here￥are all such amazing people,￥aren't they?＝＠１７６＿０１４They all have what it takes￥to be chosen..."
+  },
+  {
+   "id": "0429:00760",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０１５And me...＝＠１７６＿０１６Lately, all I do is fail..."
+  },
+  {
+   "id": "0429:007BE.0",
+   "choice": true,
+   "en": "Don't take it so hard."
+  },
+  {
+   "id": "0429:007BE.1",
+   "choice": true,
+   "en": "A mental block, maybe?"
+  },
+  {
+   "id": "0429:007F6.0",
+   "choice": true,
+   "en": "Don't take it so hard."
+  },
+  {
+   "id": "0429:007F6.1",
+   "choice": true,
+   "en": "Aren't you overthinking?"
+  },
+  {
+   "id": "0429:00832",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０１７You're... right.＝＠１７６＿０１８Maybe it goes wrong because I￥keep thinking it'll go wrong?"
+  },
+  {
+   "id": "0429:008B7",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０１９I have to be stronger...＝＠１７６＿０２０I still can't break this habit￥of touching my charm, either..."
+  },
+  {
+   "id": "0429:00937",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０２１Maybe... you're right."
+  },
+  {
+   "id": "0429:00976",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０２２I'm hopeless...￥I have to be stronger...＝＠１７６＿０２３I still can't stop myself from￥reaching for my charm..."
+  },
+  {
+   "id": "0429:00A05",
+   "end": "819000",
+   "en": "＊＊"
+  },
+  {
+   "id": "0429:00A19",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０２４This pendant is￥my good-luck charm.＝＠１７６＿０２５My grandmother worried I was too￥shy and gave it to me, saying,￥\"This will make you strong.\"＝＠１７６＿０２６It's plain, almost￥like a toy, but...＝＠１７６＿０２７Even so, it really helps me￥a lot, you know."
+  },
+  {
+   "id": "0429:00B4D.0",
+   "choice": true,
+   "en": "Like what, for example?"
+  },
+  {
+   "id": "0429:00B4D.1",
+   "choice": true,
+   "en": "Does it really work?"
+  },
+  {
+   "id": "0429:00B7B.0",
+   "choice": true,
+   "en": "Like what, for example?"
+  },
+  {
+   "id": "0429:00B7B.1",
+   "choice": true,
+   "en": "Strong in what way?"
+  },
+  {
+   "id": "0429:00BB1",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０２８Let's see...＝＠１７６＿０２９When I'm anxious, touching it￥calms me down, strangely enough.＝＠１７６＿０３０It makes me feel like maybe I￥can manage, even when things￥are hard..."
+  },
+  {
+   "id": "0429:00C95",
+   "end": "818400",
+   "en": "＊Tomoe＊＠１７６＿０３１I can't really explain it...＝＠１７６＿０３２But even when I'm scared,￥touching it gives me the courage￥to try."
+  },
+  {
+   "id": "0429:00D31",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠２０８＿００１Until now, as long as I had￥this pendant, I could somehow￥cope...＝＠２０８＿００２But now..."
+  },
+  {
+   "id": "0429:00DC6",
+   "end": "818400",
+   "en": "＊Tomoe＊＠２０８＿００３I wonder how everyone else￥handles it...＝＠２０８＿００４We're part of such a big￥project, after all...＝＠２０８＿００５I'm sure they're all under huge￥pressure too, and working hard."
+  },
+  {
+   "id": "0429:00EB4.0",
+   "choice": true,
+   "en": "It's you vs. yourself."
+  },
+  {
+   "id": "0429:00EB4.1",
+   "choice": true,
+   "en": "You just do your best."
+  },
+  {
+   "id": "0429:00EE2.0",
+   "choice": true,
+   "en": "A battle with yourself?"
+  },
+  {
+   "id": "0429:00EE2.1",
+   "choice": true,
+   "en": "Just do your best, then."
+  },
+  {
+   "id": "0429:00F16",
+   "end": "818400",
+   "en": "＊Tomoe＊＠２０８＿００６Yes... I suppose so.＝＠２０８＿００７But I don't have the strength￥to fight that fight.＝＠２０８＿００８I know that myself.￥That's why I get so anxious..."
+  },
+  {
+   "id": "0429:00FDE",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠２０８＿００９I used to think so too. If I￥worked hard, it'd all work out.＝＠２０８＿０１０I really believed that, but..."
+  },
+  {
+   "id": "0429:0106F",
+   "end": "818400",
+   "en": "＊Tomoe＊...＝＠２０８＿０１１In the end... this is something￥I'll have to solve on my own,￥isn't it?"
+  },
+  {
+   "id": "0429:010D6",
+   "end": "818400",
+   "en": "＊Tomoe＊＠２０８＿０１２I'm sorry for making you listen￥to my silly problems.＝＠２０８＿０１３But talking to you... made me￥feel a little better."
+  },
+  {
+   "id": "0429:01171",
+   "end": "818400",
+   "en": "＊Tomoe＊＠２０８＿０１４And also...＝＠２０８＿０１５I've never... told anyone about￥this pendant before.＝＠２０８＿０１６It felt childish, and I was￥embarrassed..."
+  },
+  {
+   "id": "0429:01232",
+   "end": "818400",
+   "en": "＊Tomoe＊＠２０８＿０１７But you didn't laugh... you￥listened seriously...＝＠２０８＿０１８Thank you."
+  }
+ ]
+}

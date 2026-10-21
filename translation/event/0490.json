@@ -1,0 +1,131 @@
+{
+ "entry": 490,
+ "kind": "event",
+ "rows": [
+  {
+   "id": "0490:0001F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿００８What are you spacing out for?!￥So I came to your room. No need￥to look so shocked, is there?!"
+  },
+  {
+   "id": "0490:00098",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿００９Say, looks like you really￥worked hard this time!＝＠１０８＿０１０Your scores totally surprised￥me! Who knew you were the￥slow-and-steady type?"
+  },
+  {
+   "id": "0490:0013D",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１１Come on! I'm actually￥complimenting you! Quit standing￥there. Say something!"
+  },
+  {
+   "id": "0490:001A1.0",
+   "choice": true,
+   "en": "Well, I expected it."
+  },
+  {
+   "id": "0490:001A1.1",
+   "choice": true,
+   "en": "I wasn't really trying."
+  },
+  {
+   "id": "0490:001D5.0",
+   "choice": true,
+   "en": "Well, I expected it."
+  },
+  {
+   "id": "0490:001D5.1",
+   "choice": true,
+   "en": "I wasn't really trying."
+  },
+  {
+   "id": "0490:0020B",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１２Hmph. Pretty full of yourself."
+  },
+  {
+   "id": "0490:00244",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１３Well, that's fine. It makes you￥more fun to compete with!"
+  },
+  {
+   "id": "0490:0029C",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１４Scores like that without trying?￥That's pretty impressive!"
+  },
+  {
+   "id": "0490:002E1",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１５I guess all that serious￥training is finally paying￥off, huh?"
+  },
+  {
+   "id": "0490:0034E",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１６Looks like I underestimated￥you a little until now!"
+  },
+  {
+   "id": "0490:003A1",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１７Keep scores like this up, and￥someday you might even make it￥onto my rival list!"
+  },
+  {
+   "id": "0490:00421.0",
+   "choice": true,
+   "en": "What's that?"
+  },
+  {
+   "id": "0490:00421.1",
+   "choice": true,
+   "en": "I'd rather not be on it."
+  },
+  {
+   "id": "0490:0044D.0",
+   "choice": true,
+   "en": "What's that?"
+  },
+  {
+   "id": "0490:0044D.1",
+   "choice": true,
+   "en": "Not interested."
+  },
+  {
+   "id": "0490:00477",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１８It's a list of everyone I've￥accepted as a rival."
+  },
+  {
+   "id": "0490:004D2",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０１９It's not on a computer or￥anything, though. It's just up￥here, in my head!"
+  },
+  {
+   "id": "0490:00540",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２０Oh, what am I saying?!￥It's not like you've made the￥list yet or anything!"
+  },
+  {
+   "id": "0490:005A9",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２１Don't worry. One lucky score￥isn't nearly enough to get you￥on it!"
+  },
+  {
+   "id": "0490:00614",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２２Personally, if you can just keep￥your scores where they are..."
+  },
+  {
+   "id": "0490:0066F",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２３you'd be worth competing with,￥and I'd kind of like that!"
+  },
+  {
+   "id": "0490:006C0",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２４But that's just how I feel.￥You work hard for your own￥sake, got it?!"
+  },
+  {
+   "id": "0490:00729",
+   "end": "818400",
+   "en": "＊Riko＊＠１０８＿０２５Well then,￥see you at training!"
+  }
+ ]
+}
