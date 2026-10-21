@@ -124,8 +124,15 @@ def main(work, textdir, orig_bin, out):
     orig_tables = {k: indexed.table_start(orig_ents[k].rstrip(b'\0')) for k in indexed.MOVES}
     gp = os.path.join(stage, 'disc', 'GAME/GAME.BIN')
     g, n = indexed.patch_game_bin(open(gp, 'rb').read(), orig_tables)
-    open(gp, 'wb').write(g)
     print(f'GAME.BIN: {n} table addresses moved for {len(indexed.MOVES)} indexed files')
+    # Talk screen R2 help: sprite list of the English labels (goes with the 0514 menu atlas cells;
+    # see tools/help_labels.py)
+    import help_labels
+    g2 = help_labels.patch_game(g, os.path.join(textdir, 'tables', 'GAME_BIN_help.json'))
+    assert len(g2) == len(g)
+    g = g2
+    open(gp, 'wb').write(g)
+    print('GAME.BIN: Talk help sprite list patched')
     new_ents, _ = ins.unpack_archive(open(new_output, 'rb').read())
     probs = indexed.verify(g, new_ents)
     if probs:

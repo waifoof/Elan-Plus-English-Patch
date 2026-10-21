@@ -5,7 +5,7 @@
 script: comma-separated steps, e.g. "600,shot,START*10,300,shot,X*5,200,shot"
   N        run N frames with no buttons
   BTN*N    hold BTN for N frames then release for N frames
-           (BTN: A B X Y START SELECT UP DOWN LEFT RIGHT L R  -- libretro ids,
+           (BTN: A B X Y START SELECT UP DOWN LEFT RIGHT L R L2 R2 L3 R3 -- libretro ids,
             on PS1: B=Cross, A=Circle, Y=Square, X=Triangle)
   shot     save a PNG of the current frame
 """
@@ -21,7 +21,7 @@ RETRO_ENV_GET_LOG_INTERFACE = 27
 RETRO_ENV_GET_CORE_OPTIONS_VERSION = 52
 
 IDS = {'B': 0, 'Y': 1, 'SELECT': 2, 'START': 3, 'UP': 4, 'DOWN': 5, 'LEFT': 6, 'RIGHT': 7,
-       'A': 8, 'X': 9, 'L': 10, 'R': 11}
+       'A': 8, 'X': 9, 'L': 10, 'R': 11, 'L2': 12, 'R2': 13, 'L3': 14, 'R3': 15}
 
 
 class GameInfo(C.Structure):

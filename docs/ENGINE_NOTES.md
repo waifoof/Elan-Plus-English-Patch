@@ -14,6 +14,7 @@ changes them. Offsets are hexadecimal; "entry NNNN" means entry NNNN (decimal) o
 - [Pointer-indexed files: mail and conversations](#pointer-indexed-files-mail-and-conversations)
 - [Graphics](#graphics)
 - [Movies](#movies)
+- [Talk help overlay (R2)](#talk-help-overlay-r2)
 - [Staff roll](#staff-roll)
 - [Extras](#extras)
 - [Game state, partners and endings](#game-state-partners-and-endings)
@@ -201,7 +202,7 @@ size. (An earlier 5x10 pixel font stretched to the box height looked rough.)
 | Where | Contents | Tool |
 |---|---|---|
 | 0514 @ `0x17AB4`, 0847 @ `0x220` | 4bpp UI atlas: location labels, name tags, stats, "Send" tag | `labels.py` |
-| 0514 @ `0x1F4D4` (VRAM x=768 words, y=256; 246 rows) | facility menu atlas: Rest, Load, Save, Rapport, Leave, Send Mail, Exam Info, Talk, Start Training, Cancel, Solo, Joint, "for Help", Candidates, Exam Results, Weekly Results, Results, Mood, Show, Okay, Shift | `labels.py` |
+| 0514 @ `0x1F4D4` (VRAM x=768 words, y=256; 246 rows) | facility menu atlas: Rest, Load, Save, Rapport, Leave, Send Mail, Exam Info, Talk, Start Training, Cancel, Solo, Joint, "for Help", Candidates, Exam Results, Weekly Results, Results, Mood, Show, Okay, Shift; the Talk help word cells | `labels.py`, `help_labels.py` (see [Talk help overlay](#talk-help-overlay-r2)) |
 | 0538 @ 0, 0519 @ `0x8234` | options/prompt atlas: "Choose a destination", mail prompts, Yes/No, Extras, Interviews, Partner Select, Quit | `tim_labels.py` |
 | 0997 (8bpp) | name-entry screen | `tim_labels.py` |
 | 0995 (8bpp) | gender and confirmation prompts | `tim_labels.py` |
@@ -257,7 +258,6 @@ The game's sprite windows don't always match the old glyph extents. Measured exa
 
 ### Left as they are
 
-- A few single-kanji fragments on the mood panel (their composition is unknown).
 - "POINTS", stacked as POI/NTS in the results tables, is the original game's own English art (0870).
 - The day-change card's "Wednes day" and "Time to the Final test" are also original English art.
 
@@ -293,6 +293,41 @@ the `-Werror` flag removed. It indexes the file and re-encodes only the changed 
 - `TEST09` is different: the card assembles from flying "WARNING" tiles from about frame 193, and
   the Japanese title is drawn above the tiles. `tiles9()` treats the card as static under the tiles,
   matches card pixels per tile and paints out leftover white title pixels.
+
+## Talk help overlay (R2)
+
+- On the Talk screen, **holding** R2 (the "R2 HELP" icon above the mood panel) shows labels with
+  leader lines that explain the panel. It is shown only while R2 is held, and only on this screen:
+  the room, map, facility, bed menu and mail screens have no R2 help.
+- The labels are a sprite list in `GAME/GAME.BIN` at `0x2F974` (RAM `0x8009F974`; `GAME.BIN` and
+  `SIKEN.BIN` are loaded at `0x80070000`, so RAM = `0x80070000` + file offset). Layout as in the
+  staff-roll table: a u32 count (51), then 12-byte sprites `u8 u, u8 v, u8 x, u8 y | u16 clut,
+  u16 tpage | u16 w, u16 h`. The one-sprite list just before it (`0x2F964`) is the "HELP" label.
+- Drawing routine `0x80014360(x, y, list, prim buffer, OT slot)`, called from `0x800795E0` while the
+  flag at `*(0x801C9DE0) + 2` is set. It reads the count from the list, so a list can be made
+  shorter. It builds textured quads: tpage bit `0x4000` mirrors a sprite horizontally (the closing
+  parentheses are the opening one mirrored), bit `0x8000` vertically; clut bit `0x8000` turns on
+  semi-transparency. `u + w` is stored in a byte, so it must stay below 256. The leader lines are
+  separate line primitives (not in the list).
+- Sprites 0-46 were text in the 0514 menu atlas (tpage `0x3C` = VRAM 768,256; CLUT `0x3EBC` =
+  VRAM 960,250, a grey ramp: 1 near-black ... 14 near-white, glyphs white with a dark outline on a
+  transparent ground). They were word and single-kana fragments, several of them shared with the
+  mood panel and menus (気分, 普通, 表示, 変化, 好感度, 育成結果, 段階内), which is why redrawing those
+  cells in English gave mixed lines such as "Rapport レベル (6 Stag)". Sprites 47-50 are the four
+  coloured arcs of the mood legend (CLUT `0x3C7C`).
+- The fragments used only by this overlay are the block u48-127 v112-175 of the menu atlas
+  (ゲージ 振 切ると / レベル 哀しい / 赤 怒 緑 青 黄 / 楽 が によ ６ （ ８ り); no other sprite list in the
+  code modules or `OUTPUT.BIN` points there. u0-47 v165-206 is empty in the original atlas.
+- `help_labels.py` (run after `labels.py`) clears that block and draws 16 English word cells there
+  and in the empty area (Carlito Bold 11, hinted, white with a 1-px dark outline; words used on
+  several lines share a cell), then writes a new 37-sprite list: the English lines word by word,
+  the original ▲/▼ sprites, the four arcs. The colour kanji on the arcs are dropped (the arcs show
+  the colours) and the legend uses the panel's own mood words (Normal, Anger, Sad, Happy). The list
+  goes to `work/text/tables/GAME_BIN_help.json`; `build_patch.py` applies it to `GAME.BIN` after the
+  pointer-table step.
+- Leader lines on screen: y36 x64-215 (under line 1), y60 x48-216 (between "Rapport gauge" and its
+  note), y104 x24-243 (under "Mood gauge"), y209 x128-255 (under "Mood level"), and a vertical line
+  at x≈257. Text is kept above or below them and left of the diagonals to the panel.
 
 ## Staff roll
 
@@ -349,7 +384,8 @@ the `-Werror` flag removed. It indexes the file and re-encodes only the changed 
 - `vramfind.py` finds the disc file behind a VRAM rectangle from a save state; `timzoom.py` renders a
   zoomed TIM crop with pixel rulers.
 - `headless.py` is a minimal headless libretro front end (with the PCSX-ReARMed core) for automated
-  screenshots of patched builds.
+  screenshots of patched builds. Buttons include L2/R2/L3/R3 (libretro ids 12-15); the Talk help
+  needs R2 held while the screenshot is taken.
 - `xdelta3` with a 1 GB source window can be killed for memory inside `build_patch.py`; run it on
   its own and verify by applying the patch (`-d`) and comparing with `cmp`.
 
@@ -369,6 +405,6 @@ the `-Werror` flag removed. It indexes the file and re-encodes only the changed 
 | `jptext.py` | Strip the Japanese from the JSON for the repository, and fill it back in from a disc. |
 | `validate.py`, `check_en.py` | Check rows against the original's markup and the box limits; check the English-only files (CI). |
 | `rewrap.py`, `fix_raw.py`, `show.py`, `setrows.py` | Text helpers: re-wrap lines, restore dropped `{XX}` tokens, print a file's rows, apply a mapping of translations. |
-| `labels.py`, `tim_labels.py`, `extras_labels.py`, `credits_labels.py`, `timtool.py`, `fontpath.py` | Redrawn graphics and TIM handling. |
+| `labels.py`, `tim_labels.py`, `help_labels.py`, `extras_labels.py`, `credits_labels.py`, `timtool.py`, `fontpath.py` | Redrawn graphics and TIM handling. |
 | `movies.py`, `str_captions.py`, `exam_cards.py` | Movie re-encoding. |
 | `headless.py`, `vram_paint.py`, `vramfind.py`, `timzoom.py`, `mipsdis.py` | Testing and reverse-engineering helpers (`mipsdis.py`: a minimal R3000A disassembler and PS-X EXE loader). |

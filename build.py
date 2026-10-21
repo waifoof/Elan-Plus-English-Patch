@@ -9,7 +9,7 @@ Steps (each one's results go under work/, which is never committed):
   1. dump      dumpsxiso: the disc's files -> work/disc, work/disc.xml
   2. unpack    GAME/OUTPUT.BIN -> work/arc/OUTPUT/NNNN.bin
   3. text      translation/*.json + the Japanese read back from the disc -> work/text/<kind>/*.json
-  4. graphics  redraw the English labels, extras, staff roll -> work/text/bin, elanplus, tables
+  4. graphics  redraw the English labels, Talk help, extras, staff roll -> work/text/bin, elanplus, tables
   5. movies    prologue captions and exam title cards (needs Java + jPSXdec) -> work/text/movie
   6. check     validate every translated row against the original's markup and box limits
   7. patch     build the English disc and the xdelta patch -> out/
@@ -103,7 +103,7 @@ def py(script, *args):
 
 
 def step_graphics(work):
-    say('graphics', 'labels, prompts, extras, staff roll')
+    say('graphics', 'labels, prompts, Talk help, extras, staff roll')
     arc, text, disc = os.path.join(work, 'arc', 'OUTPUT'), os.path.join(work, 'text'), os.path.join(work, 'disc')
     out = os.path.join(text, 'bin')
     os.makedirs(out, exist_ok=True)
@@ -114,6 +114,9 @@ def step_graphics(work):
     os.makedirs(os.path.join(text, 'tables'), exist_ok=True)
     py('credits_labels.py', arc, out, '-', os.path.join(disc, 'GAME', 'SIKEN.BIN'),
        os.path.join(text, 'tables', 'SIKEN_BIN_credits.json'))
+    # after labels.py: redraws the Talk screen's R2 help labels in the 0514 menu atlas that labels.py wrote
+    py('help_labels.py', arc, out, '-', os.path.join(disc, 'GAME', 'GAME.BIN'),
+       os.path.join(text, 'tables', 'GAME_BIN_help.json'))
 
 
 def step_movies(work):

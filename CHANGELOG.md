@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Talk screen: the help shown while holding R2 (the labels around the mood panel) is now all English.
+  It was a mix of English words and leftover Japanese pieces ("Rapport レベル (6 Stag)"); every label
+  is redrawn and the colour key reads Normal / Anger / Sad / Happy, as on the panel.
+
 ## v1.0.1
 
 - A last full polish pass over every line (952 text blocks touched): awkward line breaks and lone

@@ -93,7 +93,7 @@ can be run on its own, e.g. `python3 build.py --disc ... graphics`. `prepare` ru
 | 1 | `dump` | Extracts the disc's files with dumpsxiso. Skipped if already done (delete `work/` to redo). | `work/disc/`, `work/disc.xml` |
 | 2 | `unpack` | Splits the game's main archive `GAME/OUTPUT.BIN` into its entries. | `work/arc/OUTPUT/NNNN.bin` |
 | 3 | `text` | Combines `translation/*/*.json` with the Japanese read back from the disc, so every row has its source line next to the English. | `work/text/{event,mk,rec,code}/*.json` |
-| 4 | `graphics` | Redraws the English labels and prompts, the Extras screens and the staff roll, using the fonts in `fonts/`. | `work/text/bin/`, `work/text/elanplus/ELANPLUS.BIN`, `work/text/tables/SIKEN_BIN_credits.json` |
+| 4 | `graphics` | Redraws the English labels and prompts, the Talk screen help (R2), the Extras screens and the staff roll, using the fonts in `fonts/`. | `work/text/bin/`, `work/text/elanplus/ELANPLUS.BIN`, `work/text/tables/SIKEN_BIN_credits.json`, `work/text/tables/GAME_BIN_help.json` |
 | 5 | `movies` | Runs `tools/movies.py`: re-encodes the prologue (`PR.STR`, English captions) and the nine exam title cards (`TEST01`-`TEST09.STR`) with jPSXdec. Needs Java; takes about 3 minutes and about 400 MB of temporary space (`work/movie_tmp/`, deleted afterwards). Skipped if already done. | `work/text/movie/*.STR` |
 | 6 | `check` | Validates every translated row against the original's markup and the text-box limits. The build stops on any problem. | (nothing) |
 | 7 | `patch` | Inserts the text and graphics, rebuilds the disc with mkpsxiso and makes the xdelta. | `out/` |

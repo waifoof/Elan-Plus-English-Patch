@@ -28,8 +28,6 @@ Everything listed here is cosmetic. None of it affects play.
 
 ## Not translated
 
-- A few small single-kanji graphic pieces that look like a colour key for the mood gauge. The screen
-  that uses them could not be reached in testing, so they were left as they are.
 - The kana grid on the name-entry screen. It is the Japanese input keyboard; use the Alphabet tab.
 
 ## Not tested
