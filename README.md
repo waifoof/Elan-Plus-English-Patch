@@ -1,6 +1,6 @@
 # Élan Plus — English Translation
 
-An unofficial, complete English fan translation of **Élan Plus** (エランプラス), the training and
+An unofficial, complete English fan translation (machine translated with AI, see below) of **Élan Plus** (エランプラス), the training and
 communication simulation by VISCO for the PlayStation (2000, SLPS-02759). You are one of nine
 candidates on Station Alpha competing for the two places on the expedition to the planet Elan: over
 24 weeks you train, sit monthly exams, send mail and get to know the other candidates, and at the
@@ -17,6 +17,14 @@ game data.
 </p>
 
 More screenshots are in [docs/screenshots](docs/screenshots).
+
+> **Machine translation / AI disclosure.** This is an AI-made translation. The English was produced by
+> machine translation with an AI model (Anthropic's Claude), then revised over several rounds of
+> AI-assisted editing (accuracy against the Japanese, clarity, consistency, character voice) and checked by
+> AI-driven play-testing in an emulator. The tools, redrawn graphics and documentation were also written
+> with AI assistance, under the direction of waifoof. It has not been reviewed line by line by a fluent
+> human translator, so some lines may be inaccurate or miss nuance. Corrections from Japanese speakers are
+> very welcome; see [Contributing](#contributing).
 
 ## Status
 
@@ -108,11 +116,14 @@ and the [engine notes](docs/ENGINE_NOTES.md) for how the game works.
 
 ## Contributing
 
-Bug reports and text fixes are very welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Bug reports and text fixes are very welcome, especially from Japanese speakers who can check the
+machine translation against the original. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Credits
 
-- **Translation:** waifoof
+- **Project and direction:** waifoof
+- **Translation, editing, tools and testing:** AI-assisted (Anthropic's Claude), directed by waifoof; see the
+  disclosure above
 - **Original game:** VISCO Corporation (2000)
 - **Tools used:** [jPSXdec](https://github.com/m35/jpsxdec) (movie re-encoding),
   [mkpsxiso / dumpsxiso](https://github.com/Lameguy64/mkpsxiso) (disc extraction and rebuilding),

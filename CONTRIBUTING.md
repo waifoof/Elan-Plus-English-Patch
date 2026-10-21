@@ -3,6 +3,10 @@
 Thanks for helping improve the Élan Plus translation. Bug reports, text fixes and corrections
 (especially to the staff-roll names) are all welcome.
 
+The translation was made with AI machine translation and AI-assisted editing (see the README), so
+reports of mistranslations, lines that miss the original's meaning or tone, and better wording from
+people who read Japanese are especially valuable.
+
 ## Reporting a problem
 
 [Open an issue](https://github.com/waifoof/Elan-Plus-English-Patch/issues/new/choose) and pick
