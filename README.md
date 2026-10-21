@@ -20,7 +20,7 @@ More screenshots are in [docs/screenshots](docs/screenshots).
 
 ## Status
 
-**v1.0.1 — complete.** Everything in the game is in English:
+**v1.0.2 — complete.** Everything in the game is in English:
 
 - All 230 story scenes and every choice, on both the male and the female player route.
 - All free-roam conversations with the candidates (48 files) and their goodbye lines.

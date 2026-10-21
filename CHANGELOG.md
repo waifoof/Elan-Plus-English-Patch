@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v1.0.2
 
 - Talk screen: the help shown while holding R2 (the labels around the mood panel) is now all English.
   It was a mix of English words and leftover Japanese pieces ("Rapport レベル (6 Stag)"); every label

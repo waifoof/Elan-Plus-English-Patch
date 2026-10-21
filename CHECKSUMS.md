@@ -13,15 +13,15 @@
 A Redump database entry for this title could not be confirmed. If your dump's checksums differ, the
 patch will refuse to apply or produce a broken image.
 
-## Patched result (v1.0.1)
+## Patched result (v1.0.2)
 
 | | |
 |---|---|
 | File | `ElanPlus_EN.bin` |
 | Size | 627,501,840 bytes |
-| CRC32 | `614BC548` |
-| MD5 | `f7a07c91d72c594c8f4ce0af63d28781` |
-| SHA-1 | `745d6afe4d1a84a07da14378e0173965941c9fab` |
+| CRC32 | `69164B7E` |
+| MD5 | `7f5b56b2c4e06fd51c52b9578156c57f` |
+| SHA-1 | `0812ed591a540b71a7debb536c786696adf3b8f9` |
 
 Both applying the release patch and [building from source](docs/BUILDING.md) should give exactly
 this file.

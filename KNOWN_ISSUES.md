@@ -1,4 +1,4 @@
-# Known issues (v1.0.1)
+# Known issues (v1.0.2)
 
 Everything listed here is cosmetic. None of it affects play.
 
